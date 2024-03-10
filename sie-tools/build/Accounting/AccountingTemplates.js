@@ -28,7 +28,7 @@ const executeTemplate = (template, data) => {
     verification = {
         type: template.voucherSeries,
         date: data.date,
-        description: template.description,
+        description: (0, evaluateExpression_1.substitueArgument)(template.description, data),
         dateEntered: data.date,
         items: []
     };

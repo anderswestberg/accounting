@@ -6,6 +6,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const promises_1 = __importDefault(require("fs/promises"));
 const Accounting_1 = require("./Accounting");
 const AccountingTemplates_1 = require("./Accounting/AccountingTemplates");
+const xmldom_1 = require("xmldom");
+global.DOMParser = xmldom_1.DOMParser;
 const main = async () => {
     const accountingTemplates = await (0, AccountingTemplates_1.getAccountingTemplates)();
     const plainTextVerifications = await (0, Accounting_1.createVerificationsWithPlainTextAccountNames)('../DiginetAktiebolag BF 2022.se');

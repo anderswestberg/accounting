@@ -10,6 +10,17 @@ const addYear = (yearFrom: string, value: number) => {
     return year.toString() + yearFrom.substring(4)
 }
 
+function formatNumberWithDecimals(num: number): string {
+    // Check if the number is a whole number
+    if (num % 1 === 0) {
+        // If it's a whole number, format with zero decimals
+        return num.toFixed(0);
+    } else {
+        // If it has decimals, format with two decimals
+        return num.toFixed(2);
+    }
+}
+
 export const writeSie = async (fileNameBase: string, vers: Verification[], firstDay: string = '0901', lastDay: string = '0831') => {
     let datestrFrom: string = ''
     let datestrTo: string = ''
@@ -62,7 +73,7 @@ export const writeSie = async (fileNameBase: string, vers: Verification[], first
             sieData += `\r\n#VER ${ver.type} ${verNumber} ${formatDateYYYYMMDD(ver.date)} "${ver.description}" ${formatDateYYYYMMDD(accountingDate)}\r\n`
             sieData += '{\r\n'
             for (let item of ver.items) {
-                sieData += `#TRANS ${item.account} {} ${item.amount} "" "${item.description}" 0\r\n`
+                sieData += `#TRANS ${item.account} {} ${formatNumberWithDecimals(item.amount)} "" "${item.description}" 0\r\n`
             }
             sieData += '}'
             verNumber++

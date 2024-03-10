@@ -1,7 +1,7 @@
 import { Verify } from 'crypto'
 import fsp from 'fs/promises'
 import { Verification, VerificationItem } from './Verification'
-import { evaluateExpression } from '../evaluateExpression'
+import { evaluateExpression, substitueArgument } from '../evaluateExpression'
 
 export type AccountingTemplate = {
     code: string
@@ -47,7 +47,7 @@ export const executeTemplate = (template: AccountingTemplate, data: AccountingTe
     verification = {
         type: template.voucherSeries,
         date: data.date,
-        description: template.description,
+        description: substitueArgument(template.description, data),
         dateEntered: data.date,
         items: []
     }

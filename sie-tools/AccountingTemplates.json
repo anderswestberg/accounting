@@ -19,6 +19,54 @@
         "voucherDescription": "F-skatt"
     },
 	{
+        "code": "kundfaktura",
+        "description": "Kundfaktura {$invoice}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1510,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 3001,
+                "transactionInformation": "",
+                "formula": "-0.8*{$total}"
+            },
+            {
+                "account": 2611,
+                "transactionInformation": "",
+                "formula": "-0.2*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "lev-faktura",
+        "description": "Leverantörsfaktura {$customer}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2440,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 2641,
+                "transactionInformation": "",
+                "formula": "-0.2*{$total}"
+            },
+            {
+                "account": 6090,
+                "transactionInformation": "",
+                "formula": "-0.8*{$total}"
+            }
+        ],
+        "voucherSeries": "D",
+        "voucherDescription": "F-skatt"
+    },
+	{
         "code": "lfakt tsp",
         "description": "Levfakt Transportstyrelsen",
         "dateField": "Datum",
@@ -203,30 +251,101 @@
 	{
         "accrualLf": false,
         "accrualBf": null,
-        "code": "1",
-        "description": "Ink\u00f6p av kontorsmateriel",
+        "code": "kortköp",
+        "description": "Inköp kort {$seller}",
         "type": "BF",
         "rows": [
             {
-                "account": 6110,
+                "account": 2892,
+                "costCenter": "Skuld SEB-kort",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 4531,
+                "costCenter": "Inköp utland",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 2614,
+                "costCenter": "Utgående moms omv",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-0.25*{$total}"
+            },
+            {
+                "account": 2645,
+                "costCenter": "Beräknad ing moms",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "0.25*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av kontorsmaterial"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "inköp privat",
+        "description": "Inköp {$seller}",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 2691,
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "{$total}*0.80"
+                "formula": "{$total}"
             },
             {
                 "account": 2641,
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "{$total}*0.20"
+                "formula": "{$total}*-0.20"
             },
             {
-                "account": 1930,
+                "account": 5410,
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-0.8*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av kontorsmaterial"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "lokalhyra",
+        "description": "Lokalhyra",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 5010,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.95"
+            },
+            {
+                "account": 6230,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.05"
+            },
+            {
+                "account": 2691,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -258,7 +377,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -290,7 +409,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -322,7 +441,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -354,7 +473,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -386,7 +505,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
@@ -471,7 +590,7 @@
                 "costCenter": "",
                 "projectFollowUpId": "",
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$total}"
             }
         ],
         "voucherSeries": "A",
