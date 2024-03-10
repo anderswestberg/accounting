@@ -1,0 +1,91 @@
+{
+  "Blad1": [
+    {
+      "Lönespecifikation": "Anders Westberg"
+    },
+    {
+      "Lönespecifikation": "Datum",
+      "__EMPTY": 45071
+    },
+    {
+      "Lönespecifikation": "Månadslön",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Tjänstledighet, sjukavdrag etc",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Bruttolön",
+      "__EMPTY": 7130
+    },
+    {
+      "Lönespecifikation": "Förmåner",
+      "__EMPTY": 6481,
+      "Diginet AB": "BHK73G (20VW156)"
+    },
+    {
+      "Lönespecifikation": "Underlag för skatteavdrag",
+      "__EMPTY": 13611
+    },
+    {
+      "Lönespecifikation": "Skatteavdrag",
+      "__EMPTY": 2130
+    },
+    {
+      "Lönespecifikation": "Reglering kostnader"
+    },
+    {
+      "Lönespecifikation": "Reglering skuld till AW",
+      "__EMPTY": 12500
+    },
+    {
+      "Lönespecifikation": "Reglering skuld till AW",
+      "__EMPTY": 3500
+    },
+    {
+      "Lönespecifikation": "Reglering privat kostnad"
+    },
+    {
+      "Lönespecifikation": "Retroaktiv lön",
+      "__EMPTY": 27142.857142857145
+    },
+    {
+      "Lönespecifikation": "Skatteavdrag retr. Lön, 30%",
+      "__EMPTY": 8142.857142857143
+    },
+    {
+      "Lönespecifikation": "Netto",
+      "__EMPTY": 40000,
+      "__EMPTY_1": 21000,
+      "Diginet AB": 40000
+    },
+    {
+      "Lönespecifikation": "Sjukdagar"
+    },
+    {
+      "Lönespecifikation": "Vård sjukt barn"
+    },
+    {
+      "Lönespecifikation": "Tjänstledighet, sjukavdrag etc"
+    },
+    {
+      "Lönespecifikation": "Ingående saldo",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Utgående saldo",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Ackumulerad bruttolön / förmåner",
+      "__EMPTY": 319199.85714285716,
+      "__EMPTY_1": 51026
+    },
+    {
+      "Lönespecifikation": "Ackumulerat skatteavdrag",
+      "__EMPTY": 98969.85714285714,
+      "__EMPTY_1": " "
+    }
+  ]
+}

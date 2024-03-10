@@ -1,0 +1,150 @@
+{
+  "Sheet1": [
+    {
+      "Nr": "Datum",
+      "2022-022": 44818
+    },
+    {
+      "Nr": "Förfallodatum",
+      "2022-022": 44828
+    },
+    {
+      "__EMPTY": "Leveransadress",
+      "Faktura": "Postadress"
+    },
+    {
+      "Faktura": "Profcon AB"
+    },
+    {
+      "Faktura": "Victor Hasselblads gata 9"
+    },
+    {
+      "Faktura": "421 31  Västra Frölunda"
+    },
+    {
+      "__EMPTY_3": " "
+    },
+    {
+      "__EMPTY": "Er referens",
+      "__EMPTY_2": "Er order",
+      "__EMPTY_3": "Vår referens",
+      "Nr": "Betalningsvillkor"
+    },
+    {
+      "__EMPTY": "Micael Andersson",
+      "__EMPTY_3": "Anders Westberg",
+      "Nr": 10,
+      "2022-022": "dagar netto"
+    },
+    {
+      "2022-022": "Dröjsmålsränta 8%"
+    },
+    {
+      "__EMPTY": "Benämning",
+      "__EMPTY_4": "Antal",
+      "Nr": "a´-pris",
+      "2022-022": "Belopp SEK"
+    },
+    {
+      "__EMPTY": "Utveckling Smoke Edit, web-API-server T03 mm",
+      "__EMPTY_4": 200,
+      "Nr": 975,
+      "2022-022": 195000
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "__EMPTY_1": "Planerad tid oktober-december 2022",
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "2022-022": 0
+    },
+    {
+      "__EMPTY": "Netto",
+      "__EMPTY_1": "Frakt",
+      "__EMPTY_2": "Totalt",
+      "__EMPTY_3": "Moms %",
+      "Faktura": "Moms ",
+      "__EMPTY_4": "Öresutj.",
+      "2022-022": "Att betala SEK"
+    },
+    {
+      "__EMPTY": 195000,
+      "__EMPTY_1": 0,
+      "__EMPTY_2": 195000,
+      "__EMPTY_3": 25,
+      "Faktura": 48750,
+      "__EMPTY_4": 0,
+      "2022-022": 243750
+    },
+    {
+      "__EMPTY": "Adress",
+      "__EMPTY_2": "Telefon",
+      "Faktura": "Bankgiro",
+      "Nr": "Org.nr."
+    },
+    {
+      "__EMPTY": "Diginet AB",
+      "__EMPTY_2": "0300-564012",
+      "Faktura": "5847-0790",
+      "Nr": "556466-2699 (F-skatt)"
+    },
+    {
+      "__EMPTY": "Gathes väg 80",
+      "__EMPTY_2": "Telefax",
+      "Nr": "VAT"
+    },
+    {
+      "__EMPTY": "439 36 ONSALA",
+      "__EMPTY_2": "0300-564013",
+      "Nr": "SE556466269901"
+    }
+  ]
+}

@@ -1,0 +1,2738 @@
+[
+  {
+    "series": "A",
+    "text": "Digital Ocean FA 428741943; 50 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-444"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "444"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-111"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "111"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Linode, 55 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-488.4"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "488.4"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-122.1"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "122.1"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Gumroad, 162,67 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1439.21"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "1439.21"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-359.8"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "359.8"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Ränta skattekontot",
+    "trans": [
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-998"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-904"
+      },
+      {
+        "account": "8423",
+        "accountName": "Räntekostnader för skatter och avgifter",
+        "text": "",
+        "amount": "1902"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Kjell & Company",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1358.8"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "271.76"
+      },
+      {
+        "account": "5410",
+        "accountName": "Förbrukningsinventarier",
+        "text": "",
+        "amount": "1087.04"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "FA 2021-007/BRP Shipping",
+    "trans": [
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "16952"
+      },
+      {
+        "account": "3004",
+        "accountName": "Försäljning inom Sverige, momsfri",
+        "text": "",
+        "amount": "-16952"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Netlify, 24,19 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-214.5"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "214.5"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-53.63"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "53.63"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "SKV",
+    "trans": [
+      {
+        "account": "2518",
+        "accountName": "Betald F-skatt",
+        "text": "F-skatt",
+        "amount": "2611"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "F-skatt",
+        "amount": "-2611"
+      },
+      {
+        "account": "6992",
+        "accountName": "Övriga externa kostnader, ej avdragsgilla",
+        "text": "Förseningsavg",
+        "amount": "625"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "Förseningsavg",
+        "amount": "-625"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Microsoft Business 365",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-109.2"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "109.2"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-27.3"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "27.3"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "HP instant",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-49"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "9.8"
+      },
+      {
+        "account": "6110",
+        "accountName": "Kontorsmateriel",
+        "text": "",
+        "amount": "39.2"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Vitalwerks internet, 24,95 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-222.25"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "222.25"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-55.56"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "55.56"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "FA 2021-009/Enera",
+    "trans": [
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "133047"
+      },
+      {
+        "account": "1790",
+        "accountName": "Övriga förutbetalda kostnader och upplupna intäkter",
+        "text": "",
+        "amount": "-106438"
+      },
+      {
+        "account": "2611",
+        "accountName": "Utgående moms på försäljning inom Sverige, 25 %",
+        "text": "",
+        "amount": "-26609"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "npm Inc, 21 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-187.07"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "187.07"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-46.77"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "46.77"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Freepik, 9,99 EUR",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-104.16"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "104.16"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-26.04"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "26.04"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Bet FA 2021-007/BRP Shipping",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "16952"
+      },
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "-16952"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Förseningsavg SKV",
+    "trans": [
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-625"
+      },
+      {
+        "account": "6992",
+        "accountName": "Övriga externa kostnader, ej avdragsgilla",
+        "text": "",
+        "amount": "625"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "CircleCi, 30 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-266.61"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "266.61"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-66.65"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "66.65"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Lön Anders, bil 6344 + 2912 = 9256 kr",
+    "trans": [
+      {
+        "account": "7220",
+        "accountName": "Löner till företagsledare",
+        "text": "",
+        "amount": "65974"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "-20974"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "2/9 uttag",
+        "amount": "-20000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "10/9 uttag",
+        "amount": "-5000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "14/9 uttag",
+        "amount": "-5000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "23/9 uttag",
+        "amount": "-5000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "30/9 uttag",
+        "amount": "-10000"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "SKV skd för aug-löner",
+    "trans": [
+      {
+        "account": "7510",
+        "accountName": "Arbetsgivaravgifter 31,42 %",
+        "text": "",
+        "amount": "19148"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "16688"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-35836"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "SEB banktjänster",
+    "trans": [
+      {
+        "account": "6570",
+        "accountName": "Bankkostnader",
+        "text": "",
+        "amount": "303"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-303"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Linode, 55 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-495.58"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "495.58"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-123.9"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "123.9"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Digital Ocean FA 429694644: 50 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-452.09"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "452.09"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-113.02"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "113.02"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Ränta skattekontot",
+    "trans": [
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-149"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-1370"
+      },
+      {
+        "account": "8423",
+        "accountName": "Räntekostnader för skatter och avgifter",
+        "text": "",
+        "amount": "1519"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Gumroad, 158,83 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1431.15"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "1431.15"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-357.79"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "357.79"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Netlify, 15 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-135.61"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "135.61"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-33.9"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "33.9"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Microsoft 365",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-899"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "179.8"
+      },
+      {
+        "account": "5420",
+        "accountName": "Programvaror",
+        "text": "",
+        "amount": "719.2"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "GitHub, 48 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-431.12"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "431.12"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-107.78"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "107.78"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Bet FA 2021-009/Enera",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "133047"
+      },
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "-133047"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "F-skatt",
+    "trans": [
+      {
+        "account": "2518",
+        "accountName": "Betald F-skatt",
+        "text": "",
+        "amount": "3489"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-3489"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "GitHub, 240 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-2134.12"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "2134.12"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-533.53"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "533.53"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "npm Inc, 21 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-186.73"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "186.73"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-46.68"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "46.68"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Freepik, 9,99 EUR",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-102.33"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "102.33"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-25.58"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "25.58"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Lön Anders, bil 9256 kr",
+    "trans": [
+      {
+        "account": "7220",
+        "accountName": "Löner till företagsledare",
+        "text": "",
+        "amount": "38418"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "-13418"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "4/10 uttag",
+        "amount": "-25000"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Bet leverantörer",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "14/10 Conrad",
+        "amount": "303"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "14/10 Conrad",
+        "amount": "-303"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "14/10 BMW Financial",
+        "amount": "3299"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "14/10 BMW Financial",
+        "amount": "-3299"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "14/10 del av SEB kort",
+        "amount": "3669.42"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "14/10 del av SEB kort",
+        "amount": "-3669.42"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "SEB banktjänster",
+    "trans": [
+      {
+        "account": "6570",
+        "accountName": "Bankkostnader",
+        "text": "",
+        "amount": "106"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-106"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "FA 2021-011/Enera",
+    "trans": [
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "67031"
+      },
+      {
+        "account": "3001",
+        "accountName": "Försäljning inom Sverige, 25 % moms",
+        "text": "",
+        "amount": "-53625"
+      },
+      {
+        "account": "2611",
+        "accountName": "Utgående moms på försäljning inom Sverige, 25 %",
+        "text": "",
+        "amount": "-13406"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Digital Ocean, 50 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-440.87"
+      },
+      {
+        "account": "5420",
+        "accountName": "Programvaror",
+        "text": "",
+        "amount": "352.7"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "88.17"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Digital Ocean, 26,23 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-231.29"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "231.29"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-57.82"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "57.82"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Linode 55 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-484.96"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "484.96"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-121.24"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "121.24"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Gumroad Inc, 158,38 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1392.15"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "1392.15"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-348.04"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "348.04"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "HP ",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-49"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "9.8"
+      },
+      {
+        "account": "6110",
+        "accountName": "Kontorsmateriel",
+        "text": "",
+        "amount": "39.2"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Oderland, FA 377743",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-286.25"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "57.25"
+      },
+      {
+        "account": "6540",
+        "accountName": "IT-tjänster",
+        "text": "",
+        "amount": "229"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Docker, 298,24 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-2651.91"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "2651.91"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-662.98"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "662.98"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Netlify, 15 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-132.27"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "132.27"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-33.07"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "33.07"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Harvest, 237,60 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-2095.25"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "2095.25"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-523.81"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "523.81"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Microsoft office",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-109.2"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "109.2"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-27.3"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "27.3"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Team Viewer",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-4355"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "4355"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-1088.75"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "1088.75"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "HP",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-49"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "9.8"
+      },
+      {
+        "account": "6110",
+        "accountName": "Kontorsmateriel",
+        "text": "",
+        "amount": "39.2"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "npm inc, 21 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-193.2"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "193.2"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-48.3"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "48.3"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Oderland, FA 381578",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-162.5"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "32.5"
+      },
+      {
+        "account": "6540",
+        "accountName": "IT-tjänster",
+        "text": "",
+        "amount": "130"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Freepik Comapny 9,99 EUR",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-103.2"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "103.2"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-25.8"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "25.8"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Intrum/Dustin",
+    "trans": [
+      {
+        "account": "6062",
+        "accountName": "Inkasso och KFM-avgifter",
+        "text": "",
+        "amount": "180"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "27.21"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-207.21"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Anders, bil 9256 kr",
+    "trans": [
+      {
+        "account": "7220",
+        "accountName": "Löner till företagsledare",
+        "text": "",
+        "amount": "74132"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "-24132"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "2/11",
+        "amount": "-25000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "5/11",
+        "amount": "-15000"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "8/11",
+        "amount": "-10000"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Circleci, 30 USD",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-282.41"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "282.41"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-70.6"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "70.6"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "SEB banktjänster",
+    "trans": [
+      {
+        "account": "6570",
+        "accountName": "Bankkostnader",
+        "text": "",
+        "amount": "100"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-100"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Bet FA 2021-011/Enera",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "67031"
+      },
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "-67031"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Bet leverantörer",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "30/11 Beckhoff",
+        "amount": "-14792.5"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "30/11 Beckhoff",
+        "amount": "14792.5"
+      }
+    ]
+  },
+  {
+    "series": "A",
+    "text": "Lösen o fsg av bil OJZ",
+    "trans": [
+      {
+        "account": "2890",
+        "accountName": "Övriga kortfristiga skulder",
+        "text": "Lösenpris BMW",
+        "amount": "-56725"
+      },
+      {
+        "account": "3970",
+        "accountName": "Vinst vid avyttring av immateriella och materiella anläggningstillgångar",
+        "text": "Lösenpris BMW",
+        "amount": "56725"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "Sålt t Bilia",
+        "amount": "68275"
+      },
+      {
+        "account": "2890",
+        "accountName": "Övriga kortfristiga skulder",
+        "text": "Sålt t Bilia",
+        "amount": "56725"
+      },
+      {
+        "account": "3970",
+        "accountName": "Vinst vid avyttring av immateriella och materiella anläggningstillgångar",
+        "text": "Sålt t Bilia",
+        "amount": "-125000"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt De Lage Landen Finans AB (1)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-2369"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "450.75"
+      },
+      {
+        "account": "5220",
+        "accountName": "Hyra av inventarier och verktyg",
+        "text": "",
+        "amount": "1600"
+      },
+      {
+        "account": "5214",
+        "accountName": "Försäkring hyrda inventarier",
+        "text": "",
+        "amount": "118"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "15"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "185.25"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt De Lage Landen Finans AB (2)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1514"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "282.75"
+      },
+      {
+        "account": "5220",
+        "accountName": "Hyra av inventarier och verktyg",
+        "text": "",
+        "amount": "974"
+      },
+      {
+        "account": "5214",
+        "accountName": "Försäkring hyrda inventarier",
+        "text": "",
+        "amount": "72"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "185.25"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Tele2 Sverige Aktiebolag (3)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-698"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "127.54"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "60"
+      },
+      {
+        "account": "6212",
+        "accountName": "Mobiltelefon",
+        "text": "",
+        "amount": "510.46"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Volkswagen Finans Sverige AB (4)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-8311"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "808.93"
+      },
+      {
+        "account": "5613",
+        "accountName": "Reparation och underhåll av personbilar",
+        "text": "",
+        "amount": "299"
+      },
+      {
+        "account": "5612",
+        "accountName": "Försäkring och skatt för personbilar",
+        "text": "",
+        "amount": "460"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "75"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "60"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "BHK73G",
+        "amount": "6608.07"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt neXus ID Solutions AB (5)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-419"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "83.75"
+      },
+      {
+        "account": "6590",
+        "accountName": "Övriga externa tjänster",
+        "text": "ID06-kort",
+        "amount": "335.25"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt ODERLAND Webbhotell AB (6)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-162.5"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "32.5"
+      },
+      {
+        "account": "6540",
+        "accountName": "IT-tjänster",
+        "text": "",
+        "amount": "130"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt BMW Financial Services Scandinavia AB (7)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-3138"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "311.85"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "19.28"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "OJZ946",
+        "amount": "2806.87"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt SEB Kort Bank AB (8)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-4864.09"
+      },
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "4864.09"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt SEB Kort Bank AB (9)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-79.84"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "79.84"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Tele2 Sverige Aktiebolag (10)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-633"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "114.5"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "60"
+      },
+      {
+        "account": "6212",
+        "accountName": "Mobiltelefon",
+        "text": "",
+        "amount": "458.5"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt SEB Kort Bank AB (11)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-50"
+      },
+      {
+        "account": "6570",
+        "accountName": "Bankkostnader",
+        "text": "",
+        "amount": "50"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Volkswagen Finans Sverige AB (12)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-8302"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "808.07"
+      },
+      {
+        "account": "5613",
+        "accountName": "Reparation och underhåll av personbilar",
+        "text": "",
+        "amount": "299"
+      },
+      {
+        "account": "5612",
+        "accountName": "Försäkring och skatt för personbilar",
+        "text": "",
+        "amount": "460"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "75"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "60"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "BHK73G",
+        "amount": "6599.93"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt ID06 AB (13)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-625"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "125"
+      },
+      {
+        "account": "6590",
+        "accountName": "Övriga externa tjänster",
+        "text": "",
+        "amount": "500"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Dustin Sverige AB (14)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-5173"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "1034.5"
+      },
+      {
+        "account": "5410",
+        "accountName": "Förbrukningsinventarier",
+        "text": "",
+        "amount": "4138.5"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt If Skadeförsäkring AB (publ) (15)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-4038"
+      },
+      {
+        "account": "6310",
+        "accountName": "Företagsförsäkringar",
+        "text": "",
+        "amount": "4038"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt SEB Kort Bank AB (16)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-7029.45"
+      },
+      {
+        "account": "8979",
+        "accountName": "Justeringskonto",
+        "text": "Digital Ocean",
+        "amount": "385.91"
+      },
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "6643.54"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (17)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-500"
+      },
+      {
+        "account": "2893",
+        "accountName": "Skulder till närstående personer, kortfristig del",
+        "text": "Trängselskatt BHK",
+        "amount": "500"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (18)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-500"
+      },
+      {
+        "account": "2893",
+        "accountName": "Skulder till närstående personer, kortfristig del",
+        "text": "Tilläggsavgift trängselskatt OJZ",
+        "amount": "500"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (19)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "BHK",
+        "amount": "-3311"
+      },
+      {
+        "account": "5612",
+        "accountName": "Försäkring och skatt för personbilar",
+        "text": "BHK",
+        "amount": "3311"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt BMW Financial Services Scandinavia AB (20)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "OJZ dec",
+        "amount": "-3241"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "OJZ dec",
+        "amount": "311.84"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "177.85"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "OJZ dec",
+        "amount": "2751.31"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Volkswagen Finans Sverige AB (21)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-8281"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "805.96"
+      },
+      {
+        "account": "5614",
+        "accountName": "Serviceavtal bil",
+        "text": "",
+        "amount": "299"
+      },
+      {
+        "account": "5612",
+        "accountName": "Försäkring och skatt för personbilar",
+        "text": "",
+        "amount": "460"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "135"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "",
+        "amount": "6581.04"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Tele2 Sverige Aktiebolag (22)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-642"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "115"
+      },
+      {
+        "account": "6212",
+        "accountName": "Mobiltelefon",
+        "text": "",
+        "amount": "527"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (23)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-689"
+      },
+      {
+        "account": "5612",
+        "accountName": "Försäkring och skatt för personbilar",
+        "text": "OJZ",
+        "amount": "689"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (24)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-522"
+      },
+      {
+        "account": "2893",
+        "accountName": "Skulder till närstående personer, kortfristig del",
+        "text": "OJZ",
+        "amount": "22"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "",
+        "amount": "500"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Transportstyrelsen (25)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-578"
+      },
+      {
+        "account": "2893",
+        "accountName": "Skulder till närstående personer, kortfristig del",
+        "text": "BHK",
+        "amount": "78"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "BHK",
+        "amount": "500"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Backalycka Service AB (26)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-895"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "179"
+      },
+      {
+        "account": "5613",
+        "accountName": "Reparation och underhåll av personbilar",
+        "text": "OJZ",
+        "amount": "716"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt Ekonomigruppen SRR AB (27)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-8500"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "1700"
+      },
+      {
+        "account": "6530",
+        "accountName": "Redovisningstjänster",
+        "text": "april-oktober",
+        "amount": "6800"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt BMW Financial Services Scandinavia AB (28)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-3118"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "jan",
+        "amount": "311.84"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "jan",
+        "amount": "2806.16"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levkreditfakt BMW Financial Services Scandinavia AB (29)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "dec",
+        "amount": "3241"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "dec",
+        "amount": "-311.84"
+      },
+      {
+        "account": "8490",
+        "accountName": "Övriga skuldrelaterade poster",
+        "text": "dec",
+        "amount": "-177.85"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "dec",
+        "amount": "-2751.31"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levkreditfakt BMW Financial Services Scandinavia AB (30)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "jan",
+        "amount": "3118"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "jan",
+        "amount": "-311.84"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "jan",
+        "amount": "-2806.16"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levfakt SEB Kort Bank AB (31)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-13283.87"
+      },
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "13283.87"
+      }
+    ]
+  },
+  {
+    "series": "D",
+    "text": "Levkreditfakt ODERLAND Webbhotell AB (32)",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "Dubbelbokförd D6+A61",
+        "amount": "162.5"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "Dubbelbokförd D6+A61",
+        "amount": "-32.5"
+      },
+      {
+        "account": "6540",
+        "accountName": "IT-tjänster",
+        "text": "Dubbelbokförd D6+A61",
+        "amount": "-130"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet Tele2 Sverige Aktiebolag (3)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-698"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "698"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet De Lage Landen Finans AB (1)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-2369"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "2369"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet De Lage Landen Finans AB (2)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-1514"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "1514"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet neXus ID Solutions AB (5)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-419"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "419"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet Volkswagen Finans Sverige AB (4)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-8311"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "8311"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet SEB Kort Bank AB (8)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-4864.09"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "4864.09"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet SEB Kort Bank AB (11)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-50"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "50"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet SEB Kort Bank AB (9)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-79.84"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "79.84"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet BMW Financial Services Scandinavia AB (7)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-3138"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "3138"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet ID06 AB (13)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-625"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "625"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet Tele2 Sverige Aktiebolag (10)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-633"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "633"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet Volkswagen Finans Sverige AB (12)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-8302"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "8302"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet BMW Financial Services Scandinavia AB (20)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-3241"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "3241"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet BMW Financial Services Scandinavia AB (29)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "3241"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-3241"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet BMW Financial Services Scandinavia AB (30)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "3118"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-3118"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet BMW Financial Services Scandinavia AB (28)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-3118"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "3118"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet ODERLAND Webbhotell AB (32)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "162.5"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-162.5"
+      }
+    ]
+  },
+  {
+    "series": "E",
+    "text": "Levbet ODERLAND Webbhotell AB (6)",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-162.5"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "162.5"
+      }
+    ]
+  }
+]

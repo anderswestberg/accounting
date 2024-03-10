@@ -1,0 +1,1874 @@
+Report   
+Diginet Aktiebolag
+556466-2699
+Räkenskapsår 2020-09-01 - 2021-08-31
+Period 2020-09-01 - 2021-08-31
+Huvudbok	Utskrivet 2024-02-05 15:57
+Senaste vernr A 320  I 12  M 3  
+Konto	Namn/Vernr	Ks	 	Datum	Text	Transaktionsinfo	Debet	Kredit	Saldo	
+-------------------------
+1220	Inventarier och verktyg	
+ 	 	 	 	Ingående balans	 	 	 	 	205 518,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	205 518,00	
+ 	 	 	 	 	 	 	 	 	205 518,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	205 518,00	
+-------------------------
+1229	Ackumulerade avskrivningar på inventarier och verktyg	
+ 	 	 	 	Ingående balans	 	 	 	 	-205 518,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-205 518,00	
+ 	 	 	 	 	 	 	 	 	-205 518,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	-205 518,00	
+-------------------------
+1510	Kundfordringar	
+ 	 	 	 	Ingående balans	 	 	 	 	854 150,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	854 150,00	
+ 	A 17	 	 	2020-09-21 	Bet FA 2020-009/PTA automation 	 	 	134 486,00	719 664,00	
+ 	A 30	 	 	2020-10-08 	Bet FA 2020-010/Air-Site 	 	 	199 742,00	519 922,00	
+ 	A 45	 	 	2020-10-29 	Bet FA 2020-013/Air-Site 	 	 	152 047,00	367 875,00	
+ 	A 56	 	 	2020-11-06 	FA 2020-012/Enera, 2007-2010 	 	103 399,00	 	471 274,00	
+ 	A 58	 	 	2020-11-09 	FA 2020-014/Enera, 2011-2012 	 	182 813,00	 	654 087,00	
+ 	A 59	 	 	2020-11-09 	Bet FA 2020-012/Enera 	 	 	103 399,00	550 688,00	
+ 	A 65	 	 	2020-11-11 	Bet FA 2020-014/Enera 	 	 	182 813,00	367 875,00	
+ 	A 69	 	 	2020-11-13 	Bet FA 2020-011/PTA 	 	 	271 875,00	96 000,00	
+ 	A 136	 	 	2021-02-01 	FA 2021-001/Clariant 	 	112 500,00	 	208 500,00	
+ 	A 144	 	 	2021-02-11 	Bet FA 2021-001/Clariant 	 	 	112 500,00	96 000,00	
+ 	A 258	 	 	2021-06-30 	FA 2021-004/Enera 	 	150 678,00	 	246 678,00	
+ 	A 259	 	 	2021-06-30 	FA 2021-005/Profcon 	 	19 656,00	 	266 334,00	
+ 	A 260	 	 	2021-06-30 	FA 2021-006/Clariant 	 	10 291,00	 	276 625,00	
+ 	A 278	 	 	2021-07-13 	Bet FA 2021-006/Clariant 	 	 	10 291,00	266 334,00	
+ 	A 280	 	 	2021-07-20 	Inbetalningar 	Bet FA 2021-004/Enera	 	150 678,00	115 656,00	
+ 	A 280	 	 	2021-07-20 	Inbetalningar 	Bet FA 2021-004/Enera	 	19 656,00	96 000,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	579 337,00	1 337 487,00	-758 150,00	
+ 	 	 	 	Utgående saldo	 	 	 579 337,00	1 337 487,00	96 000,00	
+-------------------------
+1640	Skattefordringar	
+ 	 	 	 	Ingående balans	 	 	 	 	15 909,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	15 909,00	
+ 	A 64	 	 	2020-11-10 	SKV rättelse apr-jun nedsättning AGA 	 	 	15 909,00	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	15 909,00	-15 909,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	15 909,00	0,00	
+-------------------------
+1645	Skattekonto	
+ 	 	 	 	Ingående balans	 	 	 	 	-393 176,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-393 176,00	
+ 	A 7	 	 	2020-09-05 	Ränta skattekontot 	 	 	1 330,00	-394 506,00	
+ 	A 10	 	 	2020-09-17 	SKV skd 	 	 	24 709,00	-419 215,00	
+ 	A 26	 	 	2020-10-03 	Ränta skattekontot 	 	 	1 907,00	-421 122,00	
+ 	A 31	 	 	2020-10-09 	Inbet KFM 	 	151 636,00	 	-269 486,00	
+ 	A 35	 	 	2020-10-12 	SKV skd sep 	 	 	42 889,00	-312 375,00	
+ 	A 44	 	 	2020-10-29 	Inbet skattekontot 	 	7 129,00	 	-305 246,00	
+ 	A 79	 	 	2020-11-01 	Ränta skattekontot 	 	 	11 359,00	-316 605,00	
+ 	A 79	 	 	2020-11-01 	Ränta skattekontot 	 	 	3 988,00	-320 593,00	
+ 	A 53	 	 	2020-11-04 	Inbet t skattekontot 	 	175 000,00	 	-145 593,00	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	2 611,00	 	-142 982,00	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	750,00	 	-142 232,00	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	145 593,00	 	3 361,00	
+ 	A 64	 	 	2020-11-10 	SKV rättelse apr-jun nedsättning AGA 	 	15 909,00	 	19 270,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	 	2 611,00	16 659,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	Tillfälligt betalningsanstånd moms t o m 210512	159 427,00	 	176 086,00	
+ 	A 84	 	 	2020-12-05 	Ränta skattekontot 	 	1 030,00	 	177 116,00	
+ 	A 84	 	 	2020-12-05 	Ränta skattekontot 	 	 	747,00	176 369,00	
+ 	A 87	 	 	2020-12-08 	Utbet fr skattekontot 	 	 	15 909,00	160 460,00	
+ 	A 93	 	 	2020-12-14 	Förseningsavgift SKD 	 	 	625,00	159 835,00	
+ 	A 105	 	 	2020-12-28 	Försningsavgift SKD 	 	 	625,00	159 210,00	
+ 	A 121	 	 	2021-01-04 	SKV skd november 	 	 	41 696,00	117 514,00	
+ 	A 119	 	 	2021-01-20 	SKV skd december 	 	 	67 201,00	50 313,00	
+ 	A 145	 	 	2021-02-12 	SKV skd 	 	 	5 126,00	45 187,00	
+ 	A 145	 	 	2021-02-12 	SKV skd 	 	 	2 611,00	42 576,00	
+ 	A 166	 	 	2021-03-12 	Förseningsavgift SKV 	 	 	625,00	41 951,00	
+ 	A 167	 	 	2021-03-12 	SKV skd 	 	 	24 985,00	16 966,00	
+ 	A 197	 	 	2021-04-22 	SKV AGA mars 	 	 	35 548,00	-18 582,00	
+ 	A 193	 	 	2021-04-26 	Förseningsavgift SKV 	26/4	 	625,00	-19 207,00	
+ 	A 193	 	 	2021-04-26 	Förseningsavgift SKV 	12/4	 	625,00	-19 832,00	
+ 	A 196	 	 	2021-04-28 	SKV moms okt-dec 	 	 	211 965,00	-231 797,00	
+ 	A 205	 	 	2021-05-01 	Ränta skattekontot 	 	 	416,00	-232 213,00	
+ 	A 205	 	 	2021-05-01 	Ränta skattekontot 	 	 	745,00	-232 958,00	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	49 927,00	 	-183 031,00	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	64 590,00	 	-118 441,00	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	159 427,00	 	40 986,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	 	8 692,00	32 294,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	 	29 385,00	2 909,00	
+ 	A 236	 	 	2021-06-05 	Ränta skattekontot 	 	1 161,00	 	4 070,00	
+ 	A 238	 	 	2021-06-09 	Tillfälligt betalningsanstånd 	 	 	3 445,00	625,00	
+ 	A 249	 	 	2021-06-28 	Förseningsavgift SKV + F-skatt 	 	 	625,00	 	
+ 	A 249	 	 	2021-06-28 	Förseningsavgift SKV + F-skatt 	F-skatt	 	2 611,00	-2 611,00	
+ 	A 268	 	 	2021-07-03 	Ränta skattekontot 	 	520,00	 	-2 091,00	
+ 	A 268	 	 	2021-07-03 	Ränta skattekontot 	 	 	14,00	-2 105,00	
+ 	A 275	 	 	2021-07-12 	F-skatt 	 	 	2 611,00	-4 716,00	
+ 	A 288	 	 	2021-08-01 	Ränta skattekontot 	 	 	50,00	-4 766,00	
+ 	A 302	 	 	2021-08-17 	Skattekontot 	Förseningsavgift	 	625,00	-5 391,00	
+ 	A 302	 	 	2021-08-17 	Skattekontot 	F-skatt	 	2 611,00	-8 002,00	
+ 	A 308	 	 	2021-08-25 	SKV skd för majlöner 	 	 	44 322,00	-52 324,00	
+ 	A 309	 	 	2021-08-25 	SKV skd för juni-löner 	 	 	5 126,00	-57 450,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	 	 	5 126,00	-62 576,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	Rättelse 210902	 	22 152,00	-84 728,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	934 710,00	626 262,00	308 448,00	
+ 	 	 	 	Utgående saldo	 	 	 934 710,00	626 262,00	-84 728,00	
+-------------------------
+1684	Kortfristiga fordringar hos leverantörer	
+ 	 	 	 	Ingående balans	 	 	 	 	500,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	500,00	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	20/11 If felinbetald	5 270,00	 	5 770,00	
+ 	A 115	 	 	2021-01-11 	Återbet If försäkring 	 	 	5 270,00	500,00	
+ 	A 294	 	 	2021-08-03 	Intrum/Dustin 	 	730,00	 	1 230,00	
+ 	A 298	 	 	2021-08-10 	Intrum/Dustin 	 	3 463,00	 	4 693,00	
+ 	A 305	 	 	2021-08-20 	Återbet dubbelbet fr Dustin 	 	 	730,00	3 963,00	
+ 	A 305	 	 	2021-08-20 	Återbet dubbelbet fr Dustin 	 	 	3 463,00	500,00	
+ 	I 1	 	 	2021-08-31 	Bortbokning gammal fordran Trptstyrelsen 	Bortbokning gammal fordran Trptstyrelsen	 	500,00	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	9 463,00	9 963,00	-500,00	
+ 	 	 	 	Utgående saldo	 	 	 9 463,00	9 963,00	0,00	
+-------------------------
+1720	Förutbetalda leasingavgifter	
+ 	 	 	 	Ingående balans	 	 	 	 	50 067,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	50 067,00	
+ 	I 4	 	 	2021-08-31 	Förutbetalda leasingkostnader 	Förutbetalda kostnader	 	19 545,00	30 522,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	19 545,00	-19 545,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	19 545,00	30 522,00	
+-------------------------
+1790	Övriga förutbetalda kostnader och upplupna intäkter	
+ 	 	 	 	Ingående balans	 	 	 	 	47 326,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	47 326,00	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Förutbetalda kostnader	6 602,00	 	53 928,00	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Omföring f.å förutbetalda kostnader	 	7 326,00	46 602,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	Upplupna intäkter	819 191,00	 	865 793,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	Ombokning f.å upplupna intäkter	 	40 000,00	825 793,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	825 793,00	47 326,00	778 467,00	
+ 	 	 	 	Utgående saldo	 	 	 825 793,00	47 326,00	825 793,00	
+-------------------------
+1910	Kassa	
+ 	 	 	 	Ingående balans	 	 	 	 	4 957,89	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	4 957,89	
+ 	A 108	 	 	2020-12-31 	Korr kassa + SEB kort 	Korr kassa	 	4 957,89	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	4 957,89	-4 957,89	
+ 	 	 	 	Utgående saldo	 	 	 0,00	4 957,89	0,00	
+-------------------------
+1930	Företagskonto/checkkonto/affärskonto	
+ 	 	 	 	Ingående balans	 	 	 	 	69 588,84	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	69 588,84	
+ 	A 17	 	 	2020-09-21 	Bet FA 2020-009/PTA automation 	 	134 486,00	 	204 074,84	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	10 000,00	194 074,84	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	5 000,00	189 074,84	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	5 000,00	184 074,84	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	5 000,00	179 074,84	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	15 000,00	164 074,84	
+ 	A 20	 	 	2020-09-30 	SEB lånebetalning 	 	 	2 020,18	162 054,66	
+ 	A 21	 	 	2020-09-30 	SEB bankavgifter 	2/9	 	100,00	161 954,66	
+ 	A 21	 	 	2020-09-30 	SEB bankavgifter 	30/9	 	303,00	161 651,66	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 SEB Kort	 	2 225,27	159 426,39	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 SEB Kort	 	4 137,77	155 288,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Fordonsskatt	 	100,00	155 188,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Volkswagen Finans	 	8 137,00	147 051,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW Financial	 	3 104,00	143 947,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW Financial	 	3 174,00	140 773,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Loopia	 	458,00	140 315,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW/If	 	4 631,00	135 684,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	11/9 Farnell	 	1 328,00	134 356,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	15/9 Dustin	 	555,00	133 801,62	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	21/9 Ekonomigruppen	 	6 703,00	127 098,62	
+ 	A 29	 	 	2020-10-06 	Digital Ocean sep-okt, 105,22 USD 	 	 	1 010,00	126 088,62	
+ 	A 30	 	 	2020-10-08 	Bet FA 2020-010/Air-Site 	 	199 742,00	 	325 830,62	
+ 	A 31	 	 	2020-10-09 	Inbet KFM 	 	 	152 344,00	173 486,62	
+ 	A 41	 	 	2020-10-25 	Anders lön 	2/10	 	10 000,00	163 486,62	
+ 	A 41	 	 	2020-10-25 	Anders lön 	7/10	 	10 000,00	153 486,62	
+ 	A 41	 	 	2020-10-25 	Anders lön 	30/10	 	10 000,00	143 486,62	
+ 	A 44	 	 	2020-10-29 	Inbet skattekontot 	 	 	7 129,00	136 357,62	
+ 	A 45	 	 	2020-10-29 	Bet FA 2020-013/Air-Site 	 	152 047,00	 	288 404,62	
+ 	A 46	 	 	2020-10-30 	SEB lånebetalning 	 	 	2 004,65	286 399,97	
+ 	A 47	 	 	2020-10-30 	Banktjänster 	 	 	103,00	286 296,97	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	2/10 De Lage landen	 	1 414,00	284 882,97	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	2/10 De Lage landen	 	2 254,00	282 628,97	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	6/10 SEB kort	 	5 079,58	277 549,39	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	6/10 Volkswagen	 	8 379,00	269 170,39	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	28/10 Transportstyrelsen	 	3 311,00	265 859,39	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	30/10 Volkswagen	 	8 202,00	257 657,39	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	30/10 BMW	 	3 140,00	254 517,39	
+ 	A 51	 	 	2020-11-02 	Digital Ocean, okt 81,61 USD 	 	 	783,00	253 734,39	
+ 	A 53	 	 	2020-11-04 	Inbet t skattekontot 	 	 	175 000,00	78 734,39	
+ 	A 59	 	 	2020-11-09 	Bet FA 2020-012/Enera 	 	103 399,00	 	182 133,39	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	 	2 611,00	179 522,39	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	 	750,00	178 772,39	
+ 	A 63	 	 	2020-11-10 	Inbet t skattekontot 	 	 	145 593,00	33 179,39	
+ 	A 65	 	 	2020-11-11 	Bet FA 2020-014/Enera 	 	182 813,00	 	215 992,39	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	 	198 512,00	17 480,39	
+ 	A 67	 	 	2020-11-12 	Privat insättning 	 	5 000,00	 	22 480,39	
+ 	A 69	 	 	2020-11-13 	Bet FA 2020-011/PTA 	 	271 875,00	 	294 355,39	
+ 	A 74	 	 	2020-11-25 	Lön Anders 	2/11	 	20 000,00	274 355,39	
+ 	A 74	 	 	2020-11-25 	Lön Anders 	27/11	 	10 000,00	264 355,39	
+ 	A 77	 	 	2020-11-30 	SEB lånebetalning 	 	 	1 994,16	262 361,23	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	9/11 Transportstyrelsen	 	500,00	261 861,23	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	16/11 Oderland	 	150,00	261 711,23	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	20/11 If felinbetald	 	5 270,00	256 441,23	
+ 	A 80	 	 	2020-12-01 	SEB banktjänster 	 	 	100,00	256 341,23	
+ 	A 87	 	 	2020-12-08 	Utbet fr skattekontot 	 	15 909,00	 	272 250,23	
+ 	A 95	 	 	2020-12-16 	Digital Ocean, nov 70,98 USD 	 	 	681,00	271 569,23	
+ 	A 100	 	 	2020-12-21 	Återbet fr KFM 	 	77,00	 	271 646,23	
+ 	A 103	 	 	2020-12-23 	Anders lön 	2/12	 	20 000,00	251 646,23	
+ 	A 103	 	 	2020-12-23 	Anders lön 	22/12	 	10 000,00	241 646,23	
+ 	A 103	 	 	2020-12-23 	Anders lön 	23/12	 	15 000,00	226 646,23	
+ 	A 106	 	 	2020-12-30 	SEB lånebetalning 	 	 	1 980,43	224 665,80	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Backalycka	 	840,00	223 825,80	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 SEB kort	 	5 028,17	218 797,63	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 SEB kort	 	7 449,71	211 347,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Telia	 	2 670,00	208 677,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Volkswagen	 	8 189,00	200 488,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Transportstyrelsen	 	689,00	199 799,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 BMW	 	3 126,00	196 673,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 If	 	3 991,00	192 682,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	3/12 Backalycka	 	840,00	191 842,92	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	30/12 BMW	 	3 126,00	188 716,92	
+ 	A 112	 	 	2021-01-04 	SEB banktjänster 	 	 	100,00	188 616,92	
+ 	A 115	 	 	2021-01-11 	Återbet If försäkring 	 	1 279,00	 	189 895,92	
+ 	A 115	 	 	2021-01-11 	Återbet If försäkring 	 	3 991,00	 	193 886,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	4/1 R3	 	2 000,00	191 886,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 Volkswagen Finans	 	8 114,00	183 772,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 BMW	 	3 126,00	180 646,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 De lage landen	 	1 414,00	179 232,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 De lage landen	 	2 254,00	176 978,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	11/1 Dustin	 	10 173,00	166 805,92	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	18/1 SEB kort	 	14 886,73	151 919,19	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	28/1 Dustin	 	1 923,00	149 996,19	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	28/1 Dustin	 	2 784,00	147 212,19	
+ 	A 133	 	 	2021-02-01 	SEB lånebetalning 	 	 	1 969,13	145 243,06	
+ 	A 135	 	 	2021-02-01 	SEB banktjänster 	 	 	100,00	145 143,06	
+ 	A 144	 	 	2021-02-11 	Bet FA 2021-001/Clariant 	 	112 500,00	 	257 643,06	
+ 	A 149	 	 	2021-02-25 	Lön Anders 	 	 	15 000,00	242 643,06	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 SEB Kort	 	5 824,35	236 818,71	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 Telia	 	2 730,00	234 088,71	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 R3	 	15 000,00	219 088,71	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 Volkswagen Finans	 	8 122,00	210 966,71	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	22/2 BMW	 	4 830,00	206 136,71	
+ 	A 154	 	 	2021-03-01 	SEB lånebetalning 	 	 	1 955,84	204 180,87	
+ 	A 159	 	 	2021-03-03 	SEB banktjänster 	 	 	100,00	204 080,87	
+ 	A 162	 	 	2021-03-08 	Digital Ocean, feb, 28,55 USD 	 	 	264,09	203 816,78	
+ 	A 172	 	 	2021-03-25 	Lön Anders, bil 9256 kr 	3/3	 	15 000,00	188 816,78	
+ 	A 172	 	 	2021-03-25 	Lön Anders, bil 9256 kr 	8/3	 	10 000,00	178 816,78	
+ 	A 172	 	 	2021-03-25 	Lön Anders, bil 9256 kr 	26/3	 	10 000,00	168 816,78	
+ 	A 174	 	 	2021-03-31 	SEB banktjänster 	 	 	103,00	168 713,78	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	4/3 Bilia	 	9 660,00	159 053,78	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 SEB kort	 	3 327,28	155 726,50	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Fora	 	552,00	155 174,50	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Volkswagen	 	8 219,00	146 955,50	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Transportstyrelsen	 	3 311,00	143 644,50	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 BMW	 	3 745,00	139 899,50	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	24/3 Backalycka	 	840,00	139 059,50	
+ 	A 200	 	 	2021-04-06 	Digital Ocean, 42,99+53,17 USD 	 	 	911,60	138 147,90	
+ 	A 201	 	 	2021-04-06 	Digitalocean, 27,38 USD 	 	 	279,00	137 868,90	
+ 	A 202	 	 	2021-04-06 	Phoenix Contact, 508,15 EUR 	 	 	5 117,32	132 751,58	
+ 	A 191	 	 	2021-04-21 	Anders lön 	6/4	 	15 000,00	117 751,58	
+ 	A 191	 	 	2021-04-21 	Anders lön 	28/4	 	5 000,00	112 751,58	
+ 	A 191	 	 	2021-04-21 	Anders lön 	30/4	 	5 000,00	107 751,58	
+ 	A 199	 	 	2021-04-30 	SEB banktjänster 	 	 	100,00	107 651,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 Volkswagen Finans	 	8 206,00	99 445,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 Transportstyrelsen	 	100,00	99 345,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 BMW Financial	 	3 126,00	96 219,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 de Lage Landen	 	1 414,00	94 805,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 De Lage Landen	 	2 254,00	92 551,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	12/4 Telia	 	1 888,00	90 663,58	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	19/4 SEB kort	 	6 792,56	83 871,02	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	30/4 BMW Financial	 	3 119,00	80 752,02	
+ 	A 213	 	 	2021-05-17 	Utlägg Victor/Digital Ocean, 30,13 USD 	 	 	304,01	80 448,01	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	Anders 7/5	 	10 000,00	70 448,01	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	Anders 11/5	 	5 000,00	65 448,01	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	Anders 25/5	 	15 000,00	50 448,01	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	Anders 28/5	 	15 000,00	35 448,01	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	21/5 Ekonomigruppen	 	12 797,00	22 651,01	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	27/5 Backalycka	 	840,00	21 811,01	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	27/5 Volkswagen Finans	 	8 311,00	13 500,01	
+ 	A 230	 	 	2021-06-03 	SEB banktjänster 	 	 	100,00	13 400,01	
+ 	A 238	 	 	2021-06-09 	Tillfälligt betalningsanstånd 	 	121 893,00	 	135 293,01	
+ 	A 241	 	 	2021-06-15 	KFM/Dustin 	 	 	920,00	134 373,01	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 4/9	 	1 500,00	132 873,01	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 11/6	 	20 000,00	112 873,01	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag  24/6	 	15 000,00	97 873,01	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag  29/6	 	10 000,00	87 873,01	
+ 	A 254	 	 	2021-06-30 	SEB banktjänster 	 	 	100,00	87 773,01	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	1/6 Dustin	 	785,00	86 988,01	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	2/6 SEB kort	 	9 792,25	77 195,76	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	3/6 Tele2	 	943,00	76 252,76	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	3/6 Svea inkasso	 	180,00	76 072,76	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 Transportstyrelsen	 	500,00	75 572,76	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 SEB kort	 	2 692,84	72 879,92	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 Volkswagen	 	8 259,00	64 620,92	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 BMW	 	3 131,00	61 489,92	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	17/6 Dustin	 	5 673,00	55 816,92	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	17/6 Intrum	 	244,99	55 571,93	
+ 	A 278	 	 	2021-07-13 	Bet FA 2021-006/Clariant 	 	10 291,00	 	65 862,93	
+ 	A 280	 	 	2021-07-20 	Inbetalningar 	 	170 334,00	 	236 196,93	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	2/7 uttag	 	15 000,00	221 196,93	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	9/7 uttag	 	15 000,00	206 196,93	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	16/7 uttag	 	15 000,00	191 196,93	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 SEB kort	 	128,77	191 068,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 If skadeförsäkring	 	4 760,00	186 308,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 Transportstyrelsen	 	3 376,00	182 932,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 De Lage landen	 	1 414,00	181 518,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 De Lage landen	 	2 254,00	179 264,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 Tele2	 	602,00	178 662,16	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 SEB kort	 	8 640,36	170 021,80	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 Volkswagen	 	8 368,00	161 653,80	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 BMW	 	3 118,00	158 535,80	
+ 	A 291	 	 	2021-08-02 	SEB banktjänster 	 	 	103,00	158 432,80	
+ 	A 320	 	 	2021-08-10 	Lön Viktor 	 	 	9 600,00	148 832,80	
+ 	A 305	 	 	2021-08-20 	Återbet dubbelbet fr Dustin 	 	4 193,00	 	153 025,80	
+ 	A 307	 	 	2021-08-25 	Lön Anders, bil 6344 + 2912 kr 	2/8 uttag	 	25 000,00	128 025,80	
+ 	A 307	 	 	2021-08-25 	Lön Anders, bil 6344 + 2912 kr 	13/8 uttag	 	10 000,00	118 025,80	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Kifab	 	533,00	117 492,80	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	 	180,00	117 312,80	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	 	974,16	116 338,64	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	 	3 722,73	112 615,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Volkswagen	 	8 293,00	104 322,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Transportstyrelsen	 	100,00	104 222,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 BMW	 	3 245,00	100 977,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Tele2	 	573,00	100 404,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Svea inkasso	 	450,00	99 954,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	18/8 Dustin	 	730,00	99 224,91	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	18/8 Dustin	 	3 463,00	95 761,91	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 489 829,00	1 463 655,93	26 173,07	
+ 	 	 	 	Utgående saldo	 	 	 1 489 829,00	1 463 655,93	95 761,91	
+-------------------------
+1940	Övriga bankkonton	
+ 	 	 	 	Ingående balans	 	 	 	 	72,73	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	72,73	
+ 	 	 	 	 	 	 	 	 	72,73	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	72,73	
+-------------------------
+2081	Aktiekapital	
+ 	 	 	 	Ingående balans	 	 	 	 	-100 000,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-100 000,00	
+ 	 	 	 	 	 	 	 	 	-100 000,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	-100 000,00	
+-------------------------
+2086	Reservfond	
+ 	 	 	 	Ingående balans	 	 	 	 	-20 000,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-20 000,00	
+ 	 	 	 	 	 	 	 	 	-20 000,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	-20 000,00	
+-------------------------
+2091	Balanserad vinst eller förlust	
+ 	 	 	 	Ingående balans	 	 	 	 	-92 568,60	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-92 568,60	
+ 	A 104	 	 	2020-12-28 	Utdelning beskattningen 2021 	 	50 000,00	 	-42 568,60	
+ 	I 5	 	 	2021-08-31 	Omföring f.å resultat 	Omföring f.å resultat	 	135 095,38	-177 663,98	
+-------------------------
+ 	 	 	 	Omslutning	 	 	50 000,00	135 095,38	-85 095,38	
+ 	 	 	 	Utgående saldo	 	 	 50 000,00	135 095,38	-177 663,98	
+-------------------------
+2099	Årets resultat	
+ 	 	 	 	Ingående balans	 	 	 	 	-135 095,38	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-135 095,38	
+ 	I 5	 	 	2021-08-31 	Omföring f.å resultat 	Omföring f.å resultat	135 095,38	 	 	
+ 	I 12	 	 	2021-08-31 	Årets resultat 	Årets resultat	 	71 627,39	-71 627,39	
+-------------------------
+ 	 	 	 	Omslutning	 	 	135 095,38	71 627,39	63 467,99	
+ 	 	 	 	Utgående saldo	 	 	 135 095,38	71 627,39	-71 627,39	
+-------------------------
+2120	Periodiseringsfonder	
+ 	 	 	 	Ingående balans	 	 	 	 	-50 000,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-50 000,00	
+ 	 	 	 	 	 	 	 	 	-50 000,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	-50 000,00	
+-------------------------
+2351	SEB lån 60 873 88	
+ 	 	 	 	Ingående balans	 	 	 	 	-11 680,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-11 680,00	
+ 	A 20	 	 	2020-09-30 	SEB lånebetalning 	 	1 944,00	 	-9 736,00	
+ 	A 46	 	 	2020-10-30 	SEB lånebetalning 	 	1 944,00	 	-7 792,00	
+ 	A 77	 	 	2020-11-30 	SEB lånebetalning 	 	1 944,00	 	-5 848,00	
+ 	A 106	 	 	2020-12-30 	SEB lånebetalning 	 	1 944,00	 	-3 904,00	
+ 	A 133	 	 	2021-02-01 	SEB lånebetalning 	 	1 944,00	 	-1 960,00	
+ 	A 154	 	 	2021-03-01 	SEB lånebetalning 	 	1 944,00	 	-16,00	
+ 	I 6	 	 	2021-08-31 	Bortbokning restskuld SEB 	Bortbokning restskuld SEB	16,00	 	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	11 680,00	0,00	11 680,00	
+ 	 	 	 	Utgående saldo	 	 	 11 680,00	0,00	0,00	
+-------------------------
+2440	Leverantörsskulder	
+ 	 	 	 	Ingående balans	 	 	 	 	-34 327,04	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-34 327,04	
+ 	A 3	 	 	2020-09-02 	Dustin 	 	 	2 254,00	-36 581,04	
+ 	A 4	 	 	2020-09-02 	Dustin 	 	 	1 414,00	-37 995,04	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	 	8 379,00	-46 374,04	
+ 	A 14	 	 	2020-09-17 	Oderland Webbhotell #314242 	 	 	150,00	-46 524,04	
+ 	A 18	 	 	2020-09-22 	BMW Financial, OJZ 	 	 	3 140,00	-49 664,04	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 SEB Kort	2 225,27	 	-47 438,77	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 SEB Kort	4 137,77	 	-43 301,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Fordonsskatt	100,00	 	-43 201,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Volkswagen Finans	8 137,00	 	-35 064,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW Financial	3 104,00	 	-31 960,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW Financial	3 174,00	 	-28 786,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 Loopia	458,00	 	-28 328,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	8/9 BMW/If	4 631,00	 	-23 697,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	11/9 Farnell	1 328,00	 	-22 369,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	15/9 Dustin	555,00	 	-21 814,00	
+ 	A 22	 	 	2020-09-30 	Bet leverantörer 	21/9 Ekonomigruppen	6 703,00	 	-15 111,00	
+ 	A 23	 	 	2020-09-30 	SEB Kort 	 	 	5 079,58	-20 190,58	
+ 	A 27	 	 	2020-10-03 	Transportstyrelsen, BHK73G 	 	 	3 311,00	-23 501,58	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	 	8 202,00	-31 703,58	
+ 	A 36	 	 	2020-10-23 	If, 201120-211119 	 	 	3 991,00	-35 694,58	
+ 	A 42	 	 	2020-10-27 	BMW Financial OJZ946 	 	 	3 126,00	-38 820,58	
+ 	A 43	 	 	2020-10-28 	SEB kort 	 	 	4 978,17	-43 798,75	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	2/10 De Lage landen	1 414,00	 	-42 384,75	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	2/10 De Lage landen	2 254,00	 	-40 130,75	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	6/10 SEB kort	5 079,58	 	-35 051,17	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	6/10 Volkswagen	8 379,00	 	-26 672,17	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	28/10 Transportstyrelsen	3 311,00	 	-23 361,17	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	30/10 Volkswagen	8 202,00	 	-15 159,17	
+ 	A 48	 	 	2020-10-31 	Bet leverantörer okt 	30/10 BMW	3 140,00	 	-12 019,17	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	 	8 189,00	-20 208,17	
+ 	A 55	 	 	2020-11-05 	Trängselskatt BHK tilläggsavgift 	 	 	500,00	-20 708,17	
+ 	A 57	 	 	2020-11-07 	Transportstyrelsen, OJZ 	 	 	689,00	-21 397,17	
+ 	A 72	 	 	2020-11-23 	Backalycka Service, OJZ 	 	 	840,00	-22 237,17	
+ 	A 73	 	 	2020-11-24 	BMW, OJZ 	 	 	3 126,00	-25 363,17	
+ 	A 75	 	 	2020-11-27 	SEB kort 	 	 	7 449,71	-32 812,88	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	9/11 Transportstyrelsen	500,00	 	-32 312,88	
+ 	A 78	 	 	2020-11-30 	Bet leverantörer november 	16/11 Oderland	150,00	 	-32 162,88	
+ 	A 126	 	 	2020-12-01 	Telia fakt.dag 200915 	 	 	2 670,00	-34 832,88	
+ 	A 82	 	 	2020-12-02 	Backalycka Service, BHK 	 	 	840,00	-35 672,88	
+ 	A 83	 	 	2020-12-05 	Volkswagen, BHK 	 	 	8 114,00	-43 786,88	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	 	2 254,00	-46 040,88	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	 	1 414,00	-47 454,88	
+ 	A 88	 	 	2020-12-08 	BMW, OJZ 	 	 	3 126,00	-50 580,88	
+ 	A 127	 	 	2020-12-11 	Telia 	 	 	2 730,00	-53 310,88	
+ 	A 94	 	 	2020-12-15 	R3, arvode utlåtande 	 	 	2 000,00	-55 310,88	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Backalycka	840,00	 	-54 470,88	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 SEB kort	4 978,17	 	-49 492,71	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 SEB kort	7 449,71	 	-42 043,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Telia	2 670,00	 	-39 373,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Volkswagen	8 189,00	 	-31 184,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 Transportstyrelsen	689,00	 	-30 495,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 BMW	3 126,00	 	-27 369,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 If	3 991,00	 	-23 378,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	3/12 Backalycka	840,00	 	-22 538,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	30/12 BMW	3 126,00	 	-19 412,00	
+ 	A 108	 	 	2020-12-31 	Korr kassa + SEB kort 	SEB kort	 	14 886,73	-34 298,73	
+ 	A 113	 	 	2021-01-05 	Volkswagen, BHK 	 	 	8 122,00	-42 420,73	
+ 	A 129	 	 	2021-01-06 	Dustin 	 	 	10 173,00	-52 593,73	
+ 	A 116	 	 	2021-01-11 	BMW originalförsäkring, OJZ 	 	 	4 830,00	-57 423,73	
+ 	A 130	 	 	2021-01-11 	Dustin 	 	 	2 784,00	-60 207,73	
+ 	A 131	 	 	2021-01-22 	Dustin 	 	 	1 923,00	-62 130,73	
+ 	A 122	 	 	2021-01-26 	BMW, OJZ 	 	 	3 745,00	-65 875,73	
+ 	A 123	 	 	2021-01-27 	R3, 19/20 	 	 	15 000,00	-80 875,73	
+ 	A 124	 	 	2021-01-27 	SEB kort 	 	 	5 824,35	-86 700,08	
+ 	A 125	 	 	2021-01-27 	Bilia Group, OJZ 	 	 	9 660,00	-96 360,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	4/1 R3	2 000,00	 	-94 360,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 Volkswagen Finans	8 114,00	 	-86 246,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 BMW	3 126,00	 	-83 120,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 De lage landen	1 414,00	 	-81 706,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	8/1 De lage landen	2 254,00	 	-79 452,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	11/1 Dustin	10 173,00	 	-69 279,08	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	18/1 SEB kort	14 886,73	 	-54 392,35	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	28/1 Dustin	1 923,00	 	-52 469,35	
+ 	A 132	 	 	2021-01-31 	Bet leverantörer 	28/1 Dustin	2 784,00	 	-49 685,35	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	 	8 219,00	-57 904,35	
+ 	A 139	 	 	2021-02-05 	Fora 	 	 	552,00	-58 456,35	
+ 	A 140	 	 	2021-02-06 	Transportstyrelsen, BHK 	 	 	3 311,00	-61 767,35	
+ 	A 152	 	 	2021-02-23 	Phoenix Contact, 508,15 EUR 	 	 	5 117,32	-66 884,67	
+ 	A 153	 	 	2021-02-23 	BMW Financial 	 	 	3 126,00	-70 010,67	
+ 	A 148	 	 	2021-02-24 	SEB Kort 	 	 	3 327,28	-73 337,95	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 SEB Kort	5 824,35	 	-67 513,60	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 Telia	2 730,00	 	-64 783,60	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 R3	15 000,00	 	-49 783,60	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	3/2 Volkswagen Finans	8 122,00	 	-41 661,60	
+ 	A 150	 	 	2021-02-28 	Bet leverantörer feb 	22/2 BMW	4 830,00	 	-36 831,60	
+ 	A 156	 	 	2021-03-02 	De Lage landen/Dustin 	 	 	1 414,00	-38 245,60	
+ 	A 157	 	 	2021-03-02 	De Lage landen/Dustin 	 	 	2 254,00	-40 499,60	
+ 	A 160	 	 	2021-03-05 	Volkswagen Financial, BHK 	 	 	8 206,00	-48 705,60	
+ 	A 163	 	 	2021-03-09 	Transportstyrelsen 	 	 	100,00	-48 805,60	
+ 	A 170	 	 	2021-03-23 	BMW Financial, OJZ 	 	 	3 119,00	-51 924,60	
+ 	A 173	 	 	2021-03-30 	SEB kort 	 	 	6 792,56	-58 717,16	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	4/3 Bilia	9 660,00	 	-49 057,16	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 SEB kort	3 327,28	 	-45 729,88	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Fora	552,00	 	-45 177,88	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Volkswagen	8 219,00	 	-36 958,88	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 Transportstyrelsen	3 311,00	 	-33 647,88	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	9/3 BMW	3 745,00	 	-29 902,88	
+ 	A 175	 	 	2021-03-31 	Bet leverantörer 	24/3 Backalycka	840,00	 	-29 062,88	
+ 	A 177	 	 	2021-04-01 	Telia, 210312 	 	 	1 888,00	-30 950,88	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	 	8 311,00	-39 261,88	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	 	 	3 126,00	-42 387,88	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Dubbelbokförd	3 126,00	 	-39 261,88	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Korr ver 152 Phoenix	5 117,32	 	-34 144,56	
+ 	A 187	 	 	2021-04-12 	Backalycka OJZ946 	 	 	840,00	-34 984,56	
+ 	A 192	 	 	2021-04-23 	Dustin 	 	 	785,00	-35 769,56	
+ 	A 194	 	 	2021-04-27 	BMW Financial, OJZ946, juni 	 	 	3 131,00	-38 900,56	
+ 	A 195	 	 	2021-04-27 	SEB Kort 	 	 	9 792,25	-48 692,81	
+ 	A 198	 	 	2021-04-29 	Ekonomigruppen, jul-mar + BS 	 	 	12 797,00	-61 489,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 Volkswagen Finans	8 206,00	 	-53 283,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 Transportstyrelsen	100,00	 	-53 183,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 BMW Financial	3 126,00	 	-50 057,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 de Lage Landen	1 414,00	 	-48 643,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	7/4 De Lage Landen	2 254,00	 	-46 389,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	12/4 Telia	1 888,00	 	-44 501,81	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	19/4 SEB kort	6 792,56	 	-37 709,25	
+ 	A 204	 	 	2021-04-30 	Bet leverantörer 	30/4 BMW Financial	3 119,00	 	-34 590,25	
+ 	A 209	 	 	2021-05-04 	Tele2 	 	 	943,00	-35 533,25	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	 	8 259,00	-43 792,25	
+ 	A 217	 	 	2021-05-27 	Svea Inkasso 	 	 	180,00	-43 972,25	
+ 	A 218	 	 	2021-05-31 	SEB kort 	 	 	2 692,84	-46 665,09	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	21/5 Ekonomigruppen	12 797,00	 	-33 868,09	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	27/5 Backalycka	840,00	 	-33 028,09	
+ 	A 219	 	 	2021-05-31 	Bet leverantörer 	27/5 Volkswagen Finans	8 311,00	 	-24 717,09	
+ 	A 221	 	 	2021-05-31 	If/trafiksjälvrisk BHK73G + BMW 	IF trafiksjälvrisk	 	4 760,00	-29 477,09	
+ 	A 221	 	 	2021-05-31 	If/trafiksjälvrisk BHK73G + BMW 	BMW, juli OJZ	 	3 118,00	-32 595,09	
+ 	A 225	 	 	2021-06-02 	Dustin, Lenovo ideapad 	 	 	1 414,00	-34 009,09	
+ 	A 227	 	 	2021-06-02 	Dustin, ideacentre 	 	 	2 254,00	-36 263,09	
+ 	A 228	 	 	2021-06-02 	Transportstyrelsen, BHK 	 	 	500,00	-36 763,09	
+ 	A 229	 	 	2021-06-02 	Dustin, Samsung galaxy watch privat 	 	 	5 673,00	-42 436,09	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	 	8 368,00	-50 804,09	
+ 	A 233	 	 	2021-06-04 	Tele2 	 	 	602,00	-51 406,09	
+ 	A 234	 	 	2021-06-04 	 Intrum/Dustin 	 	 	244,99	-51 651,08	
+ 	A 235	 	 	2021-06-05 	Transportstyrelsen, BHK 	 	 	3 376,00	-55 027,08	
+ 	A 245	 	 	2021-06-22 	BMW Financial, OJZ 	 	 	3 245,00	-58 272,08	
+ 	A 250	 	 	2021-06-28 	Dustin 	 	 	730,00	-59 002,08	
+ 	A 251	 	 	2021-06-29 	SEB kort räntefaktura 	 	 	128,77	-59 130,85	
+ 	A 252	 	 	2021-06-29 	SEB kort 	 	 	8 640,36	-67 771,21	
+ 	A 257	 	 	2021-06-30 	Kifab 	 	 	533,00	-68 304,21	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	1/6 Dustin	785,00	 	-67 519,21	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	2/6 SEB kort	9 792,25	 	-57 726,96	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	3/6 Tele2	943,00	 	-56 783,96	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	3/6 Svea inkasso	180,00	 	-56 603,96	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 Transportstyrelsen	500,00	 	-56 103,96	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 SEB kort	2 692,84	 	-53 411,12	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 Volkswagen	8 259,00	 	-45 152,12	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	16/6 BMW	3 131,00	 	-42 021,12	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	17/6 Dustin	5 673,00	 	-36 348,12	
+ 	A 261	 	 	2021-06-30 	Bet leverantörer 	17/6 Intrum	244,99	 	-36 103,13	
+ 	A 269	 	 	2021-07-04 	Tele2 	 	 	573,00	-36 676,13	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	 	8 293,00	-44 969,13	
+ 	A 272	 	 	2021-07-05 	Dustin, Samsung Galaxy tab 	 	 	3 463,00	-48 432,13	
+ 	A 274	 	 	2021-07-12 	BMW originalförsäkring 	 	 	4 830,00	-53 262,13	
+ 	A 276	 	 	2021-07-12 	Transportstyrelsen 	 	 	100,00	-53 362,13	
+ 	A 283	 	 	2021-07-27 	BMW Financial, sep 	 	 	3 213,00	-56 575,13	
+ 	A 284	 	 	2021-07-30 	SEB kort 	 	 	4 415,30	-60 990,43	
+ 	A 285	 	 	2021-07-30 	Svea inkasso/Volkswagen 	 	 	450,00	-61 440,43	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 SEB kort	128,77	 	-61 311,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 If skadeförsäkring	4 760,00	 	-56 551,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 Transportstyrelsen	3 376,00	 	-53 175,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 De Lage landen	1 414,00	 	-51 761,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 De Lage landen	2 254,00	 	-49 507,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	12/7 Tele2	602,00	 	-48 905,66	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 SEB kort	8 640,36	 	-40 265,30	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 Volkswagen	8 368,00	 	-31 897,30	
+ 	A 287	 	 	2021-07-31 	Bet leverantörer 	30/7 BMW	3 118,00	 	-28 779,30	
+ 	A 292	 	 	2021-08-02 	Loopia 	 	 	458,00	-29 237,30	
+ 	A 294	 	 	2021-08-03 	Intrum/Dustin 	 	 	974,16	-30 211,46	
+ 	A 295	 	 	2021-08-04 	Tele2 	 	 	633,00	-30 844,46	
+ 	A 296	 	 	2021-08-04 	Intrum/BMW 	 	 	180,00	-31 024,46	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	 	8 389,00	-39 413,46	
+ 	A 298	 	 	2021-08-10 	Intrum/Dustin 	 	 	3 722,73	-43 136,19	
+ 	A 299	 	 	2021-08-12 	Svea Inkasso/Volkswagen 	 	 	450,00	-43 586,19	
+ 	A 300	 	 	2021-08-13 	Conrad 	 	 	303,00	-43 889,19	
+ 	A 306	 	 	2021-08-24 	BMW Financial, okt 	 	 	3 299,00	-47 188,19	
+ 	A 314	 	 	2021-08-30 	Beckhoff 	 	 	14 792,50	-61 980,69	
+ 	A 315	 	 	2021-08-31 	SEB kort 	 	 	78,12	-62 058,81	
+ 	A 317	 	 	2021-08-31 	SEB kort 	 	 	3 669,42	-65 728,23	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Kifab	533,00	 	-65 195,23	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	180,00	 	-65 015,23	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	974,16	 	-64 041,07	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Intrum	3 722,73	 	-60 318,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Volkswagen	8 293,00	 	-52 025,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Transportstyrelsen	100,00	 	-51 925,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 BMW	3 245,00	 	-48 680,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Tele2	573,00	 	-48 107,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	13/8 Svea inkasso	450,00	 	-47 657,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	18/8 Dustin	730,00	 	-46 927,34	
+ 	A 318	 	 	2021-08-31 	Bet leverantörer 	18/8 Dustin	3 463,00	 	-43 464,34	
+ 	A 319	 	 	2021-08-31 	Bortbokning gamla lev.skulder 	Telenor, gammal kredit	 	226,00	-43 690,34	
+ 	A 319	 	 	2021-08-31 	Bortbokning gamla lev.skulder 	Backalycka	 	840,00	-44 530,34	
+-------------------------
+ 	 	 	 	Omslutning	 	 	359 933,84	370 137,14	-10 203,30	
+ 	 	 	 	Utgående saldo	 	 	 359 933,84	370 137,14	-44 530,34	
+-------------------------
+2510	Skatteskulder	
+ 	 	 	 	Ingående balans	 	 	 	 	-9 349,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-9 349,00	
+ 	I 7	 	 	2021-08-31 	Omföring skattekonton 	Omföring skattekonton	31 332,00	 	21 983,00	
+ 	I 10	 	 	2021-08-31 	Årets skatt 	Årets skatt	 	25 923,00	-3 940,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	31 332,00	25 923,00	5 409,00	
+ 	 	 	 	Utgående saldo	 	 	 31 332,00	25 923,00	-3 940,00	
+-------------------------
+2518	Betald F-skatt	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 10	 	 	2020-09-17 	SKV skd 	 	2 611,00	 	2 611,00	
+ 	A 35	 	 	2020-10-12 	SKV skd sep 	 	2 611,00	 	5 222,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	2 611,00	 	7 833,00	
+ 	A 121	 	 	2021-01-04 	SKV skd november 	 	2 611,00	 	10 444,00	
+ 	A 119	 	 	2021-01-20 	SKV skd december 	 	2 611,00	 	13 055,00	
+ 	A 145	 	 	2021-02-12 	SKV skd 	 	2 611,00	 	15 666,00	
+ 	A 167	 	 	2021-03-12 	SKV skd 	 	2 611,00	 	18 277,00	
+ 	A 196	 	 	2021-04-28 	SKV moms okt-dec 	 	2 611,00	 	20 888,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	2 611,00	 	23 499,00	
+ 	A 249	 	 	2021-06-28 	Förseningsavgift SKV + F-skatt 	F-skatt	2 611,00	 	26 110,00	
+ 	A 275	 	 	2021-07-12 	F-skatt 	 	2 611,00	 	28 721,00	
+ 	A 302	 	 	2021-08-17 	Skattekontot 	F-skatt	2 611,00	 	31 332,00	
+ 	I 7	 	 	2021-08-31 	Omföring skattekonton 	Omföring skattekonton	 	31 332,00	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	31 332,00	31 332,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 31 332,00	31 332,00	0,00	
+-------------------------
+2610	Utgående moms, 25 %	
+ 	 	 	 	Ingående balans	 	 	 	 	-165 624,80	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-165 624,80	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	165 624,80	 	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	165 624,80	0,00	165 624,80	
+ 	 	 	 	Utgående saldo	 	 	 165 624,80	0,00	0,00	
+-------------------------
+2611	Utgående moms på försäljning inom Sverige, 25 %	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 56	 	 	2020-11-06 	FA 2020-012/Enera, 2007-2010 	 	 	20 680,00	-20 680,00	
+ 	A 58	 	 	2020-11-09 	FA 2020-014/Enera, 2011-2012 	 	 	36 563,00	-57 243,00	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	57 243,00	 	 	
+ 	A 136	 	 	2021-02-01 	FA 2021-001/Clariant 	 	 	22 500,00	-22 500,00	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	22 500,00	 	 	
+ 	A 258	 	 	2021-06-30 	FA 2021-004/Enera 	 	 	30 135,50	-30 135,50	
+ 	A 259	 	 	2021-06-30 	FA 2021-005/Profcon 	 	 	3 931,00	-34 066,50	
+ 	A 260	 	 	2021-06-30 	FA 2021-006/Clariant 	 	 	2 058,50	-36 125,00	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	36 125,00	 	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	115 868,00	115 868,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 115 868,00	115 868,00	0,00	
+-------------------------
+2614	Utgående moms omvänd skattskyldighet, 25 %	
+ 	 	 	 	Ingående balans	 	 	 	 	-1 081,89	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-1 081,89	
+ 	A 1	 	 	2020-09-01 	Digital Ocean, 48,01 USD 	 	 	120,00	-1 201,89	
+ 	A 2	 	 	2020-09-01 	Linode, 105 USD 	 	 	232,78	-1 434,67	
+ 	A 8	 	 	2020-09-10 	Lucid Software, 99,95 USD 	 	 	226,81	-1 661,48	
+ 	A 9	 	 	2020-09-10 	Netlify, 45 USD 	 	 	102,12	-1 763,60	
+ 	A 11	 	 	2020-09-13 	Microsoft office 	 	 	27,30	-1 790,90	
+ 	A 12	 	 	2020-09-15 	Docker, 12 USD 	 	 	27,02	-1 817,92	
+ 	A 13	 	 	2020-09-17 	No-ip, 24,95 USD 	 	 	56,69	-1 874,61	
+ 	A 16	 	 	2020-09-20 	npm, 21 USD 	 	 	47,42	-1 922,03	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	1 922,03	 	 	
+ 	A 25	 	 	2020-10-01 	Linode, 70,16 USD 	 	 	162,42	-162,42	
+ 	A 29	 	 	2020-10-06 	Digital Ocean sep-okt, 105,22 USD 	 	 	252,50	-414,92	
+ 	A 32	 	 	2020-10-10 	Netlify, 45 USD 	 	 	102,33	-517,25	
+ 	A 33	 	 	2020-10-11 	GitHub, 48 USD 	 	 	109,16	-626,41	
+ 	A 37	 	 	2020-10-13 	Microsoft 365 business 	 	 	27,30	-653,71	
+ 	A 38	 	 	2020-10-15 	Docker, 12 USD 	 	 	27,19	-680,90	
+ 	A 39	 	 	2020-10-20 	GitHub, 240 USD 	 	 	543,73	-1 224,63	
+ 	A 40	 	 	2020-10-20 	npm, 21 USD 	 	 	47,67	-1 272,30	
+ 	A 50	 	 	2020-11-01 	Linode, 55 USD 	 	 	126,10	-1 398,40	
+ 	A 51	 	 	2020-11-02 	Digital Ocean, okt 81,61 USD 	 	 	195,75	-1 594,15	
+ 	A 52	 	 	2020-11-02 	Gumroad Inc, 159,34 EUR 	 	 	365,06	-1 959,21	
+ 	A 60	 	 	2020-11-10 	Netlify, 45 USD 	 	 	99,76	-2 058,97	
+ 	A 61	 	 	2020-11-10 	Harvest, 237,60 USD 	 	 	526,71	-2 585,68	
+ 	A 62	 	 	2020-11-10 	Docker, 300 USD 	 	 	665,18	-3 250,86	
+ 	A 68	 	 	2020-11-13 	Microsoft 365 business 	 	 	27,30	-3 278,16	
+ 	A 70	 	 	2020-11-14 	Team Viewer 	 	 	1 047,00	-4 325,16	
+ 	A 71	 	 	2020-11-20 	npm Inc, 21 USD 	 	 	46,59	-4 371,75	
+ 	A 81	 	 	2020-12-02 	Gumroad, 165,77 EUR 	 	 	363,11	-4 734,86	
+ 	A 89	 	 	2020-12-10 	Netlify, 45 USD 	 	 	98,08	-4 832,94	
+ 	A 91	 	 	2020-12-13 	LogMeIn, 44 EUR 	 	 	115,61	-4 948,55	
+ 	A 92	 	 	2020-12-13 	Microsoft 365 business 	 	 	27,30	-4 975,85	
+ 	A 95	 	 	2020-12-16 	Digital Ocean, nov 70,98 USD 	 	 	170,25	-5 146,10	
+ 	A 97	 	 	2020-12-20 	npm Inc, 21 USD 	 	 	44,70	-5 190,80	
+ 	A 98	 	 	2020-12-20 	Axosoft Git Kraken, 147 USD 	 	 	312,87	-5 503,67	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	1/12 Linode, 55 USD	 	120,74	-5 624,41	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	19/12 Envato, 26 USD	 	55,34	-5 679,75	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	5 679,75	 	 	
+ 	A 109	 	 	2021-01-01 	Linode, 55 USD 	 	 	116,27	-116,27	
+ 	A 110	 	 	2021-01-02 	Gumroad, 166,24 USD 	 	 	351,43	-467,70	
+ 	A 111	 	 	2021-01-02 	ngrok, 99 USD 	 	 	209,29	-676,99	
+ 	A 114	 	 	2021-01-10 	Netlify, 19 USD 	 	 	80,24	-757,23	
+ 	A 117	 	 	2021-01-13 	Microsoft 365 business 	 	 	27,30	-784,53	
+ 	A 118	 	 	2021-01-20 	npm Inc, 21 USD 	 	 	45,31	-829,84	
+ 	A 134	 	 	2021-02-01 	Linode 55 USD 	 	 	118,14	-947,98	
+ 	A 137	 	 	2021-02-02 	Gumroad, 137 Euro 	 	 	356,81	-1 304,79	
+ 	A 143	 	 	2021-02-10 	Netlify, 38 USD 	 	 	81,83	-1 386,62	
+ 	A 146	 	 	2021-02-13 	Microsoft office 365 	 	 	27,30	-1 413,92	
+ 	A 147	 	 	2021-02-20 	npm Inc, 21 USD 	 	 	44,93	-1 458,85	
+ 	A 151	 	 	2021-02-25 	A Medium Corporation, 50 USD 	 	 	106,81	-1 565,66	
+ 	A 155	 	 	2021-03-01 	Linode, 55 USD 	 	 	118,49	-1 684,15	
+ 	A 158	 	 	2021-03-02 	Gumroad, 165,54 USD 	 	 	359,37	-2 043,52	
+ 	A 161	 	 	2021-03-05 	Logopony, 12 EUR 	 	 	155,97	-2 199,49	
+ 	A 162	 	 	2021-03-08 	Digital Ocean, feb, 28,55 USD 	 	 	66,02	-2 265,51	
+ 	A 164	 	 	2021-03-10 	Netlify, 38 USD 	 	 	83,73	-2 349,24	
+ 	A 168	 	 	2021-03-13 	Microsoft 365 business 	 	 	27,30	-2 376,54	
+ 	A 169	 	 	2021-03-20 	npm Inc, 21 USD 	 	 	46,17	-2 422,71	
+ 	A 171	 	 	2021-03-23 	Smashing Media, 44 EUR 	 	 	114,55	-2 537,26	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	2 537,26	 	 	
+ 	A 176	 	 	2021-04-01 	Axosoft, 250 USD 	 	 	549,67	-549,67	
+ 	A 178	 	 	2021-04-01 	Linode, 55 USD 	 	 	123,54	-673,21	
+ 	A 180	 	 	2021-04-02 	Gumroad Inc, 161,14 USD 	 	 	360,86	-1 034,07	
+ 	A 181	 	 	2021-04-02 	Logopony, 100 USD 	 	 	223,94	-1 258,01	
+ 	A 182	 	 	2021-04-04 	Material-UI 99 USD 	 	 	221,71	-1 479,72	
+ 	A 184	 	 	2021-04-05 	Material-UI, 40 USD 	 	 	89,58	-1 569,30	
+ 	A 185	 	 	2021-04-05 	Material-UI, 40 USD 	 	 	89,58	-1 658,88	
+ 	A 200	 	 	2021-04-06 	Digital Ocean, 42,99+53,17 USD 	 	 	227,90	-1 886,78	
+ 	A 201	 	 	2021-04-06 	Digitalocean, 27,38 USD 	 	 	69,75	-1 956,53	
+ 	A 188	 	 	2021-04-13 	Microsoft Online services 	 	 	27,30	-1 983,83	
+ 	A 189	 	 	2021-04-20 	npm Inc, 21 USD 	 	 	45,64	-2 029,47	
+ 	A 206	 	 	2021-05-01 	Linode, 55 USD 	 	 	119,23	-2 148,70	
+ 	A 207	 	 	2021-05-01 	Digital Ocean, 38,84 USD 	 	 	84,20	-2 232,90	
+ 	A 208	 	 	2021-05-02 	Gumroad, 164,67 USD 	 	 	356,98	-2 589,88	
+ 	A 211	 	 	2021-05-13 	Microsoft  	 	 	27,30	-2 617,18	
+ 	A 213	 	 	2021-05-17 	Utlägg Victor/Digital Ocean, 30,13 USD 	 	 	76,00	-2 693,18	
+ 	A 214	 	 	2021-05-20 	npm Inc, 21 USD 	 	 	44,88	-2 738,06	
+ 	A 220	 	 	2021-05-27 	CircleCi, 30 USD 	 	 	63,95	-2 802,01	
+ 	A 222	 	 	2021-06-01 	Digital ocean, FA 425849713: 32,42 USD 	 	 	69,30	-2 871,31	
+ 	A 223	 	 	2021-06-01 	Digital Ocean FA 425549232: 50 USD 	 	 	106,93	-2 978,24	
+ 	A 224	 	 	2021-06-01 	Linode 55 USD 	 	 	117,62	-3 095,86	
+ 	A 226	 	 	2021-06-02 	Gumroad, 167,28 USD 	 	 	355,96	-3 451,82	
+ 	A 232	 	 	2021-06-04 	Meisterlabs, 166,38 Euro 	 	 	430,28	-3 882,10	
+ 	A 237	 	 	2021-06-06 	Todoist, 36 USD 	 	 	77,39	-3 959,49	
+ 	A 240	 	 	2021-06-13 	Microsoft Business 365 	 	 	27,30	-3 986,79	
+ 	A 242	 	 	2021-06-19 	Dropbox, 119,88 Euro 	 	 	313,59	-4 300,38	
+ 	A 243	 	 	2021-06-20 	npm inc, 21 USD 	 	 	46,49	-4 346,87	
+ 	A 244	 	 	2021-06-21 	GitHub, 240 USD 	 	 	531,33	-4 878,20	
+ 	A 248	 	 	2021-06-27 	CircleCi, 30 USD 	 	 	65,29	-4 943,49	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	4 943,49	 	 	
+ 	A 263	 	 	2021-07-01 	Digital Ocean, FA 426657330: 50 USD 	 	 	110,38	-110,38	
+ 	A 264	 	 	2021-07-01 	Linode, 55 USD 	 	 	121,05	-231,43	
+ 	A 265	 	 	2021-07-01 	Digital Ocean FA 426381258: 35,69 USD 	 	 	78,79	-310,22	
+ 	A 267	 	 	2021-07-02 	Gumroad, 162,55 USD 	 	 	358,93	-669,15	
+ 	A 277	 	 	2021-07-12 	Microsoft Business 365 	 	 	27,30	-696,45	
+ 	A 279	 	 	2021-07-20 	npm inc, 21 USD 	 	 	46,97	-743,42	
+ 	A 282	 	 	2021-07-27 	CircleGi, 15 + 30 USD 	 	 	100,66	-844,08	
+ 	A 289	 	 	2021-08-01 	Digital Ocean FA 427663177: 50 USD 	 	 	110,33	-954,41	
+ 	A 290	 	 	2021-08-01 	Linode, 55 USD 	 	 	121,36	-1 075,77	
+ 	A 293	 	 	2021-08-02 	Gumroad, 162,63 USD 	 	 	360,23	-1 436,00	
+ 	A 301	 	 	2021-08-13 	Microsoft Buisness 365 	 	 	27,30	-1 463,30	
+ 	A 304	 	 	2021-08-20 	npm inc, 21 USD 	 	 	47,42	-1 510,72	
+ 	A 312	 	 	2021-08-27 	CircleCi, 30 USD 	 	 	67,14	-1 577,86	
+ 	A 317	 	 	2021-08-31 	SEB kort 	 	 	26,36	-1 604,22	
+-------------------------
+ 	 	 	 	Omslutning	 	 	15 082,53	15 604,86	-522,33	
+ 	 	 	 	Utgående saldo	 	 	 15 082,53	15 604,86	-1 604,22	
+-------------------------
+2615	Utgående moms import av varor, 25 %	
+ 	 	 	 	Ingående balans	 	 	 	 	-54,60	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-54,60	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	54,60	 	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	54,60	0,00	54,60	
+ 	 	 	 	Utgående saldo	 	 	 54,60	0,00	0,00	
+-------------------------
+2640	Ingående moms	
+ 	 	 	 	Ingående balans	 	 	 	 	4 351,45	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	4 351,45	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	 	4 351,45	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	4 351,45	-4 351,45	
+ 	 	 	 	Utgående saldo	 	 	 0,00	4 351,45	0,00	
+-------------------------
+2641	Debiterad ingående moms	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 3	 	 	2020-09-02 	Dustin 	 	450,75	 	450,75	
+ 	A 4	 	 	2020-09-02 	Dustin 	 	282,75	 	733,50	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	811,75	 	1 545,25	
+ 	A 14	 	 	2020-09-17 	Oderland Webbhotell #314242 	 	30,00	 	1 575,25	
+ 	A 15	 	 	2020-09-18 	Ikea, skrivbord 	 	239,00	 	1 814,25	
+ 	A 18	 	 	2020-09-22 	BMW Financial, OJZ 	 	31,50	 	1 845,75	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	 	1 845,75	 	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	810,00	 	810,00	
+ 	A 34	 	 	2020-10-11 	Microsoft, 365 family 	 	179,80	 	989,80	
+ 	A 42	 	 	2020-10-27 	BMW Financial OJZ946 	 	312,50	 	1 302,30	
+ 	A 49	 	 	2020-11-01 	Google 	 	4,60	 	1 306,90	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	808,77	 	2 115,67	
+ 	A 72	 	 	2020-11-23 	Backalycka Service, OJZ 	 	168,00	 	2 283,67	
+ 	A 73	 	 	2020-11-24 	BMW, OJZ 	 	312,50	 	2 596,17	
+ 	A 76	 	 	2020-11-30 	Oderland #328082 	 	501,00	 	3 097,17	
+ 	A 126	 	 	2020-12-01 	Telia fakt.dag 200915 	 	534,00	 	3 631,17	
+ 	A 82	 	 	2020-12-02 	Backalycka Service, BHK 	 	168,00	 	3 799,17	
+ 	A 83	 	 	2020-12-05 	Volkswagen, BHK 	 	808,70	 	4 607,87	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	450,75	 	5 058,62	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	282,75	 	5 341,37	
+ 	A 88	 	 	2020-12-08 	BMW, OJZ 	 	312,60	 	5 653,97	
+ 	A 127	 	 	2020-12-11 	Telia 	 	534,00	 	6 187,97	
+ 	A 94	 	 	2020-12-15 	R3, arvode utlåtande 	 	400,00	 	6 587,97	
+ 	A 96	 	 	2020-12-18 	Kjell & company, Asus router 	 	258,00	 	6 845,97	
+ 	A 102	 	 	2020-12-23 	Mjuk Biltvätt 	 	470,00	 	7 315,97	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	 	7 315,97	 	
+ 	A 113	 	 	2021-01-05 	Volkswagen, BHK 	 	809,55	 	809,55	
+ 	A 129	 	 	2021-01-06 	Dustin 	 	2 035,00	 	2 844,55	
+ 	A 130	 	 	2021-01-11 	Dustin 	 	557,00	 	3 401,55	
+ 	A 131	 	 	2021-01-22 	Dustin 	 	385,00	 	3 786,55	
+ 	A 122	 	 	2021-01-26 	BMW, OJZ 	 	374,47	 	4 161,02	
+ 	A 123	 	 	2021-01-27 	R3, 19/20 	 	3 000,00	 	7 161,02	
+ 	A 125	 	 	2021-01-27 	Bilia Group, OJZ 	 	1 932,00	 	9 093,02	
+ 	A 128	 	 	2021-01-29 	Oderland #326135 	 	30,00	 	9 123,02	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	812,00	 	9 935,02	
+ 	A 141	 	 	2021-02-06 	Oderland #341214 	 	99,75	 	10 034,77	
+ 	A 142	 	 	2021-02-06 	Oderland #341202 	 	32,50	 	10 067,27	
+ 	A 152	 	 	2021-02-23 	Phoenix Contact, 508,15 EUR 	 	1 023,47	 	11 090,74	
+ 	A 153	 	 	2021-02-23 	BMW Financial 	 	312,60	 	11 403,34	
+ 	A 156	 	 	2021-03-02 	De Lage landen/Dustin 	 	283,00	 	11 686,34	
+ 	A 157	 	 	2021-03-02 	De Lage landen/Dustin 	 	451,00	 	12 137,34	
+ 	A 160	 	 	2021-03-05 	Volkswagen Financial, BHK 	 	811,94	 	12 949,28	
+ 	A 165	 	 	2021-03-11 	Ikea, skrivbord 	 	548,60	 	13 497,88	
+ 	A 170	 	 	2021-03-23 	BMW Financial, OJZ 	 	310,00	 	13 807,88	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	 	13 807,88	 	
+ 	A 177	 	 	2021-04-01 	Telia, 210312 	 	365,68	 	365,68	
+ 	A 179	 	 	2021-04-02 	Oderland Webbhotell #351605 	 	117,00	 	482,68	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	809,00	 	1 291,68	
+ 	A 202	 	 	2021-04-06 	Phoenix Contact, 508,15 EUR 	 	1 023,46	 	2 315,14	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	 	312,50	 	2 627,64	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Dubbelbokförd	 	312,50	2 315,14	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Korr ver 152 Phoenix	 	1 023,47	1 291,67	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	116,79	 	1 408,46	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	127,50	 	1 535,96	
+ 	A 187	 	 	2021-04-12 	Backalycka OJZ946 	 	168,00	 	1 703,96	
+ 	A 190	 	 	2021-04-20 	Oderland Webbhotell #343916 	 	32,50	 	1 736,46	
+ 	A 192	 	 	2021-04-23 	Dustin 	 	157,00	 	1 893,46	
+ 	A 194	 	 	2021-04-27 	BMW Financial, OJZ946, juni 	 	312,00	 	2 205,46	
+ 	A 198	 	 	2021-04-29 	Ekonomigruppen, jul-mar + BS 	 	2 559,38	 	4 764,84	
+ 	A 209	 	 	2021-05-04 	Tele2 	 	188,51	 	4 953,35	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	809,72	 	5 763,07	
+ 	A 221	 	 	2021-05-31 	If/trafiksjälvrisk BHK73G + BMW 	BMW, juli OJZ	312,00	 	6 075,07	
+ 	A 225	 	 	2021-06-02 	Dustin, Lenovo ideapad 	 	282,75	 	6 357,82	
+ 	A 227	 	 	2021-06-02 	Dustin, ideacentre 	 	450,75	 	6 808,57	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	808,00	 	7 616,57	
+ 	A 233	 	 	2021-06-04 	Tele2 	 	120,40	 	7 736,97	
+ 	A 239	 	 	2021-06-09 	Särö Blomstermåla x 2 	 	38,26	 	7 775,23	
+ 	A 245	 	 	2021-06-22 	BMW Financial, OJZ 	 	311,84	 	8 087,07	
+ 	A 250	 	 	2021-06-28 	Dustin 	 	146,00	 	8 233,07	
+ 	A 255	 	 	2021-06-30 	Google play 	 	39,80	 	8 272,87	
+ 	A 256	 	 	2021-06-30 	Google play 	 	27,80	 	8 300,67	
+ 	A 257	 	 	2021-06-30 	Kifab 	 	106,65	 	8 407,32	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	 	8 407,32	 	
+ 	A 262	 	 	2021-07-01 	Masala Kitchen x 2 	 	21,22	 	21,22	
+ 	A 266	 	 	2021-07-02 	Oderland #367227 	 	24,75	 	45,97	
+ 	A 269	 	 	2021-07-04 	Tele2 	 	114,50	 	160,47	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	806,46	 	966,93	
+ 	A 271	 	 	2021-07-05 	Oderland #367747 	 	24,75	 	991,68	
+ 	A 272	 	 	2021-07-05 	Dustin, Samsung Galaxy tab 	 	692,50	 	1 684,18	
+ 	A 273	 	 	2021-07-08 	Posten 	 	38,00	 	1 722,18	
+ 	A 283	 	 	2021-07-27 	BMW Financial, sep 	 	311,85	 	2 034,03	
+ 	A 292	 	 	2021-08-02 	Loopia 	 	91,60	 	2 125,63	
+ 	A 295	 	 	2021-08-04 	Tele2 	 	114,50	 	2 240,13	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	808,35	 	3 048,48	
+ 	A 300	 	 	2021-08-13 	Conrad 	 	60,60	 	3 109,08	
+ 	A 303	 	 	2021-08-19 	kjell & Company 	 	69,98	 	3 179,06	
+ 	A 306	 	 	2021-08-24 	BMW Financial, okt 	 	311,85	 	3 490,91	
+ 	A 311	 	 	2021-08-26 	Mjuk Biltvätt 	 	55,80	 	3 546,71	
+ 	A 313	 	 	2021-08-28 	Oderland #377743 	 	57,25	 	3 603,96	
+ 	A 314	 	 	2021-08-30 	Beckhoff 	 	2 958,50	 	6 562,46	
+-------------------------
+ 	 	 	 	Omslutning	 	 	39 275,35	32 712,89	6 562,46	
+ 	 	 	 	Utgående saldo	 	 	 39 275,35	32 712,89	6 562,46	
+-------------------------
+2645	Beräknad ingående moms på förvärv från utlandet	
+ 	 	 	 	Ingående balans	 	 	 	 	1 136,49	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	1 136,49	
+ 	A 1	 	 	2020-09-01 	Digital Ocean, 48,01 USD 	 	120,00	 	1 256,49	
+ 	A 2	 	 	2020-09-01 	Linode, 105 USD 	 	232,78	 	1 489,27	
+ 	A 8	 	 	2020-09-10 	Lucid Software, 99,95 USD 	 	226,81	 	1 716,08	
+ 	A 9	 	 	2020-09-10 	Netlify, 45 USD 	 	102,12	 	1 818,20	
+ 	A 11	 	 	2020-09-13 	Microsoft office 	 	27,30	 	1 845,50	
+ 	A 12	 	 	2020-09-15 	Docker, 12 USD 	 	27,02	 	1 872,52	
+ 	A 13	 	 	2020-09-17 	No-ip, 24,95 USD 	 	56,69	 	1 929,21	
+ 	A 16	 	 	2020-09-20 	npm, 21 USD 	 	47,42	 	1 976,63	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	 	1 976,63	 	
+ 	A 25	 	 	2020-10-01 	Linode, 70,16 USD 	 	162,42	 	162,42	
+ 	A 29	 	 	2020-10-06 	Digital Ocean sep-okt, 105,22 USD 	 	252,50	 	414,92	
+ 	A 32	 	 	2020-10-10 	Netlify, 45 USD 	 	102,33	 	517,25	
+ 	A 33	 	 	2020-10-11 	GitHub, 48 USD 	 	109,16	 	626,41	
+ 	A 37	 	 	2020-10-13 	Microsoft 365 business 	 	27,30	 	653,71	
+ 	A 38	 	 	2020-10-15 	Docker, 12 USD 	 	27,19	 	680,90	
+ 	A 39	 	 	2020-10-20 	GitHub, 240 USD 	 	543,73	 	1 224,63	
+ 	A 40	 	 	2020-10-20 	npm, 21 USD 	 	47,67	 	1 272,30	
+ 	A 50	 	 	2020-11-01 	Linode, 55 USD 	 	126,10	 	1 398,40	
+ 	A 51	 	 	2020-11-02 	Digital Ocean, okt 81,61 USD 	 	195,75	 	1 594,15	
+ 	A 52	 	 	2020-11-02 	Gumroad Inc, 159,34 EUR 	 	365,06	 	1 959,21	
+ 	A 60	 	 	2020-11-10 	Netlify, 45 USD 	 	99,76	 	2 058,97	
+ 	A 61	 	 	2020-11-10 	Harvest, 237,60 USD 	 	526,71	 	2 585,68	
+ 	A 62	 	 	2020-11-10 	Docker, 300 USD 	 	665,18	 	3 250,86	
+ 	A 68	 	 	2020-11-13 	Microsoft 365 business 	 	27,30	 	3 278,16	
+ 	A 70	 	 	2020-11-14 	Team Viewer 	 	1 047,00	 	4 325,16	
+ 	A 71	 	 	2020-11-20 	npm Inc, 21 USD 	 	46,59	 	4 371,75	
+ 	A 81	 	 	2020-12-02 	Gumroad, 165,77 EUR 	 	363,11	 	4 734,86	
+ 	A 89	 	 	2020-12-10 	Netlify, 45 USD 	 	98,08	 	4 832,94	
+ 	A 91	 	 	2020-12-13 	LogMeIn, 44 EUR 	 	115,61	 	4 948,55	
+ 	A 92	 	 	2020-12-13 	Microsoft 365 business 	 	27,30	 	4 975,85	
+ 	A 95	 	 	2020-12-16 	Digital Ocean, nov 70,98 USD 	 	170,25	 	5 146,10	
+ 	A 97	 	 	2020-12-20 	npm Inc, 21 USD 	 	44,70	 	5 190,80	
+ 	A 98	 	 	2020-12-20 	Axosoft Git Kraken, 147 USD 	 	312,87	 	5 503,67	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	1/12 Linode, 55 USD	120,74	 	5 624,41	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	19/12 Envato, 26 USD	55,34	 	5 679,75	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	 	5 679,75	 	
+ 	A 109	 	 	2021-01-01 	Linode, 55 USD 	 	116,27	 	116,27	
+ 	A 110	 	 	2021-01-02 	Gumroad, 166,24 USD 	 	351,43	 	467,70	
+ 	A 111	 	 	2021-01-02 	ngrok, 99 USD 	 	209,29	 	676,99	
+ 	A 114	 	 	2021-01-10 	Netlify, 19 USD 	 	80,24	 	757,23	
+ 	A 117	 	 	2021-01-13 	Microsoft 365 business 	 	27,30	 	784,53	
+ 	A 118	 	 	2021-01-20 	npm Inc, 21 USD 	 	45,31	 	829,84	
+ 	A 134	 	 	2021-02-01 	Linode 55 USD 	 	118,14	 	947,98	
+ 	A 137	 	 	2021-02-02 	Gumroad, 137 Euro 	 	356,81	 	1 304,79	
+ 	A 143	 	 	2021-02-10 	Netlify, 38 USD 	 	81,83	 	1 386,62	
+ 	A 146	 	 	2021-02-13 	Microsoft office 365 	 	27,30	 	1 413,92	
+ 	A 147	 	 	2021-02-20 	npm Inc, 21 USD 	 	44,93	 	1 458,85	
+ 	A 151	 	 	2021-02-25 	A Medium Corporation, 50 USD 	 	106,81	 	1 565,66	
+ 	A 155	 	 	2021-03-01 	Linode, 55 USD 	 	118,49	 	1 684,15	
+ 	A 158	 	 	2021-03-02 	Gumroad, 165,54 USD 	 	359,37	 	2 043,52	
+ 	A 161	 	 	2021-03-05 	Logopony, 12 EUR 	 	155,97	 	2 199,49	
+ 	A 162	 	 	2021-03-08 	Digital Ocean, feb, 28,55 USD 	 	66,02	 	2 265,51	
+ 	A 164	 	 	2021-03-10 	Netlify, 38 USD 	 	83,73	 	2 349,24	
+ 	A 168	 	 	2021-03-13 	Microsoft 365 business 	 	27,30	 	2 376,54	
+ 	A 169	 	 	2021-03-20 	npm Inc, 21 USD 	 	46,17	 	2 422,71	
+ 	A 171	 	 	2021-03-23 	Smashing Media, 44 EUR 	 	114,55	 	2 537,26	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	 	2 537,26	 	
+ 	A 176	 	 	2021-04-01 	Axosoft, 250 USD 	 	549,67	 	549,67	
+ 	A 178	 	 	2021-04-01 	Linode, 55 USD 	 	123,54	 	673,21	
+ 	A 180	 	 	2021-04-02 	Gumroad Inc, 161,14 USD 	 	360,86	 	1 034,07	
+ 	A 181	 	 	2021-04-02 	Logopony, 100 USD 	 	223,94	 	1 258,01	
+ 	A 182	 	 	2021-04-04 	Material-UI 99 USD 	 	221,71	 	1 479,72	
+ 	A 184	 	 	2021-04-05 	Material-UI, 40 USD 	 	89,58	 	1 569,30	
+ 	A 185	 	 	2021-04-05 	Material-UI, 40 USD 	 	89,58	 	1 658,88	
+ 	A 200	 	 	2021-04-06 	Digital Ocean, 42,99+53,17 USD 	 	227,90	 	1 886,78	
+ 	A 201	 	 	2021-04-06 	Digitalocean, 27,38 USD 	 	69,75	 	1 956,53	
+ 	A 188	 	 	2021-04-13 	Microsoft Online services 	 	27,30	 	1 983,83	
+ 	A 189	 	 	2021-04-20 	npm Inc, 21 USD 	 	45,64	 	2 029,47	
+ 	A 206	 	 	2021-05-01 	Linode, 55 USD 	 	119,23	 	2 148,70	
+ 	A 207	 	 	2021-05-01 	Digital Ocean, 38,84 USD 	 	84,20	 	2 232,90	
+ 	A 208	 	 	2021-05-02 	Gumroad, 164,67 USD 	 	356,98	 	2 589,88	
+ 	A 211	 	 	2021-05-13 	Microsoft  	 	27,30	 	2 617,18	
+ 	A 213	 	 	2021-05-17 	Utlägg Victor/Digital Ocean, 30,13 USD 	 	76,00	 	2 693,18	
+ 	A 214	 	 	2021-05-20 	npm Inc, 21 USD 	 	44,88	 	2 738,06	
+ 	A 220	 	 	2021-05-27 	CircleCi, 30 USD 	 	63,95	 	2 802,01	
+ 	A 222	 	 	2021-06-01 	Digital ocean, FA 425849713: 32,42 USD 	 	69,30	 	2 871,31	
+ 	A 223	 	 	2021-06-01 	Digital Ocean FA 425549232: 50 USD 	 	106,93	 	2 978,24	
+ 	A 224	 	 	2021-06-01 	Linode 55 USD 	 	117,62	 	3 095,86	
+ 	A 226	 	 	2021-06-02 	Gumroad, 167,28 USD 	 	355,96	 	3 451,82	
+ 	A 232	 	 	2021-06-04 	Meisterlabs, 166,38 Euro 	 	430,28	 	3 882,10	
+ 	A 237	 	 	2021-06-06 	Todoist, 36 USD 	 	77,39	 	3 959,49	
+ 	A 240	 	 	2021-06-13 	Microsoft Business 365 	 	27,30	 	3 986,79	
+ 	A 242	 	 	2021-06-19 	Dropbox, 119,88 Euro 	 	313,59	 	4 300,38	
+ 	A 243	 	 	2021-06-20 	npm inc, 21 USD 	 	46,49	 	4 346,87	
+ 	A 244	 	 	2021-06-21 	GitHub, 240 USD 	 	531,33	 	4 878,20	
+ 	A 248	 	 	2021-06-27 	CircleCi, 30 USD 	 	65,29	 	4 943,49	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	 	4 943,49	 	
+ 	A 263	 	 	2021-07-01 	Digital Ocean, FA 426657330: 50 USD 	 	110,38	 	110,38	
+ 	A 264	 	 	2021-07-01 	Linode, 55 USD 	 	121,05	 	231,43	
+ 	A 265	 	 	2021-07-01 	Digital Ocean FA 426381258: 35,69 USD 	 	78,79	 	310,22	
+ 	A 267	 	 	2021-07-02 	Gumroad, 162,55 USD 	 	358,93	 	669,15	
+ 	A 277	 	 	2021-07-12 	Microsoft Business 365 	 	27,30	 	696,45	
+ 	A 279	 	 	2021-07-20 	npm inc, 21 USD 	 	46,97	 	743,42	
+ 	A 282	 	 	2021-07-27 	CircleGi, 15 + 30 USD 	 	100,66	 	844,08	
+ 	A 289	 	 	2021-08-01 	Digital Ocean FA 427663177: 50 USD 	 	110,33	 	954,41	
+ 	A 290	 	 	2021-08-01 	Linode, 55 USD 	 	121,36	 	1 075,77	
+ 	A 293	 	 	2021-08-02 	Gumroad, 162,63 USD 	 	360,23	 	1 436,00	
+ 	A 301	 	 	2021-08-13 	Microsoft Buisness 365 	 	27,30	 	1 463,30	
+ 	A 304	 	 	2021-08-20 	npm inc, 21 USD 	 	47,42	 	1 510,72	
+ 	A 312	 	 	2021-08-27 	CircleCi, 30 USD 	 	67,14	 	1 577,86	
+ 	A 317	 	 	2021-08-31 	SEB kort 	 	26,36	 	1 604,22	
+-------------------------
+ 	 	 	 	Omslutning	 	 	15 604,86	15 137,13	467,73	
+ 	 	 	 	Utgående saldo	 	 	 15 604,86	15 137,13	1 604,22	
+-------------------------
+2650	Redovisningskonto för moms	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	 	159 427,00	-159 427,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	159 427,00	 	 	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	 	49 927,00	-49 927,00	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	 	8 692,00	-58 619,00	
+ 	A 196	 	 	2021-04-28 	SKV moms okt-dec 	 	49 927,00	 	-8 692,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	8 692,00	 	 	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	 	27 718,00	-27 718,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	218 046,00	245 764,00	-27 718,00	
+ 	 	 	 	Utgående saldo	 	 	 218 046,00	245 764,00	-27 718,00	
+-------------------------
+2710	Personalskatt	
+ 	 	 	 	Ingående balans	 	 	 	 	-9 991,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-9 991,00	
+ 	A 10	 	 	2020-09-17 	SKV skd 	 	9 991,00	 	 	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	 	 	18 871,00	-18 871,00	
+ 	A 35	 	 	2020-10-12 	SKV skd sep 	 	18 871,00	 	 	
+ 	A 41	 	 	2020-10-25 	Anders lön 	 	 	20 354,00	-20 354,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	20 354,00	 	 	
+ 	A 74	 	 	2020-11-25 	Lön Anders 	 	 	20 354,00	-20 354,00	
+ 	A 103	 	 	2020-12-23 	Anders lön 	 	 	36 175,00	-56 529,00	
+ 	A 121	 	 	2021-01-04 	SKV skd november 	 	20 354,00	 	-36 175,00	
+ 	A 119	 	 	2021-01-20 	SKV skd december 	 	36 175,00	 	 	
+ 	A 120	 	 	2021-01-25 	Lön Anders 	 	 	1 688,00	-1 688,00	
+ 	A 145	 	 	2021-02-12 	SKV skd 	 	1 688,00	 	 	
+ 	A 149	 	 	2021-02-25 	Lön Anders 	 	 	10 040,00	-10 040,00	
+ 	A 167	 	 	2021-03-12 	SKV skd 	 	10 040,00	 	 	
+ 	A 172	 	 	2021-03-25 	Lön Anders, bil 9256 kr 	 	 	16 469,00	-16 469,00	
+ 	A 191	 	 	2021-04-21 	Anders lön 	 	 	12 183,00	-28 652,00	
+ 	A 197	 	 	2021-04-22 	SKV AGA mars 	 	16 469,00	 	-12 183,00	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	 	 	20 754,00	-32 937,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	12 183,00	 	-20 754,00	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	 	 	1 688,00	-22 442,00	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	 	 	12 508,00	-34 950,00	
+ 	A 307	 	 	2021-08-25 	Lön Anders, bil 6344 + 2912 kr 	 	 	16 688,00	-51 638,00	
+ 	A 308	 	 	2021-08-25 	SKV skd för majlöner 	 	20 754,00	 	-30 884,00	
+ 	A 309	 	 	2021-08-25 	SKV skd för juni-löner 	 	1 688,00	 	-29 196,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	 	1 688,00	 	-27 508,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	Rättelse 210902	10 820,00	 	-16 688,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	181 075,00	187 772,00	-6 697,00	
+ 	 	 	 	Utgående saldo	 	 	 181 075,00	187 772,00	-16 688,00	
+-------------------------
+2731	Avräkning lagstadgade sociala avgifter	
+ 	 	 	 	Ingående balans	 	 	 	 	-12 107,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-12 107,00	
+ 	I 8	 	 	2021-08-31 	Upplupen AGA 	Upplupen AGA	 	22 164,00	-34 271,00	
+ 	I 8	 	 	2021-08-31 	Upplupen AGA 	Omföring f.å AGA	12 107,00	 	-22 164,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	12 107,00	22 164,00	-10 057,00	
+ 	 	 	 	Utgående saldo	 	 	 12 107,00	22 164,00	-22 164,00	
+-------------------------
+2820	Kortfristiga skulder till anställda	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 1	 	 	2020-09-01 	Digital Ocean, 48,01 USD 	 	 	480,00	-480,00	
+ 	A 222	 	 	2021-06-01 	Digital ocean, FA 425849713: 32,42 USD 	 	 	277,19	-757,19	
+ 	A 265	 	 	2021-07-01 	Digital Ocean FA 426381258: 35,69 USD 	 	 	315,14	-1 072,33	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	1 072,33	-1 072,33	
+ 	 	 	 	Utgående saldo	 	 	 0,00	1 072,33	-1 072,33	
+-------------------------
+2852	Anståndsbelopp för moms, AGA och källskatt	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	Tillfälligt betalningsanstånd moms t o m 210512	 	159 427,00	-159 427,00	
+ 	A 196	 	 	2021-04-28 	SKV moms okt-dec 	 	159 427,00	 	 	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	 	49 927,00	-49 927,00	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	 	64 590,00	-114 517,00	
+ 	A 212	 	 	2021-05-14 	Tillfälligt betalningsanstånd 	 	 	159 427,00	-273 944,00	
+ 	A 238	 	 	2021-06-09 	Tillfälligt betalningsanstånd 	 	 	40 278,00	-314 222,00	
+ 	A 238	 	 	2021-06-09 	Tillfälligt betalningsanstånd 	 	 	39 085,00	-353 307,00	
+ 	A 238	 	 	2021-06-09 	Tillfälligt betalningsanstånd 	 	 	39 085,00	-392 392,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	159 427,00	551 819,00	-392 392,00	
+ 	 	 	 	Utgående saldo	 	 	 159 427,00	551 819,00	-392 392,00	
+-------------------------
+2892	Skuld SEB kort	
+ 	 	 	 	Ingående balans	 	 	 	 	-1 004,09	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-1 004,09	
+ 	A 2	 	 	2020-09-01 	Linode, 105 USD 	 	 	931,10	-1 935,19	
+ 	A 8	 	 	2020-09-10 	Lucid Software, 99,95 USD 	 	 	907,22	-2 842,41	
+ 	A 9	 	 	2020-09-10 	Netlify, 45 USD 	 	 	408,46	-3 250,87	
+ 	A 11	 	 	2020-09-13 	Microsoft office 	 	 	109,20	-3 360,07	
+ 	A 12	 	 	2020-09-15 	Docker, 12 USD 	 	 	108,09	-3 468,16	
+ 	A 13	 	 	2020-09-17 	No-ip, 24,95 USD 	 	 	226,75	-3 694,91	
+ 	A 15	 	 	2020-09-18 	Ikea, skrivbord 	 	 	1 195,00	-4 889,91	
+ 	A 16	 	 	2020-09-20 	npm, 21 USD 	 	 	189,67	-5 079,58	
+ 	A 23	 	 	2020-09-30 	SEB Kort 	 	5 079,58	 	 	
+ 	A 25	 	 	2020-10-01 	Linode, 70,16 USD 	 	 	649,69	-649,69	
+ 	A 32	 	 	2020-10-10 	Netlify, 45 USD 	 	 	409,33	-1 059,02	
+ 	A 33	 	 	2020-10-11 	GitHub, 48 USD 	 	 	436,62	-1 495,64	
+ 	A 34	 	 	2020-10-11 	Microsoft, 365 family 	 	 	899,00	-2 394,64	
+ 	A 37	 	 	2020-10-13 	Microsoft 365 business 	 	 	109,20	-2 503,84	
+ 	A 38	 	 	2020-10-15 	Docker, 12 USD 	 	 	108,75	-2 612,59	
+ 	A 39	 	 	2020-10-20 	GitHub, 240 USD 	 	 	2 174,91	-4 787,50	
+ 	A 40	 	 	2020-10-20 	npm, 21 USD 	 	 	190,67	-4 978,17	
+ 	A 43	 	 	2020-10-28 	SEB kort 	 	4 978,17	 	 	
+ 	A 49	 	 	2020-11-01 	Google 	 	 	23,00	-23,00	
+ 	A 50	 	 	2020-11-01 	Linode, 55 USD 	 	 	504,39	-527,39	
+ 	A 52	 	 	2020-11-02 	Gumroad Inc, 159,34 EUR 	 	 	1 460,22	-1 987,61	
+ 	A 60	 	 	2020-11-10 	Netlify, 45 USD 	 	 	399,02	-2 386,63	
+ 	A 61	 	 	2020-11-10 	Harvest, 237,60 USD 	 	 	2 106,84	-4 493,47	
+ 	A 62	 	 	2020-11-10 	Docker, 300 USD 	 	 	2 660,70	-7 154,17	
+ 	A 68	 	 	2020-11-13 	Microsoft 365 business 	 	 	109,20	-7 263,37	
+ 	A 70	 	 	2020-11-14 	Team Viewer 	 	 	4 188,00	-11 451,37	
+ 	A 71	 	 	2020-11-20 	npm Inc, 21 USD 	 	 	186,34	-11 637,71	
+ 	A 75	 	 	2020-11-27 	SEB kort 	 	7 449,71	 	-4 188,00	
+ 	A 76	 	 	2020-11-30 	Oderland #328082 	 	 	2 505,00	-6 693,00	
+ 	A 81	 	 	2020-12-02 	Gumroad, 165,77 EUR 	 	 	1 452,43	-8 145,43	
+ 	A 89	 	 	2020-12-10 	Netlify, 45 USD 	 	 	392,30	-8 537,73	
+ 	A 90	 	 	2020-12-11 	Masala Kitchen, ej kvitto 	 	 	198,00	-8 735,73	
+ 	A 91	 	 	2020-12-13 	LogMeIn, 44 EUR 	 	 	462,42	-9 198,15	
+ 	A 92	 	 	2020-12-13 	Microsoft 365 business 	 	 	109,20	-9 307,35	
+ 	A 96	 	 	2020-12-18 	Kjell & company, Asus router 	 	 	1 290,00	-10 597,35	
+ 	A 97	 	 	2020-12-20 	npm Inc, 21 USD 	 	 	178,79	-10 776,14	
+ 	A 98	 	 	2020-12-20 	Axosoft Git Kraken, 147 USD 	 	 	1 251,49	-12 027,63	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	1/12 Linode, 55 USD	 	482,95	-12 510,58	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	19/12 Envato, 26 USD	 	221,35	-12 731,93	
+ 	A 101	 	 	2020-12-21 	Jula, privat 	 	 	2 309,80	-15 041,73	
+ 	A 102	 	 	2020-12-23 	Mjuk Biltvätt 	 	 	2 350,00	-17 391,73	
+ 	A 108	 	 	2020-12-31 	Korr kassa + SEB kort 	SEB kort	14 886,73	 	-2 505,00	
+ 	A 109	 	 	2021-01-01 	Linode, 55 USD 	 	 	465,08	-2 970,08	
+ 	A 110	 	 	2021-01-02 	Gumroad, 166,24 USD 	 	 	1 405,73	-4 375,81	
+ 	A 111	 	 	2021-01-02 	ngrok, 99 USD 	 	 	837,15	-5 212,96	
+ 	A 114	 	 	2021-01-10 	Netlify, 19 USD 	 	 	320,95	-5 533,91	
+ 	A 117	 	 	2021-01-13 	Microsoft 365 business 	 	 	109,20	-5 643,11	
+ 	A 118	 	 	2021-01-20 	npm Inc, 21 USD 	 	 	181,24	-5 824,35	
+ 	A 124	 	 	2021-01-27 	SEB kort 	 	5 824,35	 	 	
+ 	A 128	 	 	2021-01-29 	Oderland #326135 	 	 	150,00	-150,00	
+ 	A 134	 	 	2021-02-01 	Linode 55 USD 	 	 	472,57	-622,57	
+ 	A 137	 	 	2021-02-02 	Gumroad, 137 Euro 	 	 	1 427,22	-2 049,79	
+ 	A 141	 	 	2021-02-06 	Oderland #341214 	 	 	498,75	-2 548,54	
+ 	A 142	 	 	2021-02-06 	Oderland #341202 	 	 	162,50	-2 711,04	
+ 	A 143	 	 	2021-02-10 	Netlify, 38 USD 	 	 	327,31	-3 038,35	
+ 	A 146	 	 	2021-02-13 	Microsoft office 365 	 	 	109,20	-3 147,55	
+ 	A 147	 	 	2021-02-20 	npm Inc, 21 USD 	 	 	179,73	-3 327,28	
+ 	A 148	 	 	2021-02-24 	SEB Kort 	 	3 327,28	 	 	
+ 	A 151	 	 	2021-02-25 	A Medium Corporation, 50 USD 	 	 	427,25	-427,25	
+ 	A 155	 	 	2021-03-01 	Linode, 55 USD 	 	 	473,96	-901,21	
+ 	A 158	 	 	2021-03-02 	Gumroad, 165,54 USD 	 	 	1 437,48	-2 338,69	
+ 	A 161	 	 	2021-03-05 	Logopony, 12 EUR 	 	 	623,89	-2 962,58	
+ 	A 164	 	 	2021-03-10 	Netlify, 38 USD 	 	 	334,92	-3 297,50	
+ 	A 165	 	 	2021-03-11 	Ikea, skrivbord 	 	 	2 743,00	-6 040,50	
+ 	A 168	 	 	2021-03-13 	Microsoft 365 business 	 	 	109,20	-6 149,70	
+ 	A 169	 	 	2021-03-20 	npm Inc, 21 USD 	 	 	184,67	-6 334,37	
+ 	A 171	 	 	2021-03-23 	Smashing Media, 44 EUR 	 	 	458,19	-6 792,56	
+ 	A 173	 	 	2021-03-30 	SEB kort 	 	6 792,56	 	 	
+ 	A 176	 	 	2021-04-01 	Axosoft, 250 USD 	 	 	2 198,66	-2 198,66	
+ 	A 178	 	 	2021-04-01 	Linode, 55 USD 	 	 	494,15	-2 692,81	
+ 	A 179	 	 	2021-04-02 	Oderland Webbhotell #351605 	 	 	585,00	-3 277,81	
+ 	A 180	 	 	2021-04-02 	Gumroad Inc, 161,14 USD 	 	 	1 443,45	-4 721,26	
+ 	A 181	 	 	2021-04-02 	Logopony, 100 USD 	 	 	895,77	-5 617,03	
+ 	A 182	 	 	2021-04-04 	Material-UI 99 USD 	 	 	886,82	-6 503,85	
+ 	A 184	 	 	2021-04-05 	Material-UI, 40 USD 	 	 	358,32	-6 862,17	
+ 	A 185	 	 	2021-04-05 	Material-UI, 40 USD 	 	 	358,32	-7 220,49	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	 	1 090,00	-8 310,49	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	 	1 190,00	-9 500,49	
+ 	A 188	 	 	2021-04-13 	Microsoft Online services 	 	 	109,20	-9 609,69	
+ 	A 189	 	 	2021-04-20 	npm Inc, 21 USD 	 	 	182,56	-9 792,25	
+ 	A 190	 	 	2021-04-20 	Oderland Webbhotell #343916 	 	 	162,50	-9 954,75	
+ 	A 195	 	 	2021-04-27 	SEB Kort 	 	9 792,25	 	-162,50	
+ 	A 206	 	 	2021-05-01 	Linode, 55 USD 	 	 	476,92	-639,42	
+ 	A 207	 	 	2021-05-01 	Digital Ocean, 38,84 USD 	 	 	336,79	-976,21	
+ 	A 208	 	 	2021-05-02 	Gumroad, 164,67 USD 	 	 	1 427,90	-2 404,11	
+ 	A 211	 	 	2021-05-13 	Microsoft  	 	 	109,20	-2 513,31	
+ 	A 214	 	 	2021-05-20 	npm Inc, 21 USD 	 	 	179,53	-2 692,84	
+ 	A 220	 	 	2021-05-27 	CircleCi, 30 USD 	 	 	255,81	-2 948,65	
+ 	A 218	 	 	2021-05-31 	SEB kort 	 	2 692,84	 	-255,81	
+ 	A 223	 	 	2021-06-01 	Digital Ocean FA 425549232: 50 USD 	 	 	427,72	-683,53	
+ 	A 224	 	 	2021-06-01 	Linode 55 USD 	 	 	470,49	-1 154,02	
+ 	A 226	 	 	2021-06-02 	Gumroad, 167,28 USD 	 	 	1 423,84	-2 577,86	
+ 	A 232	 	 	2021-06-04 	Meisterlabs, 166,38 Euro 	 	 	1 721,10	-4 298,96	
+ 	A 237	 	 	2021-06-06 	Todoist, 36 USD 	 	 	309,57	-4 608,53	
+ 	A 239	 	 	2021-06-09 	Särö Blomstermåla x 2 	 	 	357,00	-4 965,53	
+ 	A 240	 	 	2021-06-13 	Microsoft Business 365 	 	 	109,20	-5 074,73	
+ 	A 242	 	 	2021-06-19 	Dropbox, 119,88 Euro 	 	 	1 254,35	-6 329,08	
+ 	A 243	 	 	2021-06-20 	npm inc, 21 USD 	 	 	185,97	-6 515,05	
+ 	A 244	 	 	2021-06-21 	GitHub, 240 USD 	 	 	2 125,31	-8 640,36	
+ 	A 248	 	 	2021-06-27 	CircleCi, 30 USD 	 	 	261,15	-8 901,51	
+ 	A 252	 	 	2021-06-29 	SEB kort 	 	8 640,36	 	-261,15	
+ 	A 253	 	 	2021-06-29 	Ica  	 	 	367,00	-628,15	
+ 	A 255	 	 	2021-06-30 	Google play 	 	 	199,00	-827,15	
+ 	A 256	 	 	2021-06-30 	Google play 	 	 	139,00	-966,15	
+ 	A 262	 	 	2021-07-01 	Masala Kitchen x 2 	 	 	198,00	-1 164,15	
+ 	A 263	 	 	2021-07-01 	Digital Ocean, FA 426657330: 50 USD 	 	 	441,50	-1 605,65	
+ 	A 264	 	 	2021-07-01 	Linode, 55 USD 	 	 	484,21	-2 089,86	
+ 	A 266	 	 	2021-07-02 	Oderland #367227 	 	 	123,75	-2 213,61	
+ 	A 267	 	 	2021-07-02 	Gumroad, 162,55 USD 	 	 	1 435,73	-3 649,34	
+ 	A 271	 	 	2021-07-05 	Oderland #367747 	 	 	123,75	-3 773,09	
+ 	A 273	 	 	2021-07-08 	Posten 	 	 	190,00	-3 963,09	
+ 	A 277	 	 	2021-07-12 	Microsoft Business 365 	 	 	109,20	-4 072,29	
+ 	A 279	 	 	2021-07-20 	npm inc, 21 USD 	 	 	187,88	-4 260,17	
+ 	A 282	 	 	2021-07-27 	CircleGi, 15 + 30 USD 	 	 	134,21	-4 394,38	
+ 	A 282	 	 	2021-07-27 	CircleGi, 15 + 30 USD 	 	 	268,42	-4 662,80	
+ 	A 284	 	 	2021-07-30 	SEB kort 	 	4 415,30	 	-247,50	
+ 	A 289	 	 	2021-08-01 	Digital Ocean FA 427663177: 50 USD 	 	 	441,30	-688,80	
+ 	A 290	 	 	2021-08-01 	Linode, 55 USD 	 	 	485,43	-1 174,23	
+ 	A 293	 	 	2021-08-02 	Gumroad, 162,63 USD 	 	 	1 440,93	-2 615,16	
+ 	A 301	 	 	2021-08-13 	Microsoft Buisness 365 	 	 	109,20	-2 724,36	
+ 	A 303	 	 	2021-08-19 	kjell & Company 	 	 	349,90	-3 074,26	
+ 	A 304	 	 	2021-08-20 	npm inc, 21 USD 	 	 	189,66	-3 263,92	
+ 	A 311	 	 	2021-08-26 	Mjuk Biltvätt 	 	 	279,00	-3 542,92	
+ 	A 312	 	 	2021-08-27 	CircleCi, 30 USD 	 	 	268,55	-3 811,47	
+ 	A 313	 	 	2021-08-28 	Oderland #377743 	 	 	286,25	-4 097,72	
+ 	A 317	 	 	2021-08-31 	SEB kort 	 	3 563,97	 	-533,75	
+-------------------------
+ 	 	 	 	Omslutning	 	 	77 443,10	76 972,76	470,34	
+ 	 	 	 	Utgående saldo	 	 	 77 443,10	76 972,76	-533,75	
+-------------------------
+2893	Skulder till närstående personer, kortfristig del	
+ 	 	 	 	Ingående balans	 	 	 	 	0,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 5	 	 	2020-09-03 	Hyra kontorsrum, aug-sep 	 	 	7 400,00	-7 400,00	
+ 	A 55	 	 	2020-11-05 	Trängselskatt BHK tilläggsavgift 	 	500,00	 	-6 900,00	
+ 	A 67	 	 	2020-11-12 	Privat insättning 	 	 	5 000,00	-11 900,00	
+ 	A 90	 	 	2020-12-11 	Masala Kitchen, ej kvitto 	 	198,00	 	-11 702,00	
+ 	A 101	 	 	2020-12-21 	Jula, privat 	 	2 309,80	 	-9 392,20	
+ 	A 104	 	 	2020-12-28 	Utdelning beskattningen 2021 	 	 	50 000,00	-59 392,20	
+ 	A 108	 	 	2020-12-31 	Korr kassa + SEB kort 	Korr kassa	4 957,89	 	-54 434,31	
+ 	A 149	 	 	2021-02-25 	Lön Anders 	 	 	4 960,00	-59 394,31	
+ 	A 229	 	 	2021-06-02 	Dustin, Samsung galaxy watch privat 	 	5 673,00	 	-53 721,31	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 4/6	1 500,00	 	-52 221,31	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 11/6	20 000,00	 	-32 221,31	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 24/9	15 000,00	 	-17 221,31	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	Uttag 29/6	10 000,00	 	-7 221,31	
+ 	A 247	 	 	2021-06-25 	Hyra kontorsrum och fiber 201001-210630 	 	 	33 300,00	-40 521,31	
+ 	A 253	 	 	2021-06-29 	Ica  	 	367,00	 	-40 154,31	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	Uttag fordran	10 500,00	 	-29 654,31	
+ 	A 317	 	 	2021-08-31 	SEB kort 	Freepik, saknas	105,45	 	-29 548,86	
+ 	A 317	 	 	2021-08-31 	SEB kort 	Freepik	 	105,45	-29 654,31	
+-------------------------
+ 	 	 	 	Omslutning	 	 	71 111,14	100 765,45	-29 654,31	
+ 	 	 	 	Utgående saldo	 	 	 71 111,14	100 765,45	-29 654,31	
+-------------------------
+2990	Övriga upplupna kostnader och förutbetalda intäkter	
+ 	 	 	 	Ingående balans	 	 	 	 	-12 000,00	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	-12 000,00	
+ 	 	 	 	 	 	 	 	 	-12 000,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,00	0,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 0,00	0,00	-12 000,00	
+-------------------------
+3001	Försäljning inom Sverige, 25 % moms	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 56	 	 	2020-11-06 	FA 2020-012/Enera, 2007-2010 	 	 	82 719,00	-82 719,00	
+ 	A 58	 	 	2020-11-09 	FA 2020-014/Enera, 2011-2012 	 	 	146 250,00	-228 969,00	
+ 	A 136	 	 	2021-02-01 	FA 2021-001/Clariant 	 	 	90 000,00	-318 969,00	
+ 	A 258	 	 	2021-06-30 	FA 2021-004/Enera 	 	 	120 542,50	-439 511,50	
+ 	A 259	 	 	2021-06-30 	FA 2021-005/Profcon 	 	 	15 725,00	-455 236,50	
+ 	A 260	 	 	2021-06-30 	FA 2021-006/Clariant 	 	 	8 232,50	-463 469,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	Ombokning f.å upplupna intäkter	40 000,00	 	-423 469,00	
+ 	I 9	 	 	2021-08-31 	Omföring konton 	Omföring konton	631 470,00	 	208 001,00	
+ 	I 11	 	 	2021-08-31 	Ombokning konton 	Ombokning konton	 	208 001,00	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	671 470,00	671 470,00	0,00	
+ 	 	 	 	Utgående saldo	 	 	 671 470,00	671 470,00	0,00	
+-------------------------
+3010	Försäljning inom Sv	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	Enera	 	106 438,00	-106 438,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	Nibe	 	101 563,00	-208 001,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	142 500,00	-350 501,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	106 190,00	-456 691,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	142 500,00	-599 191,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	142 500,00	-741 691,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	47 500,00	-789 191,00	
+ 	I 3	 	 	2021-08-31 	Upplupna intäkter 	PTA	 	30 000,00	-819 191,00	
+ 	I 9	 	 	2021-08-31 	Omföring konton 	Omföring konton	 	631 470,00	-1 450 661,00	
+ 	I 11	 	 	2021-08-31 	Ombokning konton 	Ombokning konton	208 001,00	 	-1 242 660,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	208 001,00	1 450 661,00	-1 242 660,00	
+ 	 	 	 	Utgående saldo	 	 	 208 001,00	1 450 661,00	-1 242 660,00	
+-------------------------
+3740	Öres- och kronutjämning	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 24	 	 	2020-09-30 	Omföring moms jul-sep 	 	 	0,60	-0,60	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	0,25	 	-0,35	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	0,25	 	-0,10	
+ 	M 1	 	 	2020-12-31 	Momsrapport 2020-10-01 - 2020-12-31 	 	 	0,03	-0,13	
+ 	M 2	 	 	2021-03-31 	Momsrapport 2021-01-01 - 2021-03-31 	 	 	0,12	-0,25	
+ 	A 198	 	 	2021-04-29 	Ekonomigruppen, jul-mar + BS 	 	0,12	 	-0,13	
+ 	M 3	 	 	2021-06-30 	Momsrapport 2021-04-01 - 2021-06-30 	 	0,32	 	0,19	
+-------------------------
+ 	 	 	 	Omslutning	 	 	0,94	0,75	0,19	
+ 	 	 	 	Utgående saldo	 	 	 0,94	0,75	0,19	
+-------------------------
+4000	Inköp av varor från Sverige	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 129	 	 	2021-01-06 	Dustin 	Asus TUF	8 138,00	 	8 138,00	
+ 	A 152	 	 	2021-02-23 	Phoenix Contact, 508,15 EUR 	 	4 093,85	 	12 231,85	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Korr ver 152 Phoenix	 	4 093,85	8 138,00	
+ 	I 9	 	 	2021-08-31 	Omföring konton 	Omföring konton	 	8 138,00	 	
+-------------------------
+ 	 	 	 	Omslutning	 	 	12 231,85	12 231,85	0,00	
+ 	 	 	 	Utgående saldo	 	 	 12 231,85	12 231,85	0,00	
+-------------------------
+4010	Varuinköp	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	I 9	 	 	2021-08-31 	Omföring konton 	Omföring konton	8 138,00	 	8 138,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	8 138,00	0,00	8 138,00	
+ 	 	 	 	Utgående saldo	 	 	 8 138,00	0,00	8 138,00	
+-------------------------
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 1	 	 	2020-09-01 	Digital Ocean, 48,01 USD 	 	480,00	 	480,00	
+ 	A 2	 	 	2020-09-01 	Linode, 105 USD 	 	931,10	 	1 411,10	
+ 	A 8	 	 	2020-09-10 	Lucid Software, 99,95 USD 	 	907,22	 	2 318,32	
+ 	A 9	 	 	2020-09-10 	Netlify, 45 USD 	 	408,46	 	2 726,78	
+ 	A 12	 	 	2020-09-15 	Docker, 12 USD 	 	108,09	 	2 834,87	
+ 	A 13	 	 	2020-09-17 	No-ip, 24,95 USD 	 	226,75	 	3 061,62	
+ 	A 16	 	 	2020-09-20 	npm, 21 USD 	 	189,67	 	3 251,29	
+ 	A 25	 	 	2020-10-01 	Linode, 70,16 USD 	 	649,69	 	3 900,98	
+ 	A 29	 	 	2020-10-06 	Digital Ocean sep-okt, 105,22 USD 	 	1 010,00	 	4 910,98	
+ 	A 32	 	 	2020-10-10 	Netlify, 45 USD 	 	409,33	 	5 320,31	
+ 	A 33	 	 	2020-10-11 	GitHub, 48 USD 	 	436,62	 	5 756,93	
+ 	A 38	 	 	2020-10-15 	Docker, 12 USD 	 	108,75	 	5 865,68	
+ 	A 39	 	 	2020-10-20 	GitHub, 240 USD 	 	2 174,91	 	8 040,59	
+ 	A 40	 	 	2020-10-20 	npm, 21 USD 	 	190,67	 	8 231,26	
+ 	A 50	 	 	2020-11-01 	Linode, 55 USD 	 	504,39	 	8 735,65	
+ 	A 51	 	 	2020-11-02 	Digital Ocean, okt 81,61 USD 	 	783,00	 	9 518,65	
+ 	A 60	 	 	2020-11-10 	Netlify, 45 USD 	 	399,02	 	9 917,67	
+ 	A 61	 	 	2020-11-10 	Harvest, 237,60 USD 	 	2 106,84	 	12 024,51	
+ 	A 62	 	 	2020-11-10 	Docker, 300 USD 	 	2 660,70	 	14 685,21	
+ 	A 71	 	 	2020-11-20 	npm Inc, 21 USD 	 	186,34	 	14 871,55	
+ 	A 89	 	 	2020-12-10 	Netlify, 45 USD 	 	392,30	 	15 263,85	
+ 	A 97	 	 	2020-12-20 	npm Inc, 21 USD 	 	178,79	 	15 442,64	
+ 	A 98	 	 	2020-12-20 	Axosoft Git Kraken, 147 USD 	 	1 251,49	 	16 694,13	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	1/12 Linode, 55 USD	482,95	 	17 177,08	
+ 	A 99	 	 	2020-12-20 	Div köp via kortet 	19/12 Envato, 26 USD	221,35	 	17 398,43	
+ 	A 109	 	 	2021-01-01 	Linode, 55 USD 	 	465,08	 	17 863,51	
+ 	A 111	 	 	2021-01-02 	ngrok, 99 USD 	 	837,15	 	18 700,66	
+ 	A 114	 	 	2021-01-10 	Netlify, 19 USD 	 	320,95	 	19 021,61	
+ 	A 118	 	 	2021-01-20 	npm Inc, 21 USD 	 	181,24	 	19 202,85	
+ 	A 134	 	 	2021-02-01 	Linode 55 USD 	 	472,57	 	19 675,42	
+ 	A 143	 	 	2021-02-10 	Netlify, 38 USD 	 	327,31	 	20 002,73	
+ 	A 147	 	 	2021-02-20 	npm Inc, 21 USD 	 	179,73	 	20 182,46	
+ 	A 151	 	 	2021-02-25 	A Medium Corporation, 50 USD 	 	427,25	 	20 609,71	
+ 	A 155	 	 	2021-03-01 	Linode, 55 USD 	 	473,96	 	21 083,67	
+ 	A 158	 	 	2021-03-02 	Gumroad, 165,54 USD 	 	1 437,48	 	22 521,15	
+ 	A 164	 	 	2021-03-10 	Netlify, 38 USD 	 	334,92	 	22 856,07	
+ 	A 169	 	 	2021-03-20 	npm Inc, 21 USD 	 	184,67	 	23 040,74	
+ 	A 176	 	 	2021-04-01 	Axosoft, 250 USD 	 	2 198,66	 	25 239,40	
+ 	A 178	 	 	2021-04-01 	Linode, 55 USD 	 	494,15	 	25 733,55	
+ 	A 189	 	 	2021-04-20 	npm Inc, 21 USD 	 	182,56	 	25 916,11	
+ 	A 206	 	 	2021-05-01 	Linode, 55 USD 	 	476,92	 	26 393,03	
+ 	A 214	 	 	2021-05-20 	npm Inc, 21 USD 	 	179,53	 	26 572,56	
+ 	A 220	 	 	2021-05-27 	CircleCi, 30 USD 	 	255,81	 	26 828,37	
+ 	A 237	 	 	2021-06-06 	Todoist, 36 USD 	 	309,57	 	27 137,94	
+ 	A 243	 	 	2021-06-20 	npm inc, 21 USD 	 	185,97	 	27 323,91	
+ 	A 244	 	 	2021-06-21 	GitHub, 240 USD 	 	2 125,31	 	29 449,22	
+ 	A 248	 	 	2021-06-27 	CircleCi, 30 USD 	 	261,15	 	29 710,37	
+ 	A 279	 	 	2021-07-20 	npm inc, 21 USD 	 	187,88	 	29 898,25	
+ 	A 282	 	 	2021-07-27 	CircleGi, 15 + 30 USD 	 	402,63	 	30 300,88	
+ 	A 304	 	 	2021-08-20 	npm inc, 21 USD 	 	189,66	 	30 490,54	
+ 	A 312	 	 	2021-08-27 	CircleCi, 30 USD 	 	268,55	 	30 759,09	
+-------------------------
+ 	 	 	 	Omslutning	 	 	30 759,09	0,00	30 759,09	
+ 	 	 	 	Utgående saldo	 	 	 30 759,09	0,00	30 759,09	
+-------------------------
+4535	Inköp av tjänster från annat EU-land, 25 %	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 11	 	 	2020-09-13 	Microsoft office 	 	109,20	 	109,20	
+ 	A 37	 	 	2020-10-13 	Microsoft 365 business 	 	109,20	 	218,40	
+ 	A 52	 	 	2020-11-02 	Gumroad Inc, 159,34 EUR 	 	1 460,22	 	1 678,62	
+ 	A 68	 	 	2020-11-13 	Microsoft 365 business 	 	109,20	 	1 787,82	
+ 	A 70	 	 	2020-11-14 	Team Viewer 	 	4 188,00	 	5 975,82	
+ 	A 81	 	 	2020-12-02 	Gumroad, 165,77 EUR 	 	1 452,43	 	7 428,25	
+ 	A 91	 	 	2020-12-13 	LogMeIn, 44 EUR 	 	462,42	 	7 890,67	
+ 	A 92	 	 	2020-12-13 	Microsoft 365 business 	 	109,20	 	7 999,87	
+ 	A 95	 	 	2020-12-16 	Digital Ocean, nov 70,98 USD 	 	681,00	 	8 680,87	
+ 	A 110	 	 	2021-01-02 	Gumroad, 166,24 USD 	 	1 405,73	 	10 086,60	
+ 	A 117	 	 	2021-01-13 	Microsoft 365 business 	 	109,20	 	10 195,80	
+ 	A 137	 	 	2021-02-02 	Gumroad, 137 Euro 	 	1 427,22	 	11 623,02	
+ 	A 146	 	 	2021-02-13 	Microsoft office 365 	 	109,20	 	11 732,22	
+ 	A 161	 	 	2021-03-05 	Logopony, 12 EUR 	 	623,89	 	12 356,11	
+ 	A 162	 	 	2021-03-08 	Digital Ocean, feb, 28,55 USD 	 	264,09	 	12 620,20	
+ 	A 168	 	 	2021-03-13 	Microsoft 365 business 	 	109,20	 	12 729,40	
+ 	A 171	 	 	2021-03-23 	Smashing Media, 44 EUR 	 	458,19	 	13 187,59	
+ 	A 180	 	 	2021-04-02 	Gumroad Inc, 161,14 USD 	 	1 443,45	 	14 631,04	
+ 	A 181	 	 	2021-04-02 	Logopony, 100 USD 	 	895,77	 	15 526,81	
+ 	A 182	 	 	2021-04-04 	Material-UI 99 USD 	 	886,82	 	16 413,63	
+ 	A 184	 	 	2021-04-05 	Material-UI, 40 USD 	 	358,32	 	16 771,95	
+ 	A 185	 	 	2021-04-05 	Material-UI, 40 USD 	 	358,32	 	17 130,27	
+ 	A 200	 	 	2021-04-06 	Digital Ocean, 42,99+53,17 USD 	 	911,60	 	18 041,87	
+ 	A 201	 	 	2021-04-06 	Digitalocean, 27,38 USD 	 	279,00	 	18 320,87	
+ 	A 188	 	 	2021-04-13 	Microsoft Online services 	 	109,20	 	18 430,07	
+ 	A 207	 	 	2021-05-01 	Digital Ocean, 38,84 USD 	 	336,79	 	18 766,86	
+ 	A 208	 	 	2021-05-02 	Gumroad, 164,67 USD 	 	1 427,90	 	20 194,76	
+ 	A 211	 	 	2021-05-13 	Microsoft  	 	109,20	 	20 303,96	
+ 	A 213	 	 	2021-05-17 	Utlägg Victor/Digital Ocean, 30,13 USD 	 	304,01	 	20 607,97	
+ 	A 222	 	 	2021-06-01 	Digital ocean, FA 425849713: 32,42 USD 	 	277,19	 	20 885,16	
+ 	A 223	 	 	2021-06-01 	Digital Ocean FA 425549232: 50 USD 	 	427,72	 	21 312,88	
+ 	A 224	 	 	2021-06-01 	Linode 55 USD 	 	470,49	 	21 783,37	
+ 	A 226	 	 	2021-06-02 	Gumroad, 167,28 USD 	 	1 423,84	 	23 207,21	
+ 	A 232	 	 	2021-06-04 	Meisterlabs, 166,38 Euro 	 	1 721,10	 	24 928,31	
+ 	A 240	 	 	2021-06-13 	Microsoft Business 365 	 	109,20	 	25 037,51	
+ 	A 242	 	 	2021-06-19 	Dropbox, 119,88 Euro 	 	1 254,35	 	26 291,86	
+ 	A 263	 	 	2021-07-01 	Digital Ocean, FA 426657330: 50 USD 	 	441,50	 	26 733,36	
+ 	A 264	 	 	2021-07-01 	Linode, 55 USD 	 	484,21	 	27 217,57	
+ 	A 265	 	 	2021-07-01 	Digital Ocean FA 426381258: 35,69 USD 	 	315,14	 	27 532,71	
+ 	A 267	 	 	2021-07-02 	Gumroad, 162,55 USD 	 	1 435,73	 	28 968,44	
+ 	A 277	 	 	2021-07-12 	Microsoft Business 365 	 	109,20	 	29 077,64	
+ 	A 289	 	 	2021-08-01 	Digital Ocean FA 427663177: 50 USD 	 	441,30	 	29 518,94	
+ 	A 290	 	 	2021-08-01 	Linode, 55 USD 	 	485,43	 	30 004,37	
+ 	A 293	 	 	2021-08-02 	Gumroad, 162,63 USD 	 	1 440,93	 	31 445,30	
+ 	A 301	 	 	2021-08-13 	Microsoft Buisness 365 	 	109,20	 	31 554,50	
+ 	A 317	 	 	2021-08-31 	SEB kort 	Freepik 9,99 EUR	105,45	 	31 659,95	
+-------------------------
+ 	 	 	 	Omslutning	 	 	31 659,95	0,00	31 659,95	
+ 	 	 	 	Utgående saldo	 	 	 31 659,95	0,00	31 659,95	
+-------------------------
+5010	Lokalhyra	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 5	 	 	2020-09-03 	Hyra kontorsrum, aug-sep 	 	7 000,00	 	7 000,00	
+ 	A 247	 	 	2021-06-25 	Hyra kontorsrum och fiber 201001-210630 	 	31 500,00	 	38 500,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	38 500,00	0,00	38 500,00	
+ 	 	 	 	Utgående saldo	 	 	 38 500,00	0,00	38 500,00	
+-------------------------
+5200	Hyra av anläggningstillgångar (gruppkonto)	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 3	 	 	2020-09-02 	Dustin 	Lenovo Ideacentre	1 600,00	 	1 600,00	
+ 	A 4	 	 	2020-09-02 	Dustin 	Lenovo ideapad, okt-dec	974,00	 	2 574,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	2 574,00	0,00	2 574,00	
+ 	 	 	 	Utgående saldo	 	 	 2 574,00	0,00	2 574,00	
+-------------------------
+5214	Försäkring hyrda inventarier	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 3	 	 	2020-09-02 	Dustin 	Lenovo Ideacentre	118,00	 	118,00	
+ 	A 4	 	 	2020-09-02 	Dustin 	Lenovo ideapad	72,00	 	190,00	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	118,00	 	308,00	
+ 	A 225	 	 	2021-06-02 	Dustin, Lenovo ideapad 	 	72,00	 	380,00	
+ 	A 227	 	 	2021-06-02 	Dustin, ideacentre 	 	118,00	 	498,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	498,00	0,00	498,00	
+ 	 	 	 	Utgående saldo	 	 	 498,00	0,00	498,00	
+-------------------------
+5220	Hyra av inventarier och verktyg	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	1 600,00	 	1 600,00	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	974,00	 	2 574,00	
+ 	A 156	 	 	2021-03-02 	De Lage landen/Dustin 	Lenovo ideapad	1 131,00	 	3 705,00	
+ 	A 157	 	 	2021-03-02 	De Lage landen/Dustin 	Lenovo ideacentre	1 803,00	 	5 508,00	
+ 	A 225	 	 	2021-06-02 	Dustin, Lenovo ideapad 	 	1 059,25	 	6 567,25	
+ 	A 227	 	 	2021-06-02 	Dustin, ideacentre 	 	1 685,25	 	8 252,50	
+-------------------------
+ 	 	 	 	Omslutning	 	 	8 252,50	0,00	8 252,50	
+ 	 	 	 	Utgående saldo	 	 	 8 252,50	0,00	8 252,50	
+-------------------------
+5410	Förbrukningsinventarier	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 15	 	 	2020-09-18 	Ikea, skrivbord 	 	956,00	 	956,00	
+ 	A 96	 	 	2020-12-18 	Kjell & company, Asus router 	 	1 032,00	 	1 988,00	
+ 	A 130	 	 	2021-01-11 	Dustin 	Canon Pixma, Canon ink	2 227,00	 	4 215,00	
+ 	A 131	 	 	2021-01-22 	Dustin 	HP office jet	1 538,00	 	5 753,00	
+ 	A 165	 	 	2021-03-11 	Ikea, skrivbord 	 	2 194,40	 	7 947,40	
+ 	A 202	 	 	2021-04-06 	Phoenix Contact, 508,15 EUR 	 	4 093,86	 	12 041,26	
+ 	A 192	 	 	2021-04-23 	Dustin 	 	628,00	 	12 669,26	
+ 	A 250	 	 	2021-06-28 	Dustin 	 	584,00	 	13 253,26	
+ 	A 272	 	 	2021-07-05 	Dustin, Samsung Galaxy tab 	 	2 770,50	 	16 023,76	
+ 	A 300	 	 	2021-08-13 	Conrad 	 	242,40	 	16 266,16	
+-------------------------
+ 	 	 	 	Omslutning	 	 	16 266,16	0,00	16 266,16	
+ 	 	 	 	Utgående saldo	 	 	 16 266,16	0,00	16 266,16	
+-------------------------
+5420	Programvaror	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 34	 	 	2020-10-11 	Microsoft, 365 family 	 	719,20	 	719,20	
+ 	A 49	 	 	2020-11-01 	Google 	 	18,40	 	737,60	
+ 	A 255	 	 	2021-06-30 	Google play 	 	159,20	 	896,80	
+ 	A 256	 	 	2021-06-30 	Google play 	 	111,20	 	1 008,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 008,00	0,00	1 008,00	
+ 	 	 	 	Utgående saldo	 	 	 1 008,00	0,00	1 008,00	
+-------------------------
+5460	Förbrukningsmaterial	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 303	 	 	2021-08-19 	kjell & Company 	 	279,92	 	279,92	
+-------------------------
+ 	 	 	 	Omslutning	 	 	279,92	0,00	279,92	
+ 	 	 	 	Utgående saldo	 	 	 279,92	0,00	279,92	
+-------------------------
+5520	Reparation och underhåll av inventarier, verktyg och datorer m.m.	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 314	 	 	2021-08-30 	Beckhoff 	 	11 834,00	 	11 834,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	11 834,00	0,00	11 834,00	
+ 	 	 	 	Utgående saldo	 	 	 11 834,00	0,00	11 834,00	
+-------------------------
+5612	Försäkring och skatt för personbilar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	400,00	 	400,00	
+ 	A 27	 	 	2020-10-03 	Transportstyrelsen, BHK73G 	 	3 311,00	 	3 711,00	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	400,00	 	4 111,00	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	400,00	 	4 511,00	
+ 	A 57	 	 	2020-11-07 	Transportstyrelsen, OJZ 	 	689,00	 	5 200,00	
+ 	A 83	 	 	2020-12-05 	Volkswagen, BHK 	 	400,00	 	5 600,00	
+ 	A 113	 	 	2021-01-05 	Volkswagen, BHK 	 	400,00	 	6 000,00	
+ 	A 116	 	 	2021-01-11 	BMW originalförsäkring, OJZ 	 	4 830,00	 	10 830,00	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	400,00	 	11 230,00	
+ 	A 140	 	 	2021-02-06 	Transportstyrelsen, BHK 	 	3 311,00	 	14 541,00	
+ 	A 160	 	 	2021-03-05 	Volkswagen Financial, BHK 	 	460,00	 	15 001,00	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	460,00	 	15 461,00	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	460,00	 	15 921,00	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	460,00	 	16 381,00	
+ 	A 235	 	 	2021-06-05 	Transportstyrelsen, BHK 	 	3 376,00	 	19 757,00	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	460,00	 	20 217,00	
+ 	A 274	 	 	2021-07-12 	BMW originalförsäkring 	 	4 830,00	 	25 047,00	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	460,00	 	25 507,00	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Omföring f.å förutbetalda kostnader	400,00	 	25 907,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	25 907,00	0,00	25 907,00	
+ 	 	 	 	Utgående saldo	 	 	 25 907,00	0,00	25 907,00	
+-------------------------
+5613	Reparation och underhåll av personbilar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 72	 	 	2020-11-23 	Backalycka Service, OJZ 	 	672,00	 	672,00	
+ 	A 82	 	 	2020-12-02 	Backalycka Service, BHK 	 	672,00	 	1 344,00	
+ 	A 102	 	 	2020-12-23 	Mjuk Biltvätt 	 	1 880,00	 	3 224,00	
+ 	A 125	 	 	2021-01-27 	Bilia Group, OJZ 	 	7 728,00	 	10 952,00	
+ 	A 187	 	 	2021-04-12 	Backalycka OJZ946 	 	672,00	 	11 624,00	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	299,00	 	11 923,00	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	299,00	 	12 222,00	
+ 	A 311	 	 	2021-08-26 	Mjuk Biltvätt 	 	223,20	 	12 445,20	
+ 	A 319	 	 	2021-08-31 	Bortbokning gamla lev.skulder 	Backalycka	840,00	 	13 285,20	
+-------------------------
+ 	 	 	 	Omslutning	 	 	13 285,20	0,00	13 285,20	
+ 	 	 	 	Utgående saldo	 	 	 13 285,20	0,00	13 285,20	
+-------------------------
+5614	Serviceavtal bil	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	299,00	 	299,00	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	299,00	 	598,00	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	299,00	 	897,00	
+ 	A 83	 	 	2020-12-05 	Volkswagen, BHK 	 	299,00	 	1 196,00	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	72,00	 	1 268,00	
+ 	A 113	 	 	2021-01-05 	Volkswagen, BHK 	 	299,00	 	1 567,00	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	299,00	 	1 866,00	
+ 	A 160	 	 	2021-03-05 	Volkswagen Financial, BHK 	 	299,00	 	2 165,00	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	299,00	 	2 464,00	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	299,00	 	2 763,00	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	299,00	 	3 062,00	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Omföring f.å förutbetalda kostnader	299,00	 	3 361,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	3 361,00	0,00	3 361,00	
+ 	 	 	 	Utgående saldo	 	 	 3 361,00	0,00	3 361,00	
+-------------------------
+5615	Leasing av personbilar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	6 633,73	 	6 633,73	
+ 	A 18	 	 	2020-09-22 	BMW Financial, OJZ 	 	3 094,01	 	9 727,74	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	6 618,00	 	16 345,74	
+ 	A 42	 	 	2020-10-27 	BMW Financial OJZ946 	 	2 813,50	 	19 159,24	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	6 606,23	 	25 765,47	
+ 	A 73	 	 	2020-11-24 	BMW, OJZ 	 	2 813,50	 	28 578,97	
+ 	A 83	 	 	2020-12-05 	Volkswagen, BHK 	 	6 606,30	 	35 185,27	
+ 	A 88	 	 	2020-12-08 	BMW, OJZ 	 	2 813,40	 	37 998,67	
+ 	A 113	 	 	2021-01-05 	Volkswagen, BHK 	 	6 613,45	 	44 612,12	
+ 	A 122	 	 	2021-01-26 	BMW, OJZ 	 	3 370,53	 	47 982,65	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	6 633,00	 	54 615,65	
+ 	A 153	 	 	2021-02-23 	BMW Financial 	 	2 813,40	 	57 429,05	
+ 	A 160	 	 	2021-03-05 	Volkswagen Financial, BHK 	 	6 635,06	 	64 064,11	
+ 	A 170	 	 	2021-03-23 	BMW Financial, OJZ 	 	2 789,03	 	66 853,14	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	6 608,00	 	73 461,14	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	 	2 813,50	 	76 274,64	
+ 	A 203	 	 	2021-04-06 	210223 BMW Financial, april 	Dubbelbokförd	 	2 813,50	73 461,14	
+ 	A 194	 	 	2021-04-27 	BMW Financial, OJZ946, juni 	 	2 806,50	 	76 267,64	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	6 615,28	 	82 882,92	
+ 	A 221	 	 	2021-05-31 	If/trafiksjälvrisk BHK73G + BMW 	BMW, juli OJZ	2 806,00	 	85 688,92	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	6 598,24	 	92 287,16	
+ 	A 245	 	 	2021-06-22 	BMW Financial, OJZ 	 	2 806,97	 	95 094,13	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	6 585,70	 	101 679,83	
+ 	A 283	 	 	2021-07-27 	BMW Financial, sep 	 	2 806,15	 	104 485,98	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	6 602,63	 	111 088,61	
+ 	A 306	 	 	2021-08-24 	BMW Financial, okt 	 	2 806,16	 	113 894,77	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Volkswagen Finans	 	6 602,00	107 292,77	
+ 	I 2	 	 	2021-08-31 	Förutbetalda kostnader 	Omföring f.å förutbetalda kostnader	6 627,00	 	113 919,77	
+ 	I 4	 	 	2021-08-31 	Förutbetalda leasingkostnader 	Volkswagen Finans, BHK	19 545,00	 	133 464,77	
+-------------------------
+ 	 	 	 	Omslutning	 	 	142 880,27	9 415,50	133 464,77	
+ 	 	 	 	Utgående saldo	 	 	 142 880,27	9 415,50	133 464,77	
+-------------------------
+5700	Frakter och transporter (gruppkonto)	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 273	 	 	2021-07-08 	Posten 	 	152,00	 	152,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	152,00	0,00	152,00	
+ 	 	 	 	Utgående saldo	 	 	 152,00	0,00	152,00	
+-------------------------
+5831	Kost och logi i Sverige	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	973,21	 	973,21	
+ 	A 186	 	 	2021-04-08 	Scandic, hotell 6-8 april 	 	1 062,50	 	2 035,71	
+-------------------------
+ 	 	 	 	Omslutning	 	 	2 035,71	0,00	2 035,71	
+ 	 	 	 	Utgående saldo	 	 	 2 035,71	0,00	2 035,71	
+-------------------------
+6062	Inkasso och KFM-avgifter	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 217	 	 	2021-05-27 	Svea Inkasso 	 	180,00	 	180,00	
+ 	A 234	 	 	2021-06-04 	 Intrum/Dustin 	 	180,00	 	360,00	
+ 	A 241	 	 	2021-06-15 	KFM/Dustin 	 	860,00	 	1 220,00	
+ 	A 285	 	 	2021-07-30 	Svea inkasso/Volkswagen 	 	450,00	 	1 670,00	
+ 	A 294	 	 	2021-08-03 	Intrum/Dustin 	 	180,00	 	1 850,00	
+ 	A 296	 	 	2021-08-04 	Intrum/BMW 	 	180,00	 	2 030,00	
+ 	A 298	 	 	2021-08-10 	Intrum/Dustin 	 	180,00	 	2 210,00	
+ 	A 299	 	 	2021-08-12 	Svea Inkasso/Volkswagen 	 	450,00	 	2 660,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	2 660,00	0,00	2 660,00	
+ 	 	 	 	Utgående saldo	 	 	 2 660,00	0,00	2 660,00	
+-------------------------
+6072	Representation, ej avdragsgill	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 239	 	 	2021-06-09 	Särö Blomstermåla x 2 	 	318,74	 	318,74	
+ 	A 262	 	 	2021-07-01 	Masala Kitchen x 2 	 	176,78	 	495,52	
+-------------------------
+ 	 	 	 	Omslutning	 	 	495,52	0,00	495,52	
+ 	 	 	 	Utgående saldo	 	 	 495,52	0,00	495,52	
+-------------------------
+6110	Kontorsmateriel	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 257	 	 	2021-06-30 	Kifab 	 	426,35	 	426,35	
+-------------------------
+ 	 	 	 	Omslutning	 	 	426,35	0,00	426,35	
+ 	 	 	 	Utgående saldo	 	 	 426,35	0,00	426,35	
+-------------------------
+6212	Mobiltelefon	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 126	 	 	2020-12-01 	Telia fakt.dag 200915 	 	2 136,00	 	2 136,00	
+ 	A 127	 	 	2020-12-11 	Telia 	 	2 196,00	 	4 332,00	
+ 	A 177	 	 	2021-04-01 	Telia, 210312 	 	1 522,32	 	5 854,32	
+ 	A 209	 	 	2021-05-04 	Tele2 	 	754,49	 	6 608,81	
+ 	A 233	 	 	2021-06-04 	Tele2 	 	481,60	 	7 090,41	
+ 	A 269	 	 	2021-07-04 	Tele2 	 	458,50	 	7 548,91	
+ 	A 295	 	 	2021-08-04 	Tele2 	 	518,50	 	8 067,41	
+ 	A 319	 	 	2021-08-31 	Bortbokning gamla lev.skulder 	Telenor, gammal kredit	226,00	 	8 293,41	
+-------------------------
+ 	 	 	 	Omslutning	 	 	8 293,41	0,00	8 293,41	
+ 	 	 	 	Utgående saldo	 	 	 8 293,41	0,00	8 293,41	
+-------------------------
+6230	Datakommunikation	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 5	 	 	2020-09-03 	Hyra kontorsrum, aug-sep 	 	400,00	 	400,00	
+ 	A 247	 	 	2021-06-25 	Hyra kontorsrum och fiber 201001-210630 	 	1 800,00	 	2 200,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	2 200,00	0,00	2 200,00	
+ 	 	 	 	Utgående saldo	 	 	 2 200,00	0,00	2 200,00	
+-------------------------
+6310	Företagsförsäkringar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 36	 	 	2020-10-23 	If, 201120-211119 	 	3 991,00	 	3 991,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	3 991,00	0,00	3 991,00	
+ 	 	 	 	Utgående saldo	 	 	 3 991,00	0,00	3 991,00	
+-------------------------
+6320	Självrisker vid skada	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 221	 	 	2021-05-31 	If/trafiksjälvrisk BHK73G + BMW 	IF trafiksjälvrisk	4 760,00	 	4 760,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	4 760,00	0,00	4 760,00	
+ 	 	 	 	Utgående saldo	 	 	 4 760,00	0,00	4 760,00	
+-------------------------
+6420	Ersättningar till revisor	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 94	 	 	2020-12-15 	R3, arvode utlåtande 	 	1 600,00	 	1 600,00	
+ 	A 123	 	 	2021-01-27 	R3, 19/20 	 	12 000,00	 	13 600,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	13 600,00	0,00	13 600,00	
+ 	 	 	 	Utgående saldo	 	 	 13 600,00	0,00	13 600,00	
+-------------------------
+6530	Redovisningstjänster	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 198	 	 	2021-04-29 	Ekonomigruppen, jul-mar + BS 	 	10 237,50	 	10 237,50	
+-------------------------
+ 	 	 	 	Omslutning	 	 	10 237,50	0,00	10 237,50	
+ 	 	 	 	Utgående saldo	 	 	 10 237,50	0,00	10 237,50	
+-------------------------
+6540	IT-tjänster	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 14	 	 	2020-09-17 	Oderland Webbhotell #314242 	 	120,00	 	120,00	
+ 	A 76	 	 	2020-11-30 	Oderland #328082 	 	2 004,00	 	2 124,00	
+ 	A 128	 	 	2021-01-29 	Oderland #326135 	 	120,00	 	2 244,00	
+ 	A 141	 	 	2021-02-06 	Oderland #341214 	 	399,00	 	2 643,00	
+ 	A 142	 	 	2021-02-06 	Oderland #341202 	 	130,00	 	2 773,00	
+ 	A 179	 	 	2021-04-02 	Oderland Webbhotell #351605 	 	468,00	 	3 241,00	
+ 	A 190	 	 	2021-04-20 	Oderland Webbhotell #343916 	 	130,00	 	3 371,00	
+ 	A 266	 	 	2021-07-02 	Oderland #367227 	 	99,00	 	3 470,00	
+ 	A 271	 	 	2021-07-05 	Oderland #367747 	 	99,00	 	3 569,00	
+ 	A 292	 	 	2021-08-02 	Loopia 	 	366,40	 	3 935,40	
+ 	A 313	 	 	2021-08-28 	Oderland #377743 	 	229,00	 	4 164,40	
+-------------------------
+ 	 	 	 	Omslutning	 	 	4 164,40	0,00	4 164,40	
+ 	 	 	 	Utgående saldo	 	 	 4 164,40	0,00	4 164,40	
+-------------------------
+6570	Bankkostnader	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 21	 	 	2020-09-30 	SEB bankavgifter 	2/9	100,00	 	100,00	
+ 	A 21	 	 	2020-09-30 	SEB bankavgifter 	30/9	303,00	 	403,00	
+ 	A 47	 	 	2020-10-30 	Banktjänster 	 	103,00	 	506,00	
+ 	A 80	 	 	2020-12-01 	SEB banktjänster 	 	100,00	 	606,00	
+ 	A 107	 	 	2020-12-31 	Bet leverantörer december 	1/12 SEB kort	50,00	 	656,00	
+ 	A 112	 	 	2021-01-04 	SEB banktjänster 	 	100,00	 	756,00	
+ 	A 135	 	 	2021-02-01 	SEB banktjänster 	 	100,00	 	856,00	
+ 	A 159	 	 	2021-03-03 	SEB banktjänster 	 	100,00	 	956,00	
+ 	A 174	 	 	2021-03-31 	SEB banktjänster 	 	103,00	 	1 059,00	
+ 	A 199	 	 	2021-04-30 	SEB banktjänster 	 	100,00	 	1 159,00	
+ 	A 230	 	 	2021-06-03 	SEB banktjänster 	 	100,00	 	1 259,00	
+ 	A 254	 	 	2021-06-30 	SEB banktjänster 	 	100,00	 	1 359,00	
+ 	A 291	 	 	2021-08-02 	SEB banktjänster 	 	103,00	 	1 462,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 462,00	0,00	1 462,00	
+ 	 	 	 	Utgående saldo	 	 	 1 462,00	0,00	1 462,00	
+-------------------------
+6991	Övriga externa kostnader, avdragsgilla	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 228	 	 	2021-06-02 	Transportstyrelsen, BHK 	 	500,00	 	500,00	
+ 	A 276	 	 	2021-07-12 	Transportstyrelsen 	 	100,00	 	600,00	
+ 	I 1	 	 	2021-08-31 	Bortbokning gammal fordran Trptstyrelsen 	Bortbokning gammal fordran Trptstyrelsen	500,00	 	1 100,00	
+ 	I 6	 	 	2021-08-31 	Bortbokning restskuld SEB 	Bortbokning restskuld SEB	 	16,00	1 084,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 100,00	16,00	1 084,00	
+ 	 	 	 	Utgående saldo	 	 	 1 100,00	16,00	1 084,00	
+-------------------------
+6992	Övriga externa kostnader, ej avdragsgilla	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 166	 	 	2021-03-12 	Förseningsavgift SKV 	 	625,00	 	625,00	
+ 	A 249	 	 	2021-06-28 	Förseningsavgift SKV + F-skatt 	 	625,00	 	1 250,00	
+ 	A 302	 	 	2021-08-17 	Skattekontot 	Förseningsavgift	625,00	 	1 875,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 875,00	0,00	1 875,00	
+ 	 	 	 	Utgående saldo	 	 	 1 875,00	0,00	1 875,00	
+-------------------------
+7010	Löner till kollektivanställda	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 320	 	 	2021-08-10 	Lön Viktor 	 	9 600,00	 	9 600,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	9 600,00	0,00	9 600,00	
+ 	 	 	 	Utgående saldo	 	 	 9 600,00	0,00	9 600,00	
+-------------------------
+7220	Löner till företagsledare	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 19	 	 	2020-09-25 	Lön Anders 	Bil 9262 kr	58 871,00	 	58 871,00	
+ 	A 41	 	 	2020-10-25 	Anders lön 	Bilförmån 9262 kr	50 354,00	 	109 225,00	
+ 	A 74	 	 	2020-11-25 	Lön Anders 	Bilförmån 9262 kr	50 354,00	 	159 579,00	
+ 	A 103	 	 	2020-12-23 	Anders lön 	Bilförmån 9262 kr	81 175,00	 	240 754,00	
+ 	A 120	 	 	2021-01-25 	Lön Anders 	Bilförmån 9256 kr	1 688,00	 	242 442,00	
+ 	A 149	 	 	2021-02-25 	Lön Anders 	Bil 9256 kr	30 000,00	 	272 442,00	
+ 	A 172	 	 	2021-03-25 	Lön Anders, bil 9256 kr 	 	51 469,00	 	323 911,00	
+ 	A 191	 	 	2021-04-21 	Anders lön 	Bil 9256 kr	37 183,00	 	361 094,00	
+ 	A 215	 	 	2021-05-25 	Lön Anders 	Bil x 2 = 9256 kr	65 754,00	 	426 848,00	
+ 	A 246	 	 	2021-06-25 	Anders lön, bil 6344 + 2912 	 	1 688,00	 	428 536,00	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	 	37 755,00	 	466 291,00	
+ 	A 307	 	 	2021-08-25 	Lön Anders, bil 6344 + 2912 kr 	 	51 688,00	 	517 979,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	517 979,00	0,00	517 979,00	
+ 	 	 	 	Utgående saldo	 	 	 517 979,00	0,00	517 979,00	
+-------------------------
+7331	Skattefria bilersättningar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 281	 	 	2021-07-25 	Lön Anders, bil 6344 + 2912 kr 	Milersättning	9 253,00	 	9 253,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	9 253,00	0,00	9 253,00	
+ 	 	 	 	Utgående saldo	 	 	 9 253,00	0,00	9 253,00	
+-------------------------
+7510	Arbetsgivaravgifter 31,42 %	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 10	 	 	2020-09-17 	SKV skd 	 	12 107,00	 	12 107,00	
+ 	A 35	 	 	2020-10-12 	SKV skd sep 	 	21 407,00	 	33 514,00	
+ 	A 66	 	 	2020-11-12 	SKV skd okt 	 	18 731,00	 	52 245,00	
+ 	A 121	 	 	2021-01-04 	SKV skd november 	 	18 731,00	 	70 976,00	
+ 	A 119	 	 	2021-01-20 	SKV skd december 	 	28 415,00	 	99 391,00	
+ 	A 145	 	 	2021-02-12 	SKV skd 	 	3 438,00	 	102 829,00	
+ 	A 167	 	 	2021-03-12 	SKV skd 	 	12 334,00	 	115 163,00	
+ 	A 197	 	 	2021-04-22 	SKV AGA mars 	 	19 079,00	 	134 242,00	
+ 	A 216	 	 	2021-05-26 	SKV skd 	 	14 591,00	 	148 833,00	
+ 	A 308	 	 	2021-08-25 	SKV skd för majlöner 	 	23 568,00	 	172 401,00	
+ 	A 309	 	 	2021-08-25 	SKV skd för juni-löner 	 	3 438,00	 	175 839,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	 	3 438,00	 	179 277,00	
+ 	A 310	 	 	2021-08-25 	SKV skd för juli-löner 	Rättelse 210902	11 332,00	 	190 609,00	
+ 	I 8	 	 	2021-08-31 	Upplupen AGA 	Upplupen AGA	22 164,00	 	212 773,00	
+ 	I 8	 	 	2021-08-31 	Upplupen AGA 	Omföring f.å AGA	 	12 107,00	200 666,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	212 773,00	12 107,00	200 666,00	
+ 	 	 	 	Utgående saldo	 	 	 212 773,00	12 107,00	200 666,00	
+-------------------------
+7570	Premier för arbetsmarknadsförsäkringar	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 139	 	 	2021-02-05 	Fora 	 	552,00	 	552,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	552,00	0,00	552,00	
+ 	 	 	 	Utgående saldo	 	 	 552,00	0,00	552,00	
+-------------------------
+8400	Räntekostnader (gruppkonto)	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 18	 	 	2020-09-22 	BMW Financial, OJZ 	 	14,49	 	14,49	
+ 	A 20	 	 	2020-09-30 	SEB lånebetalning 	 	76,18	 	90,67	
+ 	A 28	 	 	2020-10-05 	Volkswagen, BHK 	 	75,00	 	165,67	
+ 	A 46	 	 	2020-10-30 	SEB lånebetalning 	 	60,65	 	226,32	
+ 	A 54	 	 	2020-11-04 	Volkswagen BHK 	 	75,00	 	301,32	
+ 	A 77	 	 	2020-11-30 	SEB lånebetalning 	 	50,16	 	351,48	
+ 	A 106	 	 	2020-12-30 	SEB lånebetalning 	 	36,43	 	387,91	
+ 	A 133	 	 	2021-02-01 	SEB lånebetalning 	 	25,13	 	413,04	
+ 	A 138	 	 	2021-02-04 	Volkswagen Finans, BHK 	 	75,00	 	488,04	
+ 	A 154	 	 	2021-03-01 	SEB lånebetalning 	 	11,84	 	499,88	
+ 	A 170	 	 	2021-03-23 	BMW Financial, OJZ 	 	19,97	 	519,85	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	75,00	 	594,85	
+ 	A 194	 	 	2021-04-27 	BMW Financial, OJZ946, juni 	 	12,50	 	607,35	
+ 	A 210	 	 	2021-05-05 	Volkswagen Finans, BHK 	 	75,00	 	682,35	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	142,76	 	825,11	
+ 	A 234	 	 	2021-06-04 	 Intrum/Dustin 	 	4,99	 	830,10	
+ 	A 245	 	 	2021-06-22 	BMW Financial, OJZ 	 	31,19	 	861,29	
+ 	A 251	 	 	2021-06-29 	SEB kort räntefaktura 	 	128,77	 	990,06	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	81,84	 	1 071,90	
+ 	A 294	 	 	2021-08-03 	Intrum/Dustin 	 	4,16	 	1 076,06	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	159,02	 	1 235,08	
+ 	A 298	 	 	2021-08-10 	Intrum/Dustin 	 	19,73	 	1 254,81	
+ 	A 306	 	 	2021-08-24 	BMW Financial, okt 	 	85,99	 	1 340,80	
+ 	A 315	 	 	2021-08-31 	SEB kort 	 	78,12	 	1 418,92	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 418,92	0,00	1 418,92	
+ 	 	 	 	Utgående saldo	 	 	 1 418,92	0,00	1 418,92	
+-------------------------
+8423	Räntekostnader för skatter och avgifter	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 7	 	 	2020-09-05 	Ränta skattekontot 	 	1 330,00	 	1 330,00	
+ 	A 26	 	 	2020-10-03 	Ränta skattekontot 	 	1 907,00	 	3 237,00	
+ 	A 31	 	 	2020-10-09 	Inbet KFM 	 	677,00	 	3 914,00	
+ 	A 31	 	 	2020-10-09 	Inbet KFM 	 	31,00	 	3 945,00	
+ 	A 79	 	 	2020-11-01 	Ränta skattekontot 	 	11 359,00	 	15 304,00	
+ 	A 79	 	 	2020-11-01 	Ränta skattekontot 	 	3 988,00	 	19 292,00	
+ 	A 84	 	 	2020-12-05 	Ränta skattekontot 	 	 	1 030,00	18 262,00	
+ 	A 84	 	 	2020-12-05 	Ränta skattekontot 	 	747,00	 	19 009,00	
+ 	A 93	 	 	2020-12-14 	Förseningsavgift SKD 	 	625,00	 	19 634,00	
+ 	A 100	 	 	2020-12-21 	Återbet fr KFM 	 	 	77,00	19 557,00	
+ 	A 105	 	 	2020-12-28 	Försningsavgift SKD 	 	625,00	 	20 182,00	
+ 	A 193	 	 	2021-04-26 	Förseningsavgift SKV 	26/4	625,00	 	20 807,00	
+ 	A 193	 	 	2021-04-26 	Förseningsavgift SKV 	12/4	625,00	 	21 432,00	
+ 	A 205	 	 	2021-05-01 	Ränta skattekontot 	 	416,00	 	21 848,00	
+ 	A 205	 	 	2021-05-01 	Ränta skattekontot 	 	745,00	 	22 593,00	
+ 	A 236	 	 	2021-06-05 	Ränta skattekontot 	 	 	1 161,00	21 432,00	
+ 	A 268	 	 	2021-07-03 	Ränta skattekontot 	 	 	506,00	20 926,00	
+ 	A 288	 	 	2021-08-01 	Ränta skattekontot 	 	50,00	 	20 976,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	23 750,00	2 774,00	20 976,00	
+ 	 	 	 	Utgående saldo	 	 	 23 750,00	2 774,00	20 976,00	
+-------------------------
+8490	Övriga skuldrelaterade poster	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	A 3	 	 	2020-09-02 	Dustin 	 	85,25	 	85,25	
+ 	A 4	 	 	2020-09-02 	Dustin 	Lenovo ideapad	85,25	 	170,50	
+ 	A 6	 	 	2020-09-04 	Volkswagen Financial, BHK 	 	234,52	 	405,02	
+ 	A 85	 	 	2020-12-06 	De Lage landen, Lenovo ideacentre 	 	85,00	 	490,02	
+ 	A 86	 	 	2020-12-06 	De Lage landen, Lenovo ideapad 	 	85,00	 	575,02	
+ 	A 163	 	 	2021-03-09 	Transportstyrelsen 	 	100,00	 	675,02	
+ 	A 183	 	 	2021-04-04 	Volkswagen Finans BHK73G, maj 	 	60,00	 	735,02	
+ 	A 231	 	 	2021-06-04 	Volkswagen Financial, BHK 	 	60,00	 	795,02	
+ 	A 234	 	 	2021-06-04 	 Intrum/Dustin 	 	60,00	 	855,02	
+ 	A 241	 	 	2021-06-15 	KFM/Dustin 	 	60,00	 	915,02	
+ 	A 245	 	 	2021-06-22 	BMW Financial, OJZ 	 	95,00	 	1 010,02	
+ 	A 270	 	 	2021-07-05 	Volkswagen BHK aug 	 	60,00	 	1 070,02	
+ 	A 283	 	 	2021-07-27 	BMW Financial, sep 	 	95,00	 	1 165,02	
+ 	A 294	 	 	2021-08-03 	Intrum/Dustin 	 	60,00	 	1 225,02	
+ 	A 297	 	 	2021-08-05 	Volkswagen Financial, sep 	 	60,00	 	1 285,02	
+ 	A 298	 	 	2021-08-10 	Intrum/Dustin 	 	60,00	 	1 345,02	
+ 	A 306	 	 	2021-08-24 	BMW Financial, okt 	 	95,00	 	1 440,02	
+-------------------------
+ 	 	 	 	Omslutning	 	 	1 440,02	0,00	1 440,02	
+ 	 	 	 	Utgående saldo	 	 	 1 440,02	0,00	1 440,02	
+-------------------------
+8910	Skatt som belastar årets resultat	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	I 10	 	 	2021-08-31 	Årets skatt 	Årets skatt	25 923,00	 	25 923,00	
+-------------------------
+ 	 	 	 	Omslutning	 	 	25 923,00	0,00	25 923,00	
+ 	 	 	 	Utgående saldo	 	 	 25 923,00	0,00	25 923,00	
+-------------------------
+8999	Årets resultat	
+ 	 	 	 	Ingående saldo	 	 	0,00	0,00	0,00	
+ 	I 12	 	 	2021-08-31 	Årets resultat 	Årets resultat	71 627,39	 	71 627,39	
+-------------------------
+ 	 	 	 	Omslutning	 	 	71 627,39	0,00	71 627,39	
+ 	 	 	 	Utgående saldo	 	 	 71 627,39	0,00	71 627,39	
+-------------------------
+-------------------------
+Huvudboksomslutning	 	 	 	 	 	 	7 687 900,70	7 687 900,70	 	
+-------------------------

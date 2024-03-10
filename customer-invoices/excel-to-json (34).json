@@ -1,0 +1,100 @@
+{
+  "Sheet1": [
+    {
+      "Nr": "Datum",
+      "2023-009": 45231
+    },
+    {
+      "Nr": "Förfallodatum",
+      "2023-009": 45251
+    },
+    {
+      "__EMPTY": "Leveransadress",
+      "Faktura": "Postadress"
+    },
+    {
+      "Faktura": "Enera International AB"
+    },
+    {
+      "Faktura": "Nämndemansgatan 3 "
+    },
+    {
+      "Faktura": "431 33 Mölndal "
+    },
+    {
+      "__EMPTY_3": " "
+    },
+    {
+      "__EMPTY": "Er referens",
+      "__EMPTY_2": "Er order",
+      "__EMPTY_3": "Vår referens",
+      "Nr": "Betalningsvillkor"
+    },
+    {
+      "__EMPTY": "Erik Nygren",
+      "__EMPTY_2": 42626,
+      "__EMPTY_3": "Anders Westberg",
+      "Nr": 20,
+      "2023-009": "dagar netto"
+    },
+    {
+      "2023-009": "Dröjsmålsränta 8%"
+    },
+    {
+      "__EMPTY": "Benämning",
+      "__EMPTY_4": "Antal",
+      "Nr": "a´-pris",
+      "2023-009": "Belopp SEK"
+    },
+    {
+      "__EMPTY": "Utvecklingsarbete, 2023-09-01 - 2023-10-31",
+      "__EMPTY_4": 141.5,
+      "Nr": 725,
+      "2023-009": 102587.5
+    },
+    {
+      "2023-009": 0
+    },
+    {
+      "__EMPTY_1": "Enligt bifogad specifikation"
+    },
+    {
+      "__EMPTY": "Netto",
+      "__EMPTY_1": "Frakt",
+      "__EMPTY_2": "Totalt",
+      "__EMPTY_3": "Moms %",
+      "Faktura": "Moms ",
+      "__EMPTY_4": "Öresutj.",
+      "2023-009": "Att betala SEK"
+    },
+    {
+      "__EMPTY": 102587.5,
+      "__EMPTY_1": 0,
+      "__EMPTY_2": 102587.5,
+      "__EMPTY_3": 25,
+      "Faktura": 25646.88,
+      "__EMPTY_4": -0.38000000000101863,
+      "2023-009": 128234
+    },
+    {
+      "__EMPTY": "Adress",
+      "__EMPTY_2": "Telefon",
+      "Faktura": "Bankgiro",
+      "Nr": "Org.nr."
+    },
+    {
+      "__EMPTY": "Diginet AB",
+      "__EMPTY_2": "0705-954076",
+      "Faktura": "5847-0790",
+      "Nr": "556466-2699 (F-skatt)"
+    },
+    {
+      "__EMPTY": "Grankullevägen 17",
+      "Nr": "VAT"
+    },
+    {
+      "__EMPTY": "439 92 Onsala",
+      "Nr": "SE556466269901"
+    }
+  ]
+}

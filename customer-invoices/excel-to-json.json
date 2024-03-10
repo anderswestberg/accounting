@@ -1,0 +1,104 @@
+{
+  "Sheet1": [
+    {
+      "Nr": "Datum",
+      "2021-012": 44501
+    },
+    {
+      "Nr": "Förfallodatum",
+      "2021-012": 44531
+    },
+    {
+      "__EMPTY": "Leveransadress",
+      "Faktura": "Postadress"
+    },
+    {
+      "Faktura": "NIBE AirSite AB"
+    },
+    {
+      "Faktura": "Elementvägen 1"
+    },
+    {
+      "Faktura": "437 36 Lindome"
+    },
+    {
+      "__EMPTY_3": " "
+    },
+    {
+      "__EMPTY": "Er referens",
+      "__EMPTY_2": "Er order",
+      "__EMPTY_3": "Vår referens",
+      "Nr": "Betalningsvillkor"
+    },
+    {
+      "__EMPTY": "Tomas Nilsson",
+      "__EMPTY_2": 43805,
+      "__EMPTY_3": "Anders Westberg",
+      "Nr": 30,
+      "2021-012": "dagar netto"
+    },
+    {
+      "2021-012": "Dröjsmålsränta 8%"
+    },
+    {
+      "__EMPTY": "Benämning",
+      "__EMPTY_4": "Antal",
+      "Nr": "a´-pris",
+      "2021-012": "Belopp SEK"
+    },
+    {
+      "__EMPTY": "Aggregatmjukvara för Beckhoff PLC"
+    },
+    {
+      "__EMPTY": "Arbetstid",
+      "__EMPTY_1": "Arbetstid 2021-05 - 10",
+      "__EMPTY_4": 164.25,
+      "Nr": 925,
+      "2021-012": 151931.25
+    },
+    {
+      "__EMPTY_1": "Restid 2021-05 - 10",
+      "__EMPTY_4": 16.25,
+      "Nr": 462.5,
+      "2021-012": 7515.625
+    },
+    {
+      "__EMPTY": "Netto",
+      "__EMPTY_1": "Frakt",
+      "__EMPTY_2": "Totalt",
+      "__EMPTY_3": "Moms %",
+      "Faktura": "Moms ",
+      "__EMPTY_4": "Öresutj.",
+      "2021-012": "Att betala SEK"
+    },
+    {
+      "__EMPTY": 159446.875,
+      "__EMPTY_1": 0,
+      "__EMPTY_2": 159446.875,
+      "__EMPTY_3": 25,
+      "Faktura": 39861.72,
+      "__EMPTY_4": 0.40499999999883585,
+      "2021-012": 199309
+    },
+    {
+      "__EMPTY": "Adress",
+      "__EMPTY_2": "Telefon",
+      "Faktura": "Bankgiro",
+      "Nr": "Org.nr."
+    },
+    {
+      "__EMPTY": "Diginet AB",
+      "__EMPTY_2": "0705-954076",
+      "Faktura": "5847-0790",
+      "Nr": "556466-2699 (F-skatt)"
+    },
+    {
+      "__EMPTY": "Grankullevägen 17",
+      "Nr": "VAT"
+    },
+    {
+      "__EMPTY": "439 92 Onsala",
+      "Nr": "SE556466269901"
+    }
+  ]
+}

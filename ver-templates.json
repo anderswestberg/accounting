@@ -1,0 +1,466 @@
+[
+  {
+    "id": "T1",
+    "series": "A",
+    "text": "INKÖP ANNAT EU-LAND",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "4535",
+        "accountName": "Inköp av tjänster från annat EU-land, 25 %",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-0.25"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "0.25"
+      }
+    ]
+  },
+  {
+    "id": "T2",
+    "series": "A",
+    "text": "Ränta skattekontot",
+    "trans": [
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "8423",
+        "accountName": "Räntekostnader för skatter och avgifter",
+        "text": "",
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "id": "T3",
+    "series": "A",
+    "text": "Inköp",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "0.25"
+      },
+      {
+        "account": "5410",
+        "accountName": "Förbrukningsinventarier",
+        "text": "",
+        "amount": "0.75"
+      }
+    ]
+  },
+  {
+    "id": "T4",
+    "series": "A",
+    "text": "Inköp utanför EU",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "4531",
+        "accountName": "Inköp av tjänster från ett land utanför EU, 25 % moms",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "2614",
+        "accountName": "Utgående moms omvänd skattskyldighet, 25 %",
+        "text": "",
+        "amount": "-0.25"
+      },
+      {
+        "account": "2645",
+        "accountName": "Beräknad ingående moms på förvärv från utlandet",
+        "text": "",
+        "amount": "0.25"
+      }
+    ]
+  },
+  {
+    "id": "T5",
+    "series": "A",
+    "text": "Betald F-skatt",
+    "trans": [
+      {
+        "account": "2518",
+        "accountName": "Betald F-skatt",
+        "text": "F-skatt",
+        "amount": "1"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "F-skatt",
+        "amount": "-1"
+      },
+    ]
+  },
+  {
+    "id": "T6",
+    "series": "A",
+    "text": "Inköp kort",
+    "trans": [
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "0.25"
+      },
+      {
+        "account": "6110",
+        "accountName": "Kontorsmateriel",
+        "text": "",
+        "amount": "0.75"
+      }
+    ]
+  },
+  {
+    "id": "T7",
+    "series": "A",
+    "text": "KFA",
+    "trans": [
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "1790",
+        "accountName": "Övriga förutbetalda kostnader och upplupna intäkter",
+        "text": "",
+        "amount": "-0.75"
+      },
+      {
+        "account": "2611",
+        "accountName": "Utgående moms på försäljning inom Sverige, 25 %",
+        "text": "",
+        "amount": "-0.25"
+      }
+    ]
+  },
+  {
+    "id": "T8",
+    "series": "A",
+    "text": "Lön Anders",
+    "trans": [
+      {
+        "account": "7220",
+        "accountName": "Löner till företagsledare",
+        "text": "",
+        "amount": "brutto"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "-pskatt"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-netto"
+      },
+    ]
+  },
+  {
+    "id": "T9",
+    "series": "A",
+    "text": "SKV skd",
+    "trans": [
+      {
+        "account": "7510",
+        "accountName": "Arbetsgivaravgifter 31,42 %",
+        "text": "",
+        "amount": "arbavg"
+      },
+      {
+        "account": "2710",
+        "accountName": "Personalskatt",
+        "text": "",
+        "amount": "pskatt"
+      },
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-1"
+      }
+    ]
+  },
+  {
+    "id": "T10",
+    "series": "A",
+    "text": "SEB banktjänster",
+    "trans": [
+      {
+        "account": "6570",
+        "accountName": "Bankkostnader",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-1"
+      }
+    ]
+  },
+  {
+    "id": "T11",
+    "series": "A",
+    "text": "Ränta skattekontot",
+    "trans": [
+      {
+        "account": "1645",
+        "accountName": "Skattekonto",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "8423",
+        "accountName": "Räntekostnader för skatter och avgifter",
+        "text": "",
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "id": "T12",
+    "series": "A",
+    "text": "Bet KFA",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "1510",
+        "accountName": "Kundfordringar",
+        "text": "",
+        "amount": "-1"
+      }
+    ]
+  },
+  {
+    "id": "T13",
+    "series": "A",
+    "text": "Bet leverantörer",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "1"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-1"
+      },
+    ]
+  },
+  {
+    "id": "T14",
+    "series": "A",
+    "text": "Intrum",
+    "trans": [
+      {
+        "account": "6062",
+        "accountName": "Inkasso och KFM-avgifter",
+        "text": "",
+        "amount": "a"
+      },
+      {
+        "account": "8400",
+        "accountName": "Räntekostnader (gruppkonto)",
+        "text": "",
+        "amount": "r"
+      },
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-t"
+      }
+    ]
+  },
+  {
+    "id": "T15",
+    "series": "A",
+    "text": "Bet leverantörer",
+    "trans": [
+      {
+        "account": "1930",
+        "accountName": "Företagskonto/checkkonto/affärskonto",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "30/11 Beckhoff",
+        "amount": "1"
+      }
+    ]
+  },
+  {
+    "id": "T16",
+    "series": "D",
+    "text": "Levfakt tele",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "0.25"
+      },
+      {
+        "account": "6212",
+        "accountName": "Mobiltelefon",
+        "text": "",
+        "amount": "0.75"
+      }
+    ]
+  },
+  {
+    "id": "T16",
+    "series": "D",
+    "text": "Levfakt tj-bil",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "moms"
+      },
+      {
+        "account": "5615",
+        "accountName": "Leasing av personbilar",
+        "text": "BHK73G",
+        "amount": "1-moms"
+      }
+    ]
+  },
+  {
+    "id": "T17",
+    "series": "D",
+    "text": "Levfakt IT",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "0.25"
+      },
+      {
+        "account": "6540",
+        "accountName": "IT-tjänster",
+        "text": "",
+        "amount": "0.75"
+      }
+    ]
+  },
+  {
+    "id": "T18",
+    "series": "D",
+    "text": "Levfakt SEB Kort",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2892",
+        "accountName": "Skuld SEB kort",
+        "text": "",
+        "amount": "1§"
+      }
+    ]
+  },
+  {
+    "id": "T19",
+    "series": "D",
+    "text": "Levfakt Datorm.",
+    "trans": [
+      {
+        "account": "2440",
+        "accountName": "Leverantörsskulder",
+        "text": "",
+        "amount": "-1"
+      },
+      {
+        "account": "2641",
+        "accountName": "Debiterad ingående moms",
+        "text": "",
+        "amount": "0.25"
+      },
+      {
+        "account": "5410",
+        "accountName": "Förbrukningsinventarier",
+        "text": "",
+        "amount": "0.75"
+      }
+    ]
+  },
+]

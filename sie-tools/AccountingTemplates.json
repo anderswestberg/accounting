@@ -1,0 +1,407 @@
+[
+	{
+        "code": "Överföring till Anders",
+        "description": "Överföring till Anders",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2691,
+                "transactionInformation": "",
+                "formula": "{$Bruttolön}"
+            },
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "-{$Netto}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "salary",
+        "description": "Lön Anders",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 7220,
+                "transactionInformation": "",
+                "formula": "-{$Bruttolön}"
+            },
+            {
+                "account": 2710,
+                "transactionInformation": "",
+                "formula": "{$Skatteavdrag}"
+            },
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "9",
+        "description": "Betalning av F-skatt uppbokad mot skattekonto",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            },
+            {
+                "account": 1630,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "1",
+        "description": "Ink\u00f6p av kontorsmateriel",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 6110,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av kontorsmaterial"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "2",
+        "description": "Ink\u00f6p av f\u00f6rbrukningsmateriel",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 5460,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av f\u00f6rbrukningsmaterial"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "3",
+        "description": "Ink\u00f6p av f\u00f6rbrukningsinventarie",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 5410,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av f\u00f6rbrukningsinventarie"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "4",
+        "description": "Ink\u00f6p av varor ",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 4000,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av varor "
+    },
+	 {
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "5",
+        "description": "Ink\u00f6p av personalfika",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 7699,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Ink\u00f6p av personalfika"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "6",
+        "description": "Drivmedelskostnad",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 5611,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.80"
+            },
+            {
+                "account": 2641,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}*0.20"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Bensinkostnad"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "7",
+        "description": "Skatte och momsdeklaration",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 2650,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 2510,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 2731,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 2710,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 7510,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 3740,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 1630,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Uppbokning av skatt och moms"
+    },
+	{
+        "accrualLf": false,
+        "accrualBf": null,
+        "code": "8",
+        "description": "Inbetalning till skattekonto",
+        "type": "BF",
+        "rows": [
+            {
+                "account": 1630,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 1930,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": "-{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "Inbetalning till skattekonto"
+    },
+	{
+        "accrualLf": null,
+        "accrualBf": null,
+        "code": "10",
+        "description": "Varuink\u00f6p med frakt",
+        "type": "LF",
+        "rows": [
+            {
+                "account": 4000,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 5710,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            }
+        ],
+        "periodInterval": "",
+        "accrualHeadAccount": "",
+        "accrualCostAccount": "",
+        "accrualExclVat": "",
+        "accrualDescription": "",
+        "accrualVoucherSeries": "",
+        "accrualRows": []
+    },
+	 {
+        "accrualLf": null,
+        "accrualBf": null,
+        "code": "11",
+        "description": "Drivmedelsfaktura",
+        "type": "LF",
+        "rows": [
+            {
+                "account": 5611,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            },
+            {
+                "account": 5619,
+                "costCenter": "",
+                "projectFollowUpId": "",
+                "transactionInformation": "",
+                "formula": ""
+            }
+        ],
+        "periodInterval": "",
+        "accrualHeadAccount": "",
+        "accrualCostAccount": "",
+        "accrualExclVat": "",
+        "accrualDescription": "",
+        "accrualVoucherSeries": "",
+        "accrualRows": []
+    }
+]

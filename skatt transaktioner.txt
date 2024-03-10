@@ -1,0 +1,248 @@
+210801,Kostnadsränta,-50
+210812,Förs.avgift moms/arbetsgivardeklaration 210512,-625
+210817,Debiterad preliminärskatt,-2 611
+210826,Arbetsgivaravgift maj 2021,-23 568
+210826,Arbetsgivaravgift juni 2021,-3 438
+210826,Arbetsgivaravgift juli 2021,-3 438
+210826,Avdragen skatt maj 2021,-20 754
+210826,Avdragen skatt juni 2021,-1 688
+210826,Avdragen skatt juli 2021,-1 688
+210904,Korrigerad kostnadsränta,-998
+210904,Kostnadsränta,-904
+210913,Debiterad preliminärskatt,-2 611
+210913,Förs.avgift moms/arbetsgivardeklaration 210614,-625
+210927,Förs.avgift moms/arbetsgivardeklaration 210712,-625
+211001,Arbetsgivaravgift aug 2021,-19 148
+211001,Avdragen skatt aug 2021,-16 688
+211001,Moms april 2021 - juni 2021,-18 611
+211002,Korrigerad kostnadsränta,-149
+211002,Kostnadsränta,-1 370
+211002,Överlämnat till KFM,64 478,-64 478
+211012,Debiterad preliminärskatt,-3 489
+211012,Beslut 210902 arbetsgivaravgift juli 2021,-11 332
+211012,Beslut 210902 avdragen skatt juli 2021,-10 820
+211013,Arbetsgivaravgift sept 2021,-23 637
+211013,Avdragen skatt sept 2021,-20 974
+211106,Inbetalt till KFM,,64 553
+211106,Korrigerad kostnadsränta,-35
+211106,Kostnadsränta,-1 722,-75
+211106,Överlämnat till KFM,59 827,-59 827
+211112,Debiterad preliminärskatt,-3 489
+211112,Förs.avgift moms/arbetsgivardeklaration 210817,-625
+211112,Avgift för tillfälligt anstånd,-956
+211112,Avgift för tillfälligt anstånd,-299
+211112,Tillfälligt betalningsanstånd upphör,-159 427
+211112,Tillfälligt betalningsanstånd upphör,-49 927
+211112,Slutlig skatt,-38 070
+211112,Tillgodoförd debiterad preliminärskatt,31 332
+211113,Arbetsgivaravgift okt 2021,-14 979
+211113,Avdragen skatt okt 2021,-13 418
+211113,Moms juli 2021 - sept 2021,-29 540
+211116,Inbetalt till KFM,,59 845
+211119,Inbetalning bokförd 211118 12 500
+211119,Tillfälligt betalningsanstånd,77 953
+211119,Tillfälligt betalningsanstånd,52 617
+211119,Tillfälligt betalningsanstånd,159 427
+211119,Tillfälligt betalningsanstånd,49 927
+211119,Rättelse enligt beslut,956
+211119,Rättelse enligt beslut,299
+211204,Korrigerad kostnadsränta,18 127
+211204,Intäktsränta,13
+211204,Korrigerad intäktsränta,28
+211204,Kostnadsränta,,-18
+211213,Debiterad preliminärskatt,-3 489
+211213,Förs.avgift moms/arbetsgivardeklaration 210913,-625
+220117,Debiterad preliminärskatt,-3 489
+220126,Avgift för tillfälligt anstånd,-516
+220126,Tillfälligt betalningsanstånd upphör,-64 590
+220205,Korrigerad kostnadsränta,-201
+220205,Kostnadsränta,-276
+220205,Korrigerad intäktsränta,-40
+220214,Debiterad preliminärskatt,-3 489
+220217,Inbetalning bokförd 220216,53 326
+220305,Kostnadsränta,-284
+220308,Arbetsgivaravgift nov 2021,-26 200
+220308,Arbetsgivaravgift dec 2021,-53 114
+220308,Arbetsgivaravgift jan 2022,-23 704
+220308,Avdragen skatt nov 2021,-24 132
+220308,Avdragen skatt dec 2021,-50 704
+220308,Avdragen skatt jan 2022,-22 632
+220308,Moms okt 2021 - dec 2021,-81 377
+220309,Inbetalning bokförd 220308,230 000
+220314,Debiterad preliminärskatt,-3 489
+220314,Avgift för tillfälligt anstånd,-362
+220314,Avgift för tillfälligt anstånd,-351
+220314,Avgift för tillfälligt anstånd,-351
+220314,Avgift för tillfälligt anstånd,-311
+220314,Avgift för tillfälligt anstånd,-210
+220314,Avgift för tillfälligt anstånd,-499
+220314,Tillfälligt betalningsanstånd upphör,-77 953
+220314,Tillfälligt betalningsanstånd upphör,-52 617
+220314,Tillfälligt betalningsanstånd upphör,-49 927
+220314,Tillfälligt betalningsanstånd upphör,-40 278
+220314,Tillfälligt betalningsanstånd upphör,-39 085
+220314,Tillfälligt betalningsanstånd upphör,-39 085
+220315,Arbetsgivaravgift febr 2022,-23 041
+220315,Avdragen skatt febr 2022,-21 989
+220322,Beslut 220322 moms juli 2021 - sept 2021,4 373
+220402,Korrigerad kostnadsränta,-8 635
+220402,Kostnadsränta,-4 074
+220402,Korrigerad intäktsränta,-1
+220412,Debiterad preliminärskatt,-3 489
+220426,Beslut 220322 arbetsgivaravgift aug 2021,-980
+220426,Beslut 220317 moms april 2021 - juni 2021,-9 107
+220501,Korrigerad kostnadsränta,-78
+220501,Kostnadsränta,-5 392
+220501,Överlämnat till KFM,412 981,-412 981
+220512,Debiterad preliminärskatt,-3 489
+220526,Inbetalt till KFM,39 869
+220527,Förs.avgift moms/arbetsgivardeklaration 211213,-625
+220527,Förs.avgift moms/arbetsgivardeklaration 220117,-625
+220527,Förs.avgift moms/arbetsgivardeklaration 220214,-625
+220604,Kostnadsränta,-331,-467
+220604,Överlämnat till KFM,19 046,-19 046
+220613,Debiterad preliminärskatt,-3 489
+220617,Arbetsgivaravgift mars 2022,-6 069
+220617,Arbetsgivaravgift april 2022,-6 069
+220617,Arbetsgivaravgift maj 2022,-6 069
+220617,Avdragen skatt mars 2022,-3 772
+220617,Avdragen skatt april 2022,-3 772
+220617,Avdragen skatt maj 2022,-3 772
+220617,Moms jan 2022 - mars 2022,-69 888
+220621,Inbetalt till KFM,,220 000
+220702,Korrigerad kostnadsränta,-1 050
+220702,Kostnadsränt,-1 313,-286
+220712,Debiterad preliminärskatt,-3 489
+220712,Förs.avgift moms/arbetsgivardeklaration 220412,-625
+220726,Förs.avgift moms/arbetsgivardeklaration 220512,-625
+220802,Inbetalt till KFM,,99 839
+220806,Slutlig skatt,-25 923
+220806,Tillgodoförd debiterad preliminärskatt,31 332
+220806,Avräknad mot skattekontoskuld hos KFM,-2 611,2 611
+220806,Avräknad mot skattekontoskuld hos KFM,-2 798,2 798
+220806,Korrigerad kostnadsränta,515
+220806,Kostnadsränta,-1 685,-191
+220806,Överlämnat till KFM,110 958,-110 958
+220809,Återredovisad nedsättning från KFM,2 798,-2 798
+220809,Återredovisad nedsättning från KFM,2 611,-2 611
+220817,Debiterad preliminärskatt,-3 489
+220903,Kostnadsränta,-33,-176
+220907,Inbetalt till KFM,,835
+220912,Debiterad preliminärskatt,-3 489
+220920,Inbetalt till KFM,,183 663
+220926,Förs.avgift moms/arbetsgivardeklaration 220613,-625
+221001,Kostnadsränta,-80,-101
+221012,Debiterad preliminärskatt,-3 489
+221012,Förs.avgift moms/arbetsgivardeklaration 220712,-625
+221031,Arbetsgivaravgift juni 2022,-4 233
+221031,Arbetsgivaravgift juli 2022,-19 943
+221031,Arbetsgivaravgift aug 2022,-19 943
+221031,Arbetsgivaravgift sept 2022,-19 943
+221031,Avdragen skatt juni 2022,-2 130
+221031,Avdragen skatt juli 2022,-17 130
+221031,Avdragen skatt aug 2022,-17 130
+221031,Avdragen skatt sept 2022,-17 130
+221031,Moms april 2022 - juni 2022,-23 300
+221105,Korrigerad kostnadsränta,-1 762
+221105,Kostnadsränta,-2 239
+221114,Debiterad preliminärskatt,-3 489
+221114,Förs.avgift moms/arbetsgivardeklaration 220817,-625
+221114,Avgift för tillfälligt anstånd,-2 869
+221114,Tillfälligt betalningsanstånd upphör,-159 427
+221203,Korrigerad kostnadsränta,-3 534
+221203,Kostnadsränta,-3 758
+221203,Överlämnat till KFM,157 213,-157 213
+221212,Debiterad preliminärskatt,-3 489
+230101,Kostnadsränta,-2 448,-312
+230101,Överlämnat till KFM,173 702,-173 702
+230117,Debiterad preliminärskatt,-3 489
+230126,Förs.avgift moms/arbetsgivardeklaration 221012,-625
+230204,Kostnadsränta,-131,-817
+230213,Debiterad preliminärskatt,-3 489
+230213,Förs.avgift moms/arbetsgivardeklaration 221114,-625
+230304,Kostnadsränta,-187,-955
+230304,Överlämnat till KFM,10 182,-10 182
+230313,Debiterad preliminärskatt,-3 489
+230313,Förs.avgift moms/arbetsgivardeklaration 221212,-625
+230401,Kostnadsränta,-102,-987
+230412,Debiterad preliminärskatt,-3 489
+230412,Förs.avgift moms/arbetsgivardeklaration 230117,-625
+230414,Arbetsgivaravgift okt 2022,-6 477
+230414,Arbetsgivaravgift nov 2022,-19 943
+230414,Arbetsgivaravgift dec 2022,-20 033
+230414,Arbetsgivaravgift jan 2023,-9 011
+230414,Arbetsgivaravgift febr 2023,-28 155
+230414,Arbetsgivaravgift mars 2023,-15 273
+230414,Avdragen skatt okt 2022,-4 273
+230414,Avdragen skatt nov 2022,-17 130
+230414,Avdragen skatt dec 2022,-17 216
+230414,Avdragen skatt jan 2023,-6 651
+230414,Avdragen skatt febr 2023,-24 930
+230414,Avdragen skatt mars 2023,-12 630
+230426,Förs.avgift moms/arbetsgivardeklaration 230213,-625
+230506,Korrigerad kostnadsränta,-5 140
+230506,Kostnadsränta,-3 409,-1 238
+230511,Moms juli 2022 - sept 2022,-76 665
+230511,Moms okt 2022 - dec 2022,-32 977
+230512,Debiterad preliminärskatt,-3 489
+230512,Moms jan 2023 - mars 2023,-79 495
+230513,Arbetsgivaravgift april 2023,-34 125
+230513,Avdragen skatt april 2023,-30 630
+230526,Förs.avgift moms/arbetsgivardeklaration 230313,-625
+230603,Korrigerad kostnadsränta,-8 257
+230603,Kostnadsränta,-6 296,-994
+230603,Överlämnat till KFM,203 527,-203 527
+230612,Debiterad preliminärskatt,-3 489
+230619,Tillgodoförd debiterad preliminärskatt,41 868
+230619,Förseningsavgift inkomstdeklaration,-6 250
+230619,Avräknad mot skattekontoskuld hos KFM,-6 312,6 312
+230619,Avräknad mot skattekontoskuld hos KFM,-6 978,6 978
+230619,Avräknad mot skattekontoskuld hos KFM,-3 489,3 489
+230619,Avräknad mot skattekontoskuld hos KFM,-10 467,10 467
+230621,Återredovisad nedsättning från KFM,10 467,-10 467
+230621,Återredovisad nedsättning från KFM,3 489,-3 489
+230621,Återredovisad nedsättning från KFM,6 978,-6 978
+230701,Korrigerad kostnadsränta,5 099
+230701,Kostnadsränta,-3 318,-1 574
+230701,Överlämnat till KFM,244 961,-244 961
+230712,Debiterad preliminärskatt,-3 489
+230805,Intäktsränta,14
+230805,Kostnadsränta,-2 976
+230817,Debiterad preliminärskatt,-3 489
+230828,Förs.avgift moms/arbetsgivardeklaration 230612,-625
+230902,Kostnadsränta,-8,-3 043
+230902,Intäktsränta,5
+230912,Debiterad preliminärskatt,-3 489
+230915,Inbetalt till KFM,110 042
+230926,Förs.avgift moms/arbetsgivardeklaration 230712,-625
+231001,Kostnadsränta,-76,-2 906
+231012,Debiterad preliminärskatt,-3 489
+231102,Arbetsgivaravgift maj 2023,-12 804
+231102,Arbetsgivaravgift juni 2023,-27 168
+231102,Arbetsgivaravgift juli 2023,-4 064
+231102,Arbetsgivaravgift aug 2023,-24 878
+231102,Arbetsgivaravgift sept 2023,-13 747
+231102,Avdragen skatt maj 2023,-10 273
+231102,Avdragen skatt juni 2023,-23 987
+231102,Avdragen skatt juli 2023,-2 454
+231102,Avdragen skatt aug 2023,-21 801
+231102,Avdragen skatt sept 2023,-11 173
+231102,Moms april 2023 - juni 2023,-21 767
+231104,Korrigerad kostnadsränta,-4 763
+231104,Kostnadsränta,-3 446,-3 209
+231104,Korrigerad intäktsränta,-19
+231104,Överlämnat till KFM,11 782,-11 782
+231113,Debiterad preliminärskatt,-3 489
+231113,Förs.avgift moms/arbetsgivardeklaration 230817,-625
+231115,Arbetsgivaravgift okt 2023,-13 747
+231115,Avdragen skatt okt 2023,-11 173
+231115,Moms juli 2023 - sept 2023,-43 607
+231127,Förs.avgift moms/arbetsgivardeklaration 230912,-625
+231202,Kostnadsränta,-3 609,-2 701
+231202,Överlämnat till KFM,185 833,-185 833
+231212,Debiterad preliminärskatt,-3 489
+231216,Inbetalt till KFM,578
+231227,Förs.avgift moms/arbetsgivardeklaration 231012,-625
+240106,Kostnadsränta,-1 525,-4 275
+240106,Överlämnat till KFM,76 875,-76 875
+240117,Debiterad preliminärskatt,-3 489

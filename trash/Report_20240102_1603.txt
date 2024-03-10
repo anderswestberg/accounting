@@ -1,0 +1,849 @@
+Report   
+Diginet Aktiebolag
+556466-2699
+Räkenskapsår 2021-09-01 - 2022-08-31
+Period 2021-09-01 - 2022-08-31
+Verifikationslista	Utskrivet 2024-01-02 16:03
+Senaste vernr A69  D32  E19  M1  
+Vernr	Bokfdat
+KontoRegdat
+KsText
+Benämning
+Debet
+Kredit
+-------------------------
+-------------------------
+A 1	2021-09-01	2021-12-29	Diverse	 	 	
+1930	Företagskonto/checkkonto/affärskonto
+SEB banktjänster100,00	
+6570	Bankkostnader
+SEB banktjänster100,00	
+1930	Företagskonto/checkkonto/affärskonto
+Digital Ocean, 46,42 USD445,63	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms
+Digital Ocean, 46,42 USD445,63	
+2614	Utgående moms omvänd skattskyldighet, 25 %
+Digital Ocean, 46,42 USD111,41	
+2645	Beräknad ingående moms på förvärv från utlandet
+Digital Ocean, 46,42 USD111,41	
+-------------------------
+A 2	2021-09-01	2021-11-23	Digital Ocean FA 428741943; 50 USD	 	 	
+2892	Skuld SEB kort	444,00	
+4535	Inköp av tjänster från annat EU-land, 25 %	444,00	
+2614	Utgående moms omvänd skattskyldighet, 25 %	111,00	
+2645	Beräknad ingående moms på förvärv från utlandet	111,00	
+-------------------------
+A 3	2021-09-01	2021-11-23	Linode, 55 USD	 	 	
+2892	Skuld SEB kort	488,40	
+4535	Inköp av tjänster från annat EU-land, 25 %	488,40	
+2614	Utgående moms omvänd skattskyldighet, 25 %	122,10	
+2645	Beräknad ingående moms på förvärv från utlandet	122,10	
+-------------------------
+A 4	2021-09-02	2021-11-23	Gumroad, 162,67 USD	 	 	
+2892	Skuld SEB kort	1 439,21	
+4535	Inköp av tjänster från annat EU-land, 25 %	1 439,21	
+2614	Utgående moms omvänd skattskyldighet, 25 %	359,80	
+2645	Beräknad ingående moms på förvärv från utlandet	359,80	
+-------------------------
+A 5	2021-09-04	2021-11-23	Ränta skattekontot	 	 	
+1645	Skattekonto	998,00	
+1645	Skattekonto	904,00	
+8423	Räntekostnader för skatter och avgifter	1 902,00	
+-------------------------
+A 6	2021-09-08	2021-11-23	Kjell & Company	 	 	
+2892	Skuld SEB kort	1 358,80	
+2641	Debiterad ingående moms	271,76	
+5410	Förbrukningsinventarier	1 087,04	
+-------------------------
+A 7	2021-09-09	2021-11-23	FA 2021-007/BRP Shipping	 	 	
+1510	Kundfordringar	16 952,00	
+3004	Försäljning inom Sverige, momsfri	16 952,00	
+-------------------------
+A 8	2021-09-09	2021-12-30	FA 2021-008/PTA Automation	 	 	
+1510	Kundfordringar	37 500,00	
+2611	Utgående moms på försäljning inom Sverige, 25 %	7 500,00	
+3010	Försäljning inom Sverige, 25% moms	30 000,00	
+-------------------------
+A 9	2021-09-10	2021-11-23	Netlify, 24,19 USD	 	 	
+2892	Skuld SEB kort	214,50	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	214,50	
+2614	Utgående moms omvänd skattskyldighet, 25 %	53,63	
+2645	Beräknad ingående moms på förvärv från utlandet	53,63	
+-------------------------
+A 10	2021-09-13	2021-11-23	SKV	 	 	
+2518	Betald F-skatt
+F-skatt2 611,00	
+1645	Skattekonto
+F-skatt2 611,00	
+6992	Övriga externa kostnader, ej avdragsgilla
+Förseningsavg625,00	
+1645	Skattekonto
+Förseningsavg625,00	
+-------------------------
+A 11	2021-09-13	2021-11-23	Microsoft Business 365	 	 	
+2892	Skuld SEB kort	109,20	
+4535	Inköp av tjänster från annat EU-land, 25 %	109,20	
+2614	Utgående moms omvänd skattskyldighet, 25 %	27,30	
+2645	Beräknad ingående moms på förvärv från utlandet	27,30	
+-------------------------
+A 12	2021-09-18	2021-11-23	HP instant	 	 	
+2892	Skuld SEB kort	49,00	
+2641	Debiterad ingående moms	9,80	
+6110	Kontorsmateriel	39,20	
+-------------------------
+A 13	2021-09-18	2021-11-23	Vitalwerks internet, 24,95 USD	 	 	
+2892	Skuld SEB kort	222,25	
+4535	Inköp av tjänster från annat EU-land, 25 %	222,25	
+2614	Utgående moms omvänd skattskyldighet, 25 %	55,56	
+2645	Beräknad ingående moms på förvärv från utlandet	55,56	
+-------------------------
+A 14	2021-09-20	2021-11-23	FA 2021-009/Enera	 	 	
+1510	Kundfordringar	133 047,00	
+1790	Övriga förutbetalda kostnader och upplupna intäkter	106 438,00	
+2611	Utgående moms på försäljning inom Sverige, 25 %	26 609,00	
+-------------------------
+A 15	2021-09-20	2021-11-23	npm Inc, 21 USD	 	 	
+2892	Skuld SEB kort	187,07	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	187,07	
+2614	Utgående moms omvänd skattskyldighet, 25 %	46,77	
+2645	Beräknad ingående moms på förvärv från utlandet	46,77	
+-------------------------
+A 16	2021-09-22	2021-11-23	Freepik, 9,99 EUR	 	 	
+2892	Skuld SEB kort	104,16	
+4535	Inköp av tjänster från annat EU-land, 25 %	104,16	
+2614	Utgående moms omvänd skattskyldighet, 25 %	26,04	
+2645	Beräknad ingående moms på förvärv från utlandet	26,04	
+-------------------------
+A 17	2021-09-23	2021-11-23	Bet FA 2021-007/BRP Shipping	 	 	
+1930	Företagskonto/checkkonto/affärskonto	16 952,00	
+1510	Kundfordringar	16 952,00	
+-------------------------
+A 18	2021-09-27	2021-11-23	Förseningsavg SKV	 	 	
+1645	Skattekonto	625,00	
+6992	Övriga externa kostnader, ej avdragsgilla	625,00	
+-------------------------
+A 19	2021-09-27	2021-11-23	CircleCi, 30 USD	 	 	
+2892	Skuld SEB kort	266,61	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	266,61	
+2614	Utgående moms omvänd skattskyldighet, 25 %	66,65	
+2645	Beräknad ingående moms på förvärv från utlandet	66,65	
+-------------------------
+A 20	2021-09-30	2021-11-23	Lön Anders, bil 6344 + 2912 = 9256 kr	 	 	
+7220	Löner till företagsledare	65 974,00	
+2710	Personalskatt	20 974,00	
+1930	Företagskonto/checkkonto/affärskonto
+2/9 uttag20 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 uttag5 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+14/9 uttag5 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+23/9 uttag5 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+30/9 uttag10 000,00	
+-------------------------
+A 21	2021-09-30	2021-11-23	SKV skd för aug-löner	 	 	
+7510	Arbetsgivaravgifter 31,42 %	19 148,00	
+2710	Personalskatt	16 688,00	
+1645	Skattekonto	35 836,00	
+-------------------------
+A 22	2021-09-30	2021-11-23	SEB banktjänster	 	 	
+6570	Bankkostnader	303,00	
+1930	Företagskonto/checkkonto/affärskonto	303,00	
+-------------------------
+A 23	2021-09-30	2021-11-23	Bet leverantörer	 	 	
+2440	Leverantörsskulder
+10/9 SEB kort78,12	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 SEB kort78,12	
+2440	Leverantörsskulder
+10/9 SEB kort4 415,30	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 SEB kort4 415,30	
+2440	Leverantörsskulder
+10/9 Volkswagen8 389,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 Volkswagen8 389,00	
+2440	Leverantörsskulder
+10/9 Loopia458,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 Loopia458,00	
+2440	Leverantörsskulder
+10/9 Tele2633,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 Tele2633,00	
+2440	Leverantörsskulder
+10/9 BMW/If4 830,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 BMW/If4 830,00	
+2440	Leverantörsskulder
+10/9 Svea inkasso450,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 Svea inkasso450,00	
+2440	Leverantörsskulder
+10/9 BMW Financial3 213,00	
+1930	Företagskonto/checkkonto/affärskonto
+10/9 BMW Financial3 213,00	
+-------------------------
+A 24	2021-10-01	2021-11-23	Linode, 55 USD	 	 	
+2892	Skuld SEB kort	495,58	
+4535	Inköp av tjänster från annat EU-land, 25 %	495,58	
+2614	Utgående moms omvänd skattskyldighet, 25 %	123,90	
+2645	Beräknad ingående moms på förvärv från utlandet	123,90	
+-------------------------
+A 25	2021-10-01	2021-11-23	Digital Ocean FA 429694644: 50 USD	 	 	
+2892	Skuld SEB kort	452,09	
+4535	Inköp av tjänster från annat EU-land, 25 %	452,09	
+2614	Utgående moms omvänd skattskyldighet, 25 %	113,02	
+2645	Beräknad ingående moms på förvärv från utlandet	113,02	
+-------------------------
+A 26	2021-10-02	2021-11-23	Ränta skattekontot	 	 	
+1645	Skattekonto	149,00	
+1645	Skattekonto	1 370,00	
+8423	Räntekostnader för skatter och avgifter	1 519,00	
+-------------------------
+A 27	2021-10-02	2021-11-23	Gumroad, 158,83 USD	 	 	
+2892	Skuld SEB kort	1 431,15	
+4535	Inköp av tjänster från annat EU-land, 25 %	1 431,15	
+2614	Utgående moms omvänd skattskyldighet, 25 %	357,79	
+2645	Beräknad ingående moms på förvärv från utlandet	357,79	
+-------------------------
+A 28	2021-10-10	2021-11-23	Netlify, 15 USD	 	 	
+2892	Skuld SEB kort	135,61	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	135,61	
+2614	Utgående moms omvänd skattskyldighet, 25 %	33,90	
+2645	Beräknad ingående moms på förvärv från utlandet	33,90	
+-------------------------
+A 29	2021-10-11	2021-11-23	Microsoft 365	 	 	
+2892	Skuld SEB kort	899,00	
+2641	Debiterad ingående moms	179,80	
+5420	Programvaror	719,20	
+-------------------------
+A 30	2021-10-11	2021-11-23	GitHub, 48 USD	 	 	
+2892	Skuld SEB kort	431,12	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	431,12	
+2614	Utgående moms omvänd skattskyldighet, 25 %	107,78	
+2645	Beräknad ingående moms på förvärv från utlandet	107,78	
+-------------------------
+A 31	2021-10-11	2021-11-23	Bet FA 2021-009/Enera	 	 	
+1930	Företagskonto/checkkonto/affärskonto	133 047,00	
+1510	Kundfordringar	133 047,00	
+-------------------------
+A 32	2021-10-12	2021-11-23	F-skatt	 	 	
+2518	Betald F-skatt	3 489,00	
+1645	Skattekonto	3 489,00	
+-------------------------
+A 33	2021-10-12	2021-12-30	SKV skd sep-löner	 	 	
+7510	Arbetsgivaravgifter 31,42 %	23 637,00	
+2710	Personalskatt	20 974,00	
+1645	Skattekonto	44 611,00	
+1645	Skattekonto
+Moms apr-jun18 611,00	
+2650	Redovisningskonto för moms
+Moms apr-jun18 611,00	
+-------------------------
+A 34	2021-10-13	2021-12-29	Microsoft Business + Digital Ocean	 	 	
+2892	Skuld SEB kort
+Microsoft109,20	
+4535	Inköp av tjänster från annat EU-land, 25 %
+Microsoft109,20	
+2614	Utgående moms omvänd skattskyldighet, 25 %
+Microsoft27,30	
+2645	Beräknad ingående moms på förvärv från utlandet
+Microsoft27,30	
+1930	Företagskonto/checkkonto/affärskonto
+Digital ocean, 30,24 USD268,00	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms
+Digital ocean, 30,24 USD268,00	
+2614	Utgående moms omvänd skattskyldighet, 25 %
+Digital ocean, 30,24 USD67,00	
+2645	Beräknad ingående moms på förvärv från utlandet
+Digital ocean, 30,24 USD67,00	
+-------------------------
+A 35	2021-10-20	2021-11-23	GitHub, 240 USD	 	 	
+2892	Skuld SEB kort	2 134,12	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	2 134,12	
+2614	Utgående moms omvänd skattskyldighet, 25 %	533,53	
+2645	Beräknad ingående moms på förvärv från utlandet	533,53	
+-------------------------
+A 36	2021-10-20	2021-11-23	npm Inc, 21 USD	 	 	
+2892	Skuld SEB kort	186,73	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	186,73	
+2614	Utgående moms omvänd skattskyldighet, 25 %	46,68	
+2645	Beräknad ingående moms på förvärv från utlandet	46,68	
+-------------------------
+A 37	2021-10-22	2021-11-23	Freepik, 9,99 EUR	 	 	
+2892	Skuld SEB kort	102,33	
+4535	Inköp av tjänster från annat EU-land, 25 %	102,33	
+2614	Utgående moms omvänd skattskyldighet, 25 %	25,58	
+2645	Beräknad ingående moms på förvärv från utlandet	25,58	
+-------------------------
+A 38	2021-10-25	2021-11-23	Lön Anders, bil 9256 kr	 	 	
+7220	Löner till företagsledare	38 418,00	
+2710	Personalskatt	13 418,00	
+1930	Företagskonto/checkkonto/affärskonto
+4/10 uttag25 000,00	
+-------------------------
+A 39	2021-10-27	2021-12-29	CircleCi, 30 USD	 	 	
+2892	Skuld SEB kort	265,41	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	265,41	
+2614	Utgående moms omvänd skattskyldighet, 25 %	66,35	
+2645	Beräknad ingående moms på förvärv från utlandet	66,35	
+-------------------------
+A 40	2021-10-31	2021-11-23	Bet leverantörer	 	 	
+2440	Leverantörsskulder
+14/10 Conrad303,00	
+1930	Företagskonto/checkkonto/affärskonto
+14/10 Conrad303,00	
+2440	Leverantörsskulder
+14/10 BMW Financial3 299,00	
+1930	Företagskonto/checkkonto/affärskonto
+14/10 BMW Financial3 299,00	
+2440	Leverantörsskulder
+14/10 del av SEB kort3 669,42	
+1930	Företagskonto/checkkonto/affärskonto
+14/10 del av SEB kort3 669,42	
+-------------------------
+A 41	2021-11-01	2021-12-29	SEB banktjänster	 	 	
+6570	Bankkostnader	106,00	
+1930	Företagskonto/checkkonto/affärskonto	106,00	
+-------------------------
+A 42	2021-11-01	2022-01-03	FA 2021-010/PTA	 	 	
+1510	Kundfordringar	178 125,00	
+2611	Utgående moms på försäljning inom Sverige, 25 %	35 625,00	
+1790	Övriga förutbetalda kostnader och upplupna intäkter	142 500,00	
+-------------------------
+A 43	2021-11-01	2021-12-29	FA 2021-011/Enera	 	 	
+1510	Kundfordringar	67 031,00	
+3001	Försäljning inom Sverige, 25 % moms	53 625,00	
+2611	Utgående moms på försäljning inom Sverige, 25 %	13 406,00	
+-------------------------
+A 44	2021-11-01	2021-12-30	FA 2021-012/Nibe Air-Site	 	 	
+1510	Kundfordringar	199 309,00	
+2611	Utgående moms på försäljning inom Sverige, 25 %	39 862,00	
+1790	Övriga förutbetalda kostnader och upplupna intäkter	101 563,00	
+3010	Försäljning inom Sverige, 25% moms	57 884,00	
+-------------------------
+A 45	2021-11-01	2021-12-29	Digital Ocean, 50 USD	 	 	
+2892	Skuld SEB kort	440,87	
+5420	Programvaror	352,70	
+2641	Debiterad ingående moms	88,17	
+-------------------------
+A 46	2021-11-01	2021-12-29	Digital Ocean, 26,23 USD	 	 	
+2892	Skuld SEB kort	231,29	
+4535	Inköp av tjänster från annat EU-land, 25 %	231,29	
+2614	Utgående moms omvänd skattskyldighet, 25 %	57,82	
+2645	Beräknad ingående moms på förvärv från utlandet	57,82	
+-------------------------
+A 47	2021-11-02	2021-12-29	Linode 55 USD	 	 	
+2892	Skuld SEB kort	484,96	
+4535	Inköp av tjänster från annat EU-land, 25 %	484,96	
+2614	Utgående moms omvänd skattskyldighet, 25 %	121,24	
+2645	Beräknad ingående moms på förvärv från utlandet	121,24	
+-------------------------
+A 48	2021-11-02	2021-12-29	Gumroad Inc, 158,38 USD	 	 	
+2892	Skuld SEB kort	1 392,15	
+4535	Inköp av tjänster från annat EU-land, 25 %	1 392,15	
+2614	Utgående moms omvänd skattskyldighet, 25 %	348,04	
+2645	Beräknad ingående moms på förvärv från utlandet	348,04	
+-------------------------
+A 49	2021-11-03	2021-12-29	HP 	 	 	
+2892	Skuld SEB kort	49,00	
+2641	Debiterad ingående moms	9,80	
+6110	Kontorsmateriel	39,20	
+-------------------------
+A 50	2021-11-04	2021-12-30	KRM utmätning skatt	 	 	
+1930	Företagskonto/checkkonto/affärskonto
+Inbet KFM65 150,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Inbet KFM59 827,00	
+8423	Räntekostnader för skatter och avgifter
+KFM5 323,00	
+1645	Skattekonto
+Ränta skattekontot35,00	
+1645	Skattekonto
+Ränta skattekontot1 722,00	
+8423	Räntekostnader för skatter och avgifter
+Ränta skattekontot1 757,00	
+1645	Skattekonto
+KFM4 651,00	
+8423	Räntekostnader för skatter och avgifter
+KFM4 651,00	
+-------------------------
+A 51	2021-11-06	2021-12-29	Oderland, FA 377743	 	 	
+2892	Skuld SEB kort	286,25	
+2641	Debiterad ingående moms	57,25	
+6540	IT-tjänster	229,00	
+-------------------------
+A 52	2021-11-11	2021-12-29	Docker, 298,24 USD	 	 	
+2892	Skuld SEB kort	2 651,91	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	2 651,91	
+2614	Utgående moms omvänd skattskyldighet, 25 %	662,98	
+2645	Beräknad ingående moms på förvärv från utlandet	662,98	
+-------------------------
+A 53	2021-11-11	2021-12-29	Netlify, 15 USD	 	 	
+2892	Skuld SEB kort	132,27	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	132,27	
+2614	Utgående moms omvänd skattskyldighet, 25 %	33,07	
+2645	Beräknad ingående moms på förvärv från utlandet	33,07	
+-------------------------
+A 54	2021-11-11	2021-12-29	Harvest, 237,60 USD	 	 	
+2892	Skuld SEB kort	2 095,25	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	2 095,25	
+2614	Utgående moms omvänd skattskyldighet, 25 %	523,81	
+2645	Beräknad ingående moms på förvärv från utlandet	523,81	
+-------------------------
+A 55	2021-11-12	2021-12-30	SKV 	 	 	
+7510	Arbetsgivaravgifter 31,42 %
+Skd14 979,00	
+2710	Personalskatt
+skd13 418,00	
+2518	Betald F-skatt
+skd3 489,00	
+2650	Redovisningskonto för moms
+skd jul-sep25 167,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+skd jul-sep57 053,00	
+2510	Skatteskulder
+slutlig skatt beskattningen 202138 070,00	
+2510	Skatteskulder
+slutlig skatt beskattningen 202131 332,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+slutlig skatt beskattningen 20216 738,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Betalningsanstånd upphör159 427,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Betalningsanstånd upphör159 427,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Betalningsanstånd upphör49 927,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Betalningsanstånd upphör49 924,00	
+8423	Räntekostnader för skatter och avgifter
+Förseningsavgift625,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Förseningsavgift628,00	
+6992	Övriga externa kostnader, ej avdragsgilla
+Avgift tillfälligt anstånd956,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Avgift tillfälligt anstånd956,00	
+6992	Övriga externa kostnader, ej avdragsgilla
+Avgift tillfälligt anstånd299,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Avgift tillfälligt anstånd299,00	
+2650	Redovisningskonto för moms
+Redovisad moms jul-sep4 373,00	
+1645	Skattekonto
+Redovisad moms jul-sep4 373,00	
+-------------------------
+A 56	2021-11-13	2021-12-29	Microsoft office	 	 	
+2892	Skuld SEB kort	109,20	
+4535	Inköp av tjänster från annat EU-land, 25 %	109,20	
+2614	Utgående moms omvänd skattskyldighet, 25 %	27,30	
+2645	Beräknad ingående moms på förvärv från utlandet	27,30	
+-------------------------
+A 57	2021-11-14	2021-12-29	Team Viewer	 	 	
+2892	Skuld SEB kort	4 355,00	
+4535	Inköp av tjänster från annat EU-land, 25 %	4 355,00	
+2614	Utgående moms omvänd skattskyldighet, 25 %	1 088,75	
+2645	Beräknad ingående moms på förvärv från utlandet	1 088,75	
+-------------------------
+A 58	2021-11-16	2021-12-29	HP	 	 	
+2892	Skuld SEB kort	49,00	
+2641	Debiterad ingående moms	9,80	
+6110	Kontorsmateriel	39,20	
+-------------------------
+A 59	2021-11-19	2021-12-30	SKV	 	 	
+1930	Företagskonto/checkkonto/affärskonto
+KFM60 459,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+KFM59 845,00	
+8423	Räntekostnader för skatter och avgifter
+KFM614,00	
+1930	Företagskonto/checkkonto/affärskonto
+Inbet skattekontot12 500,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Inbet skattekontot12 500,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Anståndsbelopp77 953,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Anståndsbelopp77 953,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Anståndsbelopp52 617,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Anståndsbelopp52 617,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Anståndsbelopp159 427,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Anståndsbelopp159 427,00	
+2852	Anståndsbelopp för moms, AGA och källskatt
+Anståndsbelopp49 927,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Anståndsbelopp49 927,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Rättelse avgift956,00	
+6992	Övriga externa kostnader, ej avdragsgilla
+Rättelse avgift956,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Rättelse avgift299,00	
+6992	Övriga externa kostnader, ej avdragsgilla
+Rättelse avgift299,00	
+1630	Avräkning för skatter och avgifter (skattekonto)
+Omföring konto198 326,00	
+1645	Skattekonto
+Omföring konto198 326,00	
+-------------------------
+A 60	2021-11-21	2021-12-29	npm inc, 21 USD	 	 	
+2892	Skuld SEB kort	193,20	
+4531	Inköp av tjänster från ett land utanför EU, 25 % moms	193,20	
+2614	Utgående moms omvänd skattskyldighet, 25 %	48,30	
+2645	Beräknad ingående moms på förvärv från utlandet	48,30	
+-------------------------
+A 61	2021-11-22	2021-12-29	Oderland, FA 381578	 	 	
+2892	Skuld SEB kort	162,50	
+2641	Debiterad ingående moms	32,50	
+6540	IT-tjänster	130,00	
+-------------------------
+A 62	2021-11-23	2021-12-29	Freepik Comapny 9,99 EUR	 	 	
+2892	Skuld SEB kort	103,20	
+4535	Inköp av tjänster från annat EU-land, 25 %	103,20	
+2614	Utgående moms omvänd skattskyldighet, 25 %	25,80	
+2645	Beräknad ingående moms på förvärv från utlandet	25,80	
+-------------------------
+A 63	2021-11-24	2021-12-29	Intrum/Dustin	 	 	
+6062	Inkasso och KFM-avgifter	180,00	
+8400	Räntekostnader (gruppkonto)	27,21	
+1930	Företagskonto/checkkonto/affärskonto	207,21	
+-------------------------
+A 64	2021-11-25	2021-12-29	Anders, bil 9256 kr	 	 	
+7220	Löner till företagsledare	74 132,00	
+2710	Personalskatt	24 132,00	
+1930	Företagskonto/checkkonto/affärskonto
+2/1125 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+5/1115 000,00	
+1930	Företagskonto/checkkonto/affärskonto
+8/1110 000,00	
+-------------------------
+A 65	2021-11-27	2021-12-29	Circleci, 30 USD	 	 	
+2892	Skuld SEB kort	282,41	
+4535	Inköp av tjänster från annat EU-land, 25 %	282,41	
+2614	Utgående moms omvänd skattskyldighet, 25 %	70,60	
+2645	Beräknad ingående moms på förvärv från utlandet	70,60	
+-------------------------
+A 66	2021-11-30	2021-12-29	SEB banktjänster	 	 	
+6570	Bankkostnader	100,00	
+1930	Företagskonto/checkkonto/affärskonto	100,00	
+-------------------------
+A 67	2021-11-12	2021-12-29	Bet FA 2021-011/Enera	 	 	
+1930	Företagskonto/checkkonto/affärskonto	67 031,00	
+1510	Kundfordringar	67 031,00	
+-------------------------
+A 68	2021-11-30	2021-12-29	Bet leverantörer	 	 	
+1930	Företagskonto/checkkonto/affärskonto
+30/11 Beckhoff14 792,50	
+2440	Leverantörsskulder
+30/11 Beckhoff14 792,50	
+-------------------------
+A 69	2021-11-29	2021-12-30	Lösen o fsg av bil OJZ	 	 	
+2890	Övriga kortfristiga skulder
+Lösenpris BMW56 725,00	
+3970	Vinst vid avyttring av immateriella och materiella anläggningstillgångar
+Lösenpris BMW56 725,00	
+1930	Företagskonto/checkkonto/affärskonto
+Sålt t Bilia68 275,00	
+2890	Övriga kortfristiga skulder
+Sålt t Bilia56 725,00	
+3970	Vinst vid avyttring av immateriella och materiella anläggningstillgångar
+Sålt t Bilia125 000,00	
+-------------------------
+D 1	2021-09-02	2021-11-23	Levfakt De Lage Landen Finans AB (1)	 	 	
+2440	Leverantörsskulder	2 369,00	
+2641	Debiterad ingående moms	450,75	
+5220	Hyra av inventarier och verktyg	1 600,00	
+5214	Försäkring hyrda inventarier	118,00	
+8400	Räntekostnader (gruppkonto)	15,00	
+8490	Övriga skuldrelaterade poster	185,25	
+-------------------------
+D 2	2021-09-02	2021-11-23	Levfakt De Lage Landen Finans AB (2)	 	 	
+2440	Leverantörsskulder	1 514,00	
+2641	Debiterad ingående moms	282,75	
+5220	Hyra av inventarier och verktyg	974,00	
+5214	Försäkring hyrda inventarier	72,00	
+8490	Övriga skuldrelaterade poster	185,25	
+-------------------------
+D 3	2021-09-04	2021-11-23	Levfakt Tele2 Sverige Aktiebolag (3)	 	 	
+2440	Leverantörsskulder	698,00	
+2641	Debiterad ingående moms	127,54	
+8490	Övriga skuldrelaterade poster	60,00	
+6212	Mobiltelefon	510,46	
+-------------------------
+D 4	2021-09-04	2021-11-23	Levfakt Volkswagen Finans Sverige AB (4)	 	 	
+2440	Leverantörsskulder	8 311,00	
+2641	Debiterad ingående moms	808,93	
+5613	Reparation och underhåll av personbilar	299,00	
+5612	Försäkring och skatt för personbilar	460,00	
+8400	Räntekostnader (gruppkonto)	75,00	
+8490	Övriga skuldrelaterade poster	60,00	
+5615	Leasing av personbilar
+BHK73G6 608,07	
+-------------------------
+D 5	2021-09-16	2021-11-23	Levfakt neXus ID Solutions AB (5)	 	 	
+2440	Leverantörsskulder	419,00	
+2641	Debiterad ingående moms	83,75	
+6590	Övriga externa tjänster
+ID06-kort335,25	
+-------------------------
+D 6	2021-09-17	2021-11-23	Levfakt ODERLAND Webbhotell AB (6)	 	 	
+2440	Leverantörsskulder	162,50	
+2641	Debiterad ingående moms	32,50	
+6540	IT-tjänster	130,00	
+-------------------------
+D 7	2021-09-21	2021-11-23	Levfakt BMW Financial Services Scandinavia AB (7)	 	 	
+2440	Leverantörsskulder	3 138,00	
+2641	Debiterad ingående moms	311,85	
+8400	Räntekostnader (gruppkonto)	19,28	
+5615	Leasing av personbilar
+OJZ9462 806,87	
+-------------------------
+D 8	2021-09-28	2021-11-23	Levfakt SEB Kort Bank AB (8)	 	 	
+2440	Leverantörsskulder	4 864,09	
+2892	Skuld SEB kort	4 864,09	
+-------------------------
+D 9	2021-09-28	2021-11-23	Levfakt SEB Kort Bank AB (9)	 	 	
+2440	Leverantörsskulder	79,84	
+8400	Räntekostnader (gruppkonto)	79,84	
+-------------------------
+D 10	2021-10-04	2021-11-23	Levfakt Tele2 Sverige Aktiebolag (10)	 	 	
+2440	Leverantörsskulder	633,00	
+2641	Debiterad ingående moms	114,50	
+8490	Övriga skuldrelaterade poster	60,00	
+6212	Mobiltelefon	458,50	
+-------------------------
+D 11	2021-10-04	2021-11-23	Levfakt SEB Kort Bank AB (11)	 	 	
+2440	Leverantörsskulder	50,00	
+6570	Bankkostnader	50,00	
+-------------------------
+D 12	2021-10-05	2021-11-23	Levfakt Volkswagen Finans Sverige AB (12)	 	 	
+2440	Leverantörsskulder	8 302,00	
+2641	Debiterad ingående moms	808,07	
+5613	Reparation och underhåll av personbilar	299,00	
+5612	Försäkring och skatt för personbilar	460,00	
+8400	Räntekostnader (gruppkonto)	75,00	
+8490	Övriga skuldrelaterade poster	60,00	
+5615	Leasing av personbilar
+BHK73G6 599,93	
+-------------------------
+D 13	2021-10-05	2021-11-23	Levfakt ID06 AB (13)	 	 	
+2440	Leverantörsskulder	625,00	
+2641	Debiterad ingående moms	125,00	
+6590	Övriga externa tjänster	500,00	
+-------------------------
+D 14	2021-10-07	2021-11-23	Levfakt Dustin Sverige AB (14)	 	 	
+2440	Leverantörsskulder	5 173,00	
+2641	Debiterad ingående moms	1 034,50	
+5410	Förbrukningsinventarier	4 138,50	
+-------------------------
+D 15	2021-10-11	2021-11-23	Levfakt If Skadeförsäkring AB (publ) (15)	 	 	
+2440	Leverantörsskulder	4 038,00	
+6310	Företagsförsäkringar	4 038,00	
+-------------------------
+D 16	2021-10-29	2021-11-23	Levfakt SEB Kort Bank AB (16)	 	 	
+2440	Leverantörsskulder	7 029,45	
+8979	Justeringskonto
+Digital Ocean385,91	
+2892	Skuld SEB kort	6 643,54	
+-------------------------
+D 17	2021-10-29	2021-11-23	Levfakt Transportstyrelsen (17)	 	 	
+2440	Leverantörsskulder	500,00	
+2893	Skulder till närstående personer, kortfristig del
+Trängselskatt BHK500,00	
+-------------------------
+D 18	2021-10-29	2021-11-23	Levfakt Transportstyrelsen (18)	 	 	
+2440	Leverantörsskulder	500,00	
+2893	Skulder till närstående personer, kortfristig del
+Tilläggsavgift trängselskatt OJZ500,00	
+-------------------------
+D 19	2021-10-02	2021-12-29	Levfakt Transportstyrelsen (19)	 	 	
+2440	Leverantörsskulder
+BHK3 311,00	
+5612	Försäkring och skatt för personbilar
+BHK3 311,00	
+-------------------------
+D 20	2021-10-26	2021-12-29	Levfakt BMW Financial Services Scandinavia AB (20)	 	 	
+2440	Leverantörsskulder
+OJZ dec3 241,00	
+2641	Debiterad ingående moms
+OJZ dec311,84	
+8490	Övriga skuldrelaterade poster	177,85	
+5615	Leasing av personbilar
+OJZ dec2 751,31	
+-------------------------
+D 21	2021-11-04	2021-12-29	Levfakt Volkswagen Finans Sverige AB (21)	 	 	
+2440	Leverantörsskulder	8 281,00	
+2641	Debiterad ingående moms	805,96	
+5614	Serviceavtal bil	299,00	
+5612	Försäkring och skatt för personbilar	460,00	
+8490	Övriga skuldrelaterade poster	135,00	
+5615	Leasing av personbilar	6 581,04	
+-------------------------
+D 22	2021-11-04	2021-12-29	Levfakt Tele2 Sverige Aktiebolag (22)	 	 	
+2440	Leverantörsskulder	642,00	
+2641	Debiterad ingående moms	115,00	
+6212	Mobiltelefon	527,00	
+-------------------------
+D 23	2021-11-06	2021-12-29	Levfakt Transportstyrelsen (23)	 	 	
+2440	Leverantörsskulder	689,00	
+5612	Försäkring och skatt för personbilar
+OJZ689,00	
+-------------------------
+D 24	2021-11-10	2021-12-29	Levfakt Transportstyrelsen (24)	 	 	
+2440	Leverantörsskulder	522,00	
+2893	Skulder till närstående personer, kortfristig del
+OJZ22,00	
+8490	Övriga skuldrelaterade poster	500,00	
+-------------------------
+D 25	2021-11-10	2021-12-29	Levfakt Transportstyrelsen (25)	 	 	
+2440	Leverantörsskulder	578,00	
+2893	Skulder till närstående personer, kortfristig del
+BHK78,00	
+8490	Övriga skuldrelaterade poster
+BHK500,00	
+-------------------------
+D 26	2021-11-10	2021-12-29	Levfakt Backalycka Service AB (26)	 	 	
+2440	Leverantörsskulder	895,00	
+2641	Debiterad ingående moms	179,00	
+5613	Reparation och underhåll av personbilar
+OJZ716,00	
+-------------------------
+D 27	2021-11-23	2021-12-29	Levfakt Ekonomigruppen SRR AB (27)	 	 	
+2440	Leverantörsskulder	8 500,00	
+2641	Debiterad ingående moms	1 700,00	
+6530	Redovisningstjänster
+april-oktober6 800,00	
+-------------------------
+D 28	2021-11-23	2021-12-29	Levfakt BMW Financial Services Scandinavia AB (28)	 	 	
+2440	Leverantörsskulder	3 118,00	
+2641	Debiterad ingående moms
+jan311,84	
+5615	Leasing av personbilar
+jan2 806,16	
+-------------------------
+D 29	2021-11-30	2021-12-29	Levkreditfakt BMW Financial Services Scandinavia AB (29)	 	 	
+2440	Leverantörsskulder
+dec3 241,00	
+2641	Debiterad ingående moms
+dec311,84	
+8490	Övriga skuldrelaterade poster
+dec177,85	
+5615	Leasing av personbilar
+dec2 751,31	
+-------------------------
+D 30	2021-11-30	2021-12-29	Levkreditfakt BMW Financial Services Scandinavia AB (30)	 	 	
+2440	Leverantörsskulder
+jan3 118,00	
+2641	Debiterad ingående moms
+jan311,84	
+5615	Leasing av personbilar
+jan2 806,16	
+-------------------------
+D 31	2021-11-30	2021-12-29	Levfakt SEB Kort Bank AB (31)	 	 	
+2440	Leverantörsskulder	13 283,87	
+2892	Skuld SEB kort	13 283,87	
+-------------------------
+D 32	2021-11-30	2021-12-29	Levkreditfakt ODERLAND Webbhotell AB (32)	 	 	
+2440	Leverantörsskulder
+Dubbelbokförd D6+A61162,50	
+2641	Debiterad ingående moms
+Dubbelbokförd D6+A6132,50	
+6540	IT-tjänster
+Dubbelbokförd D6+A61130,00	
+-------------------------
+E 1	2021-10-14	2021-11-23	Levbet Tele2 Sverige Aktiebolag (3)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	698,00	
+2440	Leverantörsskulder	698,00	
+-------------------------
+E 2	2021-10-14	2021-11-23	Levbet De Lage Landen Finans AB (1)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	2 369,00	
+2440	Leverantörsskulder	2 369,00	
+-------------------------
+E 3	2021-10-14	2021-11-23	Levbet De Lage Landen Finans AB (2)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	1 514,00	
+2440	Leverantörsskulder	1 514,00	
+-------------------------
+E 4	2021-10-14	2021-11-23	Levbet neXus ID Solutions AB (5)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	419,00	
+2440	Leverantörsskulder	419,00	
+-------------------------
+E 5	2021-10-14	2021-11-23	Levbet Volkswagen Finans Sverige AB (4)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	8 311,00	
+2440	Leverantörsskulder	8 311,00	
+-------------------------
+E 6	2021-10-14	2021-11-23	Levbet SEB Kort Bank AB (8)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	4 864,09	
+2440	Leverantörsskulder	4 864,09	
+-------------------------
+E 7	2021-10-14	2021-11-23	Levbet SEB Kort Bank AB (11)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	50,00	
+2440	Leverantörsskulder	50,00	
+-------------------------
+E 8	2021-10-14	2021-11-23	Levbet SEB Kort Bank AB (9)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	79,84	
+2440	Leverantörsskulder	79,84	
+-------------------------
+E 9	2021-11-01	2021-12-29	Levbet BMW Financial Services Scandinavia AB (7)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	3 138,00	
+2440	Leverantörsskulder	3 138,00	
+-------------------------
+E 10	2021-11-04	2021-12-29	Levbet ID06 AB (13)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	625,00	
+2440	Leverantörsskulder	625,00	
+-------------------------
+E 11	2021-11-10	2021-12-29	Levbet Tele2 Sverige Aktiebolag (10)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	633,00	
+2440	Leverantörsskulder	633,00	
+-------------------------
+E 12	2021-11-30	2021-12-29	Levbet Volkswagen Finans Sverige AB (12)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	8 302,00	
+2440	Leverantörsskulder	8 302,00	
+-------------------------
+E 13	2021-11-10	2021-12-29	Levbet Dustin Sverige AB (14)	 	 	
+2440	Leverantörsskulder
+Betald privat5 173,00	
+2893	Skulder till närstående personer, kortfristig del
+Betald privat5 173,00	
+-------------------------
+E 14	2021-11-30	2021-12-29	Levbet BMW Financial Services Scandinavia AB (20)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	3 241,00	
+2440	Leverantörsskulder	3 241,00	
+-------------------------
+E 15	2021-11-30	2021-12-29	Levbet BMW Financial Services Scandinavia AB (29)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	3 241,00	
+2440	Leverantörsskulder	3 241,00	
+-------------------------
+E 16	2021-11-30	2021-12-29	Levbet BMW Financial Services Scandinavia AB (30)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	3 118,00	
+2440	Leverantörsskulder	3 118,00	
+-------------------------
+E 17	2021-11-30	2021-12-29	Levbet BMW Financial Services Scandinavia AB (28)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	3 118,00	
+2440	Leverantörsskulder	3 118,00	
+-------------------------
+E 18	2021-11-30	2021-12-29	Levbet ODERLAND Webbhotell AB (32)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	162,50	
+2440	Leverantörsskulder	162,50	
+-------------------------
+E 19	2021-11-30	2021-12-29	Levbet ODERLAND Webbhotell AB (6)	 	 	
+1930	Företagskonto/checkkonto/affärskonto	162,50	
+2440	Leverantörsskulder	162,50	
+-------------------------
+M 1	2021-09-30	2021-12-29	Momsrapport 2021-07-01 - 2021-09-30	 	 	
+2611	Utgående moms på försäljning inom Sverige, 25 %	34 109,00	
+2614	Utgående moms omvänd skattskyldighet, 25 %	2 584,48	
+2641	Debiterad ingående moms	8 942,09	
+2645	Beräknad ingående moms på förvärv från utlandet	2 584,48	
+2650	Redovisningskonto för moms	25 167,00	
+3740	Öres- och kronutjämning	0,09	
+-------------------------
+Antal verifikat:	121	Omslutning:	2 573 819,73	2 573 819,73	
+Antal transaktioner:	465	
+-------------------------

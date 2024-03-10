@@ -1,0 +1,113 @@
+{
+  "Sheet1": [
+    {
+      "__EMPTY": "To:",
+      "__EMPTY_1": "Clariant Production Sweden AB",
+      "Faktura nr": "Datum",
+      "2022-001": 44579
+    },
+    {
+      "__EMPTY_1": "Flöjelbergsgatan 1C",
+      "Faktura nr": "Förfallodatum",
+      "2022-001": 44594
+    },
+    {
+      "__EMPTY_1": "SE-431 35 Mölndal, Sweden"
+    },
+    {
+      "__EMPTY": "Leveransadress",
+      "Faktura": "Postadress"
+    },
+    {
+      "__EMPTY": "Clariant Production Sweden AB",
+      "Faktura": "Clariant Production Sweden AB"
+    },
+    {
+      "__EMPTY": "Frölandsvägen 48",
+      "Faktura": "c/o Clariant Polska Sp. z.o.o"
+    },
+    {
+      "__EMPTY": "451 76 Uddevalla",
+      "Faktura": "Central Invoice Verification"
+    },
+    {
+      "__EMPTY": "Recipient: Peter Lennartsson",
+      "__EMPTY_3": " ",
+      "Faktura": "Piotrkowska St. 148/150, PL-90-063 Lodz, Poland"
+    },
+    {
+      "__EMPTY": "PO number/Purch.group/Date"
+    },
+    {
+      "__EMPTY": "4505818258"
+    },
+    {
+      "__EMPTY": "Er referens",
+      "__EMPTY_2": "Er order",
+      "__EMPTY_3": "Vår referens",
+      "Faktura nr": "Betalningsvillkor"
+    },
+    {
+      "__EMPTY": "Peter Lennartsson",
+      "__EMPTY_2": 44538,
+      "__EMPTY_3": "Anders Westberg",
+      "Faktura nr": 15,
+      "2022-001": "dagar netto"
+    },
+    {
+      "__EMPTY": "Benämning",
+      "__EMPTY_4": "Antal",
+      "Faktura nr": "a´-pris",
+      "2022-001": "Belopp SEK"
+    },
+    {
+      "__EMPTY": "Support programvaror produktionssystem Uddevalla",
+      "__EMPTY_4": 1,
+      "Faktura nr": 90000,
+      "2022-001": 90000
+    },
+    {
+      "__EMPTY": "Avser perioden 2022-01-01 till 2022-12-31"
+    },
+    {
+      "__EMPTY": "Netto",
+      "__EMPTY_1": "Frakt",
+      "__EMPTY_2": "Totalt",
+      "__EMPTY_3": "Moms %",
+      "Faktura": "Moms ",
+      "__EMPTY_4": "Öresutj.",
+      "2022-001": "Att betala SEK"
+    },
+    {
+      "__EMPTY": 90000,
+      "__EMPTY_1": 0,
+      "__EMPTY_2": 90000,
+      "__EMPTY_3": 25,
+      "Faktura": 22500,
+      "__EMPTY_4": 0,
+      "2022-001": 112500
+    },
+    {
+      "__EMPTY": "Adress",
+      "__EMPTY_2": "Telefon",
+      "Faktura": "Bankgiro",
+      "Faktura nr": "Org.nr."
+    },
+    {
+      "__EMPTY": "Diginet AB",
+      "__EMPTY_2": "+46 705 95 40 76",
+      "Faktura": "5847-0790",
+      "Faktura nr": "556466-2699 (F-skatt)"
+    },
+    {
+      "__EMPTY": "Grankullevägen 17",
+      "Faktura": "BIC/SWIFT ESSESESS",
+      "Faktura nr": "VAT"
+    },
+    {
+      "__EMPTY": "SE-439 92 Onsala",
+      "Faktura": "IBAN SE3250000000051501012851",
+      "Faktura nr": "SE556466269901"
+    }
+  ]
+}

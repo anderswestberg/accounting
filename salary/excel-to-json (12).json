@@ -1,0 +1,87 @@
+{
+  "Blad1": [
+    {
+      "Lönespecifikation": "Anders Westberg"
+    },
+    {
+      "Lönespecifikation": "Datum",
+      "__EMPTY": 44920
+    },
+    {
+      "Lönespecifikation": "Månadslön",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Tjänstledighet, sjukavdrag etc",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Bruttolön",
+      "__EMPTY": 7130
+    },
+    {
+      "Lönespecifikation": "Förmåner",
+      "__EMPTY": 6344,
+      "Diginet AB": "BHK73G (20VW156)"
+    },
+    {
+      "Lönespecifikation": "Underlag för skatteavdrag",
+      "__EMPTY": 13474
+    },
+    {
+      "Lönespecifikation": "Skatteavdrag",
+      "__EMPTY": 2130
+    },
+    {
+      "Lönespecifikation": "Reglering kostnader"
+    },
+    {
+      "Lönespecifikation": "Reglering skuld till AW"
+    },
+    {
+      "Lönespecifikation": "Reglering skuld till AW"
+    },
+    {
+      "Lönespecifikation": "Reglering privat kostnad"
+    },
+    {
+      "Lönespecifikation": "Retroaktiv lön",
+      "__EMPTY": 50285
+    },
+    {
+      "Lönespecifikation": "Skatteavdrag retr. Lön, 30%",
+      "__EMPTY": 15085.5
+    },
+    {
+      "Lönespecifikation": "Netto",
+      "__EMPTY": 40199.5
+    },
+    {
+      "Lönespecifikation": "Sjukdagar"
+    },
+    {
+      "Lönespecifikation": "Vård sjukt barn"
+    },
+    {
+      "Lönespecifikation": "Tjänstledighet, sjukavdrag etc"
+    },
+    {
+      "Lönespecifikation": "Ingående saldo",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Utgående saldo",
+      "__EMPTY": 0
+    },
+    {
+      "Lönespecifikation": "Ackumulerad bruttolön / förmåner",
+      "__EMPTY": 239582,
+      "__EMPTY_1": 44408
+    },
+    {
+      "Lönespecifikation": "Ackumulerat skatteavdrag",
+      "__EMPTY": 75282.5,
+      "__EMPTY_1": " "
+    }
+  ]
+}

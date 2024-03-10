@@ -1,0 +1,100 @@
+{
+  "Sheet1": [
+    {
+      "Nr": "Datum",
+      "2022-017": 44778
+    },
+    {
+      "Nr": "Förfallodatum",
+      "2022-017": 44798
+    },
+    {
+      "__EMPTY": "Leveransadress",
+      "Faktura": "Postadress"
+    },
+    {
+      "Faktura": "Enera International AB"
+    },
+    {
+      "Faktura": "Nämndemansgatan 3 "
+    },
+    {
+      "Faktura": "431 33 Mölndal "
+    },
+    {
+      "__EMPTY_3": " "
+    },
+    {
+      "__EMPTY": "Er referens",
+      "__EMPTY_2": "Er order",
+      "__EMPTY_3": "Vår referens",
+      "Nr": "Betalningsvillkor"
+    },
+    {
+      "__EMPTY": "Erik Nygren",
+      "__EMPTY_2": 42626,
+      "__EMPTY_3": "Anders Westberg",
+      "Nr": 20,
+      "2022-017": "dagar netto"
+    },
+    {
+      "2022-017": "Dröjsmålsränta 8%"
+    },
+    {
+      "__EMPTY": "Benämning",
+      "__EMPTY_4": "Antal",
+      "Nr": "a´-pris",
+      "2022-017": "Belopp SEK"
+    },
+    {
+      "__EMPTY": "Utvecklingsarbete, 2022-06 - 2022-07",
+      "__EMPTY_4": 84.5,
+      "Nr": 725,
+      "2022-017": 61262.5
+    },
+    {
+      "2022-017": 0
+    },
+    {
+      "__EMPTY_1": "Enligt bifogad specifikation"
+    },
+    {
+      "__EMPTY": "Netto",
+      "__EMPTY_1": "Frakt",
+      "__EMPTY_2": "Totalt",
+      "__EMPTY_3": "Moms %",
+      "Faktura": "Moms ",
+      "__EMPTY_4": "Öresutj.",
+      "2022-017": "Att betala SEK"
+    },
+    {
+      "__EMPTY": 61262.5,
+      "__EMPTY_1": 0,
+      "__EMPTY_2": 61262.5,
+      "__EMPTY_3": 25,
+      "Faktura": 15315.63,
+      "__EMPTY_4": -0.12999999999919964,
+      "2022-017": 76578
+    },
+    {
+      "__EMPTY": "Adress",
+      "__EMPTY_2": "Telefon",
+      "Faktura": "Bankgiro",
+      "Nr": "Org.nr."
+    },
+    {
+      "__EMPTY": "Diginet AB",
+      "__EMPTY_2": "0705-954076",
+      "Faktura": "5847-0790",
+      "Nr": "556466-2699 (F-skatt)"
+    },
+    {
+      "__EMPTY": "Grankullevägen 17",
+      "Nr": "VAT"
+    },
+    {
+      "__EMPTY": "439 92 Onsala",
+      "Nr": "SE556466269901"
+    }
+  ]
+}
