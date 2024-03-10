@@ -1,8 +1,8 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.parseDateString = exports.formatDateYYYYMMDD = void 0;
-const formatDateYYYYMMDD = (date) => {
-    const year = date.getFullYear();
+const formatDateYYYYMMDD = (date, add = 0) => {
+    const year = date.getFullYear() + add;
     const month = String(date.getMonth() + 1).padStart(2, '0'); // Months are zero-based
     const day = String(date.getDate()).padStart(2, '0');
     return `${year}${month}${day}`;

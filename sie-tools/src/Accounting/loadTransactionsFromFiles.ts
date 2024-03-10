@@ -22,7 +22,7 @@ export const getSebVerifications = async () => {
         transaction[1] = parseDateString(transaction[1])
         const template = findTemplate(transaction[0])
         if (template) {
-            const verification = executeTemplate(template, { date: transaction[1], total: -parseFloat(transaction[5]) })
+            const verification = executeTemplate(template, { date: transaction[1], total: parseFloat(transaction[5]) })
             if (verification)
                 result.push(verification)
         }

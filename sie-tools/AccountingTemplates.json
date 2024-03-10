@@ -7,15 +7,148 @@
             {
                 "account": 2691,
                 "transactionInformation": "",
-                "formula": "{$total}"
+                "formula": "-1*{$total}"
             },
             {
                 "account": 1930,
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "{$total}"
             }
         ],
         "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "lfakt tsp",
+        "description": "Levfakt Transportstyrelsen",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2440,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 2893,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "förseningsavgift",
+        "description": "Förseningsavgift",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 8423,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "bankavgift",
+        "description": "Bankavgift",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 6570,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "fordonsskatt",
+        "description": "Fordonsskatt BHK73G",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2440,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 5612,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "kbetal",
+        "description": "Betalning KFakt",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 1510,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            }
+        ],
+        "voucherSeries": "C",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "lbetal",
+        "description": "Betalning LFakt",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2440,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "C",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "inbet skattekonto",
+        "description": "Inbetalning skattekonto",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1930,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "C",
         "voucherDescription": "F-skatt"
     },
 	{

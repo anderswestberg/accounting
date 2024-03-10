@@ -25,7 +25,7 @@ const getSebVerifications = async () => {
         transaction[1] = (0, Utils_1.parseDateString)(transaction[1]);
         const template = (0, AccountingTemplates_1.findTemplate)(transaction[0]);
         if (template) {
-            const verification = (0, AccountingTemplates_1.executeTemplate)(template, { date: transaction[1], total: -parseFloat(transaction[5]) });
+            const verification = (0, AccountingTemplates_1.executeTemplate)(template, { date: transaction[1], total: parseFloat(transaction[5]) });
             if (verification)
                 result.push(verification);
         }

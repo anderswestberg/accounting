@@ -5,10 +5,10 @@
 #GEN 20240205
 #FNAMN "Diginet Aktiebolag"
 #ADRESS "Diginet AB" "Grankullev„gen 17" "43992 ONSALA" "070-5954076" 
-#RAR 0 20240101 20241231
-#RAR -1 20230101 20231231
+#RAR 0 20230901 20240831
+#RAR -1 20220901 20230831
 #ORGNR 556466-2699
-#OMFATTN 20241231
+#OMFATTN 20240831
 #KPTYP EUBAS97
 
 #KONTO 1010 "Utvecklingsutgifter"
@@ -802,368 +802,233 @@
 #KONTO 8999 "?rets resultat"
 #SRU 8999 7450
 
-#VER A 1 20211201 "™verf”ring till Anders" 20220122
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 2 20211207 "™verf”ring till Anders" 20220122
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
-}
-#VER A 3 20211216 "™verf”ring till Anders" 20220122
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
-}
-#VER A 4 20211216 "™verf”ring till Anders" 20220122
-{
-#TRANS 2691 {} 67000 "" "" 0
-#TRANS 1930 {} -67000 "" "" 0
-}
-#VER A 5 20220103 "™verf”ring till Anders" 20220219
-{
-#TRANS 2691 {} 1500 "" "" 0
-#TRANS 1930 {} -1500 "" "" 0
-}
-#VER A 6 20220104 "™verf”ring till Anders" 20220219
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 7 20220107 "™verf”ring till Anders" 20220219
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
-}
-#VER A 8 20220112 "™verf”ring till Anders" 20220219
+#VER A 1 20230906 "™verf”ring till Anders" 20231019
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 9 20220202 "™verf”ring till Anders" 20220316
+#VER C 2 20230907 "Betalning LFakt" 20231019
 {
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
+#TRANS 2440 {} 8596 "" "" 0
+#TRANS 1930 {} -8596 "" "" 0
 }
-#VER A 10 20220210 "™verf”ring till Anders" 20220316
+#VER C 3 20230913 "Inbetalning skattekonto" 20231019
 {
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
+#TRANS 1645 {} 112288 "" "" 0
+#TRANS 1930 {} -112288 "" "" 0
 }
-#VER A 11 20220304 "™verf”ring till Anders" 20220408
+#VER C 4 20230925 "Betalning KFakt" 20231019
 {
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
+#TRANS 1930 {} 153156 "" "" 0
+#TRANS 1510 {} -153156 "" "" 0
 }
-#VER A 12 20220314 "™verf”ring till Anders" 20220408
+#VER A 5 20230925 "™verf”ring till Anders" 20231019
 {
 #TRANS 2691 {} 30000 "" "" 0
 #TRANS 1930 {} -30000 "" "" 0
 }
-#VER A 13 20220328 "™verf”ring till Anders" 20220408
+#VER A 6 20230929 "Bankavgift" 20231019
 {
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
+#TRANS 6570 {} 0 "" "" 0
+#TRANS 1930 {} 0 "" "" 0
 }
-#VER A 14 20220408 "™verf”ring till Anders" 20220511
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 15 20220414 "™verf”ring till Anders" 20220511
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
-}
-#VER A 16 20220419 "™verf”ring till Anders" 20220511
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 17 20220429 "™verf”ring till Anders" 20220511
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 18 20220505 "™verf”ring till Anders" 20220602
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 19 20220610 "™verf”ring till Anders" 20220717
-{
-#TRANS 2691 {} 5000 "" "" 0
-#TRANS 1930 {} -5000 "" "" 0
-}
-#VER A 20 20220705 "™verf”ring till Anders" 20220828
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 21 20220729 "™verf”ring till Anders" 20220828
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 22 20220811 "™verf”ring till Anders" 20220901
-{
-#TRANS 2691 {} 45000 "" "" 0
-#TRANS 1930 {} -45000 "" "" 0
-}
-#VER A 23 20220819 "™verf”ring till Anders" 20220901
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
-}
-#VER A 24 20220905 "™verf”ring till Anders" 20221004
-{
-#TRANS 2691 {} 12000 "" "" 0
-#TRANS 1930 {} -12000 "" "" 0
-}
-#VER A 25 20220919 "™verf”ring till Anders" 20221004
-{
-#TRANS 2691 {} 45000 "" "" 0
-#TRANS 1930 {} -45000 "" "" 0
-}
-#VER A 26 20220920 "™verf”ring till Anders" 20221004
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 27 20220928 "™verf”ring till Anders" 20221004
-{
-#TRANS 2691 {} 40000 "" "" 0
-#TRANS 1930 {} -40000 "" "" 0
-}
-#VER A 28 20221003 "™verf”ring till Anders" 20221112
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 29 20221019 "™verf”ring till Anders" 20221112
-{
-#TRANS 2691 {} 5000 "" "" 0
-#TRANS 1930 {} -5000 "" "" 0
-}
-#VER A 30 20221031 "™verf”ring till Anders" 20221112
-{
-#TRANS 2691 {} 1400 "" "" 0
-#TRANS 1930 {} -1400 "" "" 0
-}
-#VER A 31 20221102 "™verf”ring till Anders" 20221226
-{
-#TRANS 2691 {} 40000 "" "" 0
-#TRANS 1930 {} -40000 "" "" 0
-}
-#VER A 32 20221110 "™verf”ring till Anders" 20221226
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 33 20221116 "™verf”ring till Anders" 20221226
+#VER A 7 20231002 "™verf”ring till Anders" 20231125
 {
 #TRANS 2691 {} 30000 "" "" 0
 #TRANS 1930 {} -30000 "" "" 0
 }
-#VER A 34 20221124 "™verf”ring till Anders" 20221226
+#VER A 8 20231002 "Bankavgift" 20231125
 {
-#TRANS 2691 {} 7000 "" "" 0
-#TRANS 1930 {} -7000 "" "" 0
+#TRANS 6570 {} 330 "" "" 0
+#TRANS 1930 {} -330 "" "" 0
 }
-#VER A 35 20221201 "™verf”ring till Anders" 20230125
+#VER C 9 20231004 "Betalning LFakt" 20231125
+{
+#TRANS 2440 {} 521 "" "" 0
+#TRANS 1930 {} -521 "" "" 0
+}
+#VER C 10 20231005 "Betalning KFakt" 20231125
+{
+#TRANS 1930 {} 112500 "" "" 0
+#TRANS 1510 {} -112500 "" "" 0
+}
+#VER A 11 20231010 "™verf”ring till Anders" 20231125
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 12 20231013 "Levfakt Transportstyrelsen" 20231125
+{
+#TRANS 2440 {} -640 "" "" 0
+#TRANS 2893 {} 640 "" "" 0
+}
+#VER C 13 20231013 "Betalning LFakt" 20231125
+{
+#TRANS 2440 {} 9369 "" "" 0
+#TRANS 1930 {} -9369 "" "" 0
+}
+#VER A 14 20231013 "Fordonsskatt BHK73G" 20231125
+{
+#TRANS 2440 {} -36 "" "" 0
+#TRANS 5612 {} 36 "" "" 0
+}
+#VER A 15 20231017 "™verf”ring till Anders" 20231125
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 16 20231101 "™verf”ring till Anders" 20231215
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER A 17 20231101 "Bankavgift" 20231215
+{
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
+}
+#VER A 18 20231114 "™verf”ring till Anders" 20231215
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER C 19 20231121 "Betalning KFakt" 20231215
+{
+#TRANS 1930 {} 128234 "" "" 0
+#TRANS 1510 {} -128234 "" "" 0
+}
+#VER C 20 20231123 "Betalning LFakt" 20231215
+{
+#TRANS 2440 {} 8634 "" "" 0
+#TRANS 1930 {} -8634 "" "" 0
+}
+#VER A 21 20231123 "™verf”ring till Anders" 20231215
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 22 20231130 "Bankavgift" 20231215
+{
+#TRANS 6570 {} 133 "" "" 0
+#TRANS 1930 {} -133 "" "" 0
+}
+#VER A 23 20231204 "™verf”ring till Anders" 20240123
 {
 #TRANS 2691 {} 35000 "" "" 0
 #TRANS 1930 {} -35000 "" "" 0
 }
-#VER A 36 20221207 "™verf”ring till Anders" 20230125
+#VER A 24 20231207 "Levfakt Transportstyrelsen" 20240123
 {
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
+#TRANS 2440 {} -578 "" "" 0
+#TRANS 2893 {} 578 "" "" 0
 }
-#VER A 37 20221213 "™verf”ring till Anders" 20230125
+#VER C 25 20231207 "Betalning LFakt" 20240123
 {
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
+#TRANS 2440 {} 63 "" "" 0
+#TRANS 1930 {} -63 "" "" 0
 }
-#VER A 38 20221215 "™verf”ring till Anders" 20230125
+#VER A 26 20231207 "F”rseningsavgift" 20240123
 {
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
+#TRANS 1645 {} 250 "" "" 0
+#TRANS 8423 {} -250 "" "" 0
 }
-#VER A 39 20221227 "™verf”ring till Anders" 20230125
+#VER A 27 20231207 "F”rseningsavgift" 20240123
+{
+#TRANS 1645 {} 930 "" "" 0
+#TRANS 8423 {} -930 "" "" 0
+}
+#VER A 28 20231207 "F”rseningsavgift" 20240123
+{
+#TRANS 1645 {} 1358 "" "" 0
+#TRANS 8423 {} -1358 "" "" 0
+}
+#VER C 29 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 625 "" "" 0
+#TRANS 1930 {} -625 "" "" 0
+}
+#VER C 30 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 8663 "" "" 0
+#TRANS 1930 {} -8663 "" "" 0
+}
+#VER A 31 20231207 "F”rseningsavgift" 20240123
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 32 20231207 "F”rseningsavgift" 20240123
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 33 20231207 "F”rseningsavgift" 20240123
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER C 34 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 1178 "" "" 0
+#TRANS 1930 {} -1178 "" "" 0
+}
+#VER C 35 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 1250 "" "" 0
+#TRANS 1930 {} -1250 "" "" 0
+}
+#VER C 36 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 2929 "" "" 0
+#TRANS 1930 {} -2929 "" "" 0
+}
+#VER C 37 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 3785 "" "" 0
+#TRANS 1930 {} -3785 "" "" 0
+}
+#VER C 38 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 10600 "" "" 0
+#TRANS 1930 {} -10600 "" "" 0
+}
+#VER C 39 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 179 "" "" 0
+#TRANS 1930 {} -179 "" "" 0
+}
+#VER C 40 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 458 "" "" 0
+#TRANS 1930 {} -458 "" "" 0
+}
+#VER C 41 20231207 "Betalning LFakt" 20240123
+{
+#TRANS 2440 {} 572 "" "" 0
+#TRANS 1930 {} -572 "" "" 0
+}
+#VER A 42 20231218 "™verf”ring till Anders" 20240123
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 40 20230110 "™verf”ring till Anders" 20230226
+#VER C 43 20231220 "Betalning KFakt" 20240123
 {
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
+#TRANS 1930 {} 21203 "" "" 0
+#TRANS 1510 {} -21203 "" "" 0
 }
-#VER A 41 20230131 "™verf”ring till Anders" 20230226
-{
-#TRANS 2691 {} 550 "" "" 0
-#TRANS 1930 {} -550 "" "" 0
-}
-#VER A 42 20230203 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 75000 "" "" 0
-#TRANS 1930 {} -75000 "" "" 0
-}
-#VER A 43 20230203 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 44 20230207 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 45 20230220 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 46 20230223 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 30000 "" "" 0
-#TRANS 1930 {} -30000 "" "" 0
-}
-#VER A 47 20230227 "™verf”ring till Anders" 20230323
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 48 20230306 "™verf”ring till Anders" 20230426
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 49 20230310 "™verf”ring till Anders" 20230426
+#VER A 44 20231228 "™verf”ring till Anders" 20240123
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER A 50 20230329 "™verf”ring till Anders" 20230426
+#VER A 45 20240102 "Bankavgift" 20240217
 {
-#TRANS 2691 {} 5000 "" "" 0
-#TRANS 1930 {} -5000 "" "" 0
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
 }
-#VER A 51 20230403 "™verf”ring till Anders" 20230502
+#VER C 46 20240102 "Betalning LFakt" 20240217
 {
-#TRANS 2691 {} 35000 "" "" 0
-#TRANS 1930 {} -35000 "" "" 0
-}
-#VER A 52 20230406 "™verf”ring till Anders" 20230502
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 53 20230414 "™verf”ring till Anders" 20230502
-{
-#TRANS 2691 {} 45000 "" "" 0
-#TRANS 1930 {} -45000 "" "" 0
-}
-#VER A 54 20230508 "™verf”ring till Anders" 20230606
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 55 20230511 "™verf”ring till Anders" 20230606
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 56 20230602 "™verf”ring till Anders" 20230704
-{
-#TRANS 2691 {} 30000 "" "" 0
-#TRANS 1930 {} -30000 "" "" 0
-}
-#VER A 57 20230614 "™verf”ring till Anders" 20230704
-{
-#TRANS 2691 {} 30000 "" "" 0
-#TRANS 1930 {} -30000 "" "" 0
-}
-#VER A 58 20230621 "™verf”ring till Anders" 20230704
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 59 20230704 "™verf”ring till Anders" 20230824
-{
-#TRANS 2691 {} 4000 "" "" 0
-#TRANS 1930 {} -4000 "" "" 0
-}
-#VER A 60 20230814 "™verf”ring till Anders" 20230920
-{
-#TRANS 2691 {} 45000 "" "" 0
-#TRANS 1930 {} -45000 "" "" 0
-}
-#VER A 61 20230823 "™verf”ring till Anders" 20230920
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 62 20230831 "™verf”ring till Anders" 20230920
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 63 20230906 "™verf”ring till Anders" 20231009
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 64 20230925 "™verf”ring till Anders" 20231009
-{
-#TRANS 2691 {} 30000 "" "" 0
-#TRANS 1930 {} -30000 "" "" 0
-}
-#VER A 65 20231002 "™verf”ring till Anders" 20231104
-{
-#TRANS 2691 {} 30000 "" "" 0
-#TRANS 1930 {} -30000 "" "" 0
-}
-#VER A 66 20231010 "™verf”ring till Anders" 20231104
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 67 20231017 "™verf”ring till Anders" 20231104
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 68 20231101 "™verf”ring till Anders" 20231213
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 69 20231114 "™verf”ring till Anders" 20231213
-{
-#TRANS 2691 {} 20000 "" "" 0
-#TRANS 1930 {} -20000 "" "" 0
-}
-#VER A 70 20231123 "™verf”ring till Anders" 20231213
-{
-#TRANS 2691 {} 25000 "" "" 0
-#TRANS 1930 {} -25000 "" "" 0
-}
-#VER A 71 20231204 "™verf”ring till Anders" 20240101
-{
-#TRANS 2691 {} 35000 "" "" 0
-#TRANS 1930 {} -35000 "" "" 0
-}
-#VER A 72 20231218 "™verf”ring till Anders" 20240101
-{
-#TRANS 2691 {} 15000 "" "" 0
-#TRANS 1930 {} -15000 "" "" 0
-}
-#VER A 73 20231228 "™verf”ring till Anders" 20240101
-{
-#TRANS 2691 {} 10000 "" "" 0
-#TRANS 1930 {} -10000 "" "" 0
+#TRANS 2440 {} 2775 "" "" 0
+#TRANS 1930 {} -2775 "" "" 0
 }
