@@ -5,25 +5,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.executeTemplate = exports.findTemplate = exports.getAccountingTemplates = void 0;
 const promises_1 = __importDefault(require("fs/promises"));
-const example = {
-    "code": "9",
-    "description": "Betalning av F-skatt uppbokad mot skattekonto",
-    "dateField": "Datum",
-    "rows": [
-        {
-            "account": 1930,
-            "transactionInformation": "",
-            "formula": "-{$total}"
-        },
-        {
-            "account": 1630,
-            "transactionInformation": "",
-            "formula": "{$total}"
-        }
-    ],
-    "voucherSeries": "A",
-    "voucherDescription": "F-skatt"
-};
+const evaluateExpression_1 = require("../evaluateExpression");
 let accountingTemplates;
 const getAccountingTemplates = async () => {
     accountingTemplates = JSON.parse(await promises_1.default.readFile('./AccountingTemplates.json', { encoding: 'utf-8' }));
@@ -44,15 +26,22 @@ exports.findTemplate = findTemplate;
 const executeTemplate = (template, data) => {
     let verification;
     verification = {
-        date: data.date,
-        dateEntered: data.date,
         type: template.voucherSeries,
+        date: data.date,
+        description: template.description,
+        dateEntered: data.date,
         items: []
     };
     for (let n = 0; n < template.rows.length; n++) {
-        const item = ;
+        const tRow = template.rows[n];
+        const item = {
+            description: '',
+            account: tRow.account,
+            amount: (0, evaluateExpression_1.evaluateExpression)(tRow.formula, data)
+        };
+        verification.items.push(item);
     }
     return verification;
 };
 exports.executeTemplate = executeTemplate;
-//# sourceMappingURL=GetAccountingTemplates.js.map
+//# sourceMappingURL=AccountingTemplates.js.map

@@ -7,6 +7,7 @@ export interface VerificationItem {
 export interface Verification {
     type: string
     date: Date
+    description: string
     dateEntered: Date
     items: VerificationItem[]
 }

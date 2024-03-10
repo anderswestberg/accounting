@@ -1,9 +1,11 @@
 import fsp from 'fs/promises'
 import util from 'util'
-import { Verification, getBankgiroName, writeSie } from '.'
+import { Verification } from '.'
 import { parse as parseCsv } from 'csv'
 import sie from 'sie-reader'
 import { getAccountPlan } from './GetAccountPlan'
+import { executeTemplate, findTemplate } from './AccountingTemplates'
+import { parseDateString } from '../Utils'
 
 export const parseCsvAsync = util.promisify<string, any, any>(parseCsv)
 export const sieReadFileAsync = util.promisify<string, any>(sie.readFile)
@@ -15,7 +17,16 @@ export const getSebVerifications = async () => {
         comment: '#',
         delimiter: '\t'
     })
-    
+    for (let n = 1; n < transactions.length; n++) {        
+        const transaction = transactions[n]
+        transaction[1] = parseDateString(transaction[1])
+        const template = findTemplate(transaction[0])
+        if (template) {
+            const verification = executeTemplate(template, { date: transaction[1], total: -parseFloat(transaction[5]) })
+            if (verification)
+                result.push(verification)
+        }
+    }
     return result
 }
 
@@ -25,7 +36,6 @@ export const getCustomerInvoiceVerifications = async () => {
     const files = await fsp.readdir(folder)
     for (const file of files) {
         const invoice = JSON.parse(await fsp.readFile(folder + file, { encoding: 'utf-8' }))
-        console.log(invoice)
     }
     return result
 }
@@ -108,7 +118,7 @@ export const loadTransactionsFromFiles = async () => {
 
     // Generate SIE output
     const verifications: Verification[] = []
-    writeSie('test.se', verifications)
+    return result
 }
 
 export const createVerificationsWithPlainTextAccountNames = async (fileName: string) => {

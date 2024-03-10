@@ -7,12 +7,12 @@
             {
                 "account": 2691,
                 "transactionInformation": "",
-                "formula": "{$Bruttolön}"
+                "formula": "{$total}"
             },
             {
                 "account": 1930,
                 "transactionInformation": "",
-                "formula": "-{$Netto}"
+                "formula": "-{$total}"
             }
         ],
         "voucherSeries": "A",
