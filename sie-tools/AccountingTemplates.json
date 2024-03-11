@@ -105,6 +105,44 @@
         "voucherDescription": "F-skatt"
     },
 	{
+        "code": "ränta-skattekonto",
+        "description": "Ränta skattekonto",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 8423,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "korr-ränta-skattekonto",
+        "description": "Korr. ränta skattekonto",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 8423,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
         "code": "bankavgift",
         "description": "Bankavgift",
         "dateField": "Datum",
@@ -178,7 +216,26 @@
             }
         ],
         "voucherSeries": "C",
-        "voucherDescription": "F-skatt"
+        "voucherDescription": ""
+    },
+	{
+        "code": "f-skatt",
+        "description": "F-skatt",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2518,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "C",
+        "voucherDescription": ""
     },
 	{
         "code": "inbet skattekonto",
@@ -207,17 +264,17 @@
             {
                 "account": 7220,
                 "transactionInformation": "",
-                "formula": "-{$Bruttolön}"
+                "formula": "-1*{$brutto}"
             },
             {
                 "account": 2710,
                 "transactionInformation": "",
-                "formula": "{$Skatteavdrag}"
+                "formula": "{$pskatt}"
             },
             {
                 "account": 1930,
                 "transactionInformation": "",
-                "formula": "-{$total}"
+                "formula": "-1*{$netto}"
             }
         ],
         "voucherSeries": "A",

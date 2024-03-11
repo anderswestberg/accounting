@@ -158,6 +158,41 @@ export const getTaxVerifications = async () => {
         delimiter: ',',
         relax_column_count: true,
     })
+    for (let n = 0; n < transactions.length; n++) {
+        const transaction = transactions[n]
+        const date = parseDateStringYYMMDD(transaction[0]) as Date
+        const description = transaction[1]
+        const total = parseFloat(transaction[2])
+        if (description.indexOf('Förs.avgift') >= 0 || description.indexOf('Avgift för tillfälligt anstånd')) {
+            const template = findTemplate('förseningsavgift')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Kostnadsränta') >= 0 || description.indexOf('Intäktsränta') >= 0) {
+            const template = findTemplate('ränta-skattekonto')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Korrigerad') >= 0) {
+            const template = findTemplate('ränta-skattekonto')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Debiterad preliminärskatt') >= 0) {
+            const template = findTemplate('f-skatt')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        }
+    }
     return result
 }
 
@@ -182,21 +217,43 @@ export const getSalaryVerifications = async () => {
         if (file.substring(0, 3) === '202' && file.indexOf('.xlsx') >= 0) {
             const buffer = await fsp.readFile(folder + file)
             const contents = await readXlsxFile(buffer)
-            const invoice = contents[0][7]
-            const date = contents[1][7] as never as Date
+            const date = contents[3][1] as never as Date
             const startDate = new Date('2021-11-30')
             if (date.getTime() > startDate.getTime()) {
-                let total = 0
+                let brutto = 0
                 for (let n = 0; n < contents.length; n++) {
                     const row = contents[n]
-                    if (row[0] === 'Netto') {
-                        total = contents[n + 1][0] as never as number
+                    if (row[0] === 'Bruttolön') {
+                        brutto = contents[n][1] as never as number
+                        brutto += contents[n + 1][1] as never as number
                         break
                     }
                 }
-                const template = findTemplate('kundfaktura')
+                for (let n = 0; n < contents.length; n++) {
+                    const row = contents[n]
+                    if (row[0] === 'Retroaktiv lön') {
+                        brutto += contents[n][1] as never as number
+                        break
+                    }
+                }
+                let pskatt = 0
+                for (let n = 0; n < contents.length; n++) {
+                    const row = contents[n]
+                    if (row[0] && row[0].toString().indexOf('Skatteavdrag') >= 0) {
+                        pskatt += contents[n][1] as never as number
+                    }
+                }
+                let netto = 0
+                for (let n = 0; n < contents.length; n++) {
+                    const row = contents[n]
+                    if (row[0] === 'Netto') {
+                        netto += contents[n][1] as never as number
+                        break
+                    }
+                }
+                const template = findTemplate('salary')
                 if (template) {
-                    const verification = executeTemplate(template, { date, total, invoice })
+                    const verification = executeTemplate(template, { date, brutto, pskatt, netto })
                     if (verification)
                         result.push(verification)
                 }
