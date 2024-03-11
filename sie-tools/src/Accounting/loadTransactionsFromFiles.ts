@@ -162,8 +162,8 @@ export const getTaxVerifications = async () => {
         const transaction = transactions[n]
         const date = parseDateStringYYMMDD(transaction[0]) as Date
         const description = transaction[1]
-        const total = parseFloat(transaction[2])
-        if (description.indexOf('Förs.avgift') >= 0 || description.indexOf('Avgift för tillfälligt anstånd')) {
+        const total = parseFloat(transaction[2].replace(/\s/g, ''))
+        if (description.indexOf('Förs.avgift') >= 0 || description.indexOf('Avgift för tillfälligt anstånd') >= 0) {
             const template = findTemplate('förseningsavgift')
             if (template) {
                 const verification = executeTemplate(template, { date, total })
@@ -191,6 +191,55 @@ export const getTaxVerifications = async () => {
                 if (verification)
                     result.push(verification)
             }
+        } else if (description.indexOf('Tillfälligt betalningsanstånd upphör') >= 0) {
+            const template = findTemplate('betalanst-upphör')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Inbetalning bokförd') >= 0 || description.indexOf('Inbetalt till KFM') >= 0) {
+            const template = findTemplate('inbet-skattekonto')
+            if (template) {
+                const verification = executeTemplate(template, { date, total })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Arbetsgivaravgift') >= 0) {
+            const template = findTemplate('arbetsgivaravgift')
+            if (template) {
+                const verification = executeTemplate(template, { date, total, description })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Moms') === 0) {
+            const template = findTemplate('moms')
+            if (template) {
+                const verification = executeTemplate(template, { date, total, description })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Avdragen skatt') >= 0) {
+            const template = findTemplate('pskatt')
+            if (template) {
+                const verification = executeTemplate(template, { date, total, description })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Beslut') >= 0) {
+            const template = findTemplate(description.indexOf('arbetsgivaravgift') ? 'arbetsgivaravgift' : 'pskatt')
+            if (template) {
+                const verification = executeTemplate(template, { date, total, description })
+                if (verification)
+                    result.push(verification)
+            }
+        } else if (description.indexOf('Återredovisad nedsättning') >= 0) {
+            const template = findTemplate('arbetsgivaravgift')
+            if (template) {
+                const verification = executeTemplate(template, { date, total, description })
+                if (verification)
+                    result.push(verification)
+            }
         }
     }
     return result
@@ -204,6 +253,18 @@ export const getUpparbetatVerifications = async () => {
         comment: '#',
         delimiter: ','
     })
+    for (let n = 0; n < transactions.length; n++) {
+        const transaction = transactions[n]
+        const date = parseDateString(transaction[0]) as Date
+        const total = parseFloat(transaction[1])
+        const description = transaction[2]
+        const template = findTemplate('upplupet-arbete')
+        if (template) {
+            const verification = executeTemplate(template, { date, total, description })
+            if (verification)
+                result.push(verification)
+        }
+    }
     return result
 }
 
@@ -225,7 +286,7 @@ export const getSalaryVerifications = async () => {
                     const row = contents[n]
                     if (row[0] === 'Bruttolön') {
                         brutto = contents[n][1] as never as number
-                        brutto += contents[n + 1][1] as never as number
+                        //brutto += contents[n + 1][1] as never as number
                         break
                     }
                 }
@@ -236,11 +297,21 @@ export const getSalaryVerifications = async () => {
                         break
                     }
                 }
+                brutto = Math.round(brutto)
                 let pskatt = 0
                 for (let n = 0; n < contents.length; n++) {
                     const row = contents[n]
                     if (row[0] && row[0].toString().indexOf('Skatteavdrag') >= 0) {
                         pskatt += contents[n][1] as never as number
+                    }
+                }
+                pskatt = Math.round(pskatt)
+
+                let regleringSkuld = 0
+                for (let n = 0; n < contents.length; n++) {
+                    const row = contents[n]
+                    if (row[0] && row[0].toString().indexOf('Reglering') >= 0) {
+                        regleringSkuld += contents[n][1] as never as number
                     }
                 }
                 let netto = 0
@@ -251,9 +322,10 @@ export const getSalaryVerifications = async () => {
                         break
                     }
                 }
+                netto = Math.round(netto)
                 const template = findTemplate('salary')
                 if (template) {
-                    const verification = executeTemplate(template, { date, brutto, pskatt, netto })
+                    const verification = executeTemplate(template, { date, brutto, pskatt, netto, regleringSkuld })
                     if (verification)
                         result.push(verification)
                 }

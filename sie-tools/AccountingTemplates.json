@@ -1,5 +1,24 @@
 [
 	{
+        "code": "betalanst-upphör",
+        "description": "Tillfälligt betalningsanstånd upphör",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2852,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
         "code": "Överföring till Anders",
         "description": "Överföring till Anders",
         "dateField": "Datum",
@@ -238,22 +257,98 @@
         "voucherDescription": ""
     },
 	{
-        "code": "inbet skattekonto",
+        "code": "inbet-skattekonto",
         "description": "Inbetalning skattekonto",
         "dateField": "Datum",
         "rows": [
             {
                 "account": 1645,
                 "transactionInformation": "",
-                "formula": "-1*{$total}"
+                "formula": "{$total}"
             },
             {
                 "account": 1930,
                 "transactionInformation": "",
+                "formula": "-1*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "arbetsgivaravgift",
+        "description": "{$description}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 7510,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1645,
+                "transactionInformation": "",
                 "formula": "{$total}"
             }
         ],
-        "voucherSeries": "C",
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "moms",
+        "description": "{$description}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2650,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "upplupet-arbete",
+        "description": "Upplupna intäkter {$description}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 1790,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            },
+            {
+                "account": 3499,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            }
+        ],
+        "voucherSeries": "A",
+        "voucherDescription": "F-skatt"
+    },
+	{
+        "code": "pskatt",
+        "description": "{$description}",
+        "dateField": "Datum",
+        "rows": [
+            {
+                "account": 2218,
+                "transactionInformation": "",
+                "formula": "-1*{$total}"
+            },
+            {
+                "account": 1645,
+                "transactionInformation": "",
+                "formula": "{$total}"
+            }
+        ],
+        "voucherSeries": "A",
         "voucherDescription": "F-skatt"
     },
 	{
@@ -264,12 +359,17 @@
             {
                 "account": 7220,
                 "transactionInformation": "",
-                "formula": "-1*{$brutto}"
+                "formula": "{$brutto}"
             },
             {
                 "account": 2710,
                 "transactionInformation": "",
-                "formula": "{$pskatt}"
+                "formula": "-1*{$pskatt}"
+            },
+            {
+                "account": 2691,
+                "transactionInformation": "",
+                "formula": "{$regleringSkuld}"
             },
             {
                 "account": 1930,
@@ -627,31 +727,6 @@
         ],
         "voucherSeries": "A",
         "voucherDescription": "Uppbokning av skatt och moms"
-    },
-	{
-        "accrualLf": false,
-        "accrualBf": null,
-        "code": "8",
-        "description": "Inbetalning till skattekonto",
-        "type": "BF",
-        "rows": [
-            {
-                "account": 1630,
-                "costCenter": "",
-                "projectFollowUpId": "",
-                "transactionInformation": "",
-                "formula": "{$total}"
-            },
-            {
-                "account": 1930,
-                "costCenter": "",
-                "projectFollowUpId": "",
-                "transactionInformation": "",
-                "formula": "-1*{$total}"
-            }
-        ],
-        "voucherSeries": "A",
-        "voucherDescription": "Inbetalning till skattekonto"
     },
 	{
         "accrualLf": null,
