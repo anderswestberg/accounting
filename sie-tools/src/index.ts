@@ -10,7 +10,7 @@ const main = async () => {
     const plainTextVerifications = await createVerificationsWithPlainTextAccountNames('../DiginetAktiebolag BF 2022.se')
     await fsp.writeFile('test.json', JSON.stringify(plainTextVerifications, undefined, 2))
     const transactions = await loadTransactionsFromFiles()
-    writeSie('./output', transactions)
+    writeSie('./output', transactions, 70, 1, 1, 33, 20, 1)
 }
 
 main()

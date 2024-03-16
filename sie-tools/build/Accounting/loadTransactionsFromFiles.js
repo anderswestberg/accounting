@@ -109,7 +109,8 @@ const getRentVerifications = async () => {
     for (let n = 0; n < transactions.length; n++) {
         const transaction = transactions[n];
         const date = (0, Utils_1.parseDateString)(transaction[0]);
-        const total = -parseFloat(transaction[1]);
+        const total = parseFloat(transaction[1]);
+        const description = transaction[2];
         const template = (0, AccountingTemplates_1.findTemplate)('lokalhyra');
         if (template) {
             const verification = (0, AccountingTemplates_1.executeTemplate)(template, { date, total });
@@ -325,6 +326,7 @@ const getSalaryVerifications = async () => {
                         regleringSkuld += contents[n][1];
                     }
                 }
+                regleringSkuld = -regleringSkuld;
                 let netto = 0;
                 for (let n = 0; n < contents.length; n++) {
                     const row = contents[n];
@@ -334,6 +336,8 @@ const getSalaryVerifications = async () => {
                     }
                 }
                 netto = Math.round(netto);
+                pskatt = brutto - netto;
+                netto += regleringSkuld;
                 const template = (0, AccountingTemplates_1.findTemplate)('salary');
                 if (template) {
                     const verification = (0, AccountingTemplates_1.executeTemplate)(template, { date, brutto, pskatt, netto, regleringSkuld });

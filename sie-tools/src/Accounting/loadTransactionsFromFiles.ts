@@ -106,7 +106,8 @@ export const getRentVerifications = async () => {
     for (let n = 0; n < transactions.length; n++) {
         const transaction = transactions[n]
         const date = parseDateString(transaction[0]) as Date
-        const total = -parseFloat(transaction[1])
+        const total = parseFloat(transaction[1])
+        const description = transaction[2]
         const template = findTemplate('lokalhyra')
         if (template) {
             const verification = executeTemplate(template, { date, total })
@@ -314,6 +315,7 @@ export const getSalaryVerifications = async () => {
                         regleringSkuld += contents[n][1] as never as number
                     }
                 }
+                regleringSkuld = -regleringSkuld
                 let netto = 0
                 for (let n = 0; n < contents.length; n++) {
                     const row = contents[n]
@@ -323,6 +325,8 @@ export const getSalaryVerifications = async () => {
                     }
                 }
                 netto = Math.round(netto)
+                pskatt = brutto - netto
+                netto += regleringSkuld
                 const template = findTemplate('salary')
                 if (template) {
                     const verification = executeTemplate(template, { date, brutto, pskatt, netto, regleringSkuld })

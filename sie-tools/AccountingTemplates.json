@@ -234,7 +234,7 @@
                 "formula": "{$total}"
             }
         ],
-        "voucherSeries": "C",
+        "voucherSeries": "E",
         "voucherDescription": ""
     },
 	{
@@ -480,7 +480,7 @@
         "accrualLf": false,
         "accrualBf": null,
         "code": "lokalhyra",
-        "description": "Lokalhyra",
+        "description": "Lokalhyra {$description}",
         "type": "BF",
         "rows": [
             {

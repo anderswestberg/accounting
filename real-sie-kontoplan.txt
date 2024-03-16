@@ -417,6 +417,8 @@
 #SRU 3403 7410
 #KONTO 3404 "Egna uttag, momsfria"
 #SRU 3404 7410
+#KONTO 3499 "Justering försäljning, ej moms"
+#SRU 3499 7410
 #KONTO 3500 "Fakturerade kostnader (gruppkonto)"
 #SRU 3500 7410
 #KONTO 3510 "Fakturerat emballage"

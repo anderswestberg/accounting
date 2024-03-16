@@ -1,0 +1,2926 @@
+#FLAGGA 0
+#FORMAT PC8
+#SIETYP 4
+#PROGRAM "Fortnox" 3.52.11
+#GEN 20240311
+#FNR 1051660
+#FNAMN "Diginet Aktiebolag"
+#ADRESS "Anders Westberg" "GrankullevÑgen 17" "43992 ONSALA" "070-5954076" 
+#RAR 0 20230901 20240831
+#RAR -1 20220901 20230831
+#ORGNR 556466-2699
+#OMFATTN 20240831
+#KPTYP EUBAS97
+
+#KONTO 1010 "Utvecklingsutgifter"
+#SRU 1010 7201
+#KONTO 1011 "Balanserade utgifter fîr forskning och utveckling"
+#SRU 1011 7201
+#KONTO 1012 "Balanserade utgifter fîr programvaror"
+#SRU 1012 7201
+#KONTO 1018 "Ackumulerade nedskrivningar pÜ balanserade utgifter"
+#SRU 1018 7201
+#KONTO 1019 "Ackumulerade avskrivningar pÜ balanserade utgifter"
+#SRU 1019 7201
+#KONTO 1030 "Patent"
+#SRU 1030 7201
+#KONTO 1039 "Ackumulerade avskrivningar pÜ patent"
+#SRU 1039 7201
+#KONTO 1060 "HyresrÑtter, tomtrÑtter och liknande"
+#SRU 1060 7201
+#KONTO 1069 "Ackumulerade avskrivningar pÜ hyresrÑtter, tomtrÑtter och liknande"
+#SRU 1069 7201
+#KONTO 1110 "Byggnader"
+#SRU 1110 7214
+#KONTO 1119 "Ackumulerade avskrivningar pÜ byggnader"
+#SRU 1119 7214
+#KONTO 1130 "Mark"
+#SRU 1130 7214
+#KONTO 1150 "MarkanlÑggningar"
+#SRU 1150 7214
+#KONTO 1159 "Ackumulerade avskrivningar pÜ markanlÑggningar"
+#SRU 1159 7214
+#KONTO 1210 "Maskiner och andra tekniska anlÑggningar"
+#SRU 1210 7215
+#KONTO 1219 "Ackumulerade avskrivningar pÜ maskiner och andra tekniska anlÑggningar"
+#SRU 1219 7215
+#KONTO 1220 "Inventarier och verktyg"
+#SRU 1220 7215
+#KONTO 1229 "Ackumulerade avskrivningar pÜ inventarier och verktyg"
+#SRU 1229 7215
+#KONTO 1240 "Bilar och andra transportmedel"
+#SRU 1240 7215
+#KONTO 1249 "Ackumulerade avskrivningar pÜ bilar och andra transportmedel"
+#SRU 1249 7215
+#KONTO 1250 "Datorer"
+#SRU 1250 7215
+#KONTO 1259 "Ackumulerade avskrivningar pÜ datorer"
+#SRU 1259 7215
+#KONTO 1290 "ôvriga materiella anlÑggningstillgÜngar"
+#SRU 1290 7215
+#KONTO 1291 "Konst och liknande tillgÜngar"
+#SRU 1291 7215
+#KONTO 1299 "Ackumulerade avskrivningar pÜ îvriga materiella anlÑggningstillgÜngar"
+#SRU 1299 7215
+#KONTO 1350 "Andelar och vÑrdepapper i andra fîretag"
+#SRU 1350 7233
+#KONTO 1380 "Andra lÜngfristiga fordringar"
+#SRU 1380 7235
+#KONTO 1382 "LÜngfristiga fordringar hos anstÑllda"
+#SRU 1382 7235
+#KONTO 1390 "ôvriga interimsfordringar"
+#SRU 1390 7235
+#KONTO 1400 "Lager"
+#SRU 1400 219
+#KONTO 1410 "Lager av rÜvaror"
+#SRU 1410 7241
+#KONTO 1419 "FîrÑndring av lager av rÜvaror"
+#SRU 1419 7241
+#KONTO 1440 "Produkter i arbete"
+#SRU 1440 7242
+#KONTO 1445 "AvrÑkning, skatter och avgift"
+#SRU 1445 7242
+#KONTO 1449 "FîrÑndring av produkter i arbete"
+#SRU 1449 7242
+#KONTO 1450 "Lager av fÑrdiga varor"
+#SRU 1450 7243
+#KONTO 1459 "FîrÑndring av lager av fÑrdiga varor"
+#SRU 1459 7243
+#KONTO 1460 "Lager av handelsvaror"
+#SRU 1460 7243
+#KONTO 1469 "FîrÑndring av lager av handelsvaror"
+#SRU 1469 7243
+#KONTO 1470 "PÜgÜende arbeten"
+#SRU 1470 7245
+#KONTO 1479 "FîrÑndring av pÜgÜende arbeten"
+#SRU 1479 7245
+#KONTO 1480 "Fîrskott fîr varor och tjÑnster"
+#SRU 1480 7246
+#KONTO 1490 "ôvriga lagertillgÜngar"
+#SRU 1490 7244
+#KONTO 1510 "Kundfordringar"
+#SRU 1510 7251
+#KONTO 1512 "BelÜnade kundfordringar (factoring)"
+#SRU 1512 7251
+#KONTO 1513 "Kundfordringar - delad faktura"
+#SRU 1513 7251
+#KONTO 1519 "Nedskrivning av kundfordringar"
+#SRU 1519 7251
+#KONTO 1580 "Fordringar fîr kontokort och kuponger"
+#SRU 1580 7251
+#KONTO 1610 "Kortfristiga fordringar hos anstÑllda"
+#SRU 1610 7261
+#KONTO 1630 "AvrÑkning fîr skatter och avgifter (skattekonto)"
+#SRU 1630 7261
+#KONTO 1640 "Skattefordringar"
+#SRU 1640 7261
+#KONTO 1645 "Skattekonto"
+#SRU 1645 220
+#KONTO 1650 "Momsfordran"
+#SRU 1650 7261
+#KONTO 1680 "Andra kortfristiga fordringar"
+#SRU 1680 7261
+#KONTO 1684 "Kortfristiga fordringar hos leverantîrer"
+#SRU 1684 7261
+#KONTO 1710 "Fîrutbetalda hyreskostnader"
+#SRU 1710 7263
+#KONTO 1720 "Fîrutbetalda leasingavgifter"
+#SRU 1720 7263
+#KONTO 1730 "Fîrutbetalda fîrsÑkringspremier"
+#SRU 1730 7263
+#KONTO 1740 "Fîrutbetalda rÑntekostnader"
+#SRU 1740 7263
+#KONTO 1750 "Upplupna hyresintÑkter"
+#SRU 1750 7263
+#KONTO 1760 "Upplupna rÑnteintÑkter"
+#SRU 1760 7263
+#KONTO 1790 "ôvriga fîrutbetalda kostnader och upplupna intÑkter"
+#SRU 1790 7263
+#KONTO 1810 "Andelar i bîrsnoterade fîretag"
+#SRU 1810 7271
+#KONTO 1829 "Ack avskrivn inventarier"
+#SRU 1829 7270
+#KONTO 1880 "Andra kortfristiga placeringar"
+#SRU 1880 7271
+#KONTO 1890 "Nedskrivning av kortfristiga placeringar"
+#SRU 1890 7271
+#KONTO 1910 "Kassa"
+#SRU 1910 7281
+#KONTO 1920 "PlusGiro"
+#SRU 1920 7281
+#KONTO 1930 "Fîretagskonto/checkkonto/affÑrskonto"
+#SRU 1930 7281
+#KONTO 1939 "Depositionskonto"
+#SRU 1939 7281
+#KONTO 1940 "ôvriga bankkonton"
+#SRU 1940 7281
+#KONTO 2010 "Eget kapital, delÑgare 1"
+#SRU 2010 7310
+#KONTO 2011 "Egna varuuttag"
+#SRU 2011 7311
+#KONTO 2013 "ôvriga egna uttag"
+#SRU 2013 7311
+#KONTO 2017 "èrets kapitaltillskott"
+#SRU 2017 7311
+#KONTO 2018 "ôvriga egna insÑttningar"
+#SRU 2018 7311
+#KONTO 2019 "èrets resultat, delÑgare 1"
+#SRU 2019 7312
+#KONTO 2020 "Eget kapital, delÑgare 2"
+#SRU 2020 7310
+#KONTO 2030 "Eget kapital, delÑgare 3"
+#SRU 2030 7310
+#KONTO 2040 "Eget kapital, delÑgare 4"
+#SRU 2040 7310
+#KONTO 2060 "Eget kapital i ideella fîreningar, stiftelser och registrerade trossamfund"
+#SRU 2060 8735
+#KONTO 2070 "éndamÜlsbestÑmda medel"
+#SRU 2070 8735
+#KONTO 2081 "Aktiekapital"
+#SRU 2081 7301
+#KONTO 2083 "Medlemsinsatser"
+#SRU 2083 7301
+#KONTO 2086 "Reservfond"
+#SRU 2086 7301
+#KONTO 2090 "Fritt eget kapital"
+#SRU 2090 7302
+#KONTO 2091 "Balanserad vinst eller fîrlust"
+#SRU 2091 7302
+#KONTO 2098 "Vinst eller fîrlust frÜn fîregÜende Ür"
+#SRU 2098 7302
+#KONTO 2099 "èrets resultat"
+#SRU 2099 7302
+#KONTO 2110 "Periodiseringsfond vid 2010 Ürs taxering"
+#SRU 2110 7321
+#KONTO 2111 "Periodiseringsfond vid 2011 Ürs taxering"
+#SRU 2111 7321
+#KONTO 2112 "Periodiseringsfond vid 2012 Ürs taxering"
+#SRU 2112 7321
+#KONTO 2113 "Periodiseringsfond vid 2013 Ürs taxering"
+#SRU 2113 7321
+#KONTO 2120 "Periodiseringsfonder"
+#SRU 2120 7321
+#KONTO 2121 "Periodiseringsfond tax 2001"
+#SRU 2121 341
+#KONTO 2122 "Periodiseringsfond tax 2002"
+#SRU 2122 342
+#KONTO 2123 "Periodiseringsfond 2013"
+#SRU 2123 7321
+#KONTO 2124 "Periodiseringsfond 2014"
+#SRU 2124 7321
+#KONTO 2125 "Periodiseringsfond 2015"
+#SRU 2125 7321
+#KONTO 2126 "Periodiseringsfond 2016"
+#SRU 2126 7321
+#KONTO 2127 "Periodiseringsfond 2017"
+#SRU 2127 7321
+#KONTO 2128 "Periodiseringsfond 2018"
+#SRU 2128 7321
+#KONTO 2129 "Periodiseringsfond 2019"
+#SRU 2129 7321
+#KONTO 2130 "Periodiseringsfond 2020 - nr 2"
+#SRU 2130 7321
+#KONTO 2131 "Periodiseringsfond 2021 - nr 2"
+#SRU 2131 7321
+#KONTO 2132 "Periodiseringsfond 2022 - nr 2"
+#SRU 2132 7321
+#KONTO 2133 "Periodiseringsfond 2023 - nr 2"
+#SRU 2133 7321
+#KONTO 2134 "Periodiseringsfond 2024 - nr 2"
+#SRU 2134 7321
+#KONTO 2135 "Periodiseringsfond 2015 - nr 2"
+#SRU 2135 7321
+#KONTO 2136 "Periodiseringsfond 2016 - nr 2"
+#SRU 2136 7321
+#KONTO 2137 "Periodiseringsfond 2017 - nr 2"
+#SRU 2137 7321
+#KONTO 2138 "Periodiseringsfond 2018 - nr 2"
+#SRU 2138 7321
+#KONTO 2139 "Periodiseringsfond 2019 - nr 2"
+#SRU 2139 7321
+#KONTO 2150 "Ackumulerade îveravskrivningar"
+#SRU 2150 7322
+#KONTO 2210 "AvsÑttningar fîr pensioner enligt tryggandelagen"
+#SRU 2210 7331
+#KONTO 2218 "Betald P-skatt"
+#SRU 2218 7331
+#KONTO 2220 "AvsÑttningar fîr garantier"
+#SRU 2220 7333
+#KONTO 2290 "ôvriga avsÑttningar"
+#SRU 2290 7333
+#KONTO 2330 "CheckrÑkningskredit"
+#SRU 2330 7351
+#KONTO 2334 "Ber uppl sÑrsk lînesk pension"
+#SRU 2334 7351
+#KONTO 2350 "Andra lÜngfristiga skulder till kreditinstitut"
+#SRU 2350 7352
+#KONTO 2351 "SEB lÜn 60 873 88"
+#SRU 2351 7352
+#KONTO 2390 "ôvriga lÜngfristiga skulder"
+#SRU 2390 7354
+#KONTO 2393 "LÜn frÜn nÑrstÜende personer, lÜngfristig del"
+#SRU 2393 7354
+#KONTO 2410 "Andra kortfristiga lÜneskulder till kreditinstitut"
+#SRU 2410 7361
+#KONTO 2420 "Fîrskott frÜn kunder"
+#SRU 2420 7362
+#KONTO 2440 "Leverantîrsskulder"
+#SRU 2440 7365
+#KONTO 2480 "CheckrÑkningskredit, kortfristig"
+#SRU 2480 7360
+#KONTO 2490 "ôvriga kortfristiga skulder till kreditinstitut, kunder och leverantîrer"
+#SRU 2490 7369
+#KONTO 2510 "Skatteskulder"
+#SRU 2510 7368
+#KONTO 2518 "Betald F-skatt"
+#SRU 2518 7368
+#KONTO 2610 "UtgÜende moms, 25 %"
+#SRU 2610 7369
+#KONTO 2611 "UtgÜende moms pÜ fîrsÑljning inom Sverige, 25 %"
+#SRU 2611 7369
+#KONTO 2612 "UtgÜende moms pÜ egna uttag, 25 %"
+#SRU 2612 7369
+#KONTO 2613 "UtgÜende moms fîr uthyrning, 25 %"
+#SRU 2613 7369
+#KONTO 2614 "UtgÜende moms omvÑnd skattskyldighet, 25 %"
+#SRU 2614 7369
+#KONTO 2615 "UtgÜende moms import av varor, 25 %"
+#SRU 2615 7369
+#KONTO 2616 "UtgÜende moms VMB 25ˇ%"
+#SRU 2616 7369
+#KONTO 2620 "UtgÜende moms, 12 %"
+#SRU 2620 7369
+#KONTO 2621 "UtgÜende moms pÜ fîrsÑljning inom Sverige, 12 %"
+#SRU 2621 7369
+#KONTO 2622 "UtgÜende moms pÜ egna uttag, 12 %"
+#SRU 2622 7369
+#KONTO 2623 "UtgÜende moms fîr uthyrning, 12 %"
+#SRU 2623 7369
+#KONTO 2624 "UtgÜende moms omvÑnd skattskyldighet, 12 %"
+#SRU 2624 7369
+#KONTO 2625 "UtgÜende moms import av varor, 12 %"
+#SRU 2625 7369
+#KONTO 2626 "UtgÜende moms VMB 12ˇ%"
+#SRU 2626 7369
+#KONTO 2630 "UtgÜende moms, 6 %"
+#SRU 2630 7369
+#KONTO 2631 "UtgÜende moms pÜ fîrsÑljning inom Sverige, 6 %"
+#SRU 2631 7369
+#KONTO 2632 "UtgÜende moms pÜ egna uttag, 6 %"
+#SRU 2632 7369
+#KONTO 2633 "UtgÜende moms fîr uthyrning, 6 %"
+#SRU 2633 7369
+#KONTO 2634 "UtgÜende moms omvÑnd skattskyldighet, 6 %"
+#SRU 2634 7369
+#KONTO 2635 "UtgÜende moms import av varor, 6 %"
+#SRU 2635 7369
+#KONTO 2636 "UtgÜende moms VMB 6ˇ%"
+#SRU 2636 7369
+#KONTO 2640 "IngÜende moms"
+#SRU 2640 7369
+#KONTO 2641 "Debiterad ingÜende moms"
+#SRU 2641 7369
+#KONTO 2642 "Debiterad ingÜende moms i anslutning till frivillig skattskyldighet"
+#SRU 2642 7369
+#KONTO 2645 "BerÑknad ingÜende moms pÜ fîrvÑrv frÜn utlandet"
+#SRU 2645 7369
+#KONTO 2646 "IngÜende moms pÜ uthyrning"
+#SRU 2646 7369
+#KONTO 2647 "IngÜende moms omvÑnd skattskyldighet varor och tjÑnster i Sverige"
+#SRU 2647 7369
+#KONTO 2648 "Vilande ingÜende moms"
+#SRU 2648 7369
+#KONTO 2649 "IngÜende moms, blandad verksamhet"
+#SRU 2649 7369
+#KONTO 2650 "Redovisningskonto fîr moms"
+#SRU 2650 7369
+#KONTO 2691 "Skulder AWe"
+#SRU 2691 7369
+#KONTO 2710 "Personalskatt"
+#SRU 2710 7369
+#KONTO 2730 "Lagstadgade sociala avgifter och sÑrskild lîneskatt"
+#SRU 2730 7369
+#KONTO 2731 "AvrÑkning lagstadgade sociala avgifter"
+#SRU 2731 7369
+#KONTO 2740 "Avtalade sociala avgifter"
+#SRU 2740 7369
+#KONTO 2750 "UtmÑtning i lîn m.m."
+#SRU 2750 7369
+#KONTO 2790 "ôvriga lîneavdrag"
+#SRU 2790 7369
+#KONTO 2794 "Fackfîreningsavgifter"
+#SRU 2794 7369
+#KONTO 2811 "AvrÑkning fîr factoring"
+#SRU 2811 7369
+#KONTO 2812 "AvrÑkning fîr belÜnade kontraktsfordringar"
+#SRU 2812 7369
+#KONTO 2813 "Klientmedelskonto Fakturakîp"
+#SRU 2813 7369
+#KONTO 2820 "Kortfristiga skulder till anstÑllda"
+#SRU 2820 7369
+#KONTO 2840 "Kortfristiga lÜneskulder"
+#SRU 2840 7369
+#KONTO 2850 "AvrÑkning fîr skatter och avgifter (skattekonto)"
+#SRU 2850 7369
+#KONTO 2852 "AnstÜndsbelopp fîr moms, AGA och kÑllskatt"
+#KONTO 2890 "ôvriga kortfristiga skulder"
+#SRU 2890 7369
+#KONTO 2892 "Skuld SEB kort"
+#SRU 2892 7369
+#KONTO 2893 "Skulder till nÑrstÜende personer, kortfristig del"
+#SRU 2893 7369
+#KONTO 2910 "Upplupna lîner"
+#SRU 2910 7370
+#KONTO 2920 "Upplupna semesterlîner"
+#SRU 2920 7370
+#KONTO 2940 "Upplupna lagstadgade sociala och andra avgifter"
+#SRU 2940 7370
+#KONTO 2950 "Upplupna avtalade sociala avgifter"
+#SRU 2950 7370
+#KONTO 2960 "Upplupna rÑntekostnader"
+#SRU 2960 7370
+#KONTO 2970 "Fîrutbetalda intÑkter"
+#SRU 2970 7370
+#KONTO 2990 "ôvriga upplupna kostnader och fîrutbetalda intÑkter"
+#SRU 2990 7370
+#KONTO 2997 "Balanserad vinst el. fîrlust"
+#SRU 2997 7370
+#KONTO 2999 "OBS-konto"
+#SRU 2999 7370
+#KONTO 3000 "FîrsÑljning inom Sverige"
+#SRU 3000 7410
+#KONTO 3001 "FîrsÑljning inom Sverige, 25 % moms"
+#SRU 3001 7410
+#KONTO 3002 "FîrsÑljning inom Sverige, 12 % moms"
+#SRU 3002 7410
+#KONTO 3003 "FîrsÑljning inom Sverige, 6 % moms"
+#SRU 3003 7410
+#KONTO 3004 "FîrsÑljning inom Sverige, momsfri"
+#SRU 3004 7410
+#KONTO 3010 "FîrsÑljning inom Sverige, 25% moms"
+#SRU 3010 7410
+#KONTO 3100 "FîrsÑljning av varor utanfîr Sverige"
+#SRU 3100 7410
+#KONTO 3105 "FîrsÑljning varor till land utanfîr EU"
+#SRU 3105 7410
+#KONTO 3106 "FîrsÑljning varor till annat EU-land, momspliktig"
+#SRU 3106 7410
+#KONTO 3108 "FîrsÑljning varor till annat EU-land, momsfri"
+#SRU 3108 7410
+#KONTO 3200 "FîrsÑljning VMB och omvÑnd moms"
+#SRU 3200 7410
+#KONTO 3211 "FîrsÑljning positiv VMB 25 %"
+#SRU 3211 7410
+#KONTO 3212 "FîrsÑljning negativ VMB 25 %"
+#SRU 3212 7410
+#KONTO 3231 "FîrsÑljning inom byggsektorn, omvÑnd skattskyldighet moms"
+#SRU 3231 7410
+#KONTO 3300 "FîrsÑljning av tjÑnster utanfîr Sverige"
+#SRU 3300 7410
+#KONTO 3305 "FîrsÑljning tjÑnster till land utanfîr EU"
+#SRU 3305 7410
+#KONTO 3308 "FîrsÑljning tjÑnster till annat EU-land"
+#SRU 3308 7410
+#KONTO 3400 "FîrsÑljning, egna uttag"
+#SRU 3400 7410
+#KONTO 3401 "Egna uttag momspliktiga, 25 %"
+#SRU 3401 7410
+#KONTO 3402 "Egna uttag momspliktiga, 12 %"
+#SRU 3402 7410
+#KONTO 3403 "Egna uttag momspliktiga, 6 %"
+#SRU 3403 7410
+#KONTO 3404 "Egna uttag, momsfria"
+#SRU 3404 7410
+#KONTO 3499 "Justering f?rs?ljning, ej moms"
+#SRU 3499 7410
+#KONTO 3500 "Fakturerade kostnader (gruppkonto)"
+#SRU 3500 7410
+#KONTO 3510 "Fakturerat emballage"
+#SRU 3510 7410
+#KONTO 3520 "Fakturerade frakter"
+#SRU 3520 7410
+#KONTO 3521 "Fakturerade frakter, EU-land"
+#SRU 3521 7410
+#KONTO 3522 "Fakturerade frakter, export"
+#SRU 3522 7410
+#KONTO 3530 "Fakturerade tull- och speditionskostnader m.m."
+#SRU 3530 7410
+#KONTO 3540 "Faktureringsavgifter"
+#SRU 3540 7410
+#KONTO 3541 "Faktureringsavgifter, EU-land"
+#SRU 3541 7410
+#KONTO 3542 "Faktureringsavgifter, export"
+#SRU 3542 7410
+#KONTO 3600 "Rîrelsens sidointÑkter (gruppkonto)"
+#SRU 3600 7410
+#KONTO 3730 "LÑmnade rabatter"
+#SRU 3730 7410
+#KONTO 3740 "ôres- och kronutjÑmning"
+#SRU 3740 7410
+#KONTO 3800 "Aktiverat arbete fîr egen rÑkning (gruppkonto)"
+#SRU 3800 7412
+#KONTO 3900 "ôvriga rîrelseintÑkter (gruppkonto)"
+#SRU 3900 7413
+#KONTO 3913 "Frivilligt momspliktiga hyresintÑkter"
+#SRU 3913 7413
+#KONTO 3960 "Valutakursvinster pÜ fordringar och skulder av rîrelsekaraktÑr"
+#SRU 3960 7413
+#KONTO 3970 "Vinst vid avyttring av immateriella och materiella anlÑggningstillgÜngar"
+#SRU 3970 7413
+#KONTO 3980 "ErhÜllna offentliga stîd m.m."
+#SRU 3980 7413
+#KONTO 3990 "ôvriga ersÑttningar och intÑkter"
+#SRU 3990 7413
+#KONTO 3999 "ôvriga rîrelseintÑkter"
+#SRU 3999 7413
+#KONTO 4000 "Inkîp av varor frÜn Sverige"
+#SRU 4000 7512
+#KONTO 4200 "SÜlda varor VMB"
+#SRU 4200 7512
+#KONTO 4211 "SÜlda varor positiv VMB 25 %"
+#SRU 4211 7512
+#KONTO 4212 "SÜlda varor negativ VMB 25 %"
+#SRU 4212 7512
+#KONTO 4400 "Momspliktiga inkîp i Sverige"
+#SRU 4400 7512
+#KONTO 4415 "Inkîpta varor i Sverige, omvÑnd skattskyldighet, 25 % moms"
+#SRU 4415 7512
+#KONTO 4426 "Inkîpta tjÑnster i Sverige, omvÑnd skattskyldighet, 12 %"
+#SRU 4426 7512
+#KONTO 4427 "Inkîpta tjÑnster i Sverige, omvÑnd skattskyldighet, 6 %"
+#SRU 4427 7512
+#KONTO 4500 "ôvriga momspliktiga inkîp"
+#SRU 4500 7512
+#KONTO 4515 "Inkîp av varor frÜn annat EU-land, 25 %"
+#SRU 4515 7512
+#KONTO 4516 "Inkîp av varor frÜn annat EU-land, 12 %"
+#SRU 4516 7512
+#KONTO 4517 "Inkîp av varor frÜn annat EU-land, 6 %"
+#SRU 4517 7512
+#KONTO 4518 "Inkîp av varor frÜn annat EU-land, momsfri"
+#SRU 4518 7512
+#KONTO 4531 "Inkîp av tjÑnster frÜn ett land utanfîr EU, 25 % moms"
+#SRU 4531 7512
+#KONTO 4532 "Inkîp av tjÑnster frÜn ett land utanfîr EU, 12 % moms"
+#SRU 4532 7512
+#KONTO 4533 "Inkîp av tjÑnster frÜn ett land utanfîr EU, 6 % moms"
+#SRU 4533 7512
+#KONTO 4535 "Inkîp av tjÑnster frÜn annat EU-land, 25 %"
+#SRU 4535 7512
+#KONTO 4536 "Inkîp av tjÑnster frÜn annat EU-land, 12 %"
+#SRU 4536 7512
+#KONTO 4537 "Inkîp av tjÑnster frÜn annat EU-land, 6 %"
+#SRU 4537 7512
+#KONTO 4538 "Inkîp av tjÑnster frÜn annat EU-land, momsfri"
+#SRU 4538 7512
+#KONTO 4545 "Import av varor, 25 % moms"
+#SRU 4545 7512
+#KONTO 4546 "Import av varor, 12 % moms"
+#SRU 4546 7512
+#KONTO 4547 "Import av varor, 6 % moms"
+#SRU 4547 7512
+#KONTO 4600 "Legoarbeten och underentreprenader (gruppkonto)"
+#SRU 4600 7512
+#KONTO 4700 "Reduktion av inkîpspriser (gruppkonto)"
+#SRU 4700 7512
+#KONTO 4731 "ErhÜllna kassarabatter"
+#SRU 4731 7512
+#KONTO 4900 "FîrÑndring av lager (gruppkonto)"
+#SRU 4900 7411
+#KONTO 4910 "FîrÑndring av lager av rÜvaror"
+#SRU 4910 7511
+#KONTO 4920 "FîrÑndring av lager av tillsatsmaterial och fîrnîdenheter"
+#SRU 4920 7511
+#KONTO 4940 "FîrÑndring av produkter i arbete"
+#SRU 4940 7411
+#KONTO 4950 "FîrÑndring av lager av fÑrdiga varor"
+#SRU 4950 7411
+#KONTO 4960 "FîrÑndring av lager av handelsvaror"
+#SRU 4960 7512
+#KONTO 4970 "FîrÑndring av pÜgÜende arbeten, nedlagda kostnader"
+#SRU 4970 7411
+#KONTO 5010 "Lokalhyra"
+#SRU 5010 7513
+#KONTO 5020 "El fîr belysning"
+#SRU 5020 7513
+#KONTO 5030 "VÑrme"
+#SRU 5030 7513
+#KONTO 5040 "Vatten och avlopp"
+#SRU 5040 7513
+#KONTO 5060 "StÑdning och renhÜllning"
+#SRU 5060 7513
+#KONTO 5070 "Reparation och underhÜll av lokaler"
+#SRU 5070 7513
+#KONTO 5090 "ôvriga lokalkostnader"
+#SRU 5090 7513
+#KONTO 5120 "El fîr belysning"
+#SRU 5120 7513
+#KONTO 5130 "VÑrme"
+#SRU 5130 7513
+#KONTO 5140 "Vatten och avlopp"
+#SRU 5140 7513
+#KONTO 5160 "StÑdning och renhÜllning"
+#SRU 5160 7513
+#KONTO 5170 "Reparation och underhÜll av fastighet"
+#SRU 5170 7513
+#KONTO 5200 "Hyra av anlÑggningstillgÜngar (gruppkonto)"
+#SRU 5200 7513
+#KONTO 5214 "FîrsÑkring hyrda inventarier"
+#SRU 5214 7513
+#KONTO 5220 "Hyra av inventarier och verktyg"
+#SRU 5220 7513
+#KONTO 5300 "Energikostnader (gruppkonto)"
+#SRU 5300 7513
+#KONTO 5410 "Fîrbrukningsinventarier"
+#SRU 5410 7513
+#KONTO 5420 "Programvaror"
+#SRU 5420 7513
+#KONTO 5460 "Fîrbrukningsmaterial"
+#SRU 5460 7513
+#KONTO 5500 "Reparation och underhÜll (gruppkonto)"
+#SRU 5500 7513
+#KONTO 5600 "Kostnader fîr transportmedel (gruppkonto)"
+#SRU 5600 7513
+#KONTO 5611 "Drivmedel fîr personbilar"
+#SRU 5611 7513
+#KONTO 5612 "FîrsÑkring och skatt fîr personbilar"
+#SRU 5612 7513
+#KONTO 5613 "Reparation och underhÜll av personbilar"
+#SRU 5613 7513
+#KONTO 5614 "Serviceavtal bil"
+#SRU 5614 7513
+#KONTO 5615 "Leasing av personbilar"
+#SRU 5615 7513
+#KONTO 5619 "ôvriga personbilskostnader"
+#SRU 5619 7513
+#KONTO 5700 "Frakter och transporter (gruppkonto)"
+#SRU 5700 7513
+#KONTO 5710 "Frakter, transporter och fîrsÑkringar vid varudistribution"
+#SRU 5710 7513
+#KONTO 5800 "Resekostnader (gruppkonto)"
+#SRU 5800 7513
+#KONTO 5810 "Biljetter"
+#SRU 5810 7513
+#KONTO 5820 "Hyrbilskostnader"
+#SRU 5820 7513
+#KONTO 5831 "Kost och logi i Sverige"
+#SRU 5831 7513
+#KONTO 5832 "Kost och logi i utlandet"
+#SRU 5832 7513
+#KONTO 5900 "Reklam och PR (gruppkonto)"
+#SRU 5900 7513
+#KONTO 6060 "KreditfîrsÑljningskostnader"
+#SRU 6060 7513
+#KONTO 6062 "Inkasso och KFM-avgifter"
+#SRU 6062 7513
+#KONTO 6064 "Factoringavgifter"
+#SRU 6064 7513
+#KONTO 6071 "Representation, avdragsgill"
+#SRU 6071 7513
+#KONTO 6072 "Representation, ej avdragsgill"
+#SRU 6072 7513
+#KONTO 6090 "ôvriga fîrsÑljningskostnader"
+#SRU 6090 7513
+#KONTO 6100 "Kontorsmateriel och trycksaker (gruppkonto)"
+#SRU 6100 7513
+#KONTO 6110 "Kontorsmateriel"
+#SRU 6110 7513
+#KONTO 6210 "Telekommunikation"
+#SRU 6210 7513
+#KONTO 6212 "Mobiltelefon"
+#SRU 6212 7513
+#KONTO 6230 "Datakommunikation"
+#SRU 6230 7513
+#KONTO 6250 "Postbefordran"
+#SRU 6250 7513
+#KONTO 6310 "FîretagsfîrsÑkringar"
+#SRU 6310 7513
+#KONTO 6350 "Fîrluster pÜ kundfordringar"
+#SRU 6350 7513
+#KONTO 6390 "ôvriga riskkostnader"
+#SRU 6390 7513
+#KONTO 6410 "Styrelsearvoden som inte Ñr lîn"
+#SRU 6410 7513
+#KONTO 6420 "ErsÑttningar till revisor"
+#SRU 6420 7513
+#KONTO 6530 "RedovisningstjÑnster"
+#SRU 6530 7513
+#KONTO 6540 "IT-tjÑnster"
+#SRU 6540 7513
+#KONTO 6550 "Konsultarvoden"
+#SRU 6550 7513
+#KONTO 6560 "Serviceavgifter till branschorganisationer"
+#SRU 6560 7513
+#KONTO 6570 "Bankkostnader"
+#SRU 6570 7513
+#KONTO 6590 "ôvriga externa tjÑnster"
+#SRU 6590 7513
+#KONTO 6800 "Inhyrd personal (gruppkonto)"
+#SRU 6800 7513
+#KONTO 6970 "Tidningar, tidskrifter och facklitteratur"
+#SRU 6970 7513
+#KONTO 6980 "Fîreningsavgifter"
+#SRU 6980 7513
+#KONTO 6991 "ôvriga externa kostnader, avdragsgilla"
+#SRU 6991 7513
+#KONTO 6992 "ôvriga externa kostnader, ej avdragsgilla"
+#SRU 6992 7513
+#KONTO 7010 "Lîner till kollektivanstÑllda"
+#SRU 7010 7514
+#KONTO 7090 "FîrÑndring av semesterlîneskuld"
+#SRU 7090 7514
+#KONTO 7210 "Lîner till tjÑnstemÑn"
+#SRU 7210 7514
+#KONTO 7220 "Lîner till fîretagsledare"
+#SRU 7220 7514
+#KONTO 7240 "Styrelsearvoden"
+#SRU 7240 7514
+#KONTO 7290 "FîrÑndring av semesterlîneskuld"
+#SRU 7290 7514
+#KONTO 7310 "Kontanta extraersÑttningar"
+#SRU 7310 7514
+#KONTO 7321 "Skattefria traktamenten, Sverige"
+#SRU 7321 7514
+#KONTO 7322 "Skattepliktiga traktamenten, Sverige"
+#SRU 7322 7514
+#KONTO 7323 "Skattefria traktamenten, utlandet"
+#SRU 7323 7514
+#KONTO 7324 "Skattepliktiga traktamenten, utlandet"
+#SRU 7324 7514
+#KONTO 7331 "Skattefria bilersÑttningar"
+#SRU 7331 7514
+#KONTO 7332 "Skattepliktiga bilersÑttningar"
+#SRU 7332 7514
+#KONTO 7380 "Kostnader fîr fîrmÜner till anstÑllda"
+#SRU 7380 7514
+#KONTO 7385 "Kostnader fîr fri bil"
+#SRU 7385 7514
+#KONTO 7390 "ôvriga kostnadsersÑttningar och fîrmÜner"
+#SRU 7390 7514
+#KONTO 7399 "Motkontering fîrmÜn"
+#SRU 7399 7514
+#KONTO 7410 "PensionsfîrsÑkringspremier"
+#SRU 7410 7514
+#KONTO 7490 "ôvriga pensionskostnader"
+#SRU 7490 7514
+#KONTO 7510 "Arbetsgivaravgifter 31,42 %"
+#SRU 7510 7514
+#KONTO 7511 "Arbetsgivaravgifter fîr lîner och ersÑttningar"
+#SRU 7511 7514
+#KONTO 7512 "Arbetsgivaravgifter fîr fîrmÜnsvÑrden"
+#SRU 7512 7514
+#KONTO 7519 "Arbetsgivaravgifter fîr semester- och lîneskulder"
+#SRU 7519 7514
+#KONTO 7530 "SÑrskild lîneskatt"
+#SRU 7530 7514
+#KONTO 7570 "Premier fîr arbetsmarknadsfîrsÑkringar"
+#SRU 7570 7514
+#KONTO 7580 "GruppfîrsÑkringspremier"
+#SRU 7580 7514
+#KONTO 7590 "ôvriga sociala och andra avgifter enligt lag och avtal"
+#SRU 7590 7514
+#KONTO 7600 "ôvriga personalkostnader (gruppkonto)"
+#SRU 7600 7514
+#KONTO 7610 "Utbildning"
+#SRU 7610 7514
+#KONTO 7621 "Sjuk- och hÑlsovÜrd, avdragsgill"
+#SRU 7621 7514
+#KONTO 7622 "Sjuk- och hÑlsovÜrd, ej avdragsgill"
+#SRU 7622 7514
+#KONTO 7631 "Personalrepresentation, avdragsgill"
+#SRU 7631 7514
+#KONTO 7632 "Personalrepresentation, ej avdragsgill"
+#SRU 7632 7514
+#KONTO 7690 "ôvriga personalkostnader"
+#SRU 7690 7514
+#KONTO 7699 "ôvriga personalkostnader"
+#SRU 7699 7514
+#KONTO 7720 "Nedskrivningar av byggnader och mark"
+#SRU 7720 7515
+#KONTO 7730 "Nedskrivningar av maskiner och inventarier"
+#SRU 7730 7515
+#KONTO 7810 "Avskrivningar pÜ immateriella anlÑggningstillgÜngar"
+#SRU 7810 7515
+#KONTO 7820 "Avskrivningar pÜ byggnader och markanlÑggningar"
+#SRU 7820 7515
+#KONTO 7830 "Avskrivningar pÜ maskiner och inventarier"
+#SRU 7830 7515
+#KONTO 7960 "Valutakursfîrluster pÜ fordringar och skulder av rîrelsekaraktÑr"
+#SRU 7960 7517
+#KONTO 7970 "Fîrlust vid avyttring av immateriella och materiella anlÑggningstillgÜngar"
+#SRU 7970 7517
+#KONTO 7990 "ôvriga rîrelsekostnader"
+#SRU 7990 7517
+#KONTO 8210 "Utdelningar pÜ andelar i andra fîretag"
+#SRU 8210 7416
+#KONTO 8220 "Resultat vid fîrsÑljning av vÑrdepapper i och lÜngfristiga fordringar hos andra fîretag"
+#SRU 8220 7416
+#KONTO 8250 "RÑnteintÑkter frÜn lÜngfristiga fordringar hos och vÑrdepapper i andra fîretag"
+#SRU 8250 7416
+#KONTO 8270 "Nedskrivningar av innehav av andelar i och lÜngfristiga fordringar hos andra fîretag"
+#SRU 8270 7521
+#KONTO 8310 "RÑnteintÑkter frÜn omsÑttningstillgÜngar"
+#SRU 8310 7417
+#KONTO 8313 "RÑnteintÑkter frÜn kortfristiga fordringar"
+#SRU 8313 7417
+#KONTO 8314 "Skattefria rÑnteintÑkter"
+#SRU 8314 7417
+#KONTO 8330 "Valutakursdifferenser pÜ kortfristiga fordringar och placeringar"
+#SRU 8330 7417
+#KONTO 8340 "Utdelningar pÜ kortfristiga placeringar"
+#SRU 8340 7417
+#KONTO 8350 "Resultat vid fîrsÑljning av kortfristiga placeringar"
+#SRU 8350 7417
+#KONTO 8390 "ôvriga finansiella intÑkter"
+#SRU 8390 7417
+#KONTO 8400 "RÑntekostnader (gruppkonto)"
+#SRU 8400 7522
+#KONTO 8410 "RÑntekostnader fîr lÜngfristiga skulder"
+#SRU 8410 7522
+#KONTO 8413 "RÑntekostnader fîr checkrÑkningskredit"
+#SRU 8413 7522
+#KONTO 8420 "RÑntekostnader fîr kortfristiga skulder"
+#SRU 8420 7522
+#KONTO 8422 "DrîjsmÜlsrÑntor fîr leverantîrsskulder"
+#SRU 8422 7522
+#KONTO 8423 "RÑntekostnader fîr skatter och avgifter"
+#SRU 8423 7522
+#KONTO 8424 "RÑntekostnader byggnadskreditiv"
+#SRU 8424 7522
+#KONTO 8430 "Valutakursdifferenser pÜ skulder"
+#SRU 8430 7522
+#KONTO 8490 "ôvriga skuldrelaterade poster"
+#SRU 8490 7522
+#KONTO 8811 "AvsÑttning till periodiseringsfond"
+#SRU 8811 7525
+#KONTO 8819 "èterfîring frÜn periodiseringsfond"
+#SRU 8819 7420
+#KONTO 8850 "FîrÑndring av îveravskrivningar"
+#SRU 8850 7526
+#KONTO 8910 "Skatt som belastar Ürets resultat"
+#SRU 8910 7528
+#KONTO 8979 "Justeringskonto"
+#KONTO 8990 "Resultat"
+#SRU 8990 7450
+#KONTO 8999 "èrets resultat"
+#SRU 8999 7450
+
+#DIM 1 "KostnadsstÑlle"
+#DIM 6 "Projekt"
+
+#IB 0 1220 205518 0
+#UB 0 1220 205518 0
+#IB 0 1229 -205518 0
+#UB 0 1229 -205518 0
+#IB 0 1510 510934 0
+#UB 0 1510 344898 0
+#IB 0 1645 2290 0
+#UB 0 1645 -7679 0
+#IB 0 1720 30522 0
+#UB 0 1720 30522 0
+#IB 0 1790 475292 0
+#UB 0 1790 475292 0
+#IB 0 1930 45894.8 0
+#UB 0 1930 -39767.2 0
+#IB 0 1940 72.73 0
+#UB 0 1940 72.73 0
+#IB 0 2081 -100000 0
+#UB 0 2081 -100000 0
+#IB 0 2086 -20000 0
+#UB 0 2086 -20000 0
+#IB 0 2091 -177663.98 0
+#UB 0 2091 -177663.98 0
+#IB 0 2099 -71627.39 0
+#UB 0 2099 -71627.39 0
+#IB 0 2120 -50000 0
+#UB 0 2120 -50000 0
+#IB 0 2218 0 0
+#UB 0 2218 80861 0
+#IB 0 2440 -48769.32 0
+#UB 0 2440 -51277.32 0
+#IB 0 2510 2798 0
+#UB 0 2510 2798 0
+#IB 0 2518 9589 0
+#UB 0 2518 27049 0
+#IB 0 2611 -88893 0
+#UB 0 2611 -221723 0
+#IB 0 2614 -4510.54 0
+#UB 0 2614 -4510.54 0
+#IB 0 2641 5226.85 0
+#UB 0 2641 19616.45 0
+#IB 0 2645 4510.54 0
+#UB 0 2645 4510.54 0
+#IB 0 2650 -4734 0
+#UB 0 2650 60640 0
+#IB 0 2691 0 0
+#UB 0 2691 548446 0
+#IB 0 2710 -24132 0
+#UB 0 2710 -27578 0
+#IB 0 2731 -22164 0
+#UB 0 2731 -22164 0
+#IB 0 2820 -1072.33 0
+#UB 0 2820 -1072.33 0
+#IB 0 2852 -522962 0
+#UB 0 2852 -522962 0
+#IB 0 2892 -286.25 0
+#UB 0 2892 -286.25 0
+#IB 0 2893 -33727.31 0
+#UB 0 2893 -31291.31 0
+#IB 0 2990 -12000 0
+#UB 0 2990 -12000 0
+#PSALDO 0 202309 1510 {} 118738 0
+#PSALDO 0 202310 1510 {} -225000 0
+#PSALDO 0 202311 1510 {} -17368 0
+#PSALDO 0 202312 1510 {} -42406 0
+#PSALDO 0 202309 1645 {} 220094 0
+#PSALDO 0 202310 1645 {} -3340 0
+#PSALDO 0 202311 1645 {} -235381 0
+#PSALDO 0 202312 1645 {} 10624 0
+#PSALDO 0 202401 1645 {} -1966 0
+#PSALDO 0 202309 1930 {} -94310 0
+#PSALDO 0 202310 1930 {} 44560 0
+#PSALDO 0 202311 1930 {} 108674 0
+#PSALDO 0 202312 1930 {} -138776 0
+#PSALDO 0 202401 1930 {} -5810 0
+#PSALDO 0 202311 2218 {} 80861 0
+#PSALDO 0 202309 2440 {} 0 0
+#PSALDO 0 202310 2440 {} -1352 0
+#PSALDO 0 202311 2440 {} 0 0
+#PSALDO 0 202312 2440 {} -1156 0
+#PSALDO 0 202401 2440 {} 0 0
+#PSALDO 0 202309 2518 {} 3492 0
+#PSALDO 0 202310 2518 {} 3492 0
+#PSALDO 0 202311 2518 {} 3492 0
+#PSALDO 0 202312 2518 {} 3492 0
+#PSALDO 0 202401 2518 {} 3492 0
+#PSALDO 0 202309 2611 {} -85010 0
+#PSALDO 0 202311 2611 {} -47820 0
+#PSALDO 0 202309 2641 {} 3221.6 0
+#PSALDO 0 202310 2641 {} 1990 0
+#PSALDO 0 202311 2641 {} 1204.4 0
+#PSALDO 0 202312 2641 {} 10854.8 0
+#PSALDO 0 202401 2641 {} -2849.6 0
+#PSALDO 0 202402 2641 {} -31.6 0
+#PSALDO 0 202311 2650 {} 65374 0
+#PSALDO 0 202309 2691 {} 91084 0
+#PSALDO 0 202310 2691 {} 169830 0
+#PSALDO 0 202311 2691 {} 141246 0
+#PSALDO 0 202312 2691 {} 126330 0
+#PSALDO 0 202401 2691 {} 19798 0
+#PSALDO 0 202402 2691 {} 158 0
+#PSALDO 0 202309 2710 {} -3446 0
+#PSALDO 0 202310 2893 {} 1280 0
+#PSALDO 0 202312 2893 {} 1156 0
+#PSALDO 0 202309 3001 {} -340040 0
+#PSALDO 0 202311 3001 {} -191280 0
+#PSALDO 0 202309 5010 {} 0 0
+#PSALDO 0 202310 5010 {} 0 0
+#PSALDO 0 202311 5010 {} 0 0
+#PSALDO 0 202312 5010 {} 0 0
+#PSALDO 0 202401 5010 {} 0 0
+#PSALDO 0 202309 5410 {} -867.2 0
+#PSALDO 0 202310 5410 {} -7864 0
+#PSALDO 0 202311 5410 {} -8996.8 0
+#PSALDO 0 202312 5410 {} -5064 0
+#PSALDO 0 202401 5410 {} -15838.4 0
+#PSALDO 0 202402 5410 {} -126.4 0
+#PSALDO 0 202310 5612 {} 72 0
+#PSALDO 0 202309 6090 {} 13753.6 0
+#PSALDO 0 202310 6090 {} 15824 0
+#PSALDO 0 202311 6090 {} 13814.4 0
+#PSALDO 0 202312 6090 {} 48483.2 0
+#PSALDO 0 202401 6090 {} 4440 0
+#PSALDO 0 202309 6230 {} 0 0
+#PSALDO 0 202310 6230 {} 0 0
+#PSALDO 0 202311 6230 {} 0 0
+#PSALDO 0 202312 6230 {} 0 0
+#PSALDO 0 202401 6230 {} 0 0
+#PSALDO 0 202309 6570 {} 0 0
+#PSALDO 0 202310 6570 {} 660 0
+#PSALDO 0 202311 6570 {} 526 0
+#PSALDO 0 202401 6570 {} 260 0
+#PSALDO 0 202309 7220 {} 74546 0
+#PSALDO 0 202311 7510 {} 96408 0
+#PSALDO 0 202309 8423 {} -1256 0
+#PSALDO 0 202310 8423 {} -152 0
+#PSALDO 0 202311 8423 {} -10754 0
+#PSALDO 0 202312 8423 {} -13538 0
+#PSALDO 0 202401 8423 {} -1526 0
+#PSALDO -1 202209 1510 {} -74688 0
+#PSALDO -1 202210 1510 {} 85195 0
+#PSALDO -1 202211 1510 {} 36006 0
+#PSALDO -1 202212 1510 {} -178125 0
+#PSALDO -1 202302 1510 {} -116007.75 0
+#PSALDO -1 202303 1510 {} -8636 0
+#PSALDO -1 202306 1510 {} 270887.5 0
+#PSALDO -1 202308 1510 {} -226109 0
+#PSALDO -1 202209 1645 {} -1996 0
+#PSALDO -1 202210 1645 {} -143666 0
+#PSALDO -1 202211 1645 {} -155421 0
+#PSALDO -1 202212 1645 {} 3803 0
+#PSALDO -1 202301 1645 {} -416 0
+#PSALDO -1 202302 1645 {} -2667 0
+#PSALDO -1 202303 1645 {} -2522 0
+#PSALDO -1 202304 1645 {} -183859 0
+#PSALDO -1 202305 1645 {} -243207 0
+#PSALDO -1 202306 1645 {} 36998 0
+#PSALDO -1 202307 1645 {} -5270 0
+#PSALDO -1 202308 1645 {} 98 0
+#PSALDO -1 202308 1790 {} 775000 0
+#PSALDO -1 202209 1930 {} 187456 0
+#PSALDO -1 202210 1930 {} -63401 0
+#PSALDO -1 202211 1930 {} -39956 0
+#PSALDO -1 202212 1930 {} -15975 0
+#PSALDO -1 202301 1930 {} -35676 0
+#PSALDO -1 202302 1930 {} 302512 0
+#PSALDO -1 202303 1930 {} -97071 0
+#PSALDO -1 202304 1930 {} -192123 0
+#PSALDO -1 202305 1930 {} -66459 0
+#PSALDO -1 202306 1930 {} -167763 0
+#PSALDO -1 202307 1930 {} -8133 0
+#PSALDO -1 202308 1930 {} 84949 0
+#PSALDO -1 202210 2218 {} 53520 0
+#PSALDO -1 202304 2218 {} 82830 0
+#PSALDO -1 202305 2218 {} 30630 0
+#PSALDO -1 202209 2440 {} 0 0
+#PSALDO -1 202210 2440 {} -584 0
+#PSALDO -1 202211 2440 {} 0 0
+#PSALDO -1 202212 2440 {} -4119 0
+#PSALDO -1 202301 2440 {} 0 0
+#PSALDO -1 202302 2440 {} -1356 0
+#PSALDO -1 202303 2440 {} 0 0
+#PSALDO -1 202304 2440 {} -2586 0
+#PSALDO -1 202305 2440 {} 0 0
+#PSALDO -1 202306 2440 {} 0 0
+#PSALDO -1 202209 2518 {} 3489 0
+#PSALDO -1 202210 2518 {} 3489 0
+#PSALDO -1 202211 2518 {} 3489 0
+#PSALDO -1 202212 2518 {} 3489 0
+#PSALDO -1 202301 2518 {} 3489 0
+#PSALDO -1 202302 2518 {} 3489 0
+#PSALDO -1 202303 2518 {} 3489 0
+#PSALDO -1 202304 2518 {} 3489 0
+#PSALDO -1 202305 2518 {} 3489 0
+#PSALDO -1 202306 2518 {} 3489 0
+#PSALDO -1 202307 2518 {} 3489 0
+#PSALDO -1 202308 2518 {} 3489 0
+#PSALDO -1 202209 2611 {} -59280 0
+#PSALDO -1 202210 2611 {} -17039 0
+#PSALDO -1 202211 2611 {} -28500 0
+#PSALDO -1 202302 2611 {} -92806.25 0
+#PSALDO -1 202306 2611 {} -54177.5 0
+#PSALDO -1 202209 2614 {} -543.91 0
+#PSALDO -1 202210 2614 {} -1979.46 0
+#PSALDO -1 202211 2614 {} -3963.69 0
+#PSALDO -1 202212 2614 {} -495.14 0
+#PSALDO -1 202209 2641 {} 4096.2 0
+#PSALDO -1 202210 2641 {} 6249.6 0
+#PSALDO -1 202211 2641 {} 1866 0
+#PSALDO -1 202212 2641 {} 6603.6 0
+#PSALDO -1 202301 2641 {} 481 0
+#PSALDO -1 202302 2641 {} 4368 0
+#PSALDO -1 202303 2641 {} 7158.6 0
+#PSALDO -1 202304 2641 {} 3711.6 0
+#PSALDO -1 202305 2641 {} 300.8 0
+#PSALDO -1 202306 2641 {} 3011 0
+#PSALDO -1 202307 2641 {} -682.8 0
+#PSALDO -1 202308 2641 {} -1156 0
+#PSALDO -1 202209 2645 {} 543.91 0
+#PSALDO -1 202210 2645 {} 1979.46 0
+#PSALDO -1 202211 2645 {} 3963.69 0
+#PSALDO -1 202212 2645 {} 495.14 0
+#PSALDO -1 202210 2650 {} 23300 0
+#PSALDO -1 202305 2650 {} 189137 0
+#PSALDO -1 202209 2691 {} 116151 0
+#PSALDO -1 202210 2691 {} 14833 0
+#PSALDO -1 202211 2691 {} 90000 0
+#PSALDO -1 202212 2691 {} 113759 0
+#PSALDO -1 202301 2691 {} 10601 0
+#PSALDO -1 202302 2691 {} 190367 0
+#PSALDO -1 202303 2691 {} 33148 0
+#PSALDO -1 202304 2691 {} 95065 0
+#PSALDO -1 202305 2691 {} 17689 0
+#PSALDO -1 202306 2691 {} 60708 0
+#PSALDO -1 202307 2691 {} 414 0
+#PSALDO -1 202308 2691 {} 54680 0
+#PSALDO -1 202209 2710 {} -17130 0
+#PSALDO -1 202210 2710 {} -4273 0
+#PSALDO -1 202211 2710 {} -17130 0
+#PSALDO -1 202212 2710 {} -17215 0
+#PSALDO -1 202301 2710 {} -6651 0
+#PSALDO -1 202302 2710 {} -24930 0
+#PSALDO -1 202303 2710 {} -12630 0
+#PSALDO -1 202304 2710 {} -30630 0
+#PSALDO -1 202305 2710 {} 5727 0
+#PSALDO -1 202306 2710 {} 5013 0
+#PSALDO -1 202307 2710 {} -2454 0
+#PSALDO -1 202308 2710 {} 12299 0
+#PSALDO -1 202211 2852 {} 159427 0
+#PSALDO -1 202209 2892 {} -2175.6 0
+#PSALDO -1 202210 2892 {} -7917.82 0
+#PSALDO -1 202211 2892 {} -15854.7 0
+#PSALDO -1 202212 2892 {} -1980.54 0
+#PSALDO -1 202210 2893 {} 584 0
+#PSALDO -1 202212 2893 {} 676 0
+#PSALDO -1 202302 2893 {} 1356 0
+#PSALDO -1 202304 2893 {} 1229 0
+#PSALDO -1 202209 3001 {} -237120 0
+#PSALDO -1 202210 3001 {} -68156 0
+#PSALDO -1 202211 3001 {} -114000 0
+#PSALDO -1 202302 3001 {} -371225 0
+#PSALDO -1 202306 3001 {} -216710 0
+#PSALDO -1 202308 3499 {} -775000 0
+#PSALDO -1 202209 4531 {} 2175.6 0
+#PSALDO -1 202210 4531 {} 7917.82 0
+#PSALDO -1 202211 4531 {} 15854.7 0
+#PSALDO -1 202212 4531 {} 1980.54 0
+#PSALDO -1 202209 5010 {} 6650 0
+#PSALDO -1 202210 5010 {} 6650 0
+#PSALDO -1 202211 5010 {} 6650 0
+#PSALDO -1 202212 5010 {} 6650 0
+#PSALDO -1 202301 5010 {} 6650 0
+#PSALDO -1 202302 5010 {} 6650 0
+#PSALDO -1 202303 5010 {} 6650 0
+#PSALDO -1 202304 5010 {} 6650 0
+#PSALDO -1 202305 5010 {} 6650 0
+#PSALDO -1 202306 5010 {} 6650 0
+#PSALDO -1 202307 5010 {} 6650 0
+#PSALDO -1 202308 5010 {} 6650 0
+#PSALDO -1 202209 5410 {} -920.8 0
+#PSALDO -1 202210 5410 {} -346.4 0
+#PSALDO -1 202212 5410 {} -607.2 0
+#PSALDO -1 202301 5410 {} -1640.8 0
+#PSALDO -1 202302 5410 {} -1893.6 0
+#PSALDO -1 202303 5410 {} -118.4 0
+#PSALDO -1 202304 5410 {} -1652 0
+#PSALDO -1 202305 5410 {} -551.2 0
+#PSALDO -1 202306 5410 {} -9366.4 0
+#PSALDO -1 202307 5410 {} -2731.2 0
+#PSALDO -1 202308 5410 {} -4624 0
+#PSALDO -1 202212 5612 {} 3443 0
+#PSALDO -1 202304 5612 {} 1357 0
+#PSALDO -1 202209 6090 {} 17305.6 0
+#PSALDO -1 202210 6090 {} 25344.8 0
+#PSALDO -1 202211 6090 {} 7464 0
+#PSALDO -1 202212 6090 {} 27021.6 0
+#PSALDO -1 202301 6090 {} 3564.8 0
+#PSALDO -1 202302 6090 {} 19365.6 0
+#PSALDO -1 202303 6090 {} 28752.8 0
+#PSALDO -1 202304 6090 {} 16498.4 0
+#PSALDO -1 202305 6090 {} 1754.4 0
+#PSALDO -1 202306 6090 {} 21410.4 0
+#PSALDO -1 202209 6230 {} 350 0
+#PSALDO -1 202210 6230 {} 350 0
+#PSALDO -1 202211 6230 {} 350 0
+#PSALDO -1 202212 6230 {} 350 0
+#PSALDO -1 202301 6230 {} 350 0
+#PSALDO -1 202302 6230 {} 350 0
+#PSALDO -1 202303 6230 {} 350 0
+#PSALDO -1 202304 6230 {} 350 0
+#PSALDO -1 202305 6230 {} 350 0
+#PSALDO -1 202306 6230 {} 350 0
+#PSALDO -1 202307 6230 {} 350 0
+#PSALDO -1 202308 6230 {} 350 0
+#PSALDO -1 202209 6570 {} 0 0
+#PSALDO -1 202210 6570 {} 320 0
+#PSALDO -1 202211 6570 {} 120 0
+#PSALDO -1 202212 6570 {} 123 0
+#PSALDO -1 202301 6570 {} 120 0
+#PSALDO -1 202302 6570 {} 120 0
+#PSALDO -1 202303 6570 {} 266 0
+#PSALDO -1 202305 6570 {} 266 0
+#PSALDO -1 202307 6570 {} 133 0
+#PSALDO -1 202308 6570 {} 260 0
+#PSALDO -1 202209 7220 {} 57130 0
+#PSALDO -1 202210 7220 {} 14273 0
+#PSALDO -1 202211 7220 {} 57130 0
+#PSALDO -1 202212 7220 {} 57415 0
+#PSALDO -1 202301 7220 {} 22201 0
+#PSALDO -1 202302 7220 {} 83130 0
+#PSALDO -1 202303 7220 {} 42130 0
+#PSALDO -1 202304 7220 {} 102130 0
+#PSALDO -1 202305 7220 {} 34273 0
+#PSALDO -1 202306 7220 {} 79987 0
+#PSALDO -1 202307 7220 {} 6454 0
+#PSALDO -1 202308 7220 {} 72701 0
+#PSALDO -1 202210 7510 {} 64062 0
+#PSALDO -1 202304 7510 {} 98892 0
+#PSALDO -1 202305 7510 {} 34125 0
+#PSALDO -1 202306 7510 {} -20934 0
+#PSALDO -1 202209 8423 {} -1493 0
+#PSALDO -1 202210 8423 {} -705 0
+#PSALDO -1 202211 8423 {} -7495 0
+#PSALDO -1 202212 8423 {} -7292 0
+#PSALDO -1 202301 8423 {} -3073 0
+#PSALDO -1 202302 8423 {} -822 0
+#PSALDO -1 202303 8423 {} -967 0
+#PSALDO -1 202304 8423 {} -1352 0
+#PSALDO -1 202305 8423 {} -14174 0
+#PSALDO -1 202306 8423 {} -19553 0
+#PSALDO -1 202307 8423 {} 1781 0
+#PSALDO -1 202308 8423 {} -3587 0
+#RES 0 3001 -531320 0
+#RES 0 5410 -38756.8 0
+#RES 0 5612 72 0
+#RES 0 6090 96315.2 0
+#RES 0 6570 1446 0
+#RES 0 7220 74546 0
+#RES 0 7510 96408 0
+#RES 0 8423 -27226 0
+
+#IB -1 1220 205518 0
+#UB -1 1220 205518 0
+#IB -1 1229 -205518 0
+#UB -1 1229 -205518 0
+#IB -1 1510 510934 0
+#UB -1 1510 299456.75 0
+#IB -1 1645 2290 0
+#UB -1 1645 -695835 0
+#IB -1 1720 30522 0
+#UB -1 1720 30522 0
+#IB -1 1790 475292 0
+#UB -1 1790 1250292 0
+#IB -1 1930 45894.8 0
+#UB -1 1930 -65745.2 0
+#IB -1 1940 72.73 0
+#UB -1 1940 72.73 0
+#IB -1 2081 -100000 0
+#UB -1 2081 -100000 0
+#IB -1 2086 -20000 0
+#UB -1 2086 -20000 0
+#IB -1 2091 -177663.98 0
+#UB -1 2091 -177663.98 0
+#IB -1 2099 -71627.39 0
+#UB -1 2099 -71627.39 0
+#IB -1 2120 -50000 0
+#UB -1 2120 -50000 0
+#IB -1 2218 0 0
+#UB -1 2218 166980 0
+#IB -1 2440 -48769.32 0
+#UB -1 2440 -57414.32 0
+#IB -1 2510 2798 0
+#UB -1 2510 2798 0
+#IB -1 2518 9589 0
+#UB -1 2518 51457 0
+#IB -1 2611 -88893 0
+#UB -1 2611 -340695.75 0
+#IB -1 2614 -4510.54 0
+#UB -1 2614 -11492.74 0
+#IB -1 2641 5226.85 0
+#UB -1 2641 41234.45 0
+#IB -1 2645 4510.54 0
+#UB -1 2645 11492.74 0
+#IB -1 2650 -4734 0
+#UB -1 2650 207703 0
+#IB -1 2691 0 0
+#UB -1 2691 797415 0
+#IB -1 2710 -24132 0
+#UB -1 2710 -134136 0
+#IB -1 2731 -22164 0
+#UB -1 2731 -22164 0
+#IB -1 2820 -1072.33 0
+#UB -1 2820 -1072.33 0
+#IB -1 2852 -522962 0
+#UB -1 2852 -363535 0
+#IB -1 2892 -286.25 0
+#UB -1 2892 -28214.91 0
+#IB -1 2893 -33727.31 0
+#UB -1 2893 -29882.31 0
+#IB -1 2990 -12000 0
+#UB -1 2990 -12000 0
+#RES -1 3001 -1007211 0
+#RES -1 3499 -775000 0
+#RES -1 4531 27928.66 0
+#RES -1 5010 79800 0
+#RES -1 5410 -24452 0
+#RES -1 5612 4800 0
+#RES -1 6090 168482.4 0
+#RES -1 6230 4200 0
+#RES -1 6570 1728 0
+#RES -1 7220 628954 0
+#RES -1 7510 176145 0
+#RES -1 8423 -58732 0
+
+
+
+
+
+#VER A 1 20230901 "Lokalhyra" 20240311
+{
+#TRANS 5010 {} -6650 "" "" 0
+#TRANS 6230 {} -350 "" "" 0
+#TRANS 2691 {} 7000 "" "" 0
+}
+#VER A 2 20230902 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 8 "" "" 0
+#TRANS 8423 {} -8 "" "" 0
+}
+#VER A 3 20230902 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} -5 "" "" 0
+#TRANS 8423 {} 5 "" "" 0
+}
+#VER A 4 20230906 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 15000 "" "" 0
+#TRANS 1930 {} -15000 "" "" 0
+}
+#VER A 5 20230906 "Kundfaktura 2023-006" 20240311
+{
+#TRANS 1510 {} 90000 "" "" 0
+#TRANS 3001 {} -72000 "" "" 0
+#TRANS 2611 {} -18000 "" "" 0
+}
+#VER A 6 20230907 "Inkîp Microsoft" 20240311
+{
+#TRANS 2691 {} 155 "" "" 0
+#TRANS 2641 {} -31 "" "" 0
+#TRANS 5410 {} -124 "" "" 0
+}
+#VER A 7 20230908 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 2 "" "" 0
+#TRANS 2641 {} -0.4 "" "" 0
+#TRANS 5410 {} -1.6 "" "" 0
+}
+#VER A 8 20230917 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 227 "" "" 0
+#TRANS 2641 {} -45.4 "" "" 0
+#TRANS 5410 {} -181.6 "" "" 0
+}
+#VER A 9 20230919 "Kundfaktura 2023-007" 20240311
+{
+#TRANS 1510 {} 122525 "" "" 0
+#TRANS 3001 {} -98020 "" "" 0
+#TRANS 2611 {} -24505 "" "" 0
+}
+#VER A 10 20230920 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER A 11 20230920 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER A 12 20230925 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 30000 "" "" 0
+#TRANS 1930 {} -30000 "" "" 0
+}
+#VER A 13 20230925 "Lîn Anders" 20240311
+{
+#TRANS 7220 {} 37273 "" "" 0
+#TRANS 2710 {} -11173 "" "" 0
+#TRANS 2691 {} 18900 "" "" 0
+#TRANS 1930 {} -45000 "" "" 0
+}
+#VER A 14 20230926 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 15 20230929 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 0 "" "" 0
+#TRANS 1930 {} 0 "" "" 0
+}
+#VER A 16 20231001 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 76 "" "" 0
+#TRANS 8423 {} -76 "" "" 0
+}
+#VER A 17 20231001 "Lokalhyra" 20240311
+{
+#TRANS 5010 {} -6650 "" "" 0
+#TRANS 6230 {} -350 "" "" 0
+#TRANS 2691 {} 7000 "" "" 0
+}
+#VER A 18 20231002 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 30000 "" "" 0
+#TRANS 1930 {} -30000 "" "" 0
+}
+#VER A 19 20231002 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 330 "" "" 0
+#TRANS 1930 {} -330 "" "" 0
+}
+#VER A 20 20231002 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 21 20231006 "Inkîp KJELL & CO" 20240311
+{
+#TRANS 2691 {} 328 "" "" 0
+#TRANS 2641 {} -65.6 "" "" 0
+#TRANS 5410 {} -262.4 "" "" 0
+}
+#VER A 22 20231007 "Inkîp SJOBAREN" 20240311
+{
+#TRANS 2691 {} 330 "" "" 0
+#TRANS 2641 {} -66 "" "" 0
+#TRANS 5410 {} -264 "" "" 0
+}
+#VER A 23 20231010 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 24 20231011 "Inkîp CLAS OHLSON" 20240311
+{
+#TRANS 2691 {} 538 "" "" 0
+#TRANS 2641 {} -107.6 "" "" 0
+#TRANS 5410 {} -430.4 "" "" 0
+}
+#VER A 25 20231013 "Levfakt Transportstyrelsen" 20240311
+{
+#TRANS 2440 {} -640 "" "" 0
+#TRANS 2893 {} 640 "" "" 0
+}
+#VER A 26 20231013 "Fordonsskatt BHK73G" 20240311
+{
+#TRANS 2440 {} -36 "" "" 0
+#TRANS 5612 {} 36 "" "" 0
+}
+#VER A 27 20231017 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 28 20231017 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 224 "" "" 0
+#TRANS 2641 {} -44.8 "" "" 0
+#TRANS 5410 {} -179.2 "" "" 0
+}
+#VER A 29 20231020 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 30 20231020 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 31 20231027 "Inkîp GITHUB" 20240311
+{
+#TRANS 2691 {} 544 "" "" 0
+#TRANS 2641 {} -108.8 "" "" 0
+#TRANS 5410 {} -435.2 "" "" 0
+}
+#VER A 32 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 447 "" "" 0
+#TRANS 2641 {} -89.4 "" "" 0
+#TRANS 5410 {} -357.6 "" "" 0
+}
+#VER A 33 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 186 "" "" 0
+#TRANS 2641 {} -37.2 "" "" 0
+#TRANS 5410 {} -148.8 "" "" 0
+}
+#VER A 34 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 236 "" "" 0
+#TRANS 2641 {} -47.2 "" "" 0
+#TRANS 5410 {} -188.8 "" "" 0
+}
+#VER A 35 20231030 "Inkîp Microsoft" 20240311
+{
+#TRANS 2691 {} 599 "" "" 0
+#TRANS 2641 {} -119.8 "" "" 0
+#TRANS 5410 {} -479.2 "" "" 0
+}
+#VER A 36 20231030 "Inkîp FORTNOX" 20240311
+{
+#TRANS 2691 {} 1249 "" "" 0
+#TRANS 2641 {} -249.8 "" "" 0
+#TRANS 5410 {} -999.2 "" "" 0
+}
+#VER A 37 20231101 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER A 38 20231101 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
+}
+#VER A 39 20231101 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 99 "" "" 0
+#TRANS 2641 {} -19.8 "" "" 0
+#TRANS 5410 {} -79.2 "" "" 0
+}
+#VER A 40 20231101 "Lokalhyra" 20240311
+{
+#TRANS 5010 {} -6650 "" "" 0
+#TRANS 6230 {} -350 "" "" 0
+#TRANS 2691 {} 7000 "" "" 0
+}
+#VER A 41 20231101 "Kundfaktura 2023-008" 20240311
+{
+#TRANS 1510 {} 16962.5 "" "" 0
+#TRANS 3001 {} -13570 "" "" 0
+#TRANS 2611 {} -3392.5 "" "" 0
+}
+#VER A 42 20231101 "Kundfaktura 2023-009" 20240311
+{
+#TRANS 1510 {} 102587.5 "" "" 0
+#TRANS 3001 {} -82070 "" "" 0
+#TRANS 2611 {} -20517.5 "" "" 0
+}
+#VER A 43 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 4 "" "" 0
+#TRANS 8423 {} -4 "" "" 0
+}
+#VER A 44 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 3 "" "" 0
+#TRANS 8423 {} -3 "" "" 0
+}
+#VER A 45 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 19 "" "" 0
+#TRANS 8423 {} -19 "" "" 0
+}
+#VER A 46 20231112 "Inkîp TinyTronics," 20240311
+{
+#TRANS 2691 {} 551 "" "" 0
+#TRANS 2641 {} -110.2 "" "" 0
+#TRANS 5410 {} -440.8 "" "" 0
+}
+#VER A 47 20231112 "Inkîp TinyTronics" 20240311
+{
+#TRANS 2691 {} 410 "" "" 0
+#TRANS 2641 {} -82 "" "" 0
+#TRANS 5410 {} -328 "" "" 0
+}
+#VER A 48 20231112 "Inkîp DOCKER" 20240311
+{
+#TRANS 2691 {} 3335 "" "" 0
+#TRANS 2641 {} -667 "" "" 0
+#TRANS 5410 {} -2668 "" "" 0
+}
+#VER A 49 20231113 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 50 20231114 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER A 51 20231117 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 215 "" "" 0
+#TRANS 2641 {} -43 "" "" 0
+#TRANS 5410 {} -172 "" "" 0
+}
+#VER A 52 20231119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 75 "" "" 0
+#TRANS 2641 {} -15 "" "" 0
+#TRANS 5410 {} -60 "" "" 0
+}
+#VER A 53 20231119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 75 "" "" 0
+#TRANS 2641 {} -15 "" "" 0
+#TRANS 5410 {} -60 "" "" 0
+}
+#VER A 54 20231120 "Inkîp TinyTronics" 20240311
+{
+#TRANS 2691 {} 435 "" "" 0
+#TRANS 2641 {} -87 "" "" 0
+#TRANS 5410 {} -348 "" "" 0
+}
+#VER A 55 20231123 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 56 20231127 "Inkîp KJELL & CO" 20240311
+{
+#TRANS 2691 {} 428 "" "" 0
+#TRANS 2641 {} -85.6 "" "" 0
+#TRANS 5410 {} -342.4 "" "" 0
+}
+#VER A 57 20231127 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 58 20231130 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 133 "" "" 0
+#TRANS 1930 {} -133 "" "" 0
+}
+#VER A 59 20231201 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 93 "" "" 0
+#TRANS 2641 {} -18.6 "" "" 0
+#TRANS 5410 {} -74.4 "" "" 0
+}
+#VER A 60 20231201 "Lokalhyra" 20240311
+{
+#TRANS 5010 {} -6650 "" "" 0
+#TRANS 6230 {} -350 "" "" 0
+#TRANS 2691 {} 7000 "" "" 0
+}
+#VER A 61 20231202 "Inkîp Sjoebaren" 20240311
+{
+#TRANS 2691 {} 368 "" "" 0
+#TRANS 2641 {} -73.6 "" "" 0
+#TRANS 5410 {} -294.4 "" "" 0
+}
+#VER A 62 20231202 "Inkîp ELECTROKIT" 20240311
+{
+#TRANS 2691 {} 241 "" "" 0
+#TRANS 2641 {} -48.2 "" "" 0
+#TRANS 5410 {} -192.8 "" "" 0
+}
+#VER A 63 20231202 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 3 "" "" 0
+#TRANS 8423 {} -3 "" "" 0
+}
+#VER A 64 20231204 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 35000 "" "" 0
+#TRANS 1930 {} -35000 "" "" 0
+}
+#VER A 65 20231207 "Levfakt Transportstyrelsen" 20240311
+{
+#TRANS 2440 {} -578 "" "" 0
+#TRANS 2893 {} 578 "" "" 0
+}
+#VER A 66 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 250 "" "" 0
+#TRANS 8423 {} -250 "" "" 0
+}
+#VER A 67 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 930 "" "" 0
+#TRANS 8423 {} -930 "" "" 0
+}
+#VER A 68 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 1358 "" "" 0
+#TRANS 8423 {} -1358 "" "" 0
+}
+#VER A 69 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 70 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 71 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 72 20231207 "Inkîp TeamViewer" 20240311
+{
+#TRANS 2691 {} 5 "" "" 0
+#TRANS 2641 {} -1 "" "" 0
+#TRANS 5410 {} -4 "" "" 0
+}
+#VER A 73 20231208 "Inkîp Besikta" 20240311
+{
+#TRANS 2691 {} 659 "" "" 0
+#TRANS 2641 {} -131.8 "" "" 0
+#TRANS 5410 {} -527.2 "" "" 0
+}
+#VER A 74 20231215 "Inkîp HOTEL AT BOOKING.COM" 20240311
+{
+#TRANS 2691 {} 1145 "" "" 0
+#TRANS 2641 {} -229 "" "" 0
+#TRANS 5410 {} -916 "" "" 0
+}
+#VER A 75 20231217 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 209 "" "" 0
+#TRANS 2641 {} -41.8 "" "" 0
+#TRANS 5410 {} -167.2 "" "" 0
+}
+#VER A 76 20231218 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 15000 "" "" 0
+#TRANS 1930 {} -15000 "" "" 0
+}
+#VER A 77 20231219 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 73 "" "" 0
+#TRANS 2641 {} -14.6 "" "" 0
+#TRANS 5410 {} -58.4 "" "" 0
+}
+#VER A 78 20231219 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 73 "" "" 0
+#TRANS 2641 {} -14.6 "" "" 0
+#TRANS 5410 {} -58.4 "" "" 0
+}
+#VER A 79 20231224 "Inkîp MJUK BILTVATT" 20240311
+{
+#TRANS 2691 {} 299 "" "" 0
+#TRANS 2641 {} -59.8 "" "" 0
+#TRANS 5410 {} -239.2 "" "" 0
+}
+#VER A 80 20231227 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 81 20231228 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 10000 "" "" 0
+#TRANS 1930 {} -10000 "" "" 0
+}
+#VER A 82 20240101 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 93 "" "" 0
+#TRANS 2641 {} -18.6 "" "" 0
+#TRANS 5410 {} -74.4 "" "" 0
+}
+#VER A 83 20240101 "Lokalhyra" 20240311
+{
+#TRANS 5010 {} -6650 "" "" 0
+#TRANS 6230 {} -350 "" "" 0
+#TRANS 2691 {} 7000 "" "" 0
+}
+#VER A 84 20240102 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
+}
+#VER A 85 20240106 "Inkîp OPENAI" 20240311
+{
+#TRANS 2691 {} 104 "" "" 0
+#TRANS 2641 {} -20.8 "" "" 0
+#TRANS 5410 {} -83.2 "" "" 0
+}
+#VER A 86 20240106 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 1 "" "" 0
+#TRANS 8423 {} -1 "" "" 0
+}
+#VER A 87 20240110 "Inkîp REACT-ADMIN" 20240311
+{
+#TRANS 2691 {} 1675 "" "" 0
+#TRANS 2641 {} -335 "" "" 0
+#TRANS 5410 {} -1340 "" "" 0
+}
+#VER A 88 20240112 "Inkîp GITKRAKEN SOFTWARE" 20240311
+{
+#TRANS 2691 {} 2009 "" "" 0
+#TRANS 2641 {} -401.8 "" "" 0
+#TRANS 5410 {} -1607.2 "" "" 0
+}
+#VER A 89 20240114 "Inkîp JOHN SCOTT S" 20240311
+{
+#TRANS 2691 {} 250 "" "" 0
+#TRANS 2641 {} -50 "" "" 0
+#TRANS 5410 {} -200 "" "" 0
+}
+#VER A 90 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 248 "" "" 0
+#TRANS 2641 {} -49.6 "" "" 0
+#TRANS 5410 {} -198.4 "" "" 0
+}
+#VER A 91 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 236 "" "" 0
+#TRANS 2641 {} -47.2 "" "" 0
+#TRANS 5410 {} -188.8 "" "" 0
+}
+#VER A 92 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 248 "" "" 0
+#TRANS 2641 {} -49.6 "" "" 0
+#TRANS 5410 {} -198.4 "" "" 0
+}
+#VER A 93 20240119 "Inkîp Fortnox" 20240311
+{
+#TRANS 2691 {} 1567 "" "" 0
+#TRANS 2641 {} -313.4 "" "" 0
+#TRANS 5410 {} -1253.6 "" "" 0
+}
+#VER A 94 20240119 "Inkîp KIFAB" 20240311
+{
+#TRANS 2691 {} 269 "" "" 0
+#TRANS 2641 {} -53.8 "" "" 0
+#TRANS 5410 {} -215.2 "" "" 0
+}
+#VER A 95 20240119 "Inkîp SCANDIC HOTELS" 20240311
+{
+#TRANS 2691 {} 822 "" "" 0
+#TRANS 2641 {} -164.4 "" "" 0
+#TRANS 5410 {} -657.6 "" "" 0
+}
+#VER A 96 20240119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 74 "" "" 0
+#TRANS 2641 {} -14.8 "" "" 0
+#TRANS 5410 {} -59.2 "" "" 0
+}
+#VER A 97 20240119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 74 "" "" 0
+#TRANS 2641 {} -14.8 "" "" 0
+#TRANS 5410 {} -59.2 "" "" 0
+}
+#VER A 98 20240120 "Inkîp CLAS OHLSON" 20240311
+{
+#TRANS 2691 {} 199 "" "" 0
+#TRANS 2641 {} -39.8 "" "" 0
+#TRANS 5410 {} -159.2 "" "" 0
+}
+#VER A 99 20240122 "Inkîp Fortnox" 20240311
+{
+#TRANS 2691 {} 1065 "" "" 0
+#TRANS 2641 {} -213 "" "" 0
+#TRANS 5410 {} -852 "" "" 0
+}
+#VER A 100 20240122 "Inkîp EASEUS.COM" 20240311
+{
+#TRANS 2691 {} 913 "" "" 0
+#TRANS 2641 {} -182.6 "" "" 0
+#TRANS 5410 {} -730.4 "" "" 0
+}
+#VER A 101 20240128 "Inkîp MEDIUM" 20240311
+{
+#TRANS 2691 {} 53 "" "" 0
+#TRANS 2641 {} -10.6 "" "" 0
+#TRANS 5410 {} -42.4 "" "" 0
+}
+#VER A 102 20240209 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER A 103 20230901 "Lokalhyra {$description}" 20240311
+{
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
+}
+#VER A 104 20230902 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 8 "" "" 0
+#TRANS 8423 {} -8 "" "" 0
+}
+#VER A 105 20230902 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} -5 "" "" 0
+#TRANS 8423 {} 5 "" "" 0
+}
+#VER A 106 20230906 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 15000 "" "" 0
+#TRANS 1930 {} -15000 "" "" 0
+}
+#VER A 107 20230906 "Kundfaktura 2023-006" 20240311
+{
+#TRANS 1510 {} 90000 "" "" 0
+#TRANS 3001 {} -72000 "" "" 0
+#TRANS 2611 {} -18000 "" "" 0
+}
+#VER A 108 20230907 "Inkîp Microsoft" 20240311
+{
+#TRANS 2691 {} 155 "" "" 0
+#TRANS 2641 {} -31 "" "" 0
+#TRANS 5410 {} -124 "" "" 0
+}
+#VER A 109 20230908 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 2 "" "" 0
+#TRANS 2641 {} -0.4 "" "" 0
+#TRANS 5410 {} -1.6 "" "" 0
+}
+#VER A 110 20230915 "Inbetalning skattekonto" 20240311
+{
+#TRANS 1645 {} 110042 "" "" 0
+#TRANS 1930 {} -110042 "" "" 0
+}
+#VER A 111 20230917 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 227 "" "" 0
+#TRANS 2641 {} -45.4 "" "" 0
+#TRANS 5410 {} -181.6 "" "" 0
+}
+#VER A 112 20230919 "Kundfaktura 2023-007" 20240311
+{
+#TRANS 1510 {} 122525 "" "" 0
+#TRANS 3001 {} -98020 "" "" 0
+#TRANS 2611 {} -24505 "" "" 0
+}
+#VER A 113 20230920 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER A 114 20230920 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER A 115 20230925 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 30000 "" "" 0
+#TRANS 1930 {} -30000 "" "" 0
+}
+#VER A 116 20230925 "Lîn Anders" 20240311
+{
+#TRANS 7220 {} 37273 "" "" 0
+#TRANS 2710 {} 7727 "" "" 0
+#TRANS 2691 {} -18900 "" "" 0
+#TRANS 1930 {} -26100 "" "" 0
+}
+#VER A 117 20230926 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 118 20230929 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 0 "" "" 0
+#TRANS 1930 {} 0 "" "" 0
+}
+#VER A 119 20231001 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 76 "" "" 0
+#TRANS 8423 {} -76 "" "" 0
+}
+#VER A 120 20231001 "Lokalhyra {$description}" 20240311
+{
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
+}
+#VER A 121 20231002 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 30000 "" "" 0
+#TRANS 1930 {} -30000 "" "" 0
+}
+#VER A 122 20231002 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 330 "" "" 0
+#TRANS 1930 {} -330 "" "" 0
+}
+#VER A 123 20231002 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 124 20231006 "Inkîp KJELL & CO" 20240311
+{
+#TRANS 2691 {} 328 "" "" 0
+#TRANS 2641 {} -65.6 "" "" 0
+#TRANS 5410 {} -262.4 "" "" 0
+}
+#VER A 125 20231007 "Inkîp SJOBAREN" 20240311
+{
+#TRANS 2691 {} 330 "" "" 0
+#TRANS 2641 {} -66 "" "" 0
+#TRANS 5410 {} -264 "" "" 0
+}
+#VER A 126 20231010 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 127 20231011 "Inkîp CLAS OHLSON" 20240311
+{
+#TRANS 2691 {} 538 "" "" 0
+#TRANS 2641 {} -107.6 "" "" 0
+#TRANS 5410 {} -430.4 "" "" 0
+}
+#VER A 128 20231013 "Levfakt Transportstyrelsen" 20240311
+{
+#TRANS 2440 {} -640 "" "" 0
+#TRANS 2893 {} 640 "" "" 0
+}
+#VER A 129 20231013 "Fordonsskatt BHK73G" 20240311
+{
+#TRANS 2440 {} -36 "" "" 0
+#TRANS 5612 {} 36 "" "" 0
+}
+#VER A 130 20231017 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 131 20231017 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 224 "" "" 0
+#TRANS 2641 {} -44.8 "" "" 0
+#TRANS 5410 {} -179.2 "" "" 0
+}
+#VER A 132 20231020 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 133 20231020 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 78 "" "" 0
+#TRANS 2641 {} -15.6 "" "" 0
+#TRANS 5410 {} -62.4 "" "" 0
+}
+#VER A 134 20231027 "Inkîp GITHUB" 20240311
+{
+#TRANS 2691 {} 544 "" "" 0
+#TRANS 2641 {} -108.8 "" "" 0
+#TRANS 5410 {} -435.2 "" "" 0
+}
+#VER A 135 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 447 "" "" 0
+#TRANS 2641 {} -89.4 "" "" 0
+#TRANS 5410 {} -357.6 "" "" 0
+}
+#VER A 136 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 186 "" "" 0
+#TRANS 2641 {} -37.2 "" "" 0
+#TRANS 5410 {} -148.8 "" "" 0
+}
+#VER A 137 20231027 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 236 "" "" 0
+#TRANS 2641 {} -47.2 "" "" 0
+#TRANS 5410 {} -188.8 "" "" 0
+}
+#VER A 138 20231030 "Inkîp Microsoft" 20240311
+{
+#TRANS 2691 {} 599 "" "" 0
+#TRANS 2641 {} -119.8 "" "" 0
+#TRANS 5410 {} -479.2 "" "" 0
+}
+#VER A 139 20231030 "Inkîp FORTNOX" 20240311
+{
+#TRANS 2691 {} 1249 "" "" 0
+#TRANS 2641 {} -249.8 "" "" 0
+#TRANS 5410 {} -999.2 "" "" 0
+}
+#VER A 140 20231101 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER A 141 20231101 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
+}
+#VER A 142 20231101 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 99 "" "" 0
+#TRANS 2641 {} -19.8 "" "" 0
+#TRANS 5410 {} -79.2 "" "" 0
+}
+#VER A 143 20231101 "Lokalhyra {$description}" 20240311
+{
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
+}
+#VER A 144 20231101 "Kundfaktura 2023-008" 20240311
+{
+#TRANS 1510 {} 16962.5 "" "" 0
+#TRANS 3001 {} -13570 "" "" 0
+#TRANS 2611 {} -3392.5 "" "" 0
+}
+#VER A 145 20231101 "Kundfaktura 2023-009" 20240311
+{
+#TRANS 1510 {} 102587.5 "" "" 0
+#TRANS 3001 {} -82070 "" "" 0
+#TRANS 2611 {} -20517.5 "" "" 0
+}
+#VER A 146 20231102 "Arbetsgivaravgift maj 2023" 20240311
+{
+#TRANS 7510 {} 12804 "" "" 0
+#TRANS 1645 {} -12804 "" "" 0
+}
+#VER A 147 20231102 "Arbetsgivaravgift juni 2023" 20240311
+{
+#TRANS 7510 {} 27168 "" "" 0
+#TRANS 1645 {} -27168 "" "" 0
+}
+#VER A 148 20231102 "Arbetsgivaravgift juli 2023" 20240311
+{
+#TRANS 7510 {} 4064 "" "" 0
+#TRANS 1645 {} -4064 "" "" 0
+}
+#VER A 149 20231102 "Arbetsgivaravgift aug 2023" 20240311
+{
+#TRANS 7510 {} 24878 "" "" 0
+#TRANS 1645 {} -24878 "" "" 0
+}
+#VER A 150 20231102 "Arbetsgivaravgift sept 2023" 20240311
+{
+#TRANS 7510 {} 13747 "" "" 0
+#TRANS 1645 {} -13747 "" "" 0
+}
+#VER A 151 20231102 "Avdragen skatt maj 2023" 20240311
+{
+#TRANS 2218 {} 10273 "" "" 0
+#TRANS 1645 {} -10273 "" "" 0
+}
+#VER A 152 20231102 "Avdragen skatt juni 2023" 20240311
+{
+#TRANS 2218 {} 23987 "" "" 0
+#TRANS 1645 {} -23987 "" "" 0
+}
+#VER A 153 20231102 "Avdragen skatt juli 2023" 20240311
+{
+#TRANS 2218 {} 2454 "" "" 0
+#TRANS 1645 {} -2454 "" "" 0
+}
+#VER A 154 20231102 "Avdragen skatt aug 2023" 20240311
+{
+#TRANS 2218 {} 21801 "" "" 0
+#TRANS 1645 {} -21801 "" "" 0
+}
+#VER A 155 20231102 "Avdragen skatt sept 2023" 20240311
+{
+#TRANS 2218 {} 11173 "" "" 0
+#TRANS 1645 {} -11173 "" "" 0
+}
+#VER A 156 20231102 "Moms april 2023 - juni 2023" 20240311
+{
+#TRANS 2650 {} 21767 "" "" 0
+#TRANS 1645 {} -21767 "" "" 0
+}
+#VER A 157 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 4763 "" "" 0
+#TRANS 8423 {} -4763 "" "" 0
+}
+#VER A 158 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 3446 "" "" 0
+#TRANS 8423 {} -3446 "" "" 0
+}
+#VER A 159 20231104 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 19 "" "" 0
+#TRANS 8423 {} -19 "" "" 0
+}
+#VER A 160 20231112 "Inkîp TinyTronics," 20240311
+{
+#TRANS 2691 {} 551 "" "" 0
+#TRANS 2641 {} -110.2 "" "" 0
+#TRANS 5410 {} -440.8 "" "" 0
+}
+#VER A 161 20231112 "Inkîp TinyTronics" 20240311
+{
+#TRANS 2691 {} 410 "" "" 0
+#TRANS 2641 {} -82 "" "" 0
+#TRANS 5410 {} -328 "" "" 0
+}
+#VER A 162 20231112 "Inkîp DOCKER" 20240311
+{
+#TRANS 2691 {} 3335 "" "" 0
+#TRANS 2641 {} -667 "" "" 0
+#TRANS 5410 {} -2668 "" "" 0
+}
+#VER A 163 20231113 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 164 20231114 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 20000 "" "" 0
+#TRANS 1930 {} -20000 "" "" 0
+}
+#VER A 165 20231115 "Arbetsgivaravgift okt 2023" 20240311
+{
+#TRANS 7510 {} 13747 "" "" 0
+#TRANS 1645 {} -13747 "" "" 0
+}
+#VER A 166 20231115 "Avdragen skatt okt 2023" 20240311
+{
+#TRANS 2218 {} 11173 "" "" 0
+#TRANS 1645 {} -11173 "" "" 0
+}
+#VER A 167 20231115 "Moms juli 2023 - sept 2023" 20240311
+{
+#TRANS 2650 {} 43607 "" "" 0
+#TRANS 1645 {} -43607 "" "" 0
+}
+#VER A 168 20231117 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 215 "" "" 0
+#TRANS 2641 {} -43 "" "" 0
+#TRANS 5410 {} -172 "" "" 0
+}
+#VER A 169 20231119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 75 "" "" 0
+#TRANS 2641 {} -15 "" "" 0
+#TRANS 5410 {} -60 "" "" 0
+}
+#VER A 170 20231119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 75 "" "" 0
+#TRANS 2641 {} -15 "" "" 0
+#TRANS 5410 {} -60 "" "" 0
+}
+#VER A 171 20231120 "Inkîp TinyTronics" 20240311
+{
+#TRANS 2691 {} 435 "" "" 0
+#TRANS 2641 {} -87 "" "" 0
+#TRANS 5410 {} -348 "" "" 0
+}
+#VER A 172 20231123 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 25000 "" "" 0
+#TRANS 1930 {} -25000 "" "" 0
+}
+#VER A 173 20231127 "Inkîp KJELL & CO" 20240311
+{
+#TRANS 2691 {} 428 "" "" 0
+#TRANS 2641 {} -85.6 "" "" 0
+#TRANS 5410 {} -342.4 "" "" 0
+}
+#VER A 174 20231127 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 175 20231130 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 133 "" "" 0
+#TRANS 1930 {} -133 "" "" 0
+}
+#VER A 176 20231201 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 93 "" "" 0
+#TRANS 2641 {} -18.6 "" "" 0
+#TRANS 5410 {} -74.4 "" "" 0
+}
+#VER A 177 20231201 "Lokalhyra {$description}" 20240311
+{
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
+}
+#VER A 178 20231202 "Inkîp Sjoebaren" 20240311
+{
+#TRANS 2691 {} 368 "" "" 0
+#TRANS 2641 {} -73.6 "" "" 0
+#TRANS 5410 {} -294.4 "" "" 0
+}
+#VER A 179 20231202 "Inkîp ELECTROKIT" 20240311
+{
+#TRANS 2691 {} 241 "" "" 0
+#TRANS 2641 {} -48.2 "" "" 0
+#TRANS 5410 {} -192.8 "" "" 0
+}
+#VER A 180 20231202 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 3609 "" "" 0
+#TRANS 8423 {} -3609 "" "" 0
+}
+#VER A 181 20231204 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 35000 "" "" 0
+#TRANS 1930 {} -35000 "" "" 0
+}
+#VER A 182 20231207 "Levfakt Transportstyrelsen" 20240311
+{
+#TRANS 2440 {} -578 "" "" 0
+#TRANS 2893 {} 578 "" "" 0
+}
+#VER A 183 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 250 "" "" 0
+#TRANS 8423 {} -250 "" "" 0
+}
+#VER A 184 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 930 "" "" 0
+#TRANS 8423 {} -930 "" "" 0
+}
+#VER A 185 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 1358 "" "" 0
+#TRANS 8423 {} -1358 "" "" 0
+}
+#VER A 186 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 187 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 188 20231207 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 600 "" "" 0
+#TRANS 8423 {} -600 "" "" 0
+}
+#VER A 189 20231207 "Inkîp TeamViewer" 20240311
+{
+#TRANS 2691 {} 5 "" "" 0
+#TRANS 2641 {} -1 "" "" 0
+#TRANS 5410 {} -4 "" "" 0
+}
+#VER A 190 20231208 "Inkîp Besikta" 20240311
+{
+#TRANS 2691 {} 659 "" "" 0
+#TRANS 2641 {} -131.8 "" "" 0
+#TRANS 5410 {} -527.2 "" "" 0
+}
+#VER A 191 20231215 "Inkîp HOTEL AT BOOKING.COM" 20240311
+{
+#TRANS 2691 {} 1145 "" "" 0
+#TRANS 2641 {} -229 "" "" 0
+#TRANS 5410 {} -916 "" "" 0
+}
+#VER A 192 20231216 "Inbetalning skattekonto" 20240311
+{
+#TRANS 1645 {} 578 "" "" 0
+#TRANS 1930 {} -578 "" "" 0
+}
+#VER A 193 20231217 "Inkîp CHATGPT" 20240311
+{
+#TRANS 2691 {} 209 "" "" 0
+#TRANS 2641 {} -41.8 "" "" 0
+#TRANS 5410 {} -167.2 "" "" 0
+}
+#VER A 194 20231218 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 15000 "" "" 0
+#TRANS 1930 {} -15000 "" "" 0
+}
+#VER A 195 20231219 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 73 "" "" 0
+#TRANS 2641 {} -14.6 "" "" 0
+#TRANS 5410 {} -58.4 "" "" 0
+}
+#VER A 196 20231219 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 73 "" "" 0
+#TRANS 2641 {} -14.6 "" "" 0
+#TRANS 5410 {} -58.4 "" "" 0
+}
+#VER A 197 20231224 "Inkîp MJUK BILTVATT" 20240311
+{
+#TRANS 2691 {} 299 "" "" 0
+#TRANS 2641 {} -59.8 "" "" 0
+#TRANS 5410 {} -239.2 "" "" 0
+}
+#VER A 198 20231227 "Fîrseningsavgift" 20240311
+{
+#TRANS 1645 {} 625 "" "" 0
+#TRANS 8423 {} -625 "" "" 0
+}
+#VER A 199 20231228 "ôverfîring till Anders" 20240311
+{
+#TRANS 2691 {} 10000 "" "" 0
+#TRANS 1930 {} -10000 "" "" 0
+}
+#VER A 200 20240101 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 93 "" "" 0
+#TRANS 2641 {} -18.6 "" "" 0
+#TRANS 5410 {} -74.4 "" "" 0
+}
+#VER A 201 20240101 "Lokalhyra {$description}" 20240311
+{
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
+}
+#VER A 202 20240102 "Bankavgift" 20240311
+{
+#TRANS 6570 {} 130 "" "" 0
+#TRANS 1930 {} -130 "" "" 0
+}
+#VER A 203 20240106 "Inkîp OPENAI" 20240311
+{
+#TRANS 2691 {} 104 "" "" 0
+#TRANS 2641 {} -20.8 "" "" 0
+#TRANS 5410 {} -83.2 "" "" 0
+}
+#VER A 204 20240106 "RÑnta skattekonto" 20240311
+{
+#TRANS 1645 {} 1525 "" "" 0
+#TRANS 8423 {} -1525 "" "" 0
+}
+#VER A 205 20240110 "Inkîp REACT-ADMIN" 20240311
+{
+#TRANS 2691 {} 1675 "" "" 0
+#TRANS 2641 {} -335 "" "" 0
+#TRANS 5410 {} -1340 "" "" 0
+}
+#VER A 206 20240112 "Inkîp GITKRAKEN SOFTWARE" 20240311
+{
+#TRANS 2691 {} 2009 "" "" 0
+#TRANS 2641 {} -401.8 "" "" 0
+#TRANS 5410 {} -1607.2 "" "" 0
+}
+#VER A 207 20240114 "Inkîp JOHN SCOTT S" 20240311
+{
+#TRANS 2691 {} 250 "" "" 0
+#TRANS 2641 {} -50 "" "" 0
+#TRANS 5410 {} -200 "" "" 0
+}
+#VER A 208 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 248 "" "" 0
+#TRANS 2641 {} -49.6 "" "" 0
+#TRANS 5410 {} -198.4 "" "" 0
+}
+#VER A 209 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 236 "" "" 0
+#TRANS 2641 {} -47.2 "" "" 0
+#TRANS 5410 {} -188.8 "" "" 0
+}
+#VER A 210 20240118 "Inkîp ODERLAND" 20240311
+{
+#TRANS 2691 {} 248 "" "" 0
+#TRANS 2641 {} -49.6 "" "" 0
+#TRANS 5410 {} -198.4 "" "" 0
+}
+#VER A 211 20240119 "Inkîp Fortnox" 20240311
+{
+#TRANS 2691 {} 1567 "" "" 0
+#TRANS 2641 {} -313.4 "" "" 0
+#TRANS 5410 {} -1253.6 "" "" 0
+}
+#VER A 212 20240119 "Inkîp KIFAB" 20240311
+{
+#TRANS 2691 {} 269 "" "" 0
+#TRANS 2641 {} -53.8 "" "" 0
+#TRANS 5410 {} -215.2 "" "" 0
+}
+#VER A 213 20240119 "Inkîp SCANDIC HOTELS" 20240311
+{
+#TRANS 2691 {} 822 "" "" 0
+#TRANS 2641 {} -164.4 "" "" 0
+#TRANS 5410 {} -657.6 "" "" 0
+}
+#VER A 214 20240119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 74 "" "" 0
+#TRANS 2641 {} -14.8 "" "" 0
+#TRANS 5410 {} -59.2 "" "" 0
+}
+#VER A 215 20240119 "Inkîp NPM" 20240311
+{
+#TRANS 2691 {} 74 "" "" 0
+#TRANS 2641 {} -14.8 "" "" 0
+#TRANS 5410 {} -59.2 "" "" 0
+}
+#VER A 216 20240120 "Inkîp CLAS OHLSON" 20240311
+{
+#TRANS 2691 {} 199 "" "" 0
+#TRANS 2641 {} -39.8 "" "" 0
+#TRANS 5410 {} -159.2 "" "" 0
+}
+#VER A 217 20240122 "Inkîp Fortnox" 20240311
+{
+#TRANS 2691 {} 1065 "" "" 0
+#TRANS 2641 {} -213 "" "" 0
+#TRANS 5410 {} -852 "" "" 0
+}
+#VER A 218 20240122 "Inkîp EASEUS.COM" 20240311
+{
+#TRANS 2691 {} 913 "" "" 0
+#TRANS 2641 {} -182.6 "" "" 0
+#TRANS 5410 {} -730.4 "" "" 0
+}
+#VER A 219 20240128 "Inkîp MEDIUM" 20240311
+{
+#TRANS 2691 {} 53 "" "" 0
+#TRANS 2641 {} -10.6 "" "" 0
+#TRANS 5410 {} -42.4 "" "" 0
+}
+#VER A 220 20240209 "Inkîp DIGITALOCEAN" 20240311
+{
+#TRANS 2691 {} 79 "" "" 0
+#TRANS 2641 {} -15.8 "" "" 0
+#TRANS 5410 {} -63.2 "" "" 0
+}
+#VER C 1 20230907 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8596 "" "" 0
+#TRANS 1930 {} -8596 "" "" 0
+}
+#VER C 2 20230912 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3 "" "" 0
+#TRANS 1645 {} -3 "" "" 0
+}
+#VER C 3 20230913 "Inbetalning skattekonto" 20240311
+{
+#TRANS 1645 {} 112288 "" "" 0
+#TRANS 1930 {} -112288 "" "" 0
+}
+#VER C 4 20230925 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 153156 "" "" 0
+#TRANS 1510 {} -153156 "" "" 0
+}
+#VER C 5 20231004 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 521 "" "" 0
+#TRANS 1930 {} -521 "" "" 0
+}
+#VER C 6 20231005 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 112500 "" "" 0
+#TRANS 1510 {} -112500 "" "" 0
+}
+#VER C 7 20231012 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3 "" "" 0
+#TRANS 1645 {} -3 "" "" 0
+}
+#VER C 8 20231013 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 9369 "" "" 0
+#TRANS 1930 {} -9369 "" "" 0
+}
+#VER C 9 20231113 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3 "" "" 0
+#TRANS 1645 {} -3 "" "" 0
+}
+#VER C 10 20231121 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 128234 "" "" 0
+#TRANS 1510 {} -128234 "" "" 0
+}
+#VER C 11 20231123 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8634 "" "" 0
+#TRANS 1930 {} -8634 "" "" 0
+}
+#VER C 12 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 63 "" "" 0
+#TRANS 1930 {} -63 "" "" 0
+}
+#VER C 13 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 625 "" "" 0
+#TRANS 1930 {} -625 "" "" 0
+}
+#VER C 14 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8663 "" "" 0
+#TRANS 1930 {} -8663 "" "" 0
+}
+#VER C 15 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 1178 "" "" 0
+#TRANS 1930 {} -1178 "" "" 0
+}
+#VER C 16 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 1250 "" "" 0
+#TRANS 1930 {} -1250 "" "" 0
+}
+#VER C 17 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 2929 "" "" 0
+#TRANS 1930 {} -2929 "" "" 0
+}
+#VER C 18 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 3785 "" "" 0
+#TRANS 1930 {} -3785 "" "" 0
+}
+#VER C 19 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 10600 "" "" 0
+#TRANS 1930 {} -10600 "" "" 0
+}
+#VER C 20 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 179 "" "" 0
+#TRANS 1930 {} -179 "" "" 0
+}
+#VER C 21 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 458 "" "" 0
+#TRANS 1930 {} -458 "" "" 0
+}
+#VER C 22 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 572 "" "" 0
+#TRANS 1930 {} -572 "" "" 0
+}
+#VER C 23 20231212 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3 "" "" 0
+#TRANS 1645 {} -3 "" "" 0
+}
+#VER C 24 20231220 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 21203 "" "" 0
+#TRANS 1510 {} -21203 "" "" 0
+}
+#VER C 25 20240102 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 2775 "" "" 0
+#TRANS 1930 {} -2775 "" "" 0
+}
+#VER C 26 20240117 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3 "" "" 0
+#TRANS 1645 {} -3 "" "" 0
+}
+#VER C 27 20230912 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER C 28 20230925 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 153156 "" "" 0
+#TRANS 1510 {} -153156 "" "" 0
+}
+#VER C 29 20231005 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 112500 "" "" 0
+#TRANS 1510 {} -112500 "" "" 0
+}
+#VER C 30 20231012 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER C 31 20231113 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER C 32 20231121 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 128234 "" "" 0
+#TRANS 1510 {} -128234 "" "" 0
+}
+#VER C 33 20231212 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER C 34 20231220 "Betalning KFakt" 20240311
+{
+#TRANS 1930 {} 21203 "" "" 0
+#TRANS 1510 {} -21203 "" "" 0
+}
+#VER C 35 20240117 "F-skatt" 20240311
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER D 1 20230907 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8596 "" "" 0
+#TRANS 2641 {} 1719.2 "" "" 0
+#TRANS 6090 {} 6876.8 "" "" 0
+}
+#VER D 2 20231004 "Leverantîrsfaktura TELE2 SV AB FôRETAG ATTN" 20240311
+{
+#TRANS 2440 {} -521 "" "" 0
+#TRANS 2641 {} 104.2 "" "" 0
+#TRANS 6090 {} 416.8 "" "" 0
+}
+#VER D 3 20231013 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -9369 "" "" 0
+#TRANS 2641 {} 1873.8 "" "" 0
+#TRANS 6090 {} 7495.2 "" "" 0
+}
+#VER D 4 20231123 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8634 "" "" 0
+#TRANS 2641 {} 1726.8 "" "" 0
+#TRANS 6090 {} 6907.2 "" "" 0
+}
+#VER D 5 20231207 "Leverantîrsfaktura DHL EXPRESS SWEDEN AB" 20240311
+{
+#TRANS 2440 {} -63 "" "" 0
+#TRANS 2641 {} 12.6 "" "" 0
+#TRANS 6090 {} 50.4 "" "" 0
+}
+#VER D 6 20231207 "Leverantîrsfaktura ID06 AB" 20240311
+{
+#TRANS 2440 {} -625 "" "" 0
+#TRANS 2641 {} 125 "" "" 0
+#TRANS 6090 {} 500 "" "" 0
+}
+#VER D 7 20231207 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8663 "" "" 0
+#TRANS 2641 {} 1732.6 "" "" 0
+#TRANS 6090 {} 6930.4 "" "" 0
+}
+#VER D 8 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -1178 "" "" 0
+#TRANS 2641 {} 235.6 "" "" 0
+#TRANS 6090 {} 942.4 "" "" 0
+}
+#VER D 9 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -1250 "" "" 0
+#TRANS 2641 {} 250 "" "" 0
+#TRANS 6090 {} 1000 "" "" 0
+}
+#VER D 10 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -2929 "" "" 0
+#TRANS 2641 {} 585.8 "" "" 0
+#TRANS 6090 {} 2343.2 "" "" 0
+}
+#VER D 11 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -3785 "" "" 0
+#TRANS 2641 {} 757 "" "" 0
+#TRANS 6090 {} 3028 "" "" 0
+}
+#VER D 12 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -10600 "" "" 0
+#TRANS 2641 {} 2120 "" "" 0
+#TRANS 6090 {} 8480 "" "" 0
+}
+#VER D 13 20231207 "Leverantîrsfaktura LOOPIA AB" 20240311
+{
+#TRANS 2440 {} -179 "" "" 0
+#TRANS 2641 {} 35.8 "" "" 0
+#TRANS 6090 {} 143.2 "" "" 0
+}
+#VER D 14 20231207 "Leverantîrsfaktura LOOPIA AB" 20240311
+{
+#TRANS 2440 {} -458 "" "" 0
+#TRANS 2641 {} 91.6 "" "" 0
+#TRANS 6090 {} 366.4 "" "" 0
+}
+#VER D 15 20231207 "Leverantîrsfaktura TELE2 SV AB FôRETAG ATTN" 20240311
+{
+#TRANS 2440 {} -572 "" "" 0
+#TRANS 2641 {} 114.4 "" "" 0
+#TRANS 6090 {} 457.6 "" "" 0
+}
+#VER D 16 20240102 "Leverantîrsfaktura ODERLAND WEBBHOTELL AB" 20240311
+{
+#TRANS 2440 {} -2775 "" "" 0
+#TRANS 2641 {} 555 "" "" 0
+#TRANS 6090 {} 2220 "" "" 0
+}
+#VER D 17 20230907 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8596 "" "" 0
+#TRANS 2641 {} 1719.2 "" "" 0
+#TRANS 6090 {} 6876.8 "" "" 0
+}
+#VER D 18 20231004 "Leverantîrsfaktura TELE2 SV AB FôRETAG ATTN" 20240311
+{
+#TRANS 2440 {} -521 "" "" 0
+#TRANS 2641 {} 104.2 "" "" 0
+#TRANS 6090 {} 416.8 "" "" 0
+}
+#VER D 19 20231013 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -9369 "" "" 0
+#TRANS 2641 {} 1873.8 "" "" 0
+#TRANS 6090 {} 7495.2 "" "" 0
+}
+#VER D 20 20231123 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8634 "" "" 0
+#TRANS 2641 {} 1726.8 "" "" 0
+#TRANS 6090 {} 6907.2 "" "" 0
+}
+#VER D 21 20231207 "Leverantîrsfaktura DHL EXPRESS SWEDEN AB" 20240311
+{
+#TRANS 2440 {} -63 "" "" 0
+#TRANS 2641 {} 12.6 "" "" 0
+#TRANS 6090 {} 50.4 "" "" 0
+}
+#VER D 22 20231207 "Leverantîrsfaktura ID06 AB" 20240311
+{
+#TRANS 2440 {} -625 "" "" 0
+#TRANS 2641 {} 125 "" "" 0
+#TRANS 6090 {} 500 "" "" 0
+}
+#VER D 23 20231207 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20240311
+{
+#TRANS 2440 {} -8663 "" "" 0
+#TRANS 2641 {} 1732.6 "" "" 0
+#TRANS 6090 {} 6930.4 "" "" 0
+}
+#VER D 24 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -1178 "" "" 0
+#TRANS 2641 {} 235.6 "" "" 0
+#TRANS 6090 {} 942.4 "" "" 0
+}
+#VER D 25 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -1250 "" "" 0
+#TRANS 2641 {} 250 "" "" 0
+#TRANS 6090 {} 1000 "" "" 0
+}
+#VER D 26 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -2929 "" "" 0
+#TRANS 2641 {} 585.8 "" "" 0
+#TRANS 6090 {} 2343.2 "" "" 0
+}
+#VER D 27 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -3785 "" "" 0
+#TRANS 2641 {} 757 "" "" 0
+#TRANS 6090 {} 3028 "" "" 0
+}
+#VER D 28 20231207 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20240311
+{
+#TRANS 2440 {} -10600 "" "" 0
+#TRANS 2641 {} 2120 "" "" 0
+#TRANS 6090 {} 8480 "" "" 0
+}
+#VER D 29 20231207 "Leverantîrsfaktura LOOPIA AB" 20240311
+{
+#TRANS 2440 {} -179 "" "" 0
+#TRANS 2641 {} 35.8 "" "" 0
+#TRANS 6090 {} 143.2 "" "" 0
+}
+#VER D 30 20231207 "Leverantîrsfaktura LOOPIA AB" 20240311
+{
+#TRANS 2440 {} -458 "" "" 0
+#TRANS 2641 {} 91.6 "" "" 0
+#TRANS 6090 {} 366.4 "" "" 0
+}
+#VER D 31 20231207 "Leverantîrsfaktura TELE2 SV AB FôRETAG ATTN" 20240311
+{
+#TRANS 2440 {} -572 "" "" 0
+#TRANS 2641 {} 114.4 "" "" 0
+#TRANS 6090 {} 457.6 "" "" 0
+}
+#VER D 32 20240102 "Leverantîrsfaktura ODERLAND WEBBHOTELL AB" 20240311
+{
+#TRANS 2440 {} -2775 "" "" 0
+#TRANS 2641 {} 555 "" "" 0
+#TRANS 6090 {} 2220 "" "" 0
+}
+#VER E 1 20230907 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8596 "" "" 0
+#TRANS 1930 {} -8596 "" "" 0
+}
+#VER E 2 20231004 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 521 "" "" 0
+#TRANS 1930 {} -521 "" "" 0
+}
+#VER E 3 20231013 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 9369 "" "" 0
+#TRANS 1930 {} -9369 "" "" 0
+}
+#VER E 4 20231123 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8634 "" "" 0
+#TRANS 1930 {} -8634 "" "" 0
+}
+#VER E 5 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 63 "" "" 0
+#TRANS 1930 {} -63 "" "" 0
+}
+#VER E 6 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 625 "" "" 0
+#TRANS 1930 {} -625 "" "" 0
+}
+#VER E 7 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 8663 "" "" 0
+#TRANS 1930 {} -8663 "" "" 0
+}
+#VER E 8 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 1178 "" "" 0
+#TRANS 1930 {} -1178 "" "" 0
+}
+#VER E 9 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 1250 "" "" 0
+#TRANS 1930 {} -1250 "" "" 0
+}
+#VER E 10 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 2929 "" "" 0
+#TRANS 1930 {} -2929 "" "" 0
+}
+#VER E 11 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 3785 "" "" 0
+#TRANS 1930 {} -3785 "" "" 0
+}
+#VER E 12 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 10600 "" "" 0
+#TRANS 1930 {} -10600 "" "" 0
+}
+#VER E 13 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 179 "" "" 0
+#TRANS 1930 {} -179 "" "" 0
+}
+#VER E 14 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 458 "" "" 0
+#TRANS 1930 {} -458 "" "" 0
+}
+#VER E 15 20231207 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 572 "" "" 0
+#TRANS 1930 {} -572 "" "" 0
+}
+#VER E 16 20240102 "Betalning LFakt" 20240311
+{
+#TRANS 2440 {} 2775 "" "" 0
+#TRANS 1930 {} -2775 "" "" 0
+}

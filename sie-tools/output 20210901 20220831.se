@@ -430,6 +430,8 @@
 #SRU 3403 7410
 #KONTO 3404 "Egna uttag, momsfria"
 #SRU 3404 7410
+#KONTO 3499 "Justering f?rs?ljning, ej moms"
+#SRU 3499 7410
 #KONTO 3500 "Fakturerade kostnader (gruppkonto)"
 #SRU 3500 7410
 #KONTO 3510 "Fakturerat emballage"
@@ -802,2349 +804,3177 @@
 #KONTO 8999 "?rets resultat"
 #SRU 8999 7450
 
-#VER A 1 20210701 "Lokalhyra" 20210807
+#VER A 1 20210901 "Diverse" 20211123
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 1930 {} -100 "" "SEB banktjÑnster" 0
+#TRANS 6570 {} 100 "" "SEB banktjÑnster" 0
+#RTRANS 1930 {} -445.63 "" "Digital Ocean, 46,42 USD" 0 "Mia Lîfgren"
+#TRANS 1930 {} -445.63 "" "Digital Ocean, 46,42 USD" 0
+#RTRANS 4531 {} 445.63 "" "Digital Ocean, 46,42 USD" 0 "Mia Lîfgren"
+#TRANS 4531 {} 445.63 "" "Digital Ocean, 46,42 USD" 0
+#RTRANS 2614 {} -111.41 "" "Digital Ocean, 46,42 USD" 0 "Mia Lîfgren"
+#TRANS 2614 {} -111.41 "" "Digital Ocean, 46,42 USD" 0
+#RTRANS 2645 {} 111.41 "" "Digital Ocean, 46,42 USD" 0 "Mia Lîfgren"
+#TRANS 2645 {} 111.41 "" "Digital Ocean, 46,42 USD" 0
 }
-#VER A 2 20210801 "Lokalhyra" 20210902
+#VER A 2 20210901 "Digital Ocean FA 428741943; 50 USD" 20211123
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 2892 {} -444 "" "" 0
+#TRANS 4535 {} 444 "" "" 0
+#TRANS 2614 {} -111 "" "" 0
+#TRANS 2645 {} 111 "" "" 0
 }
-#VER A 3 20210901 "Lokalhyra" 20211004
+#VER A 3 20210901 "Linode, 55 USD" 20211123
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 2892 {} -488.4 "" "" 0
+#TRANS 4535 {} 488.4 "" "" 0
+#TRANS 2614 {} -122.1 "" "" 0
+#TRANS 2645 {} 122.1 "" "" 0
 }
-#VER A 4 20211001 "Lokalhyra" 20211105
+#VER A 4 20210902 "Gumroad, 162,67 USD" 20211123
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 2892 {} -1439.21 "" "" 0
+#TRANS 4535 {} 1439.21 "" "" 0
+#TRANS 2614 {} -359.8 "" "" 0
+#TRANS 2645 {} 359.8 "" "" 0
 }
-#VER A 5 20211101 "Lokalhyra" 20211224
+#VER A 5 20210904 "RÑnta skattekontot" 20211123
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 1645 {} -998 "" "" 0
+#TRANS 1645 {} -904 "" "" 0
+#TRANS 8423 {} 1902 "" "" 0
 }
-#VER A 6 20211201 "ôverfîring till Anders" 20220117
+#VER A 6 20210908 "Kjell & Company" 20211123
+{
+#TRANS 2892 {} -1358.8 "" "" 0
+#TRANS 2641 {} 271.76 "" "" 0
+#TRANS 5410 {} 1087.04 "" "" 0
+}
+#VER A 7 20210909 "FA 2021-007/BRP Shipping" 20211123
+{
+#TRANS 1510 {} 16952 "" "" 0
+#TRANS 3004 {} -16952 "" "" 0
+}
+#VER A 8 20210909 "FA 2021-008/PTA Automation" 20211123
+{
+#TRANS 1510 {} 37500 "" "" 0
+#BTRANS 3001 {} -30000 "" "" 0 "Mia Lîfgren"
+#TRANS 2611 {} -7500 "" "" 0
+#RTRANS 3010 {} -30000 "" "" 0 "Mia Lîfgren"
+#TRANS 3010 {} -30000 "" "" 0
+}
+#VER A 9 20210910 "Netlify, 24,19 USD" 20211123
+{
+#TRANS 2892 {} -214.5 "" "" 0
+#TRANS 4531 {} 214.5 "" "" 0
+#TRANS 2614 {} -53.63 "" "" 0
+#TRANS 2645 {} 53.63 "" "" 0
+}
+#VER A 10 20210913 "SKV" 20211123
+{
+#TRANS 2518 {} 2611 "" "F-skatt" 0
+#TRANS 1645 {} -2611 "" "F-skatt" 0
+#TRANS 6992 {} 625 "" "Fîrseningsavg" 0
+#TRANS 1645 {} -625 "" "Fîrseningsavg" 0
+}
+#VER A 11 20210913 "Microsoft Business 365" 20211123
+{
+#TRANS 2892 {} -109.2 "" "" 0
+#TRANS 4535 {} 109.2 "" "" 0
+#TRANS 2614 {} -27.3 "" "" 0
+#TRANS 2645 {} 27.3 "" "" 0
+}
+#VER A 12 20210918 "HP instant" 20211123
+{
+#TRANS 2892 {} -49 "" "" 0
+#TRANS 2641 {} 9.8 "" "" 0
+#TRANS 6110 {} 39.2 "" "" 0
+}
+#VER A 13 20210918 "Vitalwerks internet, 24,95 USD" 20211123
+{
+#TRANS 2892 {} -222.25 "" "" 0
+#TRANS 4535 {} 222.25 "" "" 0
+#TRANS 2614 {} -55.56 "" "" 0
+#TRANS 2645 {} 55.56 "" "" 0
+}
+#VER A 14 20210920 "FA 2021-009/Enera" 20211123
+{
+#TRANS 1510 {} 133047 "" "" 0
+#TRANS 1790 {} -106438 "" "" 0
+#TRANS 2611 {} -26609 "" "" 0
+}
+#VER A 15 20210920 "npm Inc, 21 USD" 20211123
+{
+#TRANS 2892 {} -187.07 "" "" 0
+#TRANS 4531 {} 187.07 "" "" 0
+#TRANS 2614 {} -46.77 "" "" 0
+#TRANS 2645 {} 46.77 "" "" 0
+}
+#VER A 16 20210922 "Freepik, 9,99 EUR" 20211123
+{
+#TRANS 2892 {} -104.16 "" "" 0
+#TRANS 4535 {} 104.16 "" "" 0
+#TRANS 2614 {} -26.04 "" "" 0
+#TRANS 2645 {} 26.04 "" "" 0
+}
+#VER A 17 20210923 "Bet FA 2021-007/BRP Shipping" 20211123
+{
+#TRANS 1930 {} 16952 "" "" 0
+#TRANS 1510 {} -16952 "" "" 0
+}
+#VER A 18 20210927 "Fîrseningsavg SKV" 20211123
+{
+#TRANS 1645 {} -625 "" "" 0
+#TRANS 6992 {} 625 "" "" 0
+}
+#VER A 19 20210927 "CircleCi, 30 USD" 20211123
+{
+#TRANS 2892 {} -266.61 "" "" 0
+#TRANS 4531 {} 266.61 "" "" 0
+#TRANS 2614 {} -66.65 "" "" 0
+#TRANS 2645 {} 66.65 "" "" 0
+}
+#VER A 20 20210930 "Lîn Anders, bil 6344 + 2912 = 9256 kr" 20211123
+{
+#TRANS 7220 {} 65974 "" "" 0
+#TRANS 2710 {} -20974 "" "" 0
+#TRANS 1930 {} -20000 "" "2/9 uttag" 0
+#TRANS 1930 {} -5000 "" "10/9 uttag" 0
+#TRANS 1930 {} -5000 "" "14/9 uttag" 0
+#TRANS 1930 {} -5000 "" "23/9 uttag" 0
+#TRANS 1930 {} -10000 "" "30/9 uttag" 0
+}
+#VER A 21 20210930 "SKV skd fîr aug-lîner" 20211123
+{
+#TRANS 7510 {} 19148 "" "" 0
+#TRANS 2710 {} 16688 "" "" 0
+#TRANS 1645 {} -35836 "" "" 0
+}
+#VER A 22 20210930 "SEB banktjÑnster" 20211123
+{
+#TRANS 6570 {} 303 "" "" 0
+#TRANS 1930 {} -303 "" "" 0
+}
+#VER A 23 20210930 "Bet leverantîrer" 20211123
+{
+#TRANS 2440 {} 78.12 "" "10/9 SEB kort" 0
+#TRANS 1930 {} -78.12 "" "10/9 SEB kort" 0
+#TRANS 2440 {} 4415.3 "" "10/9 SEB kort" 0
+#TRANS 1930 {} -4415.3 "" "10/9 SEB kort" 0
+#TRANS 2440 {} 8389 "" "10/9 Volkswagen" 0
+#TRANS 1930 {} -8389 "" "10/9 Volkswagen" 0
+#TRANS 2440 {} 458 "" "10/9 Loopia" 0
+#TRANS 1930 {} -458 "" "10/9 Loopia" 0
+#TRANS 2440 {} 633 "" "10/9 Tele2" 0
+#TRANS 1930 {} -633 "" "10/9 Tele2" 0
+#TRANS 2440 {} 4830 "" "10/9 BMW/If" 0
+#TRANS 1930 {} -4830 "" "10/9 BMW/If" 0
+#TRANS 2440 {} 450 "" "10/9 Svea inkasso" 0
+#TRANS 1930 {} -450 "" "10/9 Svea inkasso" 0
+#RTRANS 2440 {} 3213 "" "10/9 BMW Financial" 0 "Mia Lîfgren"
+#TRANS 2440 {} 3213 "" "10/9 BMW Financial" 0
+#RTRANS 1930 {} -3213 "" "10/9 BMW Financial" 0 "Mia Lîfgren"
+#TRANS 1930 {} -3213 "" "10/9 BMW Financial" 0
+}
+#VER A 24 20211001 "Linode, 55 USD" 20211123
+{
+#TRANS 2892 {} -495.58 "" "" 0
+#TRANS 4535 {} 495.58 "" "" 0
+#TRANS 2614 {} -123.9 "" "" 0
+#TRANS 2645 {} 123.9 "" "" 0
+}
+#VER A 25 20211001 "Digital Ocean FA 429694644: 50 USD" 20211123
+{
+#TRANS 2892 {} -452.09 "" "" 0
+#TRANS 4535 {} 452.09 "" "" 0
+#TRANS 2614 {} -113.02 "" "" 0
+#TRANS 2645 {} 113.02 "" "" 0
+}
+#VER A 26 20211002 "RÑnta skattekontot" 20211123
+{
+#TRANS 1645 {} -149 "" "" 0
+#TRANS 1645 {} -1370 "" "" 0
+#TRANS 8423 {} 1519 "" "" 0
+}
+#VER A 27 20211002 "Gumroad, 158,83 USD" 20211123
+{
+#TRANS 2892 {} -1431.15 "" "" 0
+#TRANS 4535 {} 1431.15 "" "" 0
+#TRANS 2614 {} -357.79 "" "" 0
+#TRANS 2645 {} 357.79 "" "" 0
+}
+#VER A 28 20211010 "Netlify, 15 USD" 20211123
+{
+#TRANS 2892 {} -135.61 "" "" 0
+#TRANS 4531 {} 135.61 "" "" 0
+#TRANS 2614 {} -33.9 "" "" 0
+#TRANS 2645 {} 33.9 "" "" 0
+}
+#VER A 29 20211011 "Microsoft 365" 20211123
+{
+#TRANS 2892 {} -899 "" "" 0
+#TRANS 2641 {} 179.8 "" "" 0
+#TRANS 5420 {} 719.2 "" "" 0
+}
+#VER A 30 20211011 "GitHub, 48 USD" 20211123
+{
+#TRANS 2892 {} -431.12 "" "" 0
+#TRANS 4531 {} 431.12 "" "" 0
+#TRANS 2614 {} -107.78 "" "" 0
+#TRANS 2645 {} 107.78 "" "" 0
+}
+#VER A 31 20211011 "Bet FA 2021-009/Enera" 20211123
+{
+#TRANS 1930 {} 133047 "" "" 0
+#TRANS 1510 {} -133047 "" "" 0
+}
+#VER A 32 20211012 "F-skatt" 20211123
+{
+#TRANS 2518 {} 3489 "" "" 0
+#TRANS 1645 {} -3489 "" "" 0
+}
+#VER A 33 20211012 "SKV skd sep-lîner" 20211123
+{
+#TRANS 7510 {} 23637 "" "" 0
+#TRANS 2710 {} 20974 "" "" 0
+#TRANS 1645 {} -44611 "" "" 0
+#RTRANS 1645 {} -18611 "" "Moms apr-jun" 0 "Mia Lîfgren"
+#TRANS 1645 {} -18611 "" "Moms apr-jun" 0
+#RTRANS 2650 {} 18611 "" "Moms apr-jun" 0 "Mia Lîfgren"
+#TRANS 2650 {} 18611 "" "Moms apr-jun" 0
+}
+#VER A 34 20211013 "Microsoft Business + Digital Ocean" 20211123
+{
+#TRANS 2892 {} -109.2 "" "Microsoft" 0
+#TRANS 4535 {} 109.2 "" "Microsoft" 0
+#TRANS 2614 {} -27.3 "" "Microsoft" 0
+#TRANS 2645 {} 27.3 "" "Microsoft" 0
+#RTRANS 1930 {} -268 "" "Digital ocean, 30,24 USD" 0 "Mia Lîfgren"
+#TRANS 1930 {} -268 "" "Digital ocean, 30,24 USD" 0
+#RTRANS 4531 {} 268 "" "Digital ocean, 30,24 USD" 0 "Mia Lîfgren"
+#TRANS 4531 {} 268 "" "Digital ocean, 30,24 USD" 0
+#RTRANS 2614 {} -67 "" "Digital ocean, 30,24 USD" 0 "Mia Lîfgren"
+#TRANS 2614 {} -67 "" "Digital ocean, 30,24 USD" 0
+#RTRANS 2645 {} 67 "" "Digital ocean, 30,24 USD" 0 "Mia Lîfgren"
+#TRANS 2645 {} 67 "" "Digital ocean, 30,24 USD" 0
+}
+#VER A 35 20211020 "GitHub, 240 USD" 20211123
+{
+#TRANS 2892 {} -2134.12 "" "" 0
+#TRANS 4531 {} 2134.12 "" "" 0
+#TRANS 2614 {} -533.53 "" "" 0
+#TRANS 2645 {} 533.53 "" "" 0
+}
+#VER A 36 20211020 "npm Inc, 21 USD" 20211123
+{
+#TRANS 2892 {} -186.73 "" "" 0
+#TRANS 4531 {} 186.73 "" "" 0
+#TRANS 2614 {} -46.68 "" "" 0
+#TRANS 2645 {} 46.68 "" "" 0
+}
+#VER A 37 20211022 "Freepik, 9,99 EUR" 20211123
+{
+#TRANS 2892 {} -102.33 "" "" 0
+#TRANS 4535 {} 102.33 "" "" 0
+#TRANS 2614 {} -25.58 "" "" 0
+#TRANS 2645 {} 25.58 "" "" 0
+}
+#VER A 38 20211025 "Lîn Anders, bil 9256 kr" 20211123
+{
+#TRANS 7220 {} 38418 "" "" 0
+#TRANS 2710 {} -13418 "" "" 0
+#TRANS 1930 {} -25000 "" "4/10 uttag" 0
+}
+#VER A 39 20211027 "CircleCi, 30 USD" 20211123
+{
+#BTRANS 2892 {} -30 "" "" 0 "Mia Lîfgren"
+#BTRANS 4531 {} 30 "" "" 0 "Mia Lîfgren"
+#BTRANS 2614 {} -7.5 "" "" 0 "Mia Lîfgren"
+#BTRANS 2645 {} 7.5 "" "" 0 "Mia Lîfgren"
+#BTRANS 2892 {} -267 "" "" 0 "Mia Lîfgren"
+#BTRANS 4531 {} 267 "" "" 0 "Mia Lîfgren"
+#BTRANS 2614 {} -66.75 "" "" 0 "Mia Lîfgren"
+#BTRANS 2645 {} 66.75 "" "" 0 "Mia Lîfgren"
+#RTRANS 2892 {} -265.41 "" "" 0 "Mia Lîfgren"
+#TRANS 2892 {} -265.41 "" "" 0
+#RTRANS 4531 {} 265.41 "" "" 0 "Mia Lîfgren"
+#TRANS 4531 {} 265.41 "" "" 0
+#RTRANS 2614 {} -66.35 "" "" 0 "Mia Lîfgren"
+#TRANS 2614 {} -66.35 "" "" 0
+#RTRANS 2645 {} 66.35 "" "" 0 "Mia Lîfgren"
+#TRANS 2645 {} 66.35 "" "" 0
+}
+#VER A 40 20211031 "Bet leverantîrer" 20211123
+{
+#TRANS 2440 {} 303 "" "14/10 Conrad" 0
+#TRANS 1930 {} -303 "" "14/10 Conrad" 0
+#TRANS 2440 {} 3299 "" "14/10 BMW Financial" 0
+#TRANS 1930 {} -3299 "" "14/10 BMW Financial" 0
+#TRANS 2440 {} 3669.42 "" "14/10 del av SEB kort" 0
+#TRANS 1930 {} -3669.42 "" "14/10 del av SEB kort" 0
+}
+#VER A 41 20211101 "SEB banktjÑnster" 20211229
+{
+#TRANS 6570 {} 106 "" "" 0
+#TRANS 1930 {} -106 "" "" 0
+}
+#VER A 42 20211101 "FA 2021-010/PTA" 20211229
+{
+#TRANS 1510 {} 178125 "" "" 0
+#BTRANS 3001 {} -142500 "" "" 0 "Mia Lîfgren"
+#TRANS 2611 {} -35625 "" "" 0
+#BTRANS 3010 {} -142500 "" "" 0 "Mia Lîfgren"
+#RTRANS 1790 {} -142500 "" "" 0 "Mia Lîfgren"
+#TRANS 1790 {} -142500 "" "" 0
+}
+#VER A 43 20211101 "FA 2021-011/Enera" 20211229
+{
+#TRANS 1510 {} 67031 "" "" 0
+#TRANS 3001 {} -53625 "" "" 0
+#TRANS 2611 {} -13406 "" "" 0
+}
+#VER A 44 20211101 "FA 2021-012/Nibe Air-Site" 20211229
+{
+#TRANS 1510 {} 199309 "" "" 0
+#BTRANS 3001 {} -159447 "" "" 0 "Mia Lîfgren"
+#TRANS 2611 {} -39862 "" "" 0
+#RTRANS 1790 {} -101563 "" "" 0 "Mia Lîfgren"
+#TRANS 1790 {} -101563 "" "" 0
+#RTRANS 3010 {} -57884 "" "" 0 "Mia Lîfgren"
+#TRANS 3010 {} -57884 "" "" 0
+}
+#VER A 45 20211101 "Digital Ocean, 50 USD" 20211229
+{
+#TRANS 2892 {} -440.87 "" "" 0
+#TRANS 5420 {} 352.7 "" "" 0
+#TRANS 2641 {} 88.17 "" "" 0
+}
+#VER A 46 20211101 "Digital Ocean, 26,23 USD" 20211229
+{
+#TRANS 2892 {} -231.29 "" "" 0
+#TRANS 4535 {} 231.29 "" "" 0
+#TRANS 2614 {} -57.82 "" "" 0
+#TRANS 2645 {} 57.82 "" "" 0
+}
+#VER A 47 20211102 "Linode 55 USD" 20211229
+{
+#TRANS 2892 {} -484.96 "" "" 0
+#TRANS 4535 {} 484.96 "" "" 0
+#TRANS 2614 {} -121.24 "" "" 0
+#TRANS 2645 {} 121.24 "" "" 0
+}
+#VER A 48 20211102 "Gumroad Inc, 158,38 USD" 20211229
+{
+#TRANS 2892 {} -1392.15 "" "" 0
+#TRANS 4535 {} 1392.15 "" "" 0
+#TRANS 2614 {} -348.04 "" "" 0
+#TRANS 2645 {} 348.04 "" "" 0
+}
+#VER A 49 20211103 "HP " 20211229
+{
+#TRANS 2892 {} -49 "" "" 0
+#TRANS 2641 {} 9.8 "" "" 0
+#TRANS 6110 {} 39.2 "" "" 0
+}
+#VER A 50 20211104 "KRM utmÑtning skatt" 20211229
+{
+#TRANS 1930 {} -65150 "" "Inbet KFM" 0
+#TRANS 1630 {} 59827 "" "Inbet KFM" 0
+#TRANS 8423 {} 5323 "" "KFM" 0
+#RTRANS 1645 {} -35 "" "RÑnta skattekontot" 0 "Mia Lîfgren"
+#TRANS 1645 {} -35 "" "RÑnta skattekontot" 0
+#RTRANS 1645 {} -1722 "" "RÑnta skattekontot" 0 "Mia Lîfgren"
+#TRANS 1645 {} -1722 "" "RÑnta skattekontot" 0
+#RTRANS 8423 {} 1757 "" "RÑnta skattekontot" 0 "Mia Lîfgren"
+#TRANS 8423 {} 1757 "" "RÑnta skattekontot" 0
+#RTRANS 1645 {} 4651 "" "KFM" 0 "Mia Lîfgren"
+#TRANS 1645 {} 4651 "" "KFM" 0
+#RTRANS 8423 {} -4651 "" "KFM" 0 "Mia Lîfgren"
+#TRANS 8423 {} -4651 "" "KFM" 0
+}
+#VER A 51 20211106 "Oderland, FA 377743" 20211229
+{
+#TRANS 2892 {} -286.25 "" "" 0
+#TRANS 2641 {} 57.25 "" "" 0
+#TRANS 6540 {} 229 "" "" 0
+}
+#VER A 52 20211111 "Docker, 298,24 USD" 20211229
+{
+#TRANS 2892 {} -2651.91 "" "" 0
+#TRANS 4531 {} 2651.91 "" "" 0
+#TRANS 2614 {} -662.98 "" "" 0
+#TRANS 2645 {} 662.98 "" "" 0
+}
+#VER A 53 20211111 "Netlify, 15 USD" 20211229
+{
+#TRANS 2892 {} -132.27 "" "" 0
+#TRANS 4531 {} 132.27 "" "" 0
+#TRANS 2614 {} -33.07 "" "" 0
+#TRANS 2645 {} 33.07 "" "" 0
+}
+#VER A 54 20211111 "Harvest, 237,60 USD" 20211229
+{
+#TRANS 2892 {} -2095.25 "" "" 0
+#TRANS 4531 {} 2095.25 "" "" 0
+#TRANS 2614 {} -523.81 "" "" 0
+#TRANS 2645 {} 523.81 "" "" 0
+}
+#VER A 55 20211112 "SKV " 20211229
+{
+#TRANS 7510 {} 14979 "" "Skd" 0
+#TRANS 2710 {} 13418 "" "skd" 0
+#TRANS 2518 {} 3489 "" "skd" 0
+#TRANS 2650 {} 25167 "" "skd jul-sep" 0
+#TRANS 1630 {} -57053 "" "skd jul-sep" 0
+#TRANS 2510 {} 38070 "" "slutlig skatt beskattningen 2021" 0
+#TRANS 2510 {} -31332 "" "slutlig skatt beskattningen 2021" 0
+#TRANS 1630 {} -6738 "" "slutlig skatt beskattningen 2021" 0
+#TRANS 2852 {} 159427 "" "BetalningsanstÜnd upphîr" 0
+#TRANS 1630 {} -159427 "" "BetalningsanstÜnd upphîr" 0
+#TRANS 2852 {} 49927 "" "BetalningsanstÜnd upphîr" 0
+#TRANS 1630 {} -49924 "" "BetalningsanstÜnd upphîr" 0
+#TRANS 8423 {} 625 "" "Fîrseningsavgift" 0
+#TRANS 1630 {} -628 "" "Fîrseningsavgift" 0
+#TRANS 6992 {} 956 "" "Avgift tillfÑlligt anstÜnd" 0
+#TRANS 1630 {} -956 "" "Avgift tillfÑlligt anstÜnd" 0
+#TRANS 6992 {} 299 "" "Avgift tillfÑlligt anstÜnd" 0
+#TRANS 1630 {} -299 "" "Avgift tillfÑlligt anstÜnd" 0
+#RTRANS 2650 {} 4373 "" "Redovisad moms jul-sep" 0 "Mia Lîfgren"
+#TRANS 2650 {} 4373 "" "Redovisad moms jul-sep" 0
+#RTRANS 1645 {} -4373 "" "Redovisad moms jul-sep" 0 "Mia Lîfgren"
+#TRANS 1645 {} -4373 "" "Redovisad moms jul-sep" 0
+}
+#VER A 56 20211113 "Microsoft office" 20211229
+{
+#TRANS 2892 {} -109.2 "" "" 0
+#TRANS 4535 {} 109.2 "" "" 0
+#TRANS 2614 {} -27.3 "" "" 0
+#TRANS 2645 {} 27.3 "" "" 0
+}
+#VER A 57 20211114 "Team Viewer" 20211229
+{
+#TRANS 2892 {} -4355 "" "" 0
+#TRANS 4535 {} 4355 "" "" 0
+#TRANS 2614 {} -1088.75 "" "" 0
+#TRANS 2645 {} 1088.75 "" "" 0
+}
+#VER A 58 20211116 "HP" 20211229
+{
+#TRANS 2892 {} -49 "" "" 0
+#TRANS 2641 {} 9.8 "" "" 0
+#TRANS 6110 {} 39.2 "" "" 0
+}
+#VER A 59 20211119 "SKV" 20211229
+{
+#TRANS 1930 {} -60459 "" "KFM" 0
+#TRANS 1630 {} 59845 "" "KFM" 0
+#TRANS 8423 {} 614 "" "KFM" 0
+#TRANS 1930 {} -12500 "" "Inbet skattekontot" 0
+#TRANS 1630 {} 12500 "" "Inbet skattekontot" 0
+#TRANS 2852 {} -77953 "" "AnstÜndsbelopp" 0
+#TRANS 1630 {} 77953 "" "AnstÜndsbelopp" 0
+#TRANS 2852 {} -52617 "" "AnstÜndsbelopp" 0
+#TRANS 1630 {} 52617 "" "AnstÜndsbelopp" 0
+#TRANS 2852 {} -159427 "" "AnstÜndsbelopp" 0
+#TRANS 1630 {} 159427 "" "AnstÜndsbelopp" 0
+#TRANS 2852 {} -49927 "" "AnstÜndsbelopp" 0
+#TRANS 1630 {} 49927 "" "AnstÜndsbelopp" 0
+#TRANS 1630 {} 956 "" "RÑttelse avgift" 0
+#TRANS 6992 {} -956 "" "RÑttelse avgift" 0
+#TRANS 1630 {} 299 "" "RÑttelse avgift" 0
+#TRANS 6992 {} -299 "" "RÑttelse avgift" 0
+#RTRANS 1630 {} -198326 "" "Omfîring konto" 0 "Mia Lîfgren"
+#TRANS 1630 {} -198326 "" "Omfîring konto" 0
+#RTRANS 1645 {} 198326 "" "Omfîring konto" 0 "Mia Lîfgren"
+#TRANS 1645 {} 198326 "" "Omfîring konto" 0
+}
+#VER A 60 20211121 "npm inc, 21 USD" 20211229
+{
+#TRANS 2892 {} -193.2 "" "" 0
+#TRANS 4531 {} 193.2 "" "" 0
+#TRANS 2614 {} -48.3 "" "" 0
+#TRANS 2645 {} 48.3 "" "" 0
+}
+#VER A 61 20211122 "Oderland, FA 381578" 20211229
+{
+#TRANS 2892 {} -162.5 "" "" 0
+#TRANS 2641 {} 32.5 "" "" 0
+#TRANS 6540 {} 130 "" "" 0
+}
+#VER A 62 20211123 "Freepik Comapny 9,99 EUR" 20211229
+{
+#TRANS 2892 {} -103.2 "" "" 0
+#TRANS 4535 {} 103.2 "" "" 0
+#TRANS 2614 {} -25.8 "" "" 0
+#TRANS 2645 {} 25.8 "" "" 0
+}
+#VER A 63 20211124 "Intrum/Dustin" 20211229
+{
+#TRANS 6062 {} 180 "" "" 0
+#TRANS 8400 {} 27.21 "" "" 0
+#TRANS 1930 {} -207.21 "" "" 0
+}
+#VER A 64 20211125 "Anders, bil 9256 kr" 20211229
+{
+#TRANS 7220 {} 74132 "" "" 0
+#TRANS 2710 {} -24132 "" "" 0
+#TRANS 1930 {} -25000 "" "2/11" 0
+#TRANS 1930 {} -15000 "" "5/11" 0
+#TRANS 1930 {} -10000 "" "8/11" 0
+}
+#VER A 65 20211127 "Circleci, 30 USD" 20211229
+{
+#TRANS 2892 {} -282.41 "" "" 0
+#TRANS 4535 {} 282.41 "" "" 0
+#TRANS 2614 {} -70.6 "" "" 0
+#TRANS 2645 {} 70.6 "" "" 0
+}
+#VER A 66 20211130 "SEB banktjÑnster" 20211229
+{
+#TRANS 6570 {} 100 "" "" 0
+#TRANS 1930 {} -100 "" "" 0
+}
+#VER A 67 20211112 "Bet FA 2021-011/Enera" 20211229
+{
+#TRANS 1930 {} 67031 "" "" 0
+#TRANS 1510 {} -67031 "" "" 0
+}
+#VER A 68 20211130 "Bet leverantîrer" 20211229
+{
+#TRANS 1930 {} -14792.5 "" "30/11 Beckhoff" 0
+#TRANS 2440 {} 14792.5 "" "30/11 Beckhoff" 0
+}
+#VER A 69 20211129 "Lîsen o fsg av bil OJZ" 20211230
+{
+#TRANS 2890 {} -56725 "" "Lîsenpris BMW" 0
+#TRANS 3970 {} 56725 "" "Lîsenpris BMW" 0
+#TRANS 1930 {} 68275 "" "SÜlt t Bilia" 0
+#TRANS 2890 {} 56725 "" "SÜlt t Bilia" 0
+#TRANS 3970 {} -125000 "" "SÜlt t Bilia" 0
+}
+#VER D 1 20210902 "Levfakt De Lage Landen Finans AB (1)" 20211123
+{
+#TRANS 2440 {} -2369 "" "" 0
+#TRANS 2641 {} 450.75 "" "" 0
+#TRANS 5220 {} 1600 "" "" 0
+#TRANS 5214 {} 118 "" "" 0
+#TRANS 8400 {} 15 "" "" 0
+#TRANS 8490 {} 185.25 "" "" 0
+}
+#VER D 2 20210902 "Levfakt De Lage Landen Finans AB (2)" 20211123
+{
+#TRANS 2440 {} -1514 "" "" 0
+#TRANS 2641 {} 282.75 "" "" 0
+#TRANS 5220 {} 974 "" "" 0
+#TRANS 5214 {} 72 "" "" 0
+#TRANS 8490 {} 185.25 "" "" 0
+}
+#VER D 3 20210904 "Levfakt Tele2 Sverige Aktiebolag (3)" 20211123
+{
+#TRANS 2440 {} -698 "" "" 0
+#TRANS 2641 {} 127.54 "" "" 0
+#TRANS 8490 {} 60 "" "" 0
+#TRANS 6212 {} 510.46 "" "" 0
+}
+#VER D 4 20210904 "Levfakt Volkswagen Finans Sverige AB (4)" 20211123
+{
+#TRANS 2440 {} -8311 "" "" 0
+#TRANS 2641 {} 808.93 "" "" 0
+#TRANS 5613 {} 299 "" "" 0
+#TRANS 5612 {} 460 "" "" 0
+#TRANS 8400 {} 75 "" "" 0
+#TRANS 8490 {} 60 "" "" 0
+#TRANS 5615 {} 6608.07 "" "BHK73G" 0
+}
+#VER D 5 20210916 "Levfakt neXus ID Solutions AB (5)" 20211123
+{
+#TRANS 2440 {} -419 "" "" 0
+#TRANS 2641 {} 83.75 "" "" 0
+#TRANS 6590 {} 335.25 "" "ID06-kort" 0
+}
+#VER D 6 20210917 "Levfakt ODERLAND Webbhotell AB (6)" 20211123
+{
+#TRANS 2440 {} -162.5 "" "" 0
+#TRANS 2641 {} 32.5 "" "" 0
+#TRANS 6540 {} 130 "" "" 0
+}
+#VER D 7 20210921 "Levfakt BMW Financial Services Scandinavia AB (7)" 20211123
+{
+#TRANS 2440 {} -3138 "" "" 0
+#TRANS 2641 {} 311.85 "" "" 0
+#TRANS 8400 {} 19.28 "" "" 0
+#TRANS 5615 {} 2806.87 "" "OJZ946" 0
+}
+#VER D 8 20210928 "Levfakt SEB Kort Bank AB (8)" 20211123
+{
+#TRANS 2440 {} -4864.09 "" "" 0
+#TRANS 2892 {} 4864.09 "" "" 0
+}
+#VER D 9 20210928 "Levfakt SEB Kort Bank AB (9)" 20211123
+{
+#TRANS 2440 {} -79.84 "" "" 0
+#TRANS 8400 {} 79.84 "" "" 0
+}
+#VER D 10 20211004 "Levfakt Tele2 Sverige Aktiebolag (10)" 20211123
+{
+#TRANS 2440 {} -633 "" "" 0
+#TRANS 2641 {} 114.5 "" "" 0
+#TRANS 8490 {} 60 "" "" 0
+#TRANS 6212 {} 458.5 "" "" 0
+}
+#VER D 11 20211004 "Levfakt SEB Kort Bank AB (11)" 20211123
+{
+#TRANS 2440 {} -50 "" "" 0
+#TRANS 6570 {} 50 "" "" 0
+}
+#VER D 12 20211005 "Levfakt Volkswagen Finans Sverige AB (12)" 20211123
+{
+#TRANS 2440 {} -8302 "" "" 0
+#TRANS 2641 {} 808.07 "" "" 0
+#TRANS 5613 {} 299 "" "" 0
+#TRANS 5612 {} 460 "" "" 0
+#TRANS 8400 {} 75 "" "" 0
+#TRANS 8490 {} 60 "" "" 0
+#TRANS 5615 {} 6599.93 "" "BHK73G" 0
+}
+#VER D 13 20211005 "Levfakt ID06 AB (13)" 20211123
+{
+#TRANS 2440 {} -625 "" "" 0
+#TRANS 2641 {} 125 "" "" 0
+#TRANS 6590 {} 500 "" "" 0
+}
+#VER D 14 20211007 "Levfakt Dustin Sverige AB (14)" 20211123
+{
+#TRANS 2440 {} -5173 "" "" 0
+#TRANS 2641 {} 1034.5 "" "" 0
+#TRANS 5410 {} 4138.5 "" "" 0
+}
+#VER D 15 20211011 "Levfakt If SkadefîrsÑkring AB (publ) (15)" 20211123
+{
+#TRANS 2440 {} -4038 "" "" 0
+#TRANS 6310 {} 4038 "" "" 0
+}
+#VER D 16 20211029 "Levfakt SEB Kort Bank AB (16)" 20211123
+{
+#TRANS 2440 {} -7029.45 "" "" 0
+#TRANS 8979 {} 385.91 "" "Digital Ocean" 0
+#TRANS 2892 {} 6643.54 "" "" 0
+}
+#VER D 17 20211029 "Levfakt Transportstyrelsen (17)" 20211123
+{
+#TRANS 2440 {} -500 "" "" 0
+#TRANS 2893 {} 500 "" "TrÑngselskatt BHK" 0
+}
+#VER D 18 20211029 "Levfakt Transportstyrelsen (18)" 20211123
+{
+#TRANS 2440 {} -500 "" "" 0
+#TRANS 2893 {} 500 "" "TillÑggsavgift trÑngselskatt OJZ" 0
+}
+#VER D 19 20211002 "Levfakt Transportstyrelsen (19)" 20211229
+{
+#TRANS 2440 {} -3311 "" "BHK" 0
+#TRANS 5612 {} 3311 "" "BHK" 0
+}
+#VER D 20 20211026 "Levfakt BMW Financial Services Scandinavia AB (20)" 20211229
+{
+#TRANS 2440 {} -3241 "" "OJZ dec" 0
+#TRANS 2641 {} 311.84 "" "OJZ dec" 0
+#TRANS 8490 {} 177.85 "" "" 0
+#TRANS 5615 {} 2751.31 "" "OJZ dec" 0
+}
+#VER D 21 20211104 "Levfakt Volkswagen Finans Sverige AB (21)" 20211229
+{
+#TRANS 2440 {} -8281 "" "" 0
+#TRANS 2641 {} 805.96 "" "" 0
+#TRANS 5614 {} 299 "" "" 0
+#TRANS 5612 {} 460 "" "" 0
+#TRANS 8490 {} 135 "" "" 0
+#TRANS 5615 {} 6581.04 "" "" 0
+}
+#VER D 22 20211104 "Levfakt Tele2 Sverige Aktiebolag (22)" 20211229
+{
+#TRANS 2440 {} -642 "" "" 0
+#TRANS 2641 {} 115 "" "" 0
+#TRANS 6212 {} 527 "" "" 0
+}
+#VER D 23 20211106 "Levfakt Transportstyrelsen (23)" 20211229
+{
+#TRANS 2440 {} -689 "" "" 0
+#TRANS 5612 {} 689 "" "OJZ" 0
+}
+#VER D 24 20211110 "Levfakt Transportstyrelsen (24)" 20211229
+{
+#TRANS 2440 {} -522 "" "" 0
+#TRANS 2893 {} 22 "" "OJZ" 0
+#TRANS 8490 {} 500 "" "" 0
+}
+#VER D 25 20211110 "Levfakt Transportstyrelsen (25)" 20211229
+{
+#TRANS 2440 {} -578 "" "" 0
+#TRANS 2893 {} 78 "" "BHK" 0
+#TRANS 8490 {} 500 "" "BHK" 0
+}
+#VER D 26 20211110 "Levfakt Backalycka Service AB (26)" 20211229
+{
+#TRANS 2440 {} -895 "" "" 0
+#TRANS 2641 {} 179 "" "" 0
+#TRANS 5613 {} 716 "" "OJZ" 0
+}
+#VER D 27 20211123 "Levfakt Ekonomigruppen SRR AB (27)" 20211229
+{
+#TRANS 2440 {} -8500 "" "" 0
+#TRANS 2641 {} 1700 "" "" 0
+#TRANS 6530 {} 6800 "" "april-oktober" 0
+}
+#VER D 28 20211123 "Levfakt BMW Financial Services Scandinavia AB (28)" 20211229
+{
+#TRANS 2440 {} -3118 "" "" 0
+#TRANS 2641 {} 311.84 "" "jan" 0
+#TRANS 5615 {} 2806.16 "" "jan" 0
+}
+#VER D 29 20211130 "Levkreditfakt BMW Financial Services Scandinavia AB (29)" 20211229
+{
+#TRANS 2440 {} 3241 "" "dec" 0
+#TRANS 2641 {} -311.84 "" "dec" 0
+#TRANS 8490 {} -177.85 "" "dec" 0
+#TRANS 5615 {} -2751.31 "" "dec" 0
+}
+#VER D 30 20211130 "Levkreditfakt BMW Financial Services Scandinavia AB (30)" 20211229
+{
+#TRANS 2440 {} 3118 "" "jan" 0
+#TRANS 2641 {} -311.84 "" "jan" 0
+#TRANS 5615 {} -2806.16 "" "jan" 0
+}
+#VER D 31 20211130 "Levfakt SEB Kort Bank AB (31)" 20211229
+{
+#TRANS 2440 {} -13283.87 "" "" 0
+#TRANS 2892 {} 13283.87 "" "" 0
+}
+#VER D 32 20211130 "Levkreditfakt ODERLAND Webbhotell AB (32)" 20211229
+{
+#TRANS 2440 {} 162.5 "" "Dubbelbokfîrd D6+A61" 0
+#TRANS 2641 {} -32.5 "" "Dubbelbokfîrd D6+A61" 0
+#TRANS 6540 {} -130 "" "Dubbelbokfîrd D6+A61" 0
+}
+#VER E 1 20211014 "Levbet Tele2 Sverige Aktiebolag (3)" 20211123
+{
+#TRANS 1930 {} -698 "" "" 0
+#TRANS 2440 {} 698 "" "" 0
+}
+#VER E 2 20211014 "Levbet De Lage Landen Finans AB (1)" 20211123
+{
+#TRANS 1930 {} -2369 "" "" 0
+#TRANS 2440 {} 2369 "" "" 0
+}
+#VER E 3 20211014 "Levbet De Lage Landen Finans AB (2)" 20211123
+{
+#TRANS 1930 {} -1514 "" "" 0
+#TRANS 2440 {} 1514 "" "" 0
+}
+#VER E 4 20211014 "Levbet neXus ID Solutions AB (5)" 20211123
+{
+#TRANS 1930 {} -419 "" "" 0
+#TRANS 2440 {} 419 "" "" 0
+}
+#VER E 5 20211014 "Levbet Volkswagen Finans Sverige AB (4)" 20211123
+{
+#TRANS 1930 {} -8311 "" "" 0
+#TRANS 2440 {} 8311 "" "" 0
+}
+#VER E 6 20211014 "Levbet SEB Kort Bank AB (8)" 20211123
+{
+#TRANS 1930 {} -4864.09 "" "" 0
+#TRANS 2440 {} 4864.09 "" "" 0
+}
+#VER E 7 20211014 "Levbet SEB Kort Bank AB (11)" 20211123
+{
+#TRANS 1930 {} -50 "" "" 0
+#TRANS 2440 {} 50 "" "" 0
+}
+#VER E 8 20211014 "Levbet SEB Kort Bank AB (9)" 20211123
+{
+#TRANS 1930 {} -79.84 "" "" 0
+#TRANS 2440 {} 79.84 "" "" 0
+}
+#VER E 9 20211101 "Levbet BMW Financial Services Scandinavia AB (7)" 20211229
+{
+#TRANS 1930 {} -3138 "" "" 0
+#TRANS 2440 {} 3138 "" "" 0
+}
+#VER E 10 20211104 "Levbet ID06 AB (13)" 20211229
+{
+#TRANS 1930 {} -625 "" "" 0
+#TRANS 2440 {} 625 "" "" 0
+}
+#VER E 11 20211110 "Levbet Tele2 Sverige Aktiebolag (10)" 20211229
+{
+#TRANS 1930 {} -633 "" "" 0
+#TRANS 2440 {} 633 "" "" 0
+}
+#VER E 12 20211130 "Levbet Volkswagen Finans Sverige AB (12)" 20211229
+{
+#TRANS 1930 {} -8302 "" "" 0
+#TRANS 2440 {} 8302 "" "" 0
+}
+#VER E 13 20211110 "Levbet Dustin Sverige AB (14)" 20211229
+{
+#BTRANS 1930 {} -5173 "" "" 0 "Mia Lîfgren"
+#TRANS 2440 {} 5173 "" "Betald privat" 0
+#RTRANS 2893 {} -5173 "" "Betald privat" 0 "Mia Lîfgren"
+#TRANS 2893 {} -5173 "" "Betald privat" 0
+}
+#VER E 14 20211130 "Levbet BMW Financial Services Scandinavia AB (20)" 20211229
+{
+#TRANS 1930 {} -3241 "" "" 0
+#TRANS 2440 {} 3241 "" "" 0
+}
+#VER E 15 20211130 "Levbet BMW Financial Services Scandinavia AB (29)" 20211229
+{
+#TRANS 1930 {} 3241 "" "" 0
+#TRANS 2440 {} -3241 "" "" 0
+}
+#VER E 16 20211130 "Levbet BMW Financial Services Scandinavia AB (30)" 20211229
+{
+#TRANS 1930 {} 3118 "" "" 0
+#TRANS 2440 {} -3118 "" "" 0
+}
+#VER E 17 20211130 "Levbet BMW Financial Services Scandinavia AB (28)" 20211229
+{
+#TRANS 1930 {} -3118 "" "" 0
+#TRANS 2440 {} 3118 "" "" 0
+}
+#VER E 18 20211130 "Levbet ODERLAND Webbhotell AB (32)" 20211229
+{
+#TRANS 1930 {} 162.5 "" "" 0
+#TRANS 2440 {} -162.5 "" "" 0
+}
+#VER E 19 20211130 "Levbet ODERLAND Webbhotell AB (6)" 20211229
+{
+#TRANS 1930 {} -162.5 "" "" 0
+#TRANS 2440 {} 162.5 "" "" 0
+}
+#VER M 1 20210930 "Momsrapport 2021-07-01 - 2021-09-30" 20211229
+{
+#TRANS 2611 {} 34109 "" "" 0
+#TRANS 2614 {} 2584.48 "" "" 0
+#TRANS 2641 {} -8942.09 "" "" 0
+#TRANS 2645 {} -2584.48 "" "" 0
+#TRANS 2650 {} -25167 "" "" 0
+#TRANS 3740 {} 0.09 "" "" 0
+}
+#VER A 70 20211201 "ôverfîring till Anders" 20220103
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER A 7 20211201 "Lokalhyra" 20220117
+#VER A 71 20211201 "Lokalhyra {$description}" 20220103
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 39900 "" "" 0
+#TRANS 6230 {} 2100 "" "" 0
+#TRANS 2691 {} -42000 "" "" 0
 }
-#VER A 8 20211201 "Inkîp kort LINODE" 20220117
+#VER A 72 20211201 "Inkîp kort LINODE" 20220103
 {
 #TRANS 2892 {} -513.68 "" "" 0
 #TRANS 4531 {} 513.68 "" "" 0
 #TRANS 2614 {} -128.42 "" "" 0
 #TRANS 2645 {} 128.42 "" "" 0
 }
-#VER A 9 20211201 "Inkîp kort DIGITALOCEAN" 20220117
+#VER A 73 20211201 "Inkîp kort DIGITALOCEAN" 20220103
 {
 #TRANS 2892 {} -466.98 "" "" 0
 #TRANS 4531 {} 466.98 "" "" 0
 #TRANS 2614 {} -116.75 "" "" 0
 #TRANS 2645 {} 116.75 "" "" 0
 }
-#VER A 10 20211201 "Inkîp kort DIGITALOCEAN" 20220117
+#VER A 74 20211201 "Inkîp kort DIGITALOCEAN" 20220103
 {
 #TRANS 2892 {} -441.29 "" "" 0
 #TRANS 4531 {} 441.29 "" "" 0
 #TRANS 2614 {} -110.32 "" "" 0
 #TRANS 2645 {} 110.32 "" "" 0
 }
-#VER A 11 20211202 "Inkîp kort REACT-ADMIN" 20220117
+#VER A 75 20211202 "Inkîp kort REACT-ADMIN" 20220103
 {
 #TRANS 2892 {} -1446.80 "" "" 0
 #TRANS 4531 {} 1446.80 "" "" 0
 #TRANS 2614 {} -361.70 "" "" 0
 #TRANS 2645 {} 361.70 "" "" 0
 }
-#VER A 12 20211203 "Levfakt Transportstyrelsen" 20220117
+#VER A 76 20211203 "Levfakt Transportstyrelsen" 20220103
 {
 #TRANS 2440 {} -522 "" "" 0
 #TRANS 2893 {} 522 "" "" 0
 }
-#VER A 13 20211203 "Levfakt Transportstyrelsen" 20220117
+#VER A 77 20211203 "Levfakt Transportstyrelsen" 20220103
 {
 #TRANS 2440 {} -543 "" "" 0
 #TRANS 2893 {} 543 "" "" 0
 }
-#VER A 14 20211203 "Levfakt Transportstyrelsen" 20220117
+#VER A 78 20211203 "Levfakt Transportstyrelsen" 20220103
 {
 #TRANS 2440 {} -578 "" "" 0
 #TRANS 2893 {} 578 "" "" 0
 }
-#VER A 15 20211203 "Levfakt Transportstyrelsen" 20220117
+#VER A 79 20211203 "Levfakt Transportstyrelsen" 20220103
 {
 #TRANS 2440 {} -621 "" "" 0
 #TRANS 2893 {} 621 "" "" 0
 }
-#VER A 16 20211203 "Fîrseningsavgift" 20220117
+#VER A 80 20211203 "Fîrseningsavgift" 20220103
 {
 #TRANS 1645 {} 1100 "" "" 0
 #TRANS 8423 {} -1100 "" "" 0
 }
-#VER A 17 20211203 "Fîrseningsavgift" 20220117
+#VER A 81 20211203 "Fîrseningsavgift" 20220103
 {
 #TRANS 1645 {} 1100 "" "" 0
 #TRANS 8423 {} -1100 "" "" 0
 }
-#VER A 18 20211203 "Fordonsskatt BHK73G" 20220117
+#VER A 82 20211203 "Fordonsskatt BHK73G" 20220103
 {
 #TRANS 2440 {} -689 "" "" 0
 #TRANS 5612 {} 689 "" "" 0
 }
-#VER C 19 20211203 "Betalning KFakt" 20220117
+#VER C 1 20211203 "Betalning KFakt" 20220103
 {
 #TRANS 1930 {} 199309 "" "" 0
 #TRANS 1510 {} -199309 "" "" 0
 }
-#VER A 20 20211204 "RÑnta skattekonto" 20220117
+#VER A 83 20211204 "RÑnta skattekonto" 20220103
 {
 #TRANS 1645 {} -18127 "" "" 0
 #TRANS 8423 {} 18127 "" "" 0
 }
-#VER A 21 20211204 "RÑnta skattekonto" 20220117
+#VER A 84 20211204 "RÑnta skattekonto" 20220103
 {
 #TRANS 1645 {} -13 "" "" 0
 #TRANS 8423 {} 13 "" "" 0
 }
-#VER A 22 20211204 "RÑnta skattekonto" 20220117
+#VER A 85 20211204 "RÑnta skattekonto" 20220103
 {
 #TRANS 1645 {} -28 "" "" 0
 #TRANS 8423 {} 28 "" "" 0
 }
-#VER A 23 20211204 "RÑnta skattekonto" 20220117
+#VER A 86 20211204 "RÑnta skattekonto" 20220103
 {
 #TRANS 1645 {} NaN "" "" 0
 #TRANS 8423 {} NaN "" "" 0
 }
-#VER A 24 20211207 "ôverfîring till Anders" 20220117
+#VER A 87 20211207 "ôverfîring till Anders" 20220103
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER A 25 20211210 "Inkîp kort NETLIFY" 20220117
+#VER A 88 20211210 "Inkîp kort NETLIFY" 20220103
 {
 #TRANS 2892 {} -139.87 "" "" 0
 #TRANS 4531 {} 139.87 "" "" 0
 #TRANS 2614 {} -34.97 "" "" 0
 #TRANS 2645 {} 34.97 "" "" 0
 }
-#VER C 26 20211213 "F-skatt" 20220117
+#VER C 2 20211213 "F-skatt" 20220103
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 27 20211213 "Fîrseningsavgift" 20220117
+#VER A 89 20211213 "Fîrseningsavgift" 20220103
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 28 20211213 "Inkîp kort LOGMEIN" 20220117
+#VER A 90 20211213 "Inkîp kort LOGMEIN" 20220103
 {
 #TRANS 2892 {} -461.30 "" "" 0
 #TRANS 4531 {} 461.30 "" "" 0
 #TRANS 2614 {} -115.33 "" "" 0
 #TRANS 2645 {} 115.33 "" "" 0
 }
-#VER A 29 20211214 "Inkîp kort MSFT" 20220117
+#VER A 91 20211214 "Inkîp kort MSFT" 20220103
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER A 30 20211216 "ôverfîring till Anders" 20220117
+#VER A 92 20211216 "ôverfîring till Anders" 20220103
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER A 31 20211216 "ôverfîring till Anders" 20220117
+#VER A 93 20211216 "ôverfîring till Anders" 20220103
 {
 #TRANS 2691 {} 67000 "" "" 0
 #TRANS 1930 {} -67000 "" "" 0
 }
-#VER D 32 20211221 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20220117
+#VER D 33 20211221 "Leverantîrsfaktura KRONOFOGDEMYNDIGHETEN" 20220103
 {
 #TRANS 2440 {} -4044 "" "" 0
 #TRANS 2641 {} 808.80 "" "" 0
 #TRANS 6090 {} 3235.20 "" "" 0
 }
-#VER C 33 20211221 "Betalning LFakt" 20220117
+#VER E 20 20211221 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 4044 "" "" 0
 #TRANS 1930 {} -4044 "" "" 0
 }
-#VER D 34 20211222 "Leverantîrsfaktura IF SKADEFôRSéKRING AB" 20220117
+#VER D 34 20211222 "Leverantîrsfaktura IF SKADEFôRSéKRING AB" 20220103
 {
 #TRANS 2440 {} -4098 "" "" 0
 #TRANS 2641 {} 819.60 "" "" 0
 #TRANS 6090 {} 3278.40 "" "" 0
 }
-#VER C 35 20211222 "Betalning LFakt" 20220117
+#VER E 21 20211222 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 4098 "" "" 0
 #TRANS 1930 {} -4098 "" "" 0
 }
-#VER D 36 20211222 "Leverantîrsfaktura TELE2 SVERIGE AB ATT: KU" 20220117
+#VER D 35 20211222 "Leverantîrsfaktura TELE2 SVERIGE AB ATT: KU" 20220103
 {
 #TRANS 2440 {} -642 "" "" 0
 #TRANS 2641 {} 128.40 "" "" 0
 #TRANS 6090 {} 513.60 "" "" 0
 }
-#VER C 37 20211222 "Betalning LFakt" 20220117
+#VER E 22 20211222 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 642 "" "" 0
 #TRANS 1930 {} -642 "" "" 0
 }
-#VER A 38 20211225 "Lîn Anders" 20220117
+#VER A 94 20211225 "Lîn Anders" 20220103
 {
 #TRANS 7220 {} 162704 "" "" 0
 #TRANS 2710 {} -50704 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -112000 "" "" 0
 }
-#VER D 39 20211228 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220117
+#VER D 36 20211228 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220103
 {
 #TRANS 2440 {} -895 "" "" 0
 #TRANS 2641 {} 179 "" "" 0
 #TRANS 6090 {} 716 "" "" 0
 }
-#VER C 40 20211228 "Betalning LFakt" 20220117
+#VER E 23 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 895 "" "" 0
 #TRANS 1930 {} -895 "" "" 0
 }
-#VER D 41 20211228 "Leverantîrsfaktura MOLDEO AB" 20220117
+#VER D 37 20211228 "Leverantîrsfaktura MOLDEO AB" 20220103
 {
 #TRANS 2440 {} -3125 "" "" 0
 #TRANS 2641 {} 625 "" "" 0
 #TRANS 6090 {} 2500 "" "" 0
 }
-#VER C 42 20211228 "Betalning LFakt" 20220117
+#VER E 24 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 3125 "" "" 0
 #TRANS 1930 {} -3125 "" "" 0
 }
-#VER D 43 20211228 "Leverantîrsfaktura SEB KORT BANK  AB" 20220117
+#VER D 38 20211228 "Leverantîrsfaktura SEB KORT BANK  AB" 20220103
 {
 #TRANS 2440 {} -7174 "" "" 0
 #TRANS 2641 {} 1434.80 "" "" 0
 #TRANS 6090 {} 5739.20 "" "" 0
 }
-#VER C 44 20211228 "Betalning LFakt" 20220117
+#VER E 25 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 7174 "" "" 0
 #TRANS 1930 {} -7174 "" "" 0
 }
-#VER D 45 20211228 "Leverantîrsfaktura SEB KORT BANK  AB" 20220117
+#VER D 39 20211228 "Leverantîrsfaktura SEB KORT BANK  AB" 20220103
 {
 #TRANS 2440 {} -13283 "" "" 0
 #TRANS 2641 {} 2656.60 "" "" 0
 #TRANS 6090 {} 10626.40 "" "" 0
 }
-#VER C 46 20211228 "Betalning LFakt" 20220117
+#VER E 26 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 13283 "" "" 0
 #TRANS 1930 {} -13283 "" "" 0
 }
-#VER D 47 20211228 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220117
+#VER D 40 20211228 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220103
 {
 #TRANS 2440 {} -8281 "" "" 0
 #TRANS 2641 {} 1656.20 "" "" 0
 #TRANS 6090 {} 6624.80 "" "" 0
 }
-#VER C 48 20211228 "Betalning LFakt" 20220117
+#VER E 27 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 8281 "" "" 0
 #TRANS 1930 {} -8281 "" "" 0
 }
-#VER D 49 20211228 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220117
+#VER D 41 20211228 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220103
 {
 #TRANS 2440 {} -8367 "" "" 0
 #TRANS 2641 {} 1673.40 "" "" 0
 #TRANS 6090 {} 6693.60 "" "" 0
 }
-#VER C 50 20211228 "Betalning LFakt" 20220117
+#VER E 28 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 8367 "" "" 0
 #TRANS 1930 {} -8367 "" "" 0
 }
-#VER A 51 20211228 "Fordonsskatt BHK73G" 20220117
+#VER A 95 20211228 "Fordonsskatt BHK73G" 20220103
 {
 #TRANS 2440 {} -100 "" "" 0
 #TRANS 5612 {} 100 "" "" 0
 }
-#VER D 52 20211228 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220117
+#VER D 42 20211228 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220103
 {
 #TRANS 2440 {} -1514 "" "" 0
 #TRANS 2641 {} 302.80 "" "" 0
 #TRANS 6090 {} 1211.20 "" "" 0
 }
-#VER C 53 20211228 "Betalning LFakt" 20220117
+#VER E 29 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 1514 "" "" 0
 #TRANS 1930 {} -1514 "" "" 0
 }
-#VER D 54 20211228 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220117
+#VER D 43 20211228 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220103
 {
 #TRANS 2440 {} -2369 "" "" 0
 #TRANS 2641 {} 473.80 "" "" 0
 #TRANS 6090 {} 1895.20 "" "" 0
 }
-#VER C 55 20211228 "Betalning LFakt" 20220117
+#VER E 30 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 2369 "" "" 0
 #TRANS 1930 {} -2369 "" "" 0
 }
-#VER D 56 20211228 "Leverantîrsfaktura INET AB" 20220117
+#VER D 44 20211228 "Leverantîrsfaktura INET AB" 20220103
 {
 #TRANS 2440 {} -7089 "" "" 0
 #TRANS 2641 {} 1417.80 "" "" 0
 #TRANS 6090 {} 5671.20 "" "" 0
 }
-#VER C 57 20211228 "Betalning LFakt" 20220117
+#VER E 31 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 7089 "" "" 0
 #TRANS 1930 {} -7089 "" "" 0
 }
-#VER D 58 20211228 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220117
+#VER D 45 20211228 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220103
 {
 #TRANS 2440 {} -638 "" "" 0
 #TRANS 2641 {} 127.60 "" "" 0
 #TRANS 6090 {} 510.40 "" "" 0
 }
-#VER C 59 20211228 "Betalning LFakt" 20220117
+#VER E 32 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 638 "" "" 0
 #TRANS 1930 {} -638 "" "" 0
 }
-#VER A 60 20211228 "Fîrseningsavgift" 20220117
+#VER A 96 20211228 "Fîrseningsavgift" 20220103
 {
 #TRANS 1645 {} 450 "" "" 0
 #TRANS 8423 {} -450 "" "" 0
 }
-#VER A 61 20211228 "Levfakt Transportstyrelsen" 20220117
+#VER A 97 20211228 "Levfakt Transportstyrelsen" 20220103
 {
 #TRANS 2440 {} -500 "" "" 0
 #TRANS 2893 {} 500 "" "" 0
 }
-#VER D 62 20211228 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220117
+#VER D 46 20211228 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220103
 {
 #TRANS 2440 {} -8500 "" "" 0
 #TRANS 2641 {} 1700 "" "" 0
 #TRANS 6090 {} 6800 "" "" 0
 }
-#VER C 63 20211228 "Betalning LFakt" 20220117
+#VER E 33 20211228 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 8500 "" "" 0
 #TRANS 1930 {} -8500 "" "" 0
 }
-#VER A 64 20211228 "Fîrseningsavgift" 20220117
+#VER A 98 20211228 "Fîrseningsavgift" 20220103
 {
 #TRANS 1645 {} 1130 "" "" 0
 #TRANS 8423 {} -1130 "" "" 0
 }
-#VER A 65 20211229 "Inkîp kort HP INSTANT INK" 20220117
+#VER A 99 20211229 "Inkîp kort HP INSTANT INK" 20220103
 {
 #TRANS 2892 {} -49 "" "" 0
 #TRANS 4531 {} 49 "" "" 0
 #TRANS 2614 {} -12.25 "" "" 0
 #TRANS 2645 {} 12.25 "" "" 0
 }
-#VER A 66 20211229 "Inkîp kort NPM" 20220117
+#VER A 100 20211229 "Inkîp kort NPM" 20220103
 {
 #TRANS 2892 {} -196.82 "" "" 0
 #TRANS 4531 {} 196.82 "" "" 0
 #TRANS 2614 {} -49.20 "" "" 0
 #TRANS 2645 {} 49.20 "" "" 0
 }
-#VER A 67 20211229 "Inkîp kort CIRCLECI" 20220117
+#VER A 101 20211229 "Inkîp kort CIRCLECI" 20220103
 {
 #TRANS 2892 {} -281.17 "" "" 0
 #TRANS 4531 {} 281.17 "" "" 0
 #TRANS 2614 {} -70.29 "" "" 0
 #TRANS 2645 {} 70.29 "" "" 0
 }
-#VER A 68 20211229 "Inkîp kort GITKRAKEN" 20220117
+#VER A 102 20211229 "Inkîp kort GITKRAKEN" 20220103
 {
 #TRANS 2892 {} -1377.74 "" "" 0
 #TRANS 4531 {} 1377.74 "" "" 0
 #TRANS 2614 {} -344.44 "" "" 0
 #TRANS 2645 {} 344.44 "" "" 0
 }
-#VER D 69 20211230 "Leverantîrsfaktura SEB KORT BANK  AB" 20220117
+#VER D 47 20211230 "Leverantîrsfaktura SEB KORT BANK  AB" 20220103
 {
 #TRANS 2440 {} -3579 "" "" 0
 #TRANS 2641 {} 715.80 "" "" 0
 #TRANS 6090 {} 2863.20 "" "" 0
 }
-#VER C 70 20211230 "Betalning LFakt" 20220117
+#VER E 34 20211230 "Betalning LFakt" 20220103
 {
 #TRANS 2440 {} 3579 "" "" 0
 #TRANS 1930 {} -3579 "" "" 0
 }
-#VER A 71 20211230 "Fordonsskatt BHK73G" 20220117
+#VER A 103 20211230 "Fordonsskatt BHK73G" 20220103
 {
 #TRANS 2440 {} 2201 "" "" 0
 #TRANS 5612 {} -2201 "" "" 0
 }
-#VER A 72 20220101 "Lokalhyra" 20220222
+#VER A 104 20220101 "Lokalhyra {$description}" 20220208
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 73 20220101 "Inkîp kort LINODE" 20220222
+#VER A 105 20220101 "Inkîp kort LINODE" 20220208
 {
 #TRANS 2892 {} -511.94 "" "" 0
 #TRANS 4531 {} 511.94 "" "" 0
 #TRANS 2614 {} -127.98 "" "" 0
 #TRANS 2645 {} 127.98 "" "" 0
 }
-#VER A 74 20220101 "Inkîp kort DIGITALOCEAN" 20220222
+#VER A 106 20220101 "Inkîp kort DIGITALOCEAN" 20220208
 {
 #TRANS 2892 {} -518.27 "" "" 0
 #TRANS 4531 {} 518.27 "" "" 0
 #TRANS 2614 {} -129.57 "" "" 0
 #TRANS 2645 {} 129.57 "" "" 0
 }
-#VER A 75 20220101 "Inkîp kort DIGITALOCEAN" 20220222
+#VER A 107 20220101 "Inkîp kort DIGITALOCEAN" 20220208
 {
 #TRANS 2892 {} -593.20 "" "" 0
 #TRANS 4531 {} 593.20 "" "" 0
 #TRANS 2614 {} -148.30 "" "" 0
 #TRANS 2645 {} 148.30 "" "" 0
 }
-#VER A 76 20220102 "Inkîp kort REACT-ADMIN" 20220222
+#VER A 108 20220102 "Inkîp kort REACT-ADMIN" 20220208
 {
 #TRANS 2892 {} -1450.19 "" "" 0
 #TRANS 4531 {} 1450.19 "" "" 0
 #TRANS 2614 {} -362.55 "" "" 0
 #TRANS 2645 {} 362.55 "" "" 0
 }
-#VER A 77 20220103 "Fîrseningsavgift" 20220222
+#VER A 109 20220103 "Fîrseningsavgift" 20220208
 {
 #TRANS 1645 {} 450 "" "" 0
 #TRANS 8423 {} -450 "" "" 0
 }
-#VER A 78 20220103 "ôverfîring till Anders" 20220222
+#VER A 110 20220103 "ôverfîring till Anders" 20220208
 {
 #TRANS 2691 {} 1500 "" "" 0
 #TRANS 1930 {} -1500 "" "" 0
 }
-#VER A 79 20220103 "Bankavgift" 20220222
+#VER A 111 20220103 "Bankavgift" 20220208
 {
 #TRANS 6570 {} 100 "" "" 0
 #TRANS 1930 {} -100 "" "" 0
 }
-#VER A 80 20220104 "ôverfîring till Anders" 20220222
+#VER A 112 20220104 "ôverfîring till Anders" 20220208
 {
 #TRANS 2691 {} 20000 "" "" 0
 #TRANS 1930 {} -20000 "" "" 0
 }
-#VER A 81 20220105 "Inkîp kort FREEPIK" 20220222
+#VER A 113 20220105 "Inkîp kort FREEPIK" 20220208
 {
 #TRANS 2892 {} -131.55 "" "" 0
 #TRANS 4531 {} 131.55 "" "" 0
 #TRANS 2614 {} -32.89 "" "" 0
 #TRANS 2645 {} 32.89 "" "" 0
 }
-#VER A 82 20220107 "ôverfîring till Anders" 20220222
+#VER A 114 20220107 "ôverfîring till Anders" 20220208
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER C 83 20220107 "Betalning KFakt" 20220222
+#VER C 3 20220107 "Betalning KFakt" 20220208
 {
 #TRANS 1930 {} 178125 "" "" 0
 #TRANS 1510 {} -178125 "" "" 0
 }
-#VER A 84 20220107 "Inkîp kort INET" 20220222
+#VER A 115 20220107 "Inkîp kort INET" 20220208
 {
 #TRANS 2892 {} -1498 "" "" 0
 #TRANS 4531 {} 1498 "" "" 0
 #TRANS 2614 {} -374.50 "" "" 0
 #TRANS 2645 {} 374.50 "" "" 0
 }
-#VER A 85 20220107 "Inkîp kort EASEUS" 20220222
+#VER A 116 20220107 "Inkîp kort EASEUS" 20220208
 {
 #TRANS 2892 {} -181.61 "" "" 0
 #TRANS 4531 {} 181.61 "" "" 0
 #TRANS 2614 {} -45.40 "" "" 0
 #TRANS 2645 {} 45.40 "" "" 0
 }
-#VER A 86 20220110 "Inkîp kort NETLIFY" 20220222
+#VER A 117 20220110 "Inkîp kort NETLIFY" 20220208
 {
 #TRANS 2892 {} -141.06 "" "" 0
 #TRANS 4531 {} 141.06 "" "" 0
 #TRANS 2614 {} -35.27 "" "" 0
 #TRANS 2645 {} 35.27 "" "" 0
 }
-#VER A 87 20220110 "Inkîp kort ODERLAND" 20220222
+#VER A 118 20220110 "Inkîp kort ODERLAND" 20220208
 {
 #TRANS 2892 {} -2505 "" "" 0
 #TRANS 4531 {} 2505 "" "" 0
 #TRANS 2614 {} -626.25 "" "" 0
 #TRANS 2645 {} 626.25 "" "" 0
 }
-#VER A 88 20220110 "Inkîp kort ODERLAND" 20220222
+#VER A 119 20220110 "Inkîp kort ODERLAND" 20220208
 {
 #TRANS 2892 {} -162.50 "" "" 0
 #TRANS 4531 {} 162.50 "" "" 0
 #TRANS 2614 {} -40.63 "" "" 0
 #TRANS 2645 {} 40.63 "" "" 0
 }
-#VER A 89 20220112 "ôverfîring till Anders" 20220222
+#VER A 120 20220112 "ôverfîring till Anders" 20220208
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 90 20220114 "Inkîp kort MSFT" 20220222
+#VER A 121 20220114 "Inkîp kort MSFT" 20220208
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER A 91 20220116 "Inkîp kort HP INSTANT INK" 20220222
+#VER A 122 20220116 "Inkîp kort HP INSTANT INK" 20220208
 {
 #TRANS 2892 {} -49 "" "" 0
 #TRANS 4531 {} 49 "" "" 0
 #TRANS 2614 {} -12.25 "" "" 0
 #TRANS 2645 {} 12.25 "" "" 0
 }
-#VER C 92 20220117 "F-skatt" 20220222
+#VER C 4 20220117 "F-skatt" 20220208
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 93 20220118 "Kundfaktura 2022-001" 20220222
+#VER A 123 20220118 "Kundfaktura 2022-001" 20220208
 {
 #TRANS 1510 {} 90000 "" "" 0
 #TRANS 3001 {} -72000 "" "" 0
 #TRANS 2611 {} -18000 "" "" 0
 }
-#VER A 94 20220118 "Kundfaktura 2022-002" 20220222
+#VER A 124 20220118 "Kundfaktura 2022-002" 20220208
 {
 #TRANS 1510 {} 142500 "" "" 0
 #TRANS 3001 {} -114000 "" "" 0
 #TRANS 2611 {} -28500 "" "" 0
 }
-#VER A 95 20220118 "Kundfaktura 2022-003" 20220222
+#VER A 125 20220118 "Kundfaktura 2022-003" 20220208
 {
 #TRANS 1510 {} 106189.50 "" "" 0
 #TRANS 3001 {} -84951.60 "" "" 0
 #TRANS 2611 {} -21237.90 "" "" 0
 }
-#VER A 96 20220120 "Inkîp kort NPM" 20220222
+#VER A 126 20220120 "Inkîp kort NPM" 20220208
 {
 #TRANS 2892 {} -197.23 "" "" 0
 #TRANS 4531 {} 197.23 "" "" 0
 #TRANS 2614 {} -49.31 "" "" 0
 #TRANS 2645 {} 49.31 "" "" 0
 }
-#VER A 97 20220123 "Inkîp kort INET" 20220222
+#VER A 127 20220123 "Inkîp kort INET" 20220208
 {
 #TRANS 2892 {} -8990 "" "" 0
 #TRANS 4531 {} 8990 "" "" 0
 #TRANS 2614 {} -2247.50 "" "" 0
 #TRANS 2645 {} 2247.50 "" "" 0
 }
-#VER A 98 20220125 "Lîn Anders" 20220222
+#VER A 128 20220125 "Lîn Anders" 20220208
 {
 #TRANS 7220 {} 69132 "" "" 0
 #TRANS 2710 {} -22632 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -46500 "" "" 0
 }
-#VER A 99 20220126 "Fîrseningsavgift" 20220222
+#VER A 129 20220126 "Fîrseningsavgift" 20220208
 {
 #TRANS 1645 {} 516 "" "" 0
 #TRANS 8423 {} -516 "" "" 0
 }
-#VER A 100 20220126 "TillfÑlligt betalningsanstÜnd upphîr" 20220222
+#VER A 130 20220126 "TillfÑlligt betalningsanstÜnd upphîr" 20220208
 {
 #TRANS 2852 {} 64590 "" "" 0
 #TRANS 1645 {} -64590 "" "" 0
 }
-#VER D 101 20220127 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220222
+#VER D 48 20220127 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220208
 {
 #TRANS 2440 {} -6375 "" "" 0
 #TRANS 2641 {} 1275 "" "" 0
 #TRANS 6090 {} 5100 "" "" 0
 }
-#VER C 102 20220127 "Betalning LFakt" 20220222
+#VER E 35 20220127 "Betalning LFakt" 20220208
 {
 #TRANS 2440 {} 6375 "" "" 0
 #TRANS 1930 {} -6375 "" "" 0
 }
-#VER A 103 20220127 "Inkîp kort CIRCLECI" 20220222
+#VER A 131 20220127 "Inkîp kort CIRCLECI" 20220208
 {
 #TRANS 2892 {} -285.77 "" "" 0
 #TRANS 4531 {} 285.77 "" "" 0
 #TRANS 2614 {} -71.44 "" "" 0
 #TRANS 2645 {} 71.44 "" "" 0
 }
-#VER A 104 20220131 "Inkîp kort DIGITAOCEAN" 20220222
+#VER A 132 20220131 "Inkîp kort DIGITAOCEAN" 20220208
 {
 #TRANS 2892 {} -780.61 "" "" 0
 #TRANS 4531 {} 780.61 "" "" 0
 #TRANS 2614 {} -195.15 "" "" 0
 #TRANS 2645 {} 195.15 "" "" 0
 }
-#VER C 105 20220201 "Betalning KFakt" 20220327
+#VER C 5 20220201 "Betalning KFakt" 20220308
 {
 #TRANS 1930 {} 112500 "" "" 0
 #TRANS 1510 {} -112500 "" "" 0
 }
-#VER A 106 20220201 "Lokalhyra" 20220327
+#VER A 133 20220201 "Lokalhyra {$description}" 20220308
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 107 20220201 "Inkîp kort KJELL O CO" 20220327
+#VER A 134 20220201 "Inkîp kort KJELL O CO" 20220308
 {
 #TRANS 2892 {} -1308.70 "" "" 0
 #TRANS 4531 {} 1308.70 "" "" 0
 #TRANS 2614 {} -327.18 "" "" 0
 #TRANS 2645 {} 327.18 "" "" 0
 }
-#VER A 108 20220201 "Inkîp kort LINODE" 20220327
+#VER A 135 20220201 "Inkîp kort LINODE" 20220308
 {
 #TRANS 2892 {} -533.33 "" "" 0
 #TRANS 4531 {} 533.33 "" "" 0
 #TRANS 2614 {} -133.33 "" "" 0
 #TRANS 2645 {} 133.33 "" "" 0
 }
-#VER A 109 20220201 "Inkîp kort DIGITALOCEAN" 20220327
+#VER A 136 20220201 "Inkîp kort DIGITALOCEAN" 20220308
 {
 #TRANS 2892 {} -656.58 "" "" 0
 #TRANS 4531 {} 656.58 "" "" 0
 #TRANS 2614 {} -164.15 "" "" 0
 #TRANS 2645 {} 164.15 "" "" 0
 }
-#VER A 110 20220202 "ôverfîring till Anders" 20220327
+#VER A 137 20220202 "ôverfîring till Anders" 20220308
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER C 111 20220202 "Betalning KFakt" 20220327
+#VER C 6 20220202 "Betalning KFakt" 20220308
 {
 #TRANS 1930 {} 132737 "" "" 0
 #TRANS 1510 {} -132737 "" "" 0
 }
-#VER A 112 20220202 "Bankavgift" 20220327
+#VER A 138 20220202 "Bankavgift" 20220308
 {
 #TRANS 6570 {} 109 "" "" 0
 #TRANS 1930 {} -109 "" "" 0
 }
-#VER A 113 20220202 "Inkîp kort REACT ADMIN" 20220327
+#VER A 139 20220202 "Inkîp kort REACT ADMIN" 20220308
 {
 #TRANS 2892 {} -1473.87 "" "" 0
 #TRANS 4531 {} 1473.87 "" "" 0
 #TRANS 2614 {} -368.47 "" "" 0
 #TRANS 2645 {} 368.47 "" "" 0
 }
-#VER A 114 20220202 "Inkîp kort TIEN TSIN" 20220327
+#VER A 140 20220202 "Inkîp kort TIEN TSIN" 20220308
 {
 #TRANS 2892 {} -660 "" "" 0
 #TRANS 4531 {} 660 "" "" 0
 #TRANS 2614 {} -165 "" "" 0
 #TRANS 2645 {} 165 "" "" 0
 }
-#VER A 115 20220202 "Inkîp kort GOOGLE CLOUD" 20220327
+#VER A 141 20220202 "Inkîp kort GOOGLE CLOUD" 20220308
 {
 #TRANS 2892 {} -1165.51 "" "" 0
 #TRANS 4531 {} 1165.51 "" "" 0
 #TRANS 2614 {} -291.38 "" "" 0
 #TRANS 2645 {} 291.38 "" "" 0
 }
-#VER A 116 20220205 "RÑnta skattekonto" 20220327
+#VER A 142 20220205 "RÑnta skattekonto" 20220308
 {
 #TRANS 1645 {} 201 "" "" 0
 #TRANS 8423 {} -201 "" "" 0
 }
-#VER A 117 20220205 "RÑnta skattekonto" 20220327
+#VER A 143 20220205 "RÑnta skattekonto" 20220308
 {
 #TRANS 1645 {} 276 "" "" 0
 #TRANS 8423 {} -276 "" "" 0
 }
-#VER A 118 20220205 "RÑnta skattekonto" 20220327
+#VER A 144 20220205 "RÑnta skattekonto" 20220308
 {
 #TRANS 1645 {} 40 "" "" 0
 #TRANS 8423 {} -40 "" "" 0
 }
-#VER A 119 20220205 "Inkîp kort FREEPIK" 20220327
+#VER A 145 20220205 "Inkîp kort FREEPIK" 20220308
 {
 #TRANS 2892 {} -133.83 "" "" 0
 #TRANS 4531 {} 133.83 "" "" 0
 #TRANS 2614 {} -33.46 "" "" 0
 #TRANS 2645 {} 33.46 "" "" 0
 }
-#VER A 120 20220210 "ôverfîring till Anders" 20220327
+#VER A 146 20220210 "ôverfîring till Anders" 20220308
 {
 #TRANS 2691 {} 20000 "" "" 0
 #TRANS 1930 {} -20000 "" "" 0
 }
-#VER A 121 20220210 "Inkîp kort NETLIFY" 20220327
+#VER A 147 20220210 "Inkîp kort NETLIFY" 20220308
 {
 #TRANS 2892 {} -148.88 "" "" 0
 #TRANS 4531 {} 148.88 "" "" 0
 #TRANS 2614 {} -37.22 "" "" 0
 #TRANS 2645 {} 37.22 "" "" 0
 }
-#VER A 122 20220210 "Inkîp kort ODERLAND" 20220327
+#VER A 148 20220210 "Inkîp kort ODERLAND" 20220308
 {
 #TRANS 2892 {} -162.50 "" "" 0
 #TRANS 4531 {} 162.50 "" "" 0
 #TRANS 2614 {} -40.63 "" "" 0
 #TRANS 2645 {} 40.63 "" "" 0
 }
-#VER C 123 20220214 "F-skatt" 20220327
+#VER C 7 20220214 "F-skatt" 20220308
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 124 20220214 "Inkîp kort MSFT" 20220327
+#VER A 149 20220214 "Inkîp kort MSFT" 20220308
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER D 125 20220216 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220327
+#VER D 49 20220216 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220308
 {
 #TRANS 2440 {} -895 "" "" 0
 #TRANS 2641 {} 179 "" "" 0
 #TRANS 6090 {} 716 "" "" 0
 }
-#VER C 126 20220216 "Betalning LFakt" 20220327
+#VER E 36 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 895 "" "" 0
 #TRANS 1930 {} -895 "" "" 0
 }
-#VER D 127 20220216 "Leverantîrsfaktura DUSTIN SVERIGE AB" 20220327
+#VER D 50 20220216 "Leverantîrsfaktura DUSTIN SVERIGE AB" 20220308
 {
 #TRANS 2440 {} -2720 "" "" 0
 #TRANS 2641 {} 544 "" "" 0
 #TRANS 6090 {} 2176 "" "" 0
 }
-#VER C 128 20220216 "Betalning LFakt" 20220327
+#VER E 37 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 2720 "" "" 0
 #TRANS 1930 {} -2720 "" "" 0
 }
-#VER D 129 20220216 "Leverantîrsfaktura SEB KORT BANK  AB" 20220327
+#VER D 51 20220216 "Leverantîrsfaktura SEB KORT BANK  AB" 20220308
 {
 #TRANS 2440 {} -318 "" "" 0
 #TRANS 2641 {} 63.60 "" "" 0
 #TRANS 6090 {} 254.40 "" "" 0
 }
-#VER C 130 20220216 "Betalning LFakt" 20220327
+#VER E 38 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 318 "" "" 0
 #TRANS 1930 {} -318 "" "" 0
 }
-#VER D 131 20220216 "Leverantîrsfaktura SEB KORT BANK  AB" 20220327
+#VER D 52 20220216 "Leverantîrsfaktura SEB KORT BANK  AB" 20220308
 {
 #TRANS 2440 {} -18943 "" "" 0
 #TRANS 2641 {} 3788.60 "" "" 0
 #TRANS 6090 {} 15154.40 "" "" 0
 }
-#VER C 132 20220216 "Betalning LFakt" 20220327
+#VER E 39 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 18943 "" "" 0
 #TRANS 1930 {} -18943 "" "" 0
 }
-#VER D 133 20220216 "Leverantîrsfaktura FORA AB" 20220327
+#VER D 53 20220216 "Leverantîrsfaktura FORA AB" 20220308
 {
 #TRANS 2440 {} -566 "" "" 0
 #TRANS 2641 {} 113.20 "" "" 0
 #TRANS 6090 {} 452.80 "" "" 0
 }
-#VER C 134 20220216 "Betalning LFakt" 20220327
+#VER E 40 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 566 "" "" 0
 #TRANS 1930 {} -566 "" "" 0
 }
-#VER D 135 20220216 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220327
+#VER D 54 20220216 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220308
 {
 #TRANS 2440 {} -8366 "" "" 0
 #TRANS 2641 {} 1673.20 "" "" 0
 #TRANS 6090 {} 6692.80 "" "" 0
 }
-#VER C 136 20220216 "Betalning LFakt" 20220327
+#VER E 41 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 8366 "" "" 0
 #TRANS 1930 {} -8366 "" "" 0
 }
-#VER A 137 20220216 "Fordonsskatt BHK73G" 20220327
+#VER A 150 20220216 "Fordonsskatt BHK73G" 20220308
 {
 #TRANS 2440 {} -3311 "" "" 0
 #TRANS 5612 {} 3311 "" "" 0
 }
-#VER D 138 20220216 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220327
+#VER D 55 20220216 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220308
 {
 #TRANS 2440 {} -573 "" "" 0
 #TRANS 2641 {} 114.60 "" "" 0
 #TRANS 6090 {} 458.40 "" "" 0
 }
-#VER C 139 20220216 "Betalning LFakt" 20220327
+#VER E 42 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 573 "" "" 0
 #TRANS 1930 {} -573 "" "" 0
 }
-#VER D 140 20220216 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220327
+#VER D 56 20220216 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220308
 {
 #TRANS 2440 {} -584 "" "" 0
 #TRANS 2641 {} 116.80 "" "" 0
 #TRANS 6090 {} 467.20 "" "" 0
 }
-#VER C 141 20220216 "Betalning LFakt" 20220327
+#VER E 43 20220216 "Betalning LFakt" 20220308
 {
 #TRANS 2440 {} 584 "" "" 0
 #TRANS 1930 {} -584 "" "" 0
 }
-#VER A 142 20220216 "Fîrseningsavgift" 20220327
+#VER A 151 20220216 "Fîrseningsavgift" 20220308
 {
 #TRANS 1645 {} 450 "" "" 0
 #TRANS 8423 {} -450 "" "" 0
 }
-#VER A 143 20220216 "Inkîp kort HP INSTANT INK" 20220327
+#VER A 152 20220216 "Inkîp kort HP INSTANT INK" 20220308
 {
 #TRANS 2892 {} -49 "" "" 0
 #TRANS 4531 {} 49 "" "" 0
 #TRANS 2614 {} -12.25 "" "" 0
 #TRANS 2645 {} 12.25 "" "" 0
 }
-#VER A 144 20220217 "Inbetalning skattekonto" 20220327
+#VER A 153 20220217 "Inbetalning skattekonto" 20220308
 {
 #TRANS 1645 {} 53326 "" "" 0
 #TRANS 1930 {} -53326 "" "" 0
 }
-#VER A 145 20220220 "Inkîp kort AVANGATE" 20220327
+#VER A 154 20220220 "Inkîp kort AVANGATE" 20220308
 {
 #TRANS 2892 {} -481.88 "" "" 0
 #TRANS 4531 {} 481.88 "" "" 0
 #TRANS 2614 {} -120.47 "" "" 0
 #TRANS 2645 {} 120.47 "" "" 0
 }
-#VER A 146 20220220 "Inkîp kort NPM" 20220327
+#VER A 155 20220220 "Inkîp kort NPM" 20220308
 {
 #TRANS 2892 {} -202.43 "" "" 0
 #TRANS 4531 {} 202.43 "" "" 0
 #TRANS 2614 {} -50.61 "" "" 0
 #TRANS 2645 {} 50.61 "" "" 0
 }
-#VER A 147 20220220 "Inkîp kort MJUKBILTVéTT" 20220327
+#VER A 156 20220220 "Inkîp kort MJUKBILTVéTT" 20220308
 {
 #TRANS 2892 {} -399 "" "" 0
 #TRANS 4531 {} 399 "" "" 0
 #TRANS 2614 {} -99.75 "" "" 0
 #TRANS 2645 {} 99.75 "" "" 0
 }
-#VER A 148 20220225 "Inkîp kort MEDIEM" 20220327
+#VER A 157 20220225 "Inkîp kort MEDIEM" 20220308
 {
 #TRANS 2892 {} -491.25 "" "" 0
 #TRANS 4531 {} 491.25 "" "" 0
 #TRANS 2614 {} -122.81 "" "" 0
 #TRANS 2645 {} 122.81 "" "" 0
 }
-#VER A 149 20220225 "Lîn Anders" 20220327
+#VER A 158 20220225 "Lîn Anders" 20220308
 {
 #TRANS 7220 {} 66989 "" "" 0
 #TRANS 2710 {} -21989 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -45000 "" "" 0
 }
-#VER A 150 20220228 "Kundfaktura 2022-004" 20220327
+#VER A 159 20220228 "Kundfaktura 2022-004" 20220308
 {
 #TRANS 1510 {} 41162.50 "" "" 0
 #TRANS 3001 {} -32930 "" "" 0
 #TRANS 2611 {} -8232.50 "" "" 0
 }
-#VER A 151 20220301 "Lokalhyra" 20220416
+#VER A 160 20220301 "Lokalhyra {$description}" 20220409
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 152 20220303 "Bankavgift" 20220416
+#VER A 161 20220303 "Bankavgift" 20220409
 {
 #TRANS 6570 {} 103 "" "" 0
 #TRANS 1930 {} -103 "" "" 0
 }
-#VER A 153 20220304 "ôverfîring till Anders" 20220416
+#VER A 162 20220304 "ôverfîring till Anders" 20220409
 {
 #TRANS 2691 {} 20000 "" "" 0
 #TRANS 1930 {} -20000 "" "" 0
 }
-#VER A 154 20220305 "RÑnta skattekonto" 20220416
+#VER A 163 20220305 "RÑnta skattekonto" 20220409
 {
 #TRANS 1645 {} 284 "" "" 0
 #TRANS 8423 {} -284 "" "" 0
 }
-#VER A 155 20220307 "Kundfaktura 2022-005" 20220416
+#VER A 164 20220307 "Kundfaktura 2022-005" 20220409
 {
 #TRANS 1510 {} 30000 "" "" 0
 #TRANS 3001 {} -24000 "" "" 0
 #TRANS 2611 {} -6000 "" "" 0
 }
-#VER A 156 20220308 "Arbetsgivaravgift nov 2021" 20220416
+#VER A 165 20220308 "Arbetsgivaravgift nov 2021" 20220409
 {
 #TRANS 7510 {} 26200 "" "" 0
 #TRANS 1645 {} -26200 "" "" 0
 }
-#VER A 157 20220308 "Arbetsgivaravgift dec 2021" 20220416
+#VER A 166 20220308 "Arbetsgivaravgift dec 2021" 20220409
 {
 #TRANS 7510 {} 53114 "" "" 0
 #TRANS 1645 {} -53114 "" "" 0
 }
-#VER A 158 20220308 "Arbetsgivaravgift jan 2022" 20220416
+#VER A 167 20220308 "Arbetsgivaravgift jan 2022" 20220409
 {
 #TRANS 7510 {} 23704 "" "" 0
 #TRANS 1645 {} -23704 "" "" 0
 }
-#VER A 159 20220308 "Avdragen skatt nov 2021" 20220416
+#VER A 168 20220308 "Avdragen skatt nov 2021" 20220409
 {
 #TRANS 2218 {} 24132 "" "" 0
 #TRANS 1645 {} -24132 "" "" 0
 }
-#VER A 160 20220308 "Avdragen skatt dec 2021" 20220416
+#VER A 169 20220308 "Avdragen skatt dec 2021" 20220409
 {
 #TRANS 2218 {} 50704 "" "" 0
 #TRANS 1645 {} -50704 "" "" 0
 }
-#VER A 161 20220308 "Avdragen skatt jan 2022" 20220416
+#VER A 170 20220308 "Avdragen skatt jan 2022" 20220409
 {
 #TRANS 2218 {} 22632 "" "" 0
 #TRANS 1645 {} -22632 "" "" 0
 }
-#VER A 162 20220308 "Moms okt 2021 - dec 2021" 20220416
+#VER A 171 20220308 "Moms okt 2021 - dec 2021" 20220409
 {
 #TRANS 2650 {} 81377 "" "" 0
 #TRANS 1645 {} -81377 "" "" 0
 }
-#VER A 163 20220309 "Inbetalning skattekonto" 20220416
+#VER A 172 20220309 "Inbetalning skattekonto" 20220409
 {
 #TRANS 1645 {} 230000 "" "" 0
 #TRANS 1930 {} -230000 "" "" 0
 }
-#VER A 164 20220314 "ôverfîring till Anders" 20220416
+#VER A 173 20220314 "ôverfîring till Anders" 20220409
 {
 #TRANS 2691 {} 30000 "" "" 0
 #TRANS 1930 {} -30000 "" "" 0
 }
-#VER C 165 20220314 "F-skatt" 20220416
+#VER C 8 20220314 "F-skatt" 20220409
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 166 20220314 "Fîrseningsavgift" 20220416
+#VER A 174 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 362 "" "" 0
 #TRANS 8423 {} -362 "" "" 0
 }
-#VER A 167 20220314 "Fîrseningsavgift" 20220416
+#VER A 175 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 351 "" "" 0
 #TRANS 8423 {} -351 "" "" 0
 }
-#VER A 168 20220314 "Fîrseningsavgift" 20220416
+#VER A 176 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 351 "" "" 0
 #TRANS 8423 {} -351 "" "" 0
 }
-#VER A 169 20220314 "Fîrseningsavgift" 20220416
+#VER A 177 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 311 "" "" 0
 #TRANS 8423 {} -311 "" "" 0
 }
-#VER A 170 20220314 "Fîrseningsavgift" 20220416
+#VER A 178 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 210 "" "" 0
 #TRANS 8423 {} -210 "" "" 0
 }
-#VER A 171 20220314 "Fîrseningsavgift" 20220416
+#VER A 179 20220314 "Fîrseningsavgift" 20220409
 {
 #TRANS 1645 {} 499 "" "" 0
 #TRANS 8423 {} -499 "" "" 0
 }
-#VER A 172 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 180 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 77953 "" "" 0
 #TRANS 1645 {} -77953 "" "" 0
 }
-#VER A 173 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 181 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 52617 "" "" 0
 #TRANS 1645 {} -52617 "" "" 0
 }
-#VER A 174 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 182 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 49927 "" "" 0
 #TRANS 1645 {} -49927 "" "" 0
 }
-#VER A 175 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 183 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 40278 "" "" 0
 #TRANS 1645 {} -40278 "" "" 0
 }
-#VER A 176 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 184 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 39085 "" "" 0
 #TRANS 1645 {} -39085 "" "" 0
 }
-#VER A 177 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220416
+#VER A 185 20220314 "TillfÑlligt betalningsanstÜnd upphîr" 20220409
 {
 #TRANS 2852 {} 39085 "" "" 0
 #TRANS 1645 {} -39085 "" "" 0
 }
-#VER A 178 20220314 "Kundfaktura 2022-006" 20220416
+#VER A 186 20220314 "Kundfaktura 2022-006" 20220409
 {
 #TRANS 1510 {} 111280.00 "" "" 0
 #TRANS 3001 {} -89024 "" "" 0
 #TRANS 2611 {} -22256 "" "" 0
 }
-#VER A 179 20220315 "Arbetsgivaravgift febr 2022" 20220416
+#VER A 187 20220315 "Arbetsgivaravgift febr 2022" 20220409
 {
 #TRANS 7510 {} 23041 "" "" 0
 #TRANS 1645 {} -23041 "" "" 0
 }
-#VER A 180 20220315 "Avdragen skatt febr 2022" 20220416
+#VER A 188 20220315 "Avdragen skatt febr 2022" 20220409
 {
 #TRANS 2218 {} 21989 "" "" 0
 #TRANS 1645 {} -21989 "" "" 0
 }
-#VER A 181 20220315 "Kundfaktura 2022-007" 20220416
+#VER A 189 20220315 "Kundfaktura 2022-007" 20220409
 {
 #TRANS 1510 {} 142500 "" "" 0
 #TRANS 3001 {} -114000 "" "" 0
 #TRANS 2611 {} -28500 "" "" 0
 }
-#VER C 182 20220321 "Betalning KFakt" 20220416
+#VER C 9 20220321 "Betalning KFakt" 20220409
 {
 #TRANS 1930 {} 51453 "" "" 0
 #TRANS 1510 {} -51453 "" "" 0
 }
-#VER A 183 20220322 "Beslut 220322 moms juli 2021 - sept 2021" 20220416
+#VER A 190 20220322 "Beslut 220322 moms juli 2021 - sept 2021" 20220409
 {
 #TRANS 7510 {} -4373 "" "" 0
 #TRANS 1645 {} 4373 "" "" 0
 }
-#VER C 184 20220324 "Betalning KFakt" 20220416
+#VER C 10 20220324 "Betalning KFakt" 20220409
 {
 #TRANS 1930 {} 139100 "" "" 0
 #TRANS 1510 {} -139100 "" "" 0
 }
-#VER A 185 20220325 "Lîn Anders" 20220416
+#VER A 191 20220325 "Lîn Anders" 20220409
 {
 #TRANS 7220 {} 12972 "" "" 0
 #TRANS 2710 {} -3772 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -9200 "" "" 0
 }
-#VER A 186 20220327 "Inkîp kort CIRCLECI" 20220416
+#VER A 192 20220327 "Inkîp kort CIRCLECI" 20220409
 {
 #TRANS 2892 {} -145.03 "" "" 0
 #TRANS 4531 {} 145.03 "" "" 0
 #TRANS 2614 {} -36.26 "" "" 0
 #TRANS 2645 {} 36.26 "" "" 0
 }
-#VER A 187 20220328 "ôverfîring till Anders" 20220416
+#VER A 193 20220328 "ôverfîring till Anders" 20220409
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER A 188 20220331 "Bankavgift" 20220416
+#VER A 194 20220331 "Bankavgift" 20220409
 {
 #TRANS 6570 {} 103 "" "" 0
 #TRANS 1930 {} -103 "" "" 0
 }
-#VER A 189 20220331 "Kundfaktura 2022-002K" 20220416
+#VER A 195 20220331 "Kundfaktura 2022-002K" 20220409
 {
 #TRANS 1510 {} 142500 "" "" 0
 #TRANS 3001 {} -114000 "" "" 0
 #TRANS 2611 {} -28500 "" "" 0
 }
-#VER A 190 20220331 "Kundfaktura 2022-007K" 20220416
+#VER A 196 20220331 "Kundfaktura 2022-007K" 20220409
 {
 #TRANS 1510 {} 142500 "" "" 0
 #TRANS 3001 {} -114000 "" "" 0
 #TRANS 2611 {} -28500 "" "" 0
 }
-#VER A 191 20220331 "Kundfaktura 2022-008" 20220416
+#VER A 197 20220331 "Kundfaktura 2022-008" 20220409
 {
 #TRANS 1510 {} 21968.75 "" "" 0
 #TRANS 3001 {} -17575 "" "" 0
 #TRANS 2611 {} -4393.75 "" "" 0
 }
-#VER A 192 20220331 "Kundfaktura 2022-010" 20220416
+#VER A 198 20220331 "Kundfaktura 2022-010" 20220409
 {
 #TRANS 1510 {} 3412.50 "" "" 0
 #TRANS 3001 {} -2730 "" "" 0
 #TRANS 2611 {} -682.50 "" "" 0
 }
-#VER A 193 20220401 "Lokalhyra" 20220502
+#VER A 199 20220401 "Lokalhyra {$description}" 20220507
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 194 20220401 "Inkîp kort LINODE" 20220502
+#VER A 200 20220401 "Inkîp kort LINODE" 20220507
 {
 #TRANS 2892 {} -528.42 "" "" 0
 #TRANS 4531 {} 528.42 "" "" 0
 #TRANS 2614 {} -132.10 "" "" 0
 #TRANS 2645 {} 132.10 "" "" 0
 }
-#VER A 195 20220401 "Inkîp kort CLOUD 32GQZG" 20220502
+#VER A 201 20220401 "Inkîp kort CLOUD 32GQZG" 20220507
 {
 #TRANS 2892 {} -9432.58 "" "" 0
 #TRANS 4531 {} 9432.58 "" "" 0
 #TRANS 2614 {} -2358.14 "" "" 0
 #TRANS 2645 {} 2358.14 "" "" 0
 }
-#VER A 196 20220401 "Inkîp kort DIGITALOCEAN" 20220502
+#VER A 202 20220401 "Inkîp kort DIGITALOCEAN" 20220507
 {
 #TRANS 2892 {} -773.42 "" "" 0
 #TRANS 4531 {} 773.42 "" "" 0
 #TRANS 2614 {} -193.35 "" "" 0
 #TRANS 2645 {} 193.35 "" "" 0
 }
-#VER A 197 20220401 "Inkîp kort REACT ADMIN" 20220502
+#VER A 203 20220401 "Inkîp kort REACT ADMIN" 20220507
 {
 #TRANS 2892 {} -1459.76 "" "" 0
 #TRANS 4531 {} 1459.76 "" "" 0
 #TRANS 2614 {} -364.94 "" "" 0
 #TRANS 2645 {} 364.94 "" "" 0
 }
-#VER A 198 20220402 "RÑnta skattekonto" 20220502
+#VER A 204 20220402 "RÑnta skattekonto" 20220507
 {
 #TRANS 1645 {} 8635 "" "" 0
 #TRANS 8423 {} -8635 "" "" 0
 }
-#VER A 199 20220402 "RÑnta skattekonto" 20220502
+#VER A 205 20220402 "RÑnta skattekonto" 20220507
 {
 #TRANS 1645 {} 4074 "" "" 0
 #TRANS 8423 {} -4074 "" "" 0
 }
-#VER A 200 20220402 "RÑnta skattekonto" 20220502
+#VER A 206 20220402 "RÑnta skattekonto" 20220507
 {
 #TRANS 1645 {} 1 "" "" 0
 #TRANS 8423 {} -1 "" "" 0
 }
-#VER A 201 20220405 "Inkîp kort FREEPIK" 20220502
+#VER A 207 20220405 "Inkîp kort FREEPIK" 20220507
 {
 #TRANS 2892 {} -132.70 "" "" 0
 #TRANS 4531 {} 132.70 "" "" 0
 #TRANS 2614 {} -33.17 "" "" 0
 #TRANS 2645 {} 33.17 "" "" 0
 }
-#VER A 202 20220408 "ôverfîring till Anders" 20220502
+#VER A 208 20220408 "ôverfîring till Anders" 20220507
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 203 20220410 "Inkîp kort NETLIFY" 20220502
+#VER A 209 20220410 "Inkîp kort NETLIFY" 20220507
 {
 #TRANS 2892 {} -146.05 "" "" 0
 #TRANS 4531 {} 146.05 "" "" 0
 #TRANS 2614 {} -36.51 "" "" 0
 #TRANS 2645 {} 36.51 "" "" 0
 }
-#VER A 204 20220411 "Inkîp kort 299.90" 20220502
+#VER A 210 20220411 "Inkîp kort 299.90" 20220507
 {
 #TRANS 2892 {} NaN "" "" 0
 #TRANS 4531 {} NaN "" "" 0
 #TRANS 2614 {} NaN "" "" 0
 #TRANS 2645 {} NaN "" "" 0
 }
-#VER C 205 20220412 "F-skatt" 20220502
+#VER C 11 20220412 "F-skatt" 20220507
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 206 20220412 "Inkîp kort JULA" 20220502
+#VER A 211 20220412 "Inkîp kort JULA" 20220507
 {
 #TRANS 2892 {} -528.90 "" "" 0
 #TRANS 4531 {} 528.90 "" "" 0
 #TRANS 2614 {} -132.22 "" "" 0
 #TRANS 2645 {} 132.22 "" "" 0
 }
-#VER A 207 20220412 "Inkîp kort DATADOG" 20220502
+#VER A 212 20220412 "Inkîp kort DATADOG" 20220507
 {
 #TRANS 2892 {} -624.09 "" "" 0
 #TRANS 4531 {} 624.09 "" "" 0
 #TRANS 2614 {} -156.02 "" "" 0
 #TRANS 2645 {} 156.02 "" "" 0
 }
-#VER A 208 20220413 "Inkîp Wikimedia" 20220502
+#VER A 213 20220413 "Inkîp Wikimedia" 20220507
 {
 #TRANS 2691 {} 33 "" "" 0
 #TRANS 2641 {} -6.60 "" "" 0
 #TRANS 5410 {} -26.40 "" "" 0
 }
-#VER A 209 20220414 "ôverfîring till Anders" 20220502
+#VER A 214 20220414 "ôverfîring till Anders" 20220507
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER A 210 20220417 "Inkîp WEBSITEPOLICIES" 20220502
+#VER A 215 20220417 "Inkîp WEBSITEPOLICIES" 20220507
 {
 #TRANS 2691 {} 291 "" "" 0
 #TRANS 2641 {} -58.20 "" "" 0
 #TRANS 5410 {} -232.80 "" "" 0
 }
-#VER A 211 20220419 "ôverfîring till Anders" 20220502
+#VER A 216 20220419 "ôverfîring till Anders" 20220507
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER D 212 20220419 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220502
+#VER D 57 20220419 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220507
 {
 #TRANS 2440 {} -8180 "" "" 0
 #TRANS 2641 {} 1636 "" "" 0
 #TRANS 6090 {} 6544 "" "" 0
 }
-#VER C 213 20220419 "Betalning LFakt" 20220502
+#VER E 44 20220419 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 8180 "" "" 0
 #TRANS 1930 {} -8180 "" "" 0
 }
-#VER C 214 20220420 "Betalning KFakt" 20220502
+#VER C 12 20220420 "Betalning KFakt" 20220507
 {
 #TRANS 1930 {} 27461 "" "" 0
 #TRANS 1510 {} -27461 "" "" 0
 }
-#VER A 215 20220420 "Inkîp DIN BIL" 20220502
+#VER A 217 20220420 "Inkîp DIN BIL" 20220507
 {
 #TRANS 2691 {} 7156 "" "" 0
 #TRANS 2641 {} -1431.20 "" "" 0
 #TRANS 5410 {} -5724.80 "" "" 0
 }
-#VER D 216 20220421 "Leverantîrsfaktura SVEA INKASSO AB" 20220502
+#VER D 58 20220421 "Leverantîrsfaktura SVEA INKASSO AB" 20220507
 {
 #TRANS 2440 {} -8630 "" "" 0
 #TRANS 2641 {} 1726 "" "" 0
 #TRANS 6090 {} 6904 "" "" 0
 }
-#VER C 217 20220421 "Betalning LFakt" 20220502
+#VER E 45 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 8630 "" "" 0
 #TRANS 1930 {} -8630 "" "" 0
 }
-#VER D 218 20220421 "Leverantîrsfaktura SEB KORT BANK  AB" 20220502
+#VER D 59 20220421 "Leverantîrsfaktura SEB KORT BANK  AB" 20220507
 {
 #TRANS 2440 {} -9034 "" "" 0
 #TRANS 2641 {} 1806.80 "" "" 0
 #TRANS 6090 {} 7227.20 "" "" 0
 }
-#VER C 219 20220421 "Betalning LFakt" 20220502
+#VER E 46 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 9034 "" "" 0
 #TRANS 1930 {} -9034 "" "" 0
 }
-#VER D 220 20220421 "Leverantîrsfaktura SEB KORT BANK  AB" 20220502
+#VER D 60 20220421 "Leverantîrsfaktura SEB KORT BANK  AB" 20220507
 {
 #TRANS 2440 {} -12257 "" "" 0
 #TRANS 2641 {} 2451.40 "" "" 0
 #TRANS 6090 {} 9805.60 "" "" 0
 }
-#VER C 221 20220421 "Betalning LFakt" 20220502
+#VER E 47 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 12257 "" "" 0
 #TRANS 1930 {} -12257 "" "" 0
 }
-#VER A 222 20220421 "Fîrseningsavgift" 20220502
+#VER A 218 20220421 "Fîrseningsavgift" 20220507
 {
 #TRANS 1645 {} 194 "" "" 0
 #TRANS 8423 {} -194 "" "" 0
 }
-#VER D 223 20220421 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220502
+#VER D 61 20220421 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220507
 {
 #TRANS 2440 {} -8318 "" "" 0
 #TRANS 2641 {} 1663.60 "" "" 0
 #TRANS 6090 {} 6654.40 "" "" 0
 }
-#VER C 224 20220421 "Betalning LFakt" 20220502
+#VER E 48 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 8318 "" "" 0
 #TRANS 1930 {} -8318 "" "" 0
 }
-#VER D 225 20220421 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220502
+#VER D 62 20220421 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220507
 {
 #TRANS 2440 {} -8354 "" "" 0
 #TRANS 2641 {} 1670.80 "" "" 0
 #TRANS 6090 {} 6683.20 "" "" 0
 }
-#VER C 226 20220421 "Betalning LFakt" 20220502
+#VER E 49 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 8354 "" "" 0
 #TRANS 1930 {} -8354 "" "" 0
 }
-#VER D 227 20220421 "Leverantîrsfaktura FORTNOX FINANS AB" 20220502
+#VER D 63 20220421 "Leverantîrsfaktura FORTNOX FINANS AB" 20220507
 {
 #TRANS 2440 {} -439 "" "" 0
 #TRANS 2641 {} 87.80 "" "" 0
 #TRANS 6090 {} 351.20 "" "" 0
 }
-#VER C 228 20220421 "Betalning LFakt" 20220502
+#VER E 50 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 439 "" "" 0
 #TRANS 1930 {} -439 "" "" 0
 }
-#VER D 229 20220421 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220502
+#VER D 64 20220421 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220507
 {
 #TRANS 2440 {} -1414 "" "" 0
 #TRANS 2641 {} 282.80 "" "" 0
 #TRANS 6090 {} 1131.20 "" "" 0
 }
-#VER C 230 20220421 "Betalning LFakt" 20220502
+#VER E 51 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 1414 "" "" 0
 #TRANS 1930 {} -1414 "" "" 0
 }
-#VER D 231 20220421 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220502
+#VER D 65 20220421 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220507
 {
 #TRANS 2440 {} -2254 "" "" 0
 #TRANS 2641 {} 450.80 "" "" 0
 #TRANS 6090 {} 1803.20 "" "" 0
 }
-#VER C 232 20220421 "Betalning LFakt" 20220502
+#VER E 52 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 2254 "" "" 0
 #TRANS 1930 {} -2254 "" "" 0
 }
-#VER D 233 20220421 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220502
+#VER D 66 20220421 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220507
 {
 #TRANS 2440 {} -573 "" "" 0
 #TRANS 2641 {} 114.60 "" "" 0
 #TRANS 6090 {} 458.40 "" "" 0
 }
-#VER C 234 20220421 "Betalning LFakt" 20220502
+#VER E 53 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 573 "" "" 0
 #TRANS 1930 {} -573 "" "" 0
 }
-#VER D 235 20220421 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220502
+#VER D 67 20220421 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220507
 {
 #TRANS 2440 {} -633 "" "" 0
 #TRANS 2641 {} 126.60 "" "" 0
 #TRANS 6090 {} 506.40 "" "" 0
 }
-#VER C 236 20220421 "Betalning LFakt" 20220502
+#VER E 54 20220421 "Betalning LFakt" 20220507
 {
 #TRANS 2440 {} 633 "" "" 0
 #TRANS 1930 {} -633 "" "" 0
 }
-#VER A 237 20220421 "Inkîp kort ODERLAND" 20220502
+#VER A 219 20220421 "Inkîp kort ODERLAND" 20220507
 {
 #TRANS 2892 {} -162.50 "" "" 0
 #TRANS 4531 {} 162.50 "" "" 0
 #TRANS 2614 {} -40.63 "" "" 0
 #TRANS 2645 {} 40.63 "" "" 0
 }
-#VER A 238 20220421 "Inkîp kort NPM" 20220502
+#VER A 220 20220421 "Inkîp kort NPM" 20220507
 {
 #TRANS 2892 {} -206 "" "" 0
 #TRANS 4531 {} 206 "" "" 0
 #TRANS 2614 {} -51.50 "" "" 0
 #TRANS 2645 {} 51.50 "" "" 0
 }
-#VER A 239 20220423 "Inkîp kort HP INSTANT INK" 20220502
+#VER A 221 20220423 "Inkîp kort HP INSTANT INK" 20220507
 {
 #TRANS 2892 {} -69 "" "" 0
 #TRANS 4531 {} 69 "" "" 0
 #TRANS 2614 {} -17.25 "" "" 0
 #TRANS 2645 {} 17.25 "" "" 0
 }
-#VER A 240 20220424 "Inkîp kort MSFT" 20220502
+#VER A 222 20220424 "Inkîp kort MSFT" 20220507
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER A 241 20220425 "Fîrseningsavgift" 20220502
+#VER A 223 20220425 "Fîrseningsavgift" 20220507
 {
 #TRANS 1645 {} 450 "" "" 0
 #TRANS 8423 {} -450 "" "" 0
 }
-#VER A 242 20220425 "Inkîp kort EUROPCAR" 20220502
+#VER A 224 20220425 "Inkîp kort EUROPCAR" 20220507
 {
 #TRANS 2892 {} -4746.49 "" "" 0
 #TRANS 4531 {} 4746.49 "" "" 0
 #TRANS 2614 {} -1186.62 "" "" 0
 #TRANS 2645 {} 1186.62 "" "" 0
 }
-#VER A 243 20220425 "Lîn Anders" 20220502
+#VER A 225 20220425 "Lîn Anders" 20220507
 {
 #TRANS 7220 {} 12972 "" "" 0
 #TRANS 2710 {} -3772 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -9200 "" "" 0
 }
-#VER A 244 20220426 "Beslut 220322 arbetsgivaravgift aug 2021" 20220502
+#VER A 226 20220426 "Beslut 220322 arbetsgivaravgift aug 2021" 20220507
 {
 #TRANS 7510 {} 980 "" "" 0
 #TRANS 1645 {} -980 "" "" 0
 }
-#VER A 245 20220426 "Beslut 220317 moms april 2021 - juni 2021" 20220502
+#VER A 227 20220426 "Beslut 220317 moms april 2021 - juni 2021" 20220507
 {
 #TRANS 7510 {} 9107 "" "" 0
 #TRANS 1645 {} -9107 "" "" 0
 }
-#VER A 246 20220427 "Inkîp kort CIRCLECI" 20220502
+#VER A 228 20220427 "Inkîp kort CIRCLECI" 20220507
 {
 #TRANS 2892 {} -150.88 "" "" 0
 #TRANS 4531 {} 150.88 "" "" 0
 #TRANS 2614 {} -37.72 "" "" 0
 #TRANS 2645 {} 37.72 "" "" 0
 }
-#VER A 247 20220429 "ôverfîring till Anders" 20220502
+#VER A 229 20220429 "ôverfîring till Anders" 20220507
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER C 248 20220429 "Betalning KFakt" 20220502
+#VER C 13 20220429 "Betalning KFakt" 20220507
 {
 #TRANS 1930 {} 4266 "" "" 0
 #TRANS 1510 {} -4266 "" "" 0
 }
-#VER A 249 20220430 "Kundfaktura 2022-012" 20220502
+#VER A 230 20220430 "Kundfaktura 2022-012" 20220507
 {
 #TRANS 1510 {} 10237.50 "" "" 0
 #TRANS 3001 {} -8190 "" "" 0
 #TRANS 2611 {} -2047.50 "" "" 0
 }
-#VER A 250 20220501 "RÑnta skattekonto" 20220613
+#VER A 231 20220501 "RÑnta skattekonto" 20220620
 {
 #TRANS 1645 {} 78 "" "" 0
 #TRANS 8423 {} -78 "" "" 0
 }
-#VER A 251 20220501 "RÑnta skattekonto" 20220613
+#VER A 232 20220501 "RÑnta skattekonto" 20220620
 {
 #TRANS 1645 {} 5392 "" "" 0
 #TRANS 8423 {} -5392 "" "" 0
 }
-#VER A 252 20220501 "Lokalhyra" 20220613
+#VER A 233 20220501 "Lokalhyra {$description}" 20220620
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 253 20220501 "Inkîp kort LINODE" 20220613
+#VER A 234 20220501 "Inkîp kort LINODE" 20220620
 {
 #TRANS 2892 {} -558.42 "" "" 0
 #TRANS 4531 {} 558.42 "" "" 0
 #TRANS 2614 {} -139.60 "" "" 0
 #TRANS 2645 {} 139.60 "" "" 0
 }
-#VER A 254 20220501 "Inkîp kort DIGITALOCEAN" 20220613
+#VER A 235 20220501 "Inkîp kort DIGITALOCEAN" 20220620
 {
 #TRANS 2892 {} -817.33 "" "" 0
 #TRANS 4531 {} 817.33 "" "" 0
 #TRANS 2614 {} -204.33 "" "" 0
 #TRANS 2645 {} 204.33 "" "" 0
 }
-#VER A 255 20220502 "Inkîp kort GOOGLE CLOUD" 20220613
+#VER A 236 20220502 "Inkîp kort GOOGLE CLOUD" 20220620
 {
 #TRANS 2892 {} -3359.35 "" "" 0
 #TRANS 4531 {} 3359.35 "" "" 0
 #TRANS 2614 {} -839.84 "" "" 0
 #TRANS 2645 {} 839.84 "" "" 0
 }
-#VER A 256 20220502 "Inkîp kort REACT ADMIN" 20220613
+#VER A 237 20220502 "Inkîp kort REACT ADMIN" 20220620
 {
 #TRANS 2892 {} -1465.97 "" "" 0
 #TRANS 4531 {} 1465.97 "" "" 0
 #TRANS 2614 {} -366.49 "" "" 0
 #TRANS 2645 {} 366.49 "" "" 0
 }
-#VER A 257 20220504 "Inkîp kort HEMKôP ONSALA" 20220613
+#VER A 238 20220504 "Inkîp kort HEMKôP ONSALA" 20220620
 {
 #TRANS 2892 {} -524.72 "" "" 0
 #TRANS 4531 {} 524.72 "" "" 0
 #TRANS 2614 {} -131.18 "" "" 0
 #TRANS 2645 {} 131.18 "" "" 0
 }
-#VER A 258 20220505 "ôverfîring till Anders" 20220613
+#VER A 239 20220505 "ôverfîring till Anders" 20220620
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER A 259 20220505 "Bankavgift" 20220613
+#VER A 240 20220505 "Bankavgift" 20220620
 {
 #TRANS 6570 {} 120 "" "" 0
 #TRANS 1930 {} -120 "" "" 0
 }
-#VER A 260 20220505 "Inkîp kort FREEPIK" 20220613
+#VER A 241 20220505 "Inkîp kort FREEPIK" 20220620
 {
 #TRANS 2892 {} -132.90 "" "" 0
 #TRANS 4531 {} 132.90 "" "" 0
 #TRANS 2614 {} -33.23 "" "" 0
 #TRANS 2645 {} 33.23 "" "" 0
 }
-#VER A 261 20220510 "Inkîp kort NETLIFY" 20220613
+#VER A 242 20220510 "Inkîp kort NETLIFY" 20220620
 {
 #TRANS 2892 {} -155.38 "" "" 0
 #TRANS 4531 {} 155.38 "" "" 0
 #TRANS 2614 {} -38.84 "" "" 0
 #TRANS 2645 {} 38.84 "" "" 0
 }
-#VER A 262 20220511 "Kundfaktura 2022-011" 20220613
+#VER A 243 20220511 "Kundfaktura 2022-011" 20220620
 {
 #TRANS 1510 {} 66560 "" "" 0
 #TRANS 3001 {} -53248 "" "" 0
 #TRANS 2611 {} -13312 "" "" 0
 }
-#VER C 263 20220512 "F-skatt" 20220613
+#VER C 14 20220512 "F-skatt" 20220620
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 264 20220512 "Inkîp kort DATADOG" 20220613
+#VER A 244 20220512 "Inkîp kort DATADOG" 20220620
 {
 #TRANS 2892 {} -167.47 "" "" 0
 #TRANS 4531 {} 167.47 "" "" 0
 #TRANS 2614 {} -41.87 "" "" 0
 #TRANS 2645 {} 41.87 "" "" 0
 }
-#VER A 265 20220514 "Inkîp kort MSFT" 20220613
+#VER A 245 20220514 "Inkîp kort MSFT" 20220620
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER A 266 20220517 "Inkîp kort HP INSTANT INK" 20220613
+#VER A 246 20220517 "Inkîp kort HP INSTANT INK" 20220620
 {
 #TRANS 2892 {} -69 "" "" 0
 #TRANS 4531 {} 69 "" "" 0
 #TRANS 2614 {} -17.25 "" "" 0
 #TRANS 2645 {} 17.25 "" "" 0
 }
-#VER A 267 20220520 "Inkîp kort SLACK" 20220613
+#VER A 247 20220520 "Inkîp kort SLACK" 20220620
 {
 #TRANS 2892 {} -80.77 "" "" 0
 #TRANS 4531 {} 80.77 "" "" 0
 #TRANS 2614 {} -20.19 "" "" 0
 #TRANS 2645 {} 20.19 "" "" 0
 }
-#VER A 268 20220520 "Inkîp kort NPM" 20220613
+#VER A 248 20220520 "Inkîp kort NPM" 20220620
 {
 #TRANS 2892 {} -216.79 "" "" 0
 #TRANS 4531 {} 216.79 "" "" 0
 #TRANS 2614 {} -54.20 "" "" 0
 #TRANS 2645 {} 54.20 "" "" 0
 }
-#VER D 269 20220525 "Leverantîrsfaktura R3 REVISIONSBYRè GôTEBOR" 20220613
+#VER D 68 20220525 "Leverantîrsfaktura R3 REVISIONSBYRè GôTEBOR" 20220620
 {
 #TRANS 2440 {} -15000 "" "" 0
 #TRANS 2641 {} 3000 "" "" 0
 #TRANS 6090 {} 12000 "" "" 0
 }
-#VER C 270 20220525 "Betalning LFakt" 20220613
+#VER E 55 20220525 "Betalning LFakt" 20220620
 {
 #TRANS 2440 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 271 20220525 "Lîn Anders" 20220613
+#VER A 249 20220525 "Lîn Anders" 20220620
 {
 #TRANS 7220 {} 12972 "" "" 0
 #TRANS 2710 {} -3772 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -9200 "" "" 0
 }
-#VER A 272 20220525 "Kundfaktura 2022-009" 20220613
+#VER A 250 20220525 "Kundfaktura 2022-009" 20220620
 {
 #TRANS 1510 {} 211709.38 "" "" 0
 #TRANS 3001 {} -169367.50 "" "" 0
 #TRANS 2611 {} -42341.88 "" "" 0
 }
-#VER A 273 20220526 "Inbetalning skattekonto" 20220613
+#VER A 251 20220526 "Inbetalning skattekonto" 20220620
 {
 #TRANS 1645 {} 39869 "" "" 0
 #TRANS 1930 {} -39869 "" "" 0
 }
-#VER A 274 20220527 "Fîrseningsavgift" 20220613
+#VER A 252 20220527 "Fîrseningsavgift" 20220620
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 275 20220527 "Fîrseningsavgift" 20220613
+#VER A 253 20220527 "Fîrseningsavgift" 20220620
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 276 20220527 "Fîrseningsavgift" 20220613
+#VER A 254 20220527 "Fîrseningsavgift" 20220620
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 277 20220527 "Inkîp kort CIRCLECI" 20220613
+#VER A 255 20220527 "Inkîp kort CIRCLECI" 20220620
 {
 #TRANS 2892 {} -152.60 "" "" 0
 #TRANS 4531 {} 152.60 "" "" 0
 #TRANS 2614 {} -38.15 "" "" 0
 #TRANS 2645 {} 38.15 "" "" 0
 }
-#VER C 278 20220530 "Betalning KFakt" 20220613
+#VER C 15 20220530 "Betalning KFakt" 20220620
 {
 #TRANS 1930 {} 12797 "" "" 0
 #TRANS 1510 {} -12797 "" "" 0
 }
-#VER A 279 20220531 "Bankavgift" 20220613
+#VER A 256 20220531 "Bankavgift" 20220620
 {
 #TRANS 6570 {} 123 "" "" 0
 #TRANS 1930 {} -123 "" "" 0
 }
-#VER A 280 20220531 "Inkîp kort DIGITALOCEAN" 20220613
+#VER A 257 20220531 "Inkîp kort DIGITALOCEAN" 20220620
 {
 #TRANS 2892 {} -812.56 "" "" 0
 #TRANS 4531 {} 812.56 "" "" 0
 #TRANS 2614 {} -203.14 "" "" 0
 #TRANS 2645 {} 203.14 "" "" 0
 }
-#VER A 281 20220531 "Kundfaktura 2022-014" 20220613
+#VER A 258 20220531 "Kundfaktura 2022-014" 20220620
 {
 #TRANS 1510 {} 16087.50 "" "" 0
 #TRANS 3001 {} -12870 "" "" 0
 #TRANS 2611 {} -3217.50 "" "" 0
 }
-#VER A 282 20220531 "Kundfaktura 2022-014" 20220613
+#VER A 259 20220531 "Kundfaktura 2022-014" 20220620
 {
 #TRANS 1510 {} 16087.50 "" "" 0
 #TRANS 3001 {} -12870 "" "" 0
 #TRANS 2611 {} -3217.50 "" "" 0
 }
-#VER A 283 20220601 "Lokalhyra" 20220722
+#VER A 260 20220601 "Lokalhyra {$description}" 20220721
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 284 20220601 "Inkîp kort LINODE" 20220722
+#VER A 261 20220601 "Inkîp kort LINODE" 20220721
 {
 #TRANS 2892 {} -555.17 "" "" 0
 #TRANS 4531 {} 555.17 "" "" 0
 #TRANS 2614 {} -138.79 "" "" 0
 #TRANS 2645 {} 138.79 "" "" 0
 }
-#VER A 285 20220601 "Inkîp kort GOOGLE CLOUD" 20220722
+#VER A 262 20220601 "Inkîp kort GOOGLE CLOUD" 20220721
 {
 #TRANS 2892 {} -2522.35 "" "" 0
 #TRANS 4531 {} 2522.35 "" "" 0
 #TRANS 2614 {} -630.59 "" "" 0
 #TRANS 2645 {} 630.59 "" "" 0
 }
-#VER A 286 20220602 "Inkîp kort REACT ADMIN" 20220722
+#VER A 263 20220602 "Inkîp kort REACT ADMIN" 20220721
 {
 #TRANS 2892 {} -1491.57 "" "" 0
 #TRANS 4531 {} 1491.57 "" "" 0
 #TRANS 2614 {} -372.89 "" "" 0
 #TRANS 2645 {} 372.89 "" "" 0
 }
-#VER A 287 20220603 "Kundfaktura 2022-013" 20220722
+#VER A 264 20220603 "Kundfaktura 2022-013" 20220721
 {
 #TRANS 1510 {} 31200 "" "" 0
 #TRANS 3001 {} -24960 "" "" 0
 #TRANS 2611 {} -6240 "" "" 0
 }
-#VER A 288 20220604 "RÑnta skattekonto" 20220722
+#VER A 265 20220604 "RÑnta skattekonto" 20220721
 {
 #TRANS 1645 {} 331 "" "" 0
 #TRANS 8423 {} -331 "" "" 0
 }
-#VER A 289 20220604 "Inkîp kort MEISTERLABS" 20220722
+#VER A 266 20220604 "Inkîp kort MEISTERLABS" 20220721
 {
 #TRANS 2892 {} -1781.41 "" "" 0
 #TRANS 4531 {} 1781.41 "" "" 0
 #TRANS 2614 {} -445.35 "" "" 0
 #TRANS 2645 {} 445.35 "" "" 0
 }
-#VER A 290 20220605 "Inkîp kort FREEPIK" 20220722
+#VER A 267 20220605 "Inkîp kort FREEPIK" 20220721
 {
 #TRANS 2892 {} -133.73 "" "" 0
 #TRANS 4531 {} 133.73 "" "" 0
 #TRANS 2614 {} -33.43 "" "" 0
 #TRANS 2645 {} 33.43 "" "" 0
 }
-#VER A 291 20220606 "Inkîp kort TODOIST" 20220722
+#VER A 268 20220606 "Inkîp kort TODOIST" 20220721
 {
 #TRANS 2892 {} -360.90 "" "" 0
 #TRANS 4531 {} 360.90 "" "" 0
 #TRANS 2614 {} -90.22 "" "" 0
 #TRANS 2645 {} 90.22 "" "" 0
 }
-#VER A 292 20220607 "Kundfaktura 2022-015" 20220722
+#VER A 269 20220607 "Kundfaktura 2022-015" 20220721
 {
 #TRANS 1510 {} 147974.40 "" "" 0
 #TRANS 3001 {} -118379.52 "" "" 0
 #TRANS 2611 {} -29594.88 "" "" 0
 }
-#VER A 293 20220609 "Inkîp kort DATADOG" 20220722
+#VER A 270 20220609 "Inkîp kort DATADOG" 20220721
 {
 #TRANS 2892 {} -82.30 "" "" 0
 #TRANS 4531 {} 82.30 "" "" 0
 #TRANS 2614 {} -20.57 "" "" 0
 #TRANS 2645 {} 20.57 "" "" 0
 }
-#VER A 294 20220610 "ôverfîring till Anders" 20220722
+#VER A 271 20220610 "ôverfîring till Anders" 20220721
 {
 #TRANS 2691 {} 5000 "" "" 0
 #TRANS 1930 {} -5000 "" "" 0
 }
-#VER A 295 20220610 "Inkîp kort NETLIFY" 20220722
+#VER A 272 20220610 "Inkîp kort NETLIFY" 20220721
 {
 #TRANS 2892 {} -152.04 "" "" 0
 #TRANS 4531 {} 152.04 "" "" 0
 #TRANS 2614 {} -38.01 "" "" 0
 #TRANS 2645 {} 38.01 "" "" 0
 }
-#VER C 296 20220613 "F-skatt" 20220722
+#VER C 16 20220613 "F-skatt" 20220721
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER D 297 20220614 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220722
+#VER D 69 20220614 "Leverantîrsfaktura EKONOMIGRUPPEN SRR AB" 20220721
 {
 #TRANS 2440 {} -850 "" "" 0
 #TRANS 2641 {} 170 "" "" 0
 #TRANS 6090 {} 680 "" "" 0
 }
-#VER C 298 20220614 "Betalning LFakt" 20220722
+#VER E 56 20220614 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 850 "" "" 0
 #TRANS 1930 {} -850 "" "" 0
 }
-#VER A 299 20220614 "Inkîp kort MSFT" 20220722
+#VER A 273 20220614 "Inkîp kort MSFT" 20220721
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER C 300 20220615 "Betalning KFakt" 20220722
+#VER C 17 20220615 "Betalning KFakt" 20220721
 {
 #TRANS 1930 {} 79669 "" "" 0
 #TRANS 1510 {} -79669 "" "" 0
 }
-#VER D 301 20220616 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220722
+#VER D 70 20220616 "Leverantîrsfaktura BACKALYCKA SERVICE AB" 20220721
 {
 #TRANS 2440 {} -1395 "" "" 0
 #TRANS 2641 {} 279 "" "" 0
 #TRANS 6090 {} 1116 "" "" 0
 }
-#VER C 302 20220616 "Betalning LFakt" 20220722
+#VER E 57 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 1395 "" "" 0
 #TRANS 1930 {} -1395 "" "" 0
 }
-#VER D 303 20220616 "Leverantîrsfaktura PARKTRADE EUROPE AB / EP" 20220722
+#VER D 71 20220616 "Leverantîrsfaktura PARKTRADE EUROPE AB / EP" 20220721
 {
 #TRANS 2440 {} -532 "" "" 0
 #TRANS 2641 {} 106.40 "" "" 0
 #TRANS 6090 {} 425.60 "" "" 0
 }
-#VER C 304 20220616 "Betalning LFakt" 20220722
+#VER E 58 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 532 "" "" 0
 #TRANS 1930 {} -532 "" "" 0
 }
-#VER D 305 20220616 "Leverantîrsfaktura SEB KORT BANK  AB" 20220722
+#VER D 72 20220616 "Leverantîrsfaktura SEB KORT BANK  AB" 20220721
 {
 #TRANS 2440 {} -7960 "" "" 0
 #TRANS 2641 {} 1592 "" "" 0
 #TRANS 6090 {} 6368 "" "" 0
 }
-#VER C 306 20220616 "Betalning LFakt" 20220722
+#VER E 59 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 7960 "" "" 0
 #TRANS 1930 {} -7960 "" "" 0
 }
-#VER D 307 20220616 "Leverantîrsfaktura SEB KORT BANK  AB" 20220722
+#VER D 73 20220616 "Leverantîrsfaktura SEB KORT BANK  AB" 20220721
 {
 #TRANS 2440 {} -19866 "" "" 0
 #TRANS 2641 {} 3973.20 "" "" 0
 #TRANS 6090 {} 15892.80 "" "" 0
 }
-#VER C 308 20220616 "Betalning LFakt" 20220722
+#VER E 60 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 19866 "" "" 0
 #TRANS 1930 {} -19866 "" "" 0
 }
-#VER D 309 20220616 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220722
+#VER D 74 20220616 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220721
 {
 #TRANS 2440 {} -8697 "" "" 0
 #TRANS 2641 {} 1739.40 "" "" 0
 #TRANS 6090 {} 6957.60 "" "" 0
 }
-#VER C 310 20220616 "Betalning LFakt" 20220722
+#VER E 61 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 8697 "" "" 0
 #TRANS 1930 {} -8697 "" "" 0
 }
-#VER A 311 20220616 "Fordonsskatt BHK73G" 20220722
+#VER A 274 20220616 "Fordonsskatt BHK73G" 20220721
 {
 #TRANS 2440 {} -3386 "" "" 0
 #TRANS 5612 {} 3386 "" "" 0
 }
-#VER D 312 20220616 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220722
+#VER D 75 20220616 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220721
 {
 #TRANS 2440 {} -599 "" "" 0
 #TRANS 2641 {} 119.80 "" "" 0
 #TRANS 6090 {} 479.20 "" "" 0
 }
-#VER C 313 20220616 "Betalning LFakt" 20220722
+#VER E 62 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 599 "" "" 0
 #TRANS 1930 {} -599 "" "" 0
 }
-#VER D 314 20220616 "Leverantîrsfaktura 000000162560" 20220722
+#VER D 76 20220616 "Leverantîrsfaktura 000000162560" 20220721
 {
 #TRANS 2440 {} 8312 "" "" 0
 #TRANS 2641 {} -1662.40 "" "" 0
 #TRANS 6090 {} -6649.60 "" "" 0
 }
-#VER C 315 20220616 "Betalning LFakt" 20220722
+#VER E 63 20220616 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} -8312 "" "" 0
 #TRANS 1930 {} 8312 "" "" 0
 }
-#VER C 316 20220617 "Betalning KFakt" 20220722
+#VER C 18 20220617 "Betalning KFakt" 20220721
 {
 #TRANS 1930 {} 178125 "" "" 0
 #TRANS 1510 {} -178125 "" "" 0
 }
-#VER A 317 20220617 "Arbetsgivaravgift mars 2022" 20220722
+#VER A 275 20220617 "Arbetsgivaravgift mars 2022" 20220721
 {
 #TRANS 7510 {} 6069 "" "" 0
 #TRANS 1645 {} -6069 "" "" 0
 }
-#VER A 318 20220617 "Arbetsgivaravgift april 2022" 20220722
+#VER A 276 20220617 "Arbetsgivaravgift april 2022" 20220721
 {
 #TRANS 7510 {} 6069 "" "" 0
 #TRANS 1645 {} -6069 "" "" 0
 }
-#VER A 319 20220617 "Arbetsgivaravgift maj 2022" 20220722
+#VER A 277 20220617 "Arbetsgivaravgift maj 2022" 20220721
 {
 #TRANS 7510 {} 6069 "" "" 0
 #TRANS 1645 {} -6069 "" "" 0
 }
-#VER A 320 20220617 "Avdragen skatt mars 2022" 20220722
+#VER A 278 20220617 "Avdragen skatt mars 2022" 20220721
 {
 #TRANS 2218 {} 3772 "" "" 0
 #TRANS 1645 {} -3772 "" "" 0
 }
-#VER A 321 20220617 "Avdragen skatt april 2022" 20220722
+#VER A 279 20220617 "Avdragen skatt april 2022" 20220721
 {
 #TRANS 2218 {} 3772 "" "" 0
 #TRANS 1645 {} -3772 "" "" 0
 }
-#VER A 322 20220617 "Avdragen skatt maj 2022" 20220722
+#VER A 280 20220617 "Avdragen skatt maj 2022" 20220721
 {
 #TRANS 2218 {} 3772 "" "" 0
 #TRANS 1645 {} -3772 "" "" 0
 }
-#VER A 323 20220617 "Moms jan 2022 - mars 2022" 20220722
+#VER A 281 20220617 "Moms jan 2022 - mars 2022" 20220721
 {
 #TRANS 2650 {} 69888 "" "" 0
 #TRANS 1645 {} -69888 "" "" 0
 }
-#VER A 324 20220617 "Inkîp kort HP INSTANT INK" 20220722
+#VER A 282 20220617 "Inkîp kort HP INSTANT INK" 20220721
 {
 #TRANS 2892 {} -69 "" "" 0
 #TRANS 4531 {} 69 "" "" 0
 #TRANS 2614 {} -17.25 "" "" 0
 #TRANS 2645 {} 17.25 "" "" 0
 }
-#VER A 325 20220619 "Inkîp kort DROPBOX" 20220722
+#VER A 283 20220619 "Inkîp kort DROPBOX" 20220721
 {
 #TRANS 2892 {} -1314.50 "" "" 0
 #TRANS 4531 {} 1314.50 "" "" 0
 #TRANS 2614 {} -328.63 "" "" 0
 #TRANS 2645 {} 328.63 "" "" 0
 }
-#VER C 326 20220620 "Betalning KFakt" 20220722
+#VER C 19 20220620 "Betalning KFakt" 20220721
 {
 #TRANS 1930 {} 20109 "" "" 0
 #TRANS 1510 {} -20109 "" "" 0
 }
-#VER A 327 20220620 "Inkîp kort SLACK" 20220722
+#VER A 284 20220620 "Inkîp kort SLACK" 20220721
 {
 #TRANS 2892 {} -82.24 "" "" 0
 #TRANS 4531 {} 82.24 "" "" 0
 #TRANS 2614 {} -20.56 "" "" 0
 #TRANS 2645 {} 20.56 "" "" 0
 }
-#VER A 328 20220620 "Inkîp kort NPM" 20220722
+#VER A 285 20220620 "Inkîp kort NPM" 20220721
 {
 #TRANS 2892 {} -220.52 "" "" 0
 #TRANS 4531 {} 220.52 "" "" 0
 #TRANS 2614 {} -55.13 "" "" 0
 #TRANS 2645 {} 55.13 "" "" 0
 }
-#VER A 329 20220621 "Inbetalning skattekonto" 20220722
+#VER A 286 20220621 "Inbetalning skattekonto" 20220721
 {
 #TRANS 1645 {} NaN "" "" 0
 #TRANS 1930 {} NaN "" "" 0
 }
-#VER A 330 20220621 "Inkîp kort GITHUB" 20220722
+#VER A 287 20220621 "Inkîp kort GITHUB" 20220721
 {
 #TRANS 2892 {} -2513.06 "" "" 0
 #TRANS 4531 {} 2513.06 "" "" 0
 #TRANS 2614 {} -628.26 "" "" 0
 #TRANS 2645 {} 628.26 "" "" 0
 }
-#VER A 331 20220621 "Inkîp kort MJUKBILTVéTT" 20220722
+#VER A 288 20220621 "Inkîp kort MJUKBILTVéTT" 20220721
 {
 #TRANS 2892 {} -299 "" "" 0
 #TRANS 4531 {} 299 "" "" 0
 #TRANS 2614 {} -74.75 "" "" 0
 #TRANS 2645 {} 74.75 "" "" 0
 }
-#VER C 332 20220623 "Betalning KFakt" 20220722
+#VER C 20 20220623 "Betalning KFakt" 20220721
 {
 #TRANS 1930 {} 39000 "" "" 0
 #TRANS 1510 {} -39000 "" "" 0
 }
-#VER A 333 20220625 "Lîn Anders" 20220722
+#VER A 289 20220625 "Lîn Anders" 20220721
 {
 #TRANS 7220 {} 7130 "" "" 0
 #TRANS 2710 {} -2130 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -5000 "" "" 0
 }
-#VER A 334 20220627 "Inkîp kort CIRCLECI" 20220722
+#VER A 290 20220627 "Inkîp kort CIRCLECI" 20220721
 {
 #TRANS 2892 {} -157.02 "" "" 0
 #TRANS 4531 {} 157.02 "" "" 0
 #TRANS 2614 {} -39.26 "" "" 0
 #TRANS 2645 {} 39.26 "" "" 0
 }
-#VER A 335 20220627 "Inkîp kort LISEBERG REST" 20220722
+#VER A 291 20220627 "Inkîp kort LISEBERG REST" 20220721
 {
 #TRANS 2892 {} -500 "" "" 0
 #TRANS 4531 {} 500 "" "" 0
 #TRANS 2614 {} -125 "" "" 0
 #TRANS 2645 {} 125 "" "" 0
 }
-#VER D 336 20220629 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220722
+#VER D 77 20220629 "Leverantîrsfaktura TELE2 SVERIGE AB" 20220721
 {
 #TRANS 2440 {} -573 "" "" 0
 #TRANS 2641 {} 114.60 "" "" 0
 #TRANS 6090 {} 458.40 "" "" 0
 }
-#VER C 337 20220629 "Betalning LFakt" 20220722
+#VER E 64 20220629 "Betalning LFakt" 20220721
 {
 #TRANS 2440 {} 573 "" "" 0
 #TRANS 1930 {} -573 "" "" 0
 }
-#VER A 338 20220630 "Inkîp kort GOOGLE PLAY" 20220722
+#VER A 292 20220630 "Inkîp kort GOOGLE PLAY" 20220721
 {
 #TRANS 2892 {} -199 "" "" 0
 #TRANS 4531 {} 199 "" "" 0
 #TRANS 2614 {} -49.75 "" "" 0
 #TRANS 2645 {} 49.75 "" "" 0
 }
-#VER D 339 20220701 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220828
+#VER D 78 20220701 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220823
 {
 #TRANS 2440 {} -8363 "" "" 0
 #TRANS 2641 {} 1672.60 "" "" 0
 #TRANS 6090 {} 6690.40 "" "" 0
 }
-#VER C 340 20220701 "Betalning LFakt" 20220828
+#VER E 65 20220701 "Betalning LFakt" 20220823
 {
 #TRANS 2440 {} 8363 "" "" 0
 #TRANS 1930 {} -8363 "" "" 0
 }
-#VER A 341 20220701 "Bankavgift" 20220828
+#VER A 293 20220701 "Bankavgift" 20220823
 {
 #TRANS 6570 {} 120 "" "" 0
 #TRANS 1930 {} -120 "" "" 0
 }
-#VER A 342 20220701 "Lokalhyra" 20220828
+#VER A 294 20220701 "Lokalhyra {$description}" 20220823
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 343 20220701 "Inkîp kort AKAMAI TECH" 20220828
+#VER A 295 20220701 "Inkîp kort AKAMAI TECH" 20220823
 {
 #TRANS 2892 {} -583.24 "" "" 0
 #TRANS 4531 {} 583.24 "" "" 0
 #TRANS 2614 {} -145.81 "" "" 0
 #TRANS 2645 {} 145.81 "" "" 0
 }
-#VER A 344 20220701 "Inkîp kort GOOGLE CLOUD" 20220828
+#VER A 296 20220701 "Inkîp kort GOOGLE CLOUD" 20220823
 {
 #TRANS 2892 {} -2349.01 "" "" 0
 #TRANS 4531 {} 2349.01 "" "" 0
 #TRANS 2614 {} -587.25 "" "" 0
 #TRANS 2645 {} 587.25 "" "" 0
 }
-#VER A 345 20220701 "Inkîp kort DIGITALOCEAN" 20220828
+#VER A 297 20220701 "Inkîp kort DIGITALOCEAN" 20220823
 {
 #TRANS 2892 {} -853.65 "" "" 0
 #TRANS 4531 {} 853.65 "" "" 0
 #TRANS 2614 {} -213.41 "" "" 0
 #TRANS 2645 {} 213.41 "" "" 0
 }
-#VER A 346 20220702 "RÑnta skattekonto" 20220828
+#VER A 298 20220702 "RÑnta skattekonto" 20220823
 {
 #TRANS 1645 {} 1050 "" "" 0
 #TRANS 8423 {} -1050 "" "" 0
 }
-#VER A 347 20220702 "Inkîp kort REACT ADMIN" 20220828
+#VER A 299 20220702 "Inkîp kort REACT ADMIN" 20220823
 {
 #TRANS 2892 {} -1519.50 "" "" 0
 #TRANS 4531 {} 1519.50 "" "" 0
 #TRANS 2614 {} -379.88 "" "" 0
 #TRANS 2645 {} 379.88 "" "" 0
 }
-#VER D 348 20220704 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220828
+#VER D 79 20220704 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220823
 {
 #TRANS 2440 {} -1530 "" "" 0
 #TRANS 2641 {} 306 "" "" 0
 #TRANS 6090 {} 1224 "" "" 0
 }
-#VER C 349 20220704 "Betalning LFakt" 20220828
+#VER E 66 20220704 "Betalning LFakt" 20220823
 {
 #TRANS 2440 {} 1530 "" "" 0
 #TRANS 1930 {} -1530 "" "" 0
 }
-#VER D 350 20220704 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220828
+#VER D 80 20220704 "Leverantîrsfaktura DE LAGE LANDEN FINANS AB" 20220823
 {
 #TRANS 2440 {} -2379 "" "" 0
 #TRANS 2641 {} 475.80 "" "" 0
 #TRANS 6090 {} 1903.20 "" "" 0
 }
-#VER C 351 20220704 "Betalning LFakt" 20220828
+#VER E 67 20220704 "Betalning LFakt" 20220823
 {
 #TRANS 2440 {} 2379 "" "" 0
 #TRANS 1930 {} -2379 "" "" 0
 }
-#VER A 352 20220705 "ôverfîring till Anders" 20220828
+#VER A 300 20220705 "ôverfîring till Anders" 20220823
 {
 #TRANS 2691 {} 15000 "" "" 0
 #TRANS 1930 {} -15000 "" "" 0
 }
-#VER A 353 20220705 "Inkîp kort FREEPIK" 20220828
+#VER A 301 20220705 "Inkîp kort FREEPIK" 20220823
 {
 #TRANS 2892 {} -137.82 "" "" 0
 #TRANS 4531 {} 137.82 "" "" 0
 #TRANS 2614 {} -34.45 "" "" 0
 #TRANS 2645 {} 34.45 "" "" 0
 }
-#VER A 354 20220707 "Inkîp kort AGOY IT" 20220828
+#VER A 302 20220707 "Inkîp kort AGOY IT" 20220823
 {
 #TRANS 2892 {} -373.75 "" "" 0
 #TRANS 4531 {} 373.75 "" "" 0
 #TRANS 2614 {} -93.44 "" "" 0
 #TRANS 2645 {} 93.44 "" "" 0
 }
-#VER A 355 20220710 "Inkîp kort NETLIFY" 20220828
+#VER A 303 20220710 "Inkîp kort NETLIFY" 20220823
 {
 #TRANS 2892 {} -163.33 "" "" 0
 #TRANS 4531 {} 163.33 "" "" 0
 #TRANS 2614 {} -40.83 "" "" 0
 #TRANS 2645 {} 40.83 "" "" 0
 }
-#VER C 356 20220711 "Betalning KFakt" 20220828
+#VER C 21 20220711 "Betalning KFakt" 20220823
 {
 #TRANS 1930 {} 83200 "" "" 0
 #TRANS 1510 {} -83200 "" "" 0
 }
-#VER C 357 20220712 "F-skatt" 20220828
+#VER C 22 20220712 "F-skatt" 20220823
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 358 20220712 "Fîrseningsavgift" 20220828
+#VER A 304 20220712 "Fîrseningsavgift" 20220823
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 359 20220714 "Inkîp kort MSFT" 20220828
+#VER A 305 20220714 "Inkîp kort MSFT" 20220823
 {
 #TRANS 2892 {} -109.20 "" "" 0
 #TRANS 4531 {} 109.20 "" "" 0
 #TRANS 2614 {} -27.30 "" "" 0
 #TRANS 2645 {} 27.30 "" "" 0
 }
-#VER A 360 20220714 "Inkîp kort DATADOG" 20220828
+#VER A 306 20220714 "Inkîp kort DATADOG" 20220823
 {
 #TRANS 2892 {} -88.76 "" "" 0
 #TRANS 4531 {} 88.76 "" "" 0
 #TRANS 2614 {} -22.19 "" "" 0
 #TRANS 2645 {} 22.19 "" "" 0
 }
-#VER A 361 20220716 "Inkîp kort HP INSTANT INK" 20220828
+#VER A 307 20220716 "Inkîp kort HP INSTANT INK" 20220823
 {
 #TRANS 2892 {} -69 "" "" 0
 #TRANS 4531 {} 69 "" "" 0
 #TRANS 2614 {} -17.25 "" "" 0
 #TRANS 2645 {} 17.25 "" "" 0
 }
-#VER A 362 20220720 "Inkîp kort SLACK" 20220828
+#VER A 308 20220720 "Inkîp kort SLACK" 20220823
 {
 #TRANS 2892 {} -80.96 "" "" 0
 #TRANS 4531 {} 80.96 "" "" 0
 #TRANS 2614 {} -20.24 "" "" 0
 #TRANS 2645 {} 20.24 "" "" 0
 }
-#VER A 363 20220720 "Inkîp kort NPM" 20220828
+#VER A 309 20220720 "Inkîp kort NPM" 20220823
 {
 #TRANS 2892 {} -223.89 "" "" 0
 #TRANS 4531 {} 223.89 "" "" 0
 #TRANS 2614 {} -55.97 "" "" 0
 #TRANS 2645 {} 55.97 "" "" 0
 }
-#VER A 364 20220725 "Lîn Anders" 20220828
+#VER A 310 20220725 "Lîn Anders" 20220823
 {
 #TRANS 7220 {} 57130 "" "" 0
 #TRANS 2710 {} -17130 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -40000 "" "" 0
 }
-#VER A 365 20220726 "Fîrseningsavgift" 20220828
+#VER A 311 20220726 "Fîrseningsavgift" 20220823
 {
 #TRANS 1645 {} 625 "" "" 0
 #TRANS 8423 {} -625 "" "" 0
 }
-#VER A 366 20220727 "Inkîp kort TYPORA" 20220828
+#VER A 312 20220727 "Inkîp kort TYPORA" 20220823
 {
 #TRANS 2892 {} -199.11 "" "" 0
 #TRANS 4531 {} 199.11 "" "" 0
 #TRANS 2614 {} -49.78 "" "" 0
 #TRANS 2645 {} 49.78 "" "" 0
 }
-#VER A 367 20220727 "Inkîp kort CIRCLECI" 20220828
+#VER A 313 20220727 "Inkîp kort CIRCLECI" 20220823
 {
 #TRANS 2892 {} -158.88 "" "" 0
 #TRANS 4531 {} 158.88 "" "" 0
 #TRANS 2614 {} -39.72 "" "" 0
 #TRANS 2645 {} 39.72 "" "" 0
 }
-#VER A 368 20220728 "Inkîp kort NPM" 20220828
+#VER A 314 20220728 "Inkîp kort NPM" 20220823
 {
 #TRANS 2892 {} -74.29 "" "" 0
 #TRANS 4531 {} 74.29 "" "" 0
 #TRANS 2614 {} -18.57 "" "" 0
 #TRANS 2645 {} 18.57 "" "" 0
 }
-#VER A 369 20220728 "Inkîp kort MJUKBILTVéTT" 20220828
+#VER A 315 20220728 "Inkîp kort MJUKBILTVéTT" 20220823
 {
 #TRANS 2892 {} -399 "" "" 0
 #TRANS 4531 {} 399 "" "" 0
 #TRANS 2614 {} -99.75 "" "" 0
 #TRANS 2645 {} 99.75 "" "" 0
 }
-#VER A 370 20220729 "ôverfîring till Anders" 20220828
+#VER A 316 20220729 "ôverfîring till Anders" 20220823
 {
 #TRANS 2691 {} 25000 "" "" 0
 #TRANS 1930 {} -25000 "" "" 0
 }
-#VER A 371 20220731 "Inkîp MIKADO" 20220828
+#VER A 317 20220731 "Inkîp MIKADO" 20220823
 {
 #TRANS 2691 {} 800 "" "" 0
 #TRANS 2641 {} -160 "" "" 0
 #TRANS 5410 {} -640 "" "" 0
 }
-#VER A 372 20220801 "Bankavgift" 20220910
+#VER A 318 20220801 "Bankavgift" 20220910
 {
 #TRANS 6570 {} 120 "" "" 0
 #TRANS 1930 {} -120 "" "" 0
 }
-#VER A 373 20220801 "Lokalhyra" 20220910
+#VER A 319 20220801 "Lokalhyra {$description}" 20220910
 {
-#TRANS 5010 {} -6650 "" "" 0
-#TRANS 6230 {} -350 "" "" 0
-#TRANS 2691 {} 7000 "" "" 0
+#TRANS 5010 {} 6650 "" "" 0
+#TRANS 6230 {} 350 "" "" 0
+#TRANS 2691 {} -7000 "" "" 0
 }
-#VER A 374 20220801 "Inkîp kort LINODE" 20220910
+#VER A 320 20220801 "Inkîp kort LINODE" 20220910
 {
 #TRANS 2892 {} -579.08 "" "" 0
 #TRANS 4531 {} 579.08 "" "" 0
 #TRANS 2614 {} -144.77 "" "" 0
 #TRANS 2645 {} 144.77 "" "" 0
 }
-#VER A 375 20220801 "Inkîp kort GOOGLE CLOUD" 20220910
+#VER A 321 20220801 "Inkîp kort GOOGLE CLOUD" 20220910
 {
 #TRANS 2892 {} -2603.21 "" "" 0
 #TRANS 4531 {} 2603.21 "" "" 0
 #TRANS 2614 {} -650.80 "" "" 0
 #TRANS 2645 {} 650.80 "" "" 0
 }
-#VER A 376 20220801 "Inkîp kort DIGITALOCEAN" 20220910
+#VER A 322 20220801 "Inkîp kort DIGITALOCEAN" 20220910
 {
 #TRANS 2892 {} -905.48 "" "" 0
 #TRANS 4531 {} 905.48 "" "" 0
 #TRANS 2614 {} -226.37 "" "" 0
 #TRANS 2645 {} 226.37 "" "" 0
 }
-#VER A 377 20220802 "Inbetalning skattekonto" 20220910
+#VER A 323 20220802 "Inbetalning skattekonto" 20220910
 {
 #TRANS 1645 {} NaN "" "" 0
 #TRANS 1930 {} NaN "" "" 0
 }
-#VER A 378 20220803 "Inkîp kort REACT ADMIN" 20220910
+#VER A 324 20220803 "Inkîp kort REACT ADMIN" 20220910
 {
 #TRANS 2892 {} -1460.55 "" "" 0
 #TRANS 4531 {} 1460.55 "" "" 0
 #TRANS 2614 {} -365.14 "" "" 0
 #TRANS 2645 {} 365.14 "" "" 0
 }
-#VER A 379 20220805 "Inkîp kort FREEPIK" 20220910
+#VER A 325 20220805 "Inkîp kort FREEPIK" 20220910
 {
 #TRANS 2892 {} -132.66 "" "" 0
 #TRANS 4531 {} 132.66 "" "" 0
 #TRANS 2614 {} -33.16 "" "" 0
 #TRANS 2645 {} 33.16 "" "" 0
 }
-#VER A 380 20220805 "Kundfaktura 2022-017" 20220910
+#VER A 326 20220805 "Kundfaktura 2022-017" 20220910
 {
 #TRANS 1510 {} 61262.50 "" "" 0
 #TRANS 3001 {} -49010 "" "" 0
 #TRANS 2611 {} -12252.50 "" "" 0
 }
-#VER A 381 20220806 "RÑnta skattekonto" 20220910
+#VER A 327 20220806 "RÑnta skattekonto" 20220910
 {
 #TRANS 1645 {} -515 "" "" 0
 #TRANS 8423 {} 515 "" "" 0
 }
-#VER A 382 20220806 "RÑnta skattekonto" 20220910
+#VER A 328 20220806 "RÑnta skattekonto" 20220910
 {
 #TRANS 1645 {} 1685 "" "" 0
 #TRANS 8423 {} -1685 "" "" 0
 }
-#VER A 383 20220807 "Inkîp kort AGOY IT" 20220910
+#VER A 329 20220807 "Inkîp kort AGOY IT" 20220910
 {
 #TRANS 2892 {} -373.75 "" "" 0
 #TRANS 4531 {} 373.75 "" "" 0
 #TRANS 2614 {} -93.44 "" "" 0
 #TRANS 2645 {} 93.44 "" "" 0
 }
-#VER A 384 20220809 "èterredovisad nedsÑttning frÜn KFM" 20220910
+#VER A 330 20220809 "èterredovisad nedsÑttning frÜn KFM" 20220910
 {
 #TRANS 7510 {} -2798 "" "" 0
 #TRANS 1645 {} 2798 "" "" 0
 }
-#VER A 385 20220809 "èterredovisad nedsÑttning frÜn KFM" 20220910
+#VER A 331 20220809 "èterredovisad nedsÑttning frÜn KFM" 20220910
 {
 #TRANS 7510 {} -2611 "" "" 0
 #TRANS 1645 {} 2611 "" "" 0
 }
-#VER C 386 20220810 "Betalning KFakt" 20220910
+#VER C 23 20220810 "Betalning KFakt" 20220910
 {
 #TRANS 1930 {} 76578 "" "" 0
 #TRANS 1510 {} -76578 "" "" 0
 }
-#VER A 387 20220810 "Inkîp TELE2" 20220910
+#VER A 332 20220810 "Inkîp TELE2" 20220910
 {
 #TRANS 2691 {} 641 "" "" 0
 #TRANS 2641 {} -128.20 "" "" 0
 #TRANS 5410 {} -512.80 "" "" 0
 }
-#VER A 388 20220810 "Inkîp kort DATADOG" 20220910
+#VER A 333 20220810 "Inkîp kort DATADOG" 20220910
 {
 #TRANS 2892 {} -240.30 "" "" 0
 #TRANS 4531 {} 240.30 "" "" 0
 #TRANS 2614 {} -60.08 "" "" 0
 #TRANS 2645 {} 60.08 "" "" 0
 }
-#VER A 389 20220811 "ôverfîring till Anders" 20220910
+#VER A 334 20220811 "ôverfîring till Anders" 20220910
 {
 #TRANS 2691 {} 45000 "" "" 0
 #TRANS 1930 {} -45000 "" "" 0
 }
-#VER A 390 20220814 "Inkîp TELE2" 20220910
+#VER A 335 20220814 "Inkîp TELE2" 20220910
 {
 #TRANS 2691 {} 250 "" "" 0
 #TRANS 2641 {} -50 "" "" 0
 #TRANS 5410 {} -200 "" "" 0
 }
-#VER A 391 20220817 "Inkîp SVEA INKASSO" 20220910
+#VER A 336 20220817 "Inkîp SVEA INKASSO" 20220910
 {
 #TRANS 2691 {} 15749 "" "" 0
 #TRANS 2641 {} -3149.80 "" "" 0
 #TRANS 5410 {} -12599.20 "" "" 0
 }
-#VER A 392 20220817 "Inkîp TELE2" 20220910
+#VER A 337 20220817 "Inkîp TELE2" 20220910
 {
 #TRANS 2691 {} 295 "" "" 0
 #TRANS 2641 {} -59 "" "" 0
 #TRANS 5410 {} -236 "" "" 0
 }
-#VER C 393 20220817 "F-skatt" 20220910
+#VER C 24 20220817 "F-skatt" 20220910
 {
 #TRANS 2518 {} 3489 "" "" 0
 #TRANS 1645 {} -3489 "" "" 0
 }
-#VER A 394 20220819 "ôverfîring till Anders" 20220910
+#VER A 338 20220819 "ôverfîring till Anders" 20220910
 {
 #TRANS 2691 {} 10000 "" "" 0
 #TRANS 1930 {} -10000 "" "" 0
 }
-#VER A 395 20220822 "Inkîp SJOBAREN HAGA" 20220910
+#VER A 339 20220822 "Inkîp SJOBAREN HAGA" 20220910
 {
 #TRANS 2691 {} 1900 "" "" 0
 #TRANS 2641 {} -380 "" "" 0
 #TRANS 5410 {} -1520 "" "" 0
 }
-#VER A 396 20220823 "Inkîp MIKADO" 20220910
+#VER A 340 20220823 "Inkîp MIKADO" 20220910
 {
 #TRANS 2691 {} 500 "" "" 0
 #TRANS 2641 {} -100 "" "" 0
 #TRANS 5410 {} -400 "" "" 0
 }
-#VER D 397 20220824 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220910
+#VER D 81 20220824 "Leverantîrsfaktura VOLKSWAGEN FINANS SVERIG" 20220910
 {
 #TRANS 2440 {} -8503 "" "" 0
 #TRANS 2641 {} 1700.60 "" "" 0
 #TRANS 6090 {} 6802.40 "" "" 0
 }
-#VER C 398 20220824 "Betalning LFakt" 20220910
+#VER E 68 20220824 "Betalning LFakt" 20220910
 {
 #TRANS 2440 {} 8503 "" "" 0
 #TRANS 1930 {} -8503 "" "" 0
 }
-#VER A 399 20220825 "Lîn Anders" 20220910
+#VER A 341 20220825 "Lîn Anders" 20220910
 {
 #TRANS 7220 {} 57130 "" "" 0
 #TRANS 2710 {} -17130 "" "" 0
 #TRANS 2691 {} 0 "" "" 0
 #TRANS 1930 {} -40000 "" "" 0
 }
-#VER A 400 20220828 "Inkîp SJOBAREN" 20220910
+#VER A 342 20220828 "Inkîp SJOBAREN" 20220910
 {
 #TRANS 2691 {} 750 "" "" 0
 #TRANS 2641 {} -150 "" "" 0
 #TRANS 5410 {} -600 "" "" 0
 }
-#VER A 401 20220831 "Bankavgift" 20220910
+#VER A 343 20220831 "Bankavgift" 20220910
 {
 #TRANS 6570 {} 120 "" "" 0
 #TRANS 1930 {} -120 "" "" 0
 }
-#VER A 402 20220831 "Upplupna intÑkter PTA" 20220910
+#VER A 344 20220831 "Upplupna intÑkter PTA" 20220910
 {
 #TRANS 1790 {} 550000 "" "" 0
 #TRANS 3499 {} -550000 "" "" 0

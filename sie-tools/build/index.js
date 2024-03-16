@@ -13,7 +13,7 @@ const main = async () => {
     const plainTextVerifications = await (0, Accounting_1.createVerificationsWithPlainTextAccountNames)('../DiginetAktiebolag BF 2022.se');
     await promises_1.default.writeFile('test.json', JSON.stringify(plainTextVerifications, undefined, 2));
     const transactions = await (0, Accounting_1.loadTransactionsFromFiles)();
-    (0, Accounting_1.writeSie)('./output', transactions);
+    (0, Accounting_1.writeSie)('./output', transactions, 70, 1, 1, 33, 20, 1);
 };
 main();
 //# sourceMappingURL=index.js.map
